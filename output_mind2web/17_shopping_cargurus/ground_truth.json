@@ -1,0 +1,21 @@
+{
+  "task": "mind2web-element-identification",
+  "source": "Shopping/cargurus",
+  "domain": "Shopping",
+  "website": "cargurus",
+  "confirmed_task": "Check the lowest price for a white 2017 certified pre owned Lexus Rx350 near 90012.",
+  "target_role": "LabelText",
+  "target_operation": "CLICK",
+  "questions": [
+    {
+      "id": "element",
+      "question": "You are a web agent. Task: \"Check the lowest price for a white 2017 certified pre owned Lexus Rx350 near 90012.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Certified Pre-Owned"
+    },
+    {
+      "id": "actiontype",
+      "question": "You are a web agent. Task: \"Check the lowest price for a white 2017 certified pre owned Lexus Rx350 near 90012.\". You have identified the target element: \"Certified Pre-Owned\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK"
+    }
+  ]
+}

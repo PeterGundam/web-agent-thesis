@@ -1,0 +1,63 @@
+- text: Learn More
+- paragraph: Learn More
+- text: New Model 3 and Model Y vehicles qualify for a federal tax credit for eligible buyers. Learn More
+- banner:
+  - heading "Tesla homepage Skip to main content" [level=1]
+  - list:
+    - listitem: Model S
+    - listitem: Model 3
+    - listitem: Model X
+    - listitem: Model Y
+    - listitem: Solar Roof
+    - listitem: Solar Panels
+    - listitem: Powerwall
+  - list:
+    - listitem: Shop
+    - listitem: Account
+    - listitem:
+      - button "Menu"
+- main:
+  - heading "Model 3" [level=1]
+  - paragraph: Leasing starting at $349/mo
+  - text: Custom Order Demo Drive Custom Order Demo Drive
+  - button "Next"
+  - img "Red Model 3 parked on weathered concrete in front of a cityscape"
+  - text: Custom Order Demo Drive Custom Order Demo Drive
+  - img "Metallic blue Model Y driving down a hillside highway"
+  - text: Custom Order Demo Drive Custom Order Demo Drive
+  - img "Solid black Model S accelerating on an elevated highway"
+  - paragraph: Schedule a Demo Drive
+  - paragraph: Schedule a Demo Drive
+  - text: Custom Order View Inventory Custom Order View Inventory
+  - img "Pearl white Model X navigating a mountainous road"
+  - paragraph: Schedule a Demo Drive
+  - paragraph: Schedule a Demo Drive
+  - text: Custom Order View Inventory Custom Order View Inventory
+  - img "Ranch style home powered by Tesla solar panels and Powerwall"
+  - text: Order Now Learn More Order Now Learn More
+  - img "Home outfitted with Tesla Solar Roof"
+  - text: Order Now Learn More Order Now Learn More
+  - img "Gen 3 Wall Connector with tempered white glass faceplate"
+  - text: Shop Now Shop Now
+  - article:
+    - navigation:
+      - list:
+        - listitem: Tesla 2023
+        - listitem: Privacy & Legal
+        - listitem: Vehicle Recalls
+        - listitem: Contact
+        - listitem: Careers
+        - listitem: News
+        - listitem: Engage
+        - listitem: Locations
+- contentinfo:
+  - navigation:
+    - list:
+      - listitem: Tesla 2023
+      - listitem: Privacy & Legal
+      - listitem: Vehicle Recalls
+      - listitem: Contact
+      - listitem: Careers
+      - listitem: News
+      - listitem: Engage
+      - listitem: Locations

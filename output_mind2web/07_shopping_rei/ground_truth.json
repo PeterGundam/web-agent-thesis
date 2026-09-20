@@ -1,0 +1,21 @@
+{
+  "task": "mind2web-element-identification",
+  "source": "Shopping/rei",
+  "domain": "Shopping",
+  "website": "rei",
+  "confirmed_task": "Browse the women's hiking boots section and filter the results to show only those that are waterproof and have a rating of at least 4 stars and size 6.",
+  "target_role": "button",
+  "target_operation": "HOVER",
+  "questions": [
+    {
+      "id": "element",
+      "question": "You are a web agent. Task: \"Browse the women's hiking boots section and filter the results to show only those that are waterproof and have a rating of at least 4 stars and size 6.\". Which element should be used to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Camp & Hike"
+    },
+    {
+      "id": "actiontype",
+      "question": "You are a web agent. Task: \"Browse the women's hiking boots section and filter the results to show only those that are waterproof and have a rating of at least 4 stars and size 6.\". You have identified the target element: \"Camp & Hike\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "HOVER"
+    }
+  ]
+}

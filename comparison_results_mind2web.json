@@ -1,0 +1,675 @@
+{
+  "results": [
+    {
+      "dir": "output_mind2web/01_shopping_underarmour",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Shop for UA outlet clothing and find a outdoor sports jacket in size ymd.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Outlet",
+      "html": {
+        "answer": "Outlet",
+        "correct": true,
+        "tokens": 147190
+      },
+      "aria": {
+        "answer": "Outlet",
+        "correct": true,
+        "tokens": 8888
+      }
+    },
+    {
+      "dir": "output_mind2web/01_shopping_underarmour",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Shop for UA outlet clothing and find a outdoor sports jacket in size ymd.\". You have identified the target element: \"Outlet\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK",
+      "html": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 147199
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 8897
+      }
+    },
+    {
+      "dir": "output_mind2web/02_shopping_tesla",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Find a red used tesla Model S.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Model S",
+      "html": {
+        "answer": "Model S",
+        "correct": true,
+        "tokens": 15123
+      },
+      "aria": {
+        "answer": "View Inventory",
+        "correct": false,
+        "tokens": 691
+      }
+    },
+    {
+      "dir": "output_mind2web/02_shopping_tesla",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Find a red used tesla Model S.\". You have identified the target element: \"Model S\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK",
+      "html": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 15132
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 700
+      }
+    },
+    {
+      "dir": "output_mind2web/03_shopping_rei",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Trade in a Nemo Front Porch 2P Tent via mail with my membership info Joe Bloggs, phone number 123456789\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Trade In",
+      "html": {
+        "error": "API-Fehler 400: {\"error\":{\"message\":\"litellm.ContextWindowExceededError: litellm.BadRequestError: ContextWindowExceededError: Hosted_vllmException - {\\\"error\\\":{\\\"message\\\":\\\"This model's maximum context length is 262144 tokens. However, you requested 0 output tokens and your prompt contains at least 262145 input tokens, for a total of at least 262145 tokens. Please reduce the length of the input prompt or the number of requested output tokens. (parameter=input_tokens, value=262145)\\\",\\\"type\\\":\\\"BadRequestError\\\",\\\"param\\\":\\\"input_tokens\\\",\\\"code\\\":400}}\\nmodel=llm3. context_window_fallbacks=None. fallbacks=None.\\n\\nSet 'context_window_fallback' - https://docs.litellm.ai/docs/routing#fallbacks. Received Model Group=llm3\\nAvailable Model Group Fallbacks=None\",\"type\":null,\"param\":null,\"code\":\"400\"}}"
+      },
+      "aria": {
+        "answer": "Trade In",
+        "correct": true,
+        "tokens": 21634
+      }
+    },
+    {
+      "dir": "output_mind2web/03_shopping_rei",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Trade in a Nemo Front Porch 2P Tent via mail with my membership info Joe Bloggs, phone number 123456789\". You have identified the target element: \"Trade In\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK",
+      "html": {
+        "error": "API-Fehler 400: {\"error\":{\"message\":\"litellm.ContextWindowExceededError: litellm.BadRequestError: ContextWindowExceededError: Hosted_vllmException - {\\\"error\\\":{\\\"message\\\":\\\"This model's maximum context length is 262144 tokens. However, you requested 0 output tokens and your prompt contains at least 262145 input tokens, for a total of at least 262145 tokens. Please reduce the length of the input prompt or the number of requested output tokens. (parameter=input_tokens, value=262145)\\\",\\\"type\\\":\\\"BadRequestError\\\",\\\"param\\\":\\\"input_tokens\\\",\\\"code\\\":400}}\\nmodel=llm3. context_window_fallbacks=None. fallbacks=None.\\n\\nSet 'context_window_fallback' - https://docs.litellm.ai/docs/routing#fallbacks. Received Model Group=llm3\\nAvailable Model Group Fallbacks=None\",\"type\":null,\"param\":null,\"code\":\"400\"}}"
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 21643
+      }
+    },
+    {
+      "dir": "output_mind2web/04_shopping_ikea",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Open the design tool for a new home office.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Design",
+      "html": {
+        "answer": "Design",
+        "correct": true,
+        "tokens": 103584
+      },
+      "aria": {
+        "answer": "Step into the future with IKEA Kreativ",
+        "correct": false,
+        "tokens": 5240
+      }
+    },
+    {
+      "dir": "output_mind2web/04_shopping_ikea",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Open the design tool for a new home office.\". You have identified the target element: \"Design\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK",
+      "html": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 103593
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 5243
+      }
+    },
+    {
+      "dir": "output_mind2web/05_shopping_gamestop",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"find kinect camera for xbox one.\". Which element should be used to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Search games, consoles & more",
+      "html": {
+        "answer": "Search games, consoles & more",
+        "correct": true,
+        "tokens": 149506
+      },
+      "aria": {
+        "answer": "Search games, consoles & more",
+        "correct": true,
+        "tokens": 6805
+      }
+    },
+    {
+      "dir": "output_mind2web/05_shopping_gamestop",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"find kinect camera for xbox one.\". You have identified the target element: \"Search games, consoles & more\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "TYPE: kinect camera",
+      "html": {
+        "answer": "TYPE",
+        "correct": true,
+        "tokens": 149515
+      },
+      "aria": {
+        "answer": "TYPE",
+        "correct": true,
+        "tokens": 6814
+      }
+    },
+    {
+      "dir": "output_mind2web/06_shopping_menards",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Look for the cheapest led smart home indoor strip lighting, add it to the cart, and schedule the delivery.\". Which element should be used to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Departments",
+      "html": {
+        "answer": "Enter SKU, Model # or Keyword",
+        "correct": false,
+        "tokens": 95710
+      },
+      "aria": {
+        "answer": "textbox \"Enter SKU, Model # or Keyword\"",
+        "correct": false,
+        "tokens": 3925
+      }
+    },
+    {
+      "dir": "output_mind2web/06_shopping_menards",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Look for the cheapest led smart home indoor strip lighting, add it to the cart, and schedule the delivery.\". You have identified the target element: \"Departments\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "HOVER",
+      "html": {
+        "answer": "CLICK",
+        "correct": false,
+        "tokens": 95714
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": false,
+        "tokens": 3926
+      }
+    },
+    {
+      "dir": "output_mind2web/07_shopping_rei",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Browse the women's hiking boots section and filter the results to show only those that are waterproof and have a rating of at least 4 stars and size 6.\". Which element should be used to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Camp & Hike",
+      "html": {
+        "error": "API-Fehler 400: {\"error\":{\"message\":\"litellm.ContextWindowExceededError: litellm.BadRequestError: ContextWindowExceededError: Hosted_vllmException - {\\\"error\\\":{\\\"message\\\":\\\"This model's maximum context length is 262144 tokens. However, you requested 0 output tokens and your prompt contains at least 262145 input tokens, for a total of at least 262145 tokens. Please reduce the length of the input prompt or the number of requested output tokens. (parameter=input_tokens, value=262145)\\\",\\\"type\\\":\\\"BadRequestError\\\",\\\"param\\\":\\\"input_tokens\\\",\\\"code\\\":400}}\\nmodel=llm3. context_window_fallbacks=None. fallbacks=None.\\n\\nSet 'context_window_fallback' - https://docs.litellm.ai/docs/routing#fallbacks. Received Model Group=llm3\\nAvailable Model Group Fallbacks=None\",\"type\":null,\"param\":null,\"code\":\"400\"}}"
+      },
+      "aria": {
+        "answer": "Hiking Footwear",
+        "correct": false,
+        "tokens": 26832
+      }
+    },
+    {
+      "dir": "output_mind2web/07_shopping_rei",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Browse the women's hiking boots section and filter the results to show only those that are waterproof and have a rating of at least 4 stars and size 6.\". You have identified the target element: \"Camp & Hike\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "HOVER",
+      "html": {
+        "error": "API-Fehler 400: {\"error\":{\"message\":\"litellm.ContextWindowExceededError: litellm.BadRequestError: ContextWindowExceededError: Hosted_vllmException - {\\\"error\\\":{\\\"message\\\":\\\"This model's maximum context length is 262144 tokens. However, you requested 0 output tokens and your prompt contains at least 262145 input tokens, for a total of at least 262145 tokens. Please reduce the length of the input prompt or the number of requested output tokens. (parameter=input_tokens, value=262145)\\\",\\\"type\\\":\\\"BadRequestError\\\",\\\"param\\\":\\\"input_tokens\\\",\\\"code\\\":400}}\\nmodel=llm3. context_window_fallbacks=None. fallbacks=None.\\n\\nSet 'context_window_fallback' - https://docs.litellm.ai/docs/routing#fallbacks. Received Model Group=llm3\\nAvailable Model Group Fallbacks=None\",\"type\":null,\"param\":null,\"code\":\"400\"}}"
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": false,
+        "tokens": 26841
+      }
+    },
+    {
+      "dir": "output_mind2web/08_shopping_underarmour",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Find newly arrived Batting Gloves for women\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "New flame Icon",
+      "html": {
+        "answer": "Women",
+        "correct": false,
+        "tokens": 158924
+      },
+      "aria": {
+        "answer": "Women",
+        "correct": false,
+        "tokens": 13871
+      }
+    },
+    {
+      "dir": "output_mind2web/08_shopping_underarmour",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Find newly arrived Batting Gloves for women\". You have identified the target element: \"New flame Icon\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK",
+      "html": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 158935
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 13882
+      }
+    },
+    {
+      "dir": "output_mind2web/09_shopping_cargurus",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"calculate a car loan payment for a $25000 car with a $5000 down payment and 12 percent interest rate for 48 months.\". Which element should be used to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Finance",
+      "html": {
+        "answer": "Loan Calculator",
+        "correct": false,
+        "tokens": 122044
+      },
+      "aria": {
+        "answer": "Loan Calculator",
+        "correct": false,
+        "tokens": 7453
+      }
+    },
+    {
+      "dir": "output_mind2web/09_shopping_cargurus",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"calculate a car loan payment for a $25000 car with a $5000 down payment and 12 percent interest rate for 48 months.\". You have identified the target element: \"Finance\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "HOVER",
+      "html": {
+        "answer": "CLICK",
+        "correct": false,
+        "tokens": 122052
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": false,
+        "tokens": 7461
+      }
+    },
+    {
+      "dir": "output_mind2web/10_shopping_menards",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Find a multi-purpose painting tool available for pick up at zip 44240, if the brand Red Devil is available, add the cheapest one to the wishlist and view my complete wish list.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Departments",
+      "html": {
+        "answer": "43229",
+        "correct": false,
+        "tokens": 93802
+      },
+      "aria": {
+        "answer": "Enter SKU, Model # or Keyword",
+        "correct": false,
+        "tokens": 3740
+      }
+    },
+    {
+      "dir": "output_mind2web/10_shopping_menards",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Find a multi-purpose painting tool available for pick up at zip 44240, if the brand Red Devil is available, add the cheapest one to the wishlist and view my complete wish list.\". You have identified the target element: \"Departments\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK",
+      "html": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 93808
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 3744
+      }
+    },
+    {
+      "dir": "output_mind2web/11_shopping_ikea",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Find wall mirrors for under $20.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Products",
+      "html": {
+        "answer": "Products",
+        "correct": true,
+        "tokens": 103592
+      },
+      "aria": {
+        "answer": "What are you looking for?",
+        "correct": false,
+        "tokens": 5243
+      }
+    },
+    {
+      "dir": "output_mind2web/11_shopping_ikea",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Find wall mirrors for under $20.\". You have identified the target element: \"Products\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK",
+      "html": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 103601
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 5247
+      }
+    },
+    {
+      "dir": "output_mind2web/12_shopping_gamestop",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Show me RPG video games.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Main Menu",
+      "html": {
+        "answer": "Video Games",
+        "correct": false,
+        "tokens": 130096
+      },
+      "aria": {
+        "answer": "Video Games chevron_right",
+        "correct": false,
+        "tokens": 6513
+      }
+    },
+    {
+      "dir": "output_mind2web/12_shopping_gamestop",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Show me RPG video games.\". You have identified the target element: \"Main Menu\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK",
+      "html": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 130105
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 6519
+      }
+    },
+    {
+      "dir": "output_mind2web/13_shopping_underarmour",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Search for newest girls' training  leggings in size yxl and save the top three results.\". Which element should be used to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Kids",
+      "html": {
+        "answer": "Search UA",
+        "correct": false,
+        "tokens": 137694
+      },
+      "aria": {
+        "answer": "Search UA",
+        "correct": false,
+        "tokens": 8544
+      }
+    },
+    {
+      "dir": "output_mind2web/13_shopping_underarmour",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Search for newest girls' training  leggings in size yxl and save the top three results.\". You have identified the target element: \"Kids\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "HOVER",
+      "html": {
+        "answer": "CLICK",
+        "correct": false,
+        "tokens": 137702
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": false,
+        "tokens": 8552
+      }
+    },
+    {
+      "dir": "output_mind2web/14_shopping_cabelas",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Add a dome tent to my shopping cart.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Camping",
+      "html": {
+        "answer": "Tents",
+        "correct": false,
+        "tokens": 227944
+      },
+      "aria": {
+        "answer": "Camping Tents",
+        "correct": true,
+        "tokens": 14920
+      }
+    },
+    {
+      "dir": "output_mind2web/14_shopping_cabelas",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Add a dome tent to my shopping cart.\". You have identified the target element: \"Camping\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK",
+      "html": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 227953
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 14927
+      }
+    },
+    {
+      "dir": "output_mind2web/15_shopping_bookdepository",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Check all English Reading and Writing skills Educational Books for Ages 6-8 currently in stock that are available in hardback under 20$.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Shop by category∨",
+      "html": {
+        "error": "API-Fehler 400: {\"error\":{\"message\":\"litellm.ContextWindowExceededError: litellm.BadRequestError: ContextWindowExceededError: Hosted_vllmException - {\\\"error\\\":{\\\"message\\\":\\\"This model's maximum context length is 262144 tokens. However, you requested 0 output tokens and your prompt contains at least 262145 input tokens, for a total of at least 262145 tokens. Please reduce the length of the input prompt or the number of requested output tokens. (parameter=input_tokens, value=262145)\\\",\\\"type\\\":\\\"BadRequestError\\\",\\\"param\\\":\\\"input_tokens\\\",\\\"code\\\":400}}\\nmodel=llm3. context_window_fallbacks=None. fallbacks=None.\\n\\nSet 'context_window_fallback' - https://docs.litellm.ai/docs/routing#fallbacks. Received Model Group=llm3\\nAvailable Model Group Fallbacks=None\",\"type\":null,\"param\":null,\"code\":\"400\"}}"
+      },
+      "aria": {
+        "answer": "Teaching Resources & Education",
+        "correct": false,
+        "tokens": 15706
+      }
+    },
+    {
+      "dir": "output_mind2web/15_shopping_bookdepository",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Check all English Reading and Writing skills Educational Books for Ages 6-8 currently in stock that are available in hardback under 20$.\". You have identified the target element: \"Shop by category∨\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK",
+      "html": {
+        "error": "API-Fehler 400: {\"error\":{\"message\":\"litellm.ContextWindowExceededError: litellm.BadRequestError: ContextWindowExceededError: Hosted_vllmException - {\\\"error\\\":{\\\"message\\\":\\\"This model's maximum context length is 262144 tokens. However, you requested 0 output tokens and your prompt contains at least 262145 input tokens, for a total of at least 262145 tokens. Please reduce the length of the input prompt or the number of requested output tokens. (parameter=input_tokens, value=262145)\\\",\\\"type\\\":\\\"BadRequestError\\\",\\\"param\\\":\\\"input_tokens\\\",\\\"code\\\":400}}\\nmodel=llm3. context_window_fallbacks=None. fallbacks=None.\\n\\nSet 'context_window_fallback' - https://docs.litellm.ai/docs/routing#fallbacks. Received Model Group=llm3\\nAvailable Model Group Fallbacks=None\",\"type\":null,\"param\":null,\"code\":\"400\"}}"
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 15715
+      }
+    },
+    {
+      "dir": "output_mind2web/16_shopping_ikea",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Add decorative LED Candles to the cart.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Products",
+      "html": {
+        "answer": "What are you looking for?",
+        "correct": false,
+        "tokens": 107358
+      },
+      "aria": {
+        "answer": "What are you looking for?",
+        "correct": false,
+        "tokens": 5574
+      }
+    },
+    {
+      "dir": "output_mind2web/16_shopping_ikea",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Add decorative LED Candles to the cart.\". You have identified the target element: \"Products\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK",
+      "html": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 107362
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 5578
+      }
+    },
+    {
+      "dir": "output_mind2web/17_shopping_cargurus",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Check the lowest price for a white 2017 certified pre owned Lexus Rx350 near 90012.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Certified Pre-Owned",
+      "html": {
+        "answer": "Certified Pre-Owned",
+        "correct": true,
+        "tokens": 121972
+      },
+      "aria": {
+        "answer": "Certified Cars",
+        "correct": false,
+        "tokens": 7393
+      }
+    },
+    {
+      "dir": "output_mind2web/17_shopping_cargurus",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Check the lowest price for a white 2017 certified pre owned Lexus Rx350 near 90012.\". You have identified the target element: \"Certified Pre-Owned\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK",
+      "html": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 121981
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 7403
+      }
+    },
+    {
+      "dir": "output_mind2web/18_shopping_uniqlo",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Add to my cart a women's T-shirt priced under 10 dollars\". Which element should be used to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "WOMEN",
+      "html": {
+        "answer": "Women",
+        "correct": true,
+        "tokens": 126075
+      },
+      "aria": {
+        "answer": "Mini Short-Sleeve T-Shirts",
+        "correct": false,
+        "tokens": 14594
+      }
+    },
+    {
+      "dir": "output_mind2web/18_shopping_uniqlo",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Add to my cart a women's T-shirt priced under 10 dollars\". You have identified the target element: \"WOMEN\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "HOVER",
+      "html": {
+        "answer": "CLICK",
+        "correct": false,
+        "tokens": 126086
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": false,
+        "tokens": 14598
+      }
+    },
+    {
+      "dir": "output_mind2web/19_shopping_underarmour",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Sign up for the newsletter\". Which element should be used to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Email Address *",
+      "html": {
+        "answer": "Sign Up",
+        "correct": false,
+        "tokens": 161106
+      },
+      "aria": {
+        "answer": "Sign Up",
+        "correct": false,
+        "tokens": 9522
+      }
+    },
+    {
+      "dir": "output_mind2web/19_shopping_underarmour",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Sign up for the newsletter\". You have identified the target element: \"Email Address *\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "TYPE: larryknox@gmail.com",
+      "html": {
+        "answer": "TYPE",
+        "correct": true,
+        "tokens": 161116
+      },
+      "aria": {
+        "answer": "TYPE",
+        "correct": true,
+        "tokens": 9532
+      }
+    },
+    {
+      "dir": "output_mind2web/20_shopping_bookdepository",
+      "domain": "Shopping",
+      "label": "element",
+      "question": "You are a web agent. Task: \"Find a book in Hindi with ISBN 1648926800.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Advanced Search",
+      "html": {
+        "error": "API-Fehler 400: {\"error\":{\"message\":\"litellm.ContextWindowExceededError: litellm.BadRequestError: ContextWindowExceededError: Hosted_vllmException - {\\\"error\\\":{\\\"message\\\":\\\"This model's maximum context length is 262144 tokens. However, you requested 0 output tokens and your prompt contains at least 262145 input tokens, for a total of at least 262145 tokens. Please reduce the length of the input prompt or the number of requested output tokens. (parameter=input_tokens, value=262145)\\\",\\\"type\\\":\\\"BadRequestError\\\",\\\"param\\\":\\\"input_tokens\\\",\\\"code\\\":400}}\\nmodel=llm3. context_window_fallbacks=None. fallbacks=None.\\n\\nSet 'context_window_fallback' - https://docs.litellm.ai/docs/routing#fallbacks. Received Model Group=llm3\\nAvailable Model Group Fallbacks=None\",\"type\":null,\"param\":null,\"code\":\"400\"}}"
+      },
+      "aria": {
+        "answer": "Search for books by keyword / title / author / ISBN",
+        "correct": false,
+        "tokens": 17052
+      }
+    },
+    {
+      "dir": "output_mind2web/20_shopping_bookdepository",
+      "domain": "Shopping",
+      "label": "actiontype",
+      "question": "You are a web agent. Task: \"Find a book in Hindi with ISBN 1648926800.\". You have identified the target element: \"Advanced Search\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK",
+      "html": {
+        "error": "API-Fehler 400: {\"error\":{\"message\":\"litellm.ContextWindowExceededError: litellm.BadRequestError: ContextWindowExceededError: Hosted_vllmException - {\\\"error\\\":{\\\"message\\\":\\\"This model's maximum context length is 262144 tokens. However, you requested 0 output tokens and your prompt contains at least 262145 input tokens, for a total of at least 262145 tokens. Please reduce the length of the input prompt or the number of requested output tokens. (parameter=input_tokens, value=262145)\\\",\\\"type\\\":\\\"BadRequestError\\\",\\\"param\\\":\\\"input_tokens\\\",\\\"code\\\":400}}\\nmodel=llm3. context_window_fallbacks=None. fallbacks=None.\\n\\nSet 'context_window_fallback' - https://docs.litellm.ai/docs/routing#fallbacks. Received Model Group=llm3\\nAvailable Model Group Fallbacks=None\",\"type\":null,\"param\":null,\"code\":\"400\"}}"
+      },
+      "aria": {
+        "answer": "CLICK",
+        "correct": true,
+        "tokens": 17052
+      }
+    }
+  ],
+  "byLabel": [
+    "element",
+    "actiontype"
+  ],
+  "byDomain": [
+    "Shopping"
+  ]
+}

@@ -1,0 +1,948 @@
+- button "Skip to content"
+- navigation:
+  - img "CarGurus Logo Homepage Link"
+  - menubar:
+    - menuitem "Buy"
+    - menu:
+      - menu:
+        - menuitem "Used Cars"
+        - menuitem "New Cars"
+        - menuitem "Certified Cars"
+      - menu:
+        - menuitem "New Start Your Purchase Online"
+        - menuitem "Dealerships Near Me"
+        - menuitem "Delivery"
+    - menuitem "Sell"
+    - menu:
+      - menu:
+        - menuitem "Sell My Car"
+        - menuitem "Car Values"
+        - menuitem "Sell My Car FAQ"
+      - menu:
+        - menuitem "Dealer Signup"
+        - menuitem "Reviews"
+    - menuitem "Finance"
+    - menu:
+      - menu:
+        - menuitem "Prequalify for Financing"
+        - menuitem "How does it work? (video)"
+        - menuitem "Financing FAQs"
+      - menu:
+        - menuitem "Loan Calculator"
+    - menuitem "Research"
+    - menu:
+      - menu:
+        - menuitem "Test Drive Reviews"
+        - menuitem "Price Trends"
+        - menuitem "Tips & Advice"
+      - menu:
+        - menuitem "General Questions"
+  - menu:
+    - menuitem "Add a car review":
+      - img
+      - tooltip "Add a car review"
+    - menuitem "Notifications":
+      - button:
+        - img
+      - tooltip "Notifications"
+    - menuitem "Saved cars & searches":
+      - img
+      - tooltip "Saved cars & searches"
+    - menuitem "Guru9MQ42V":
+      - button "Guru9MQ42V":
+        - img
+        - text: Guru9MQ42V
+        - img
+      - menu:
+        - list:
+          - menuitem "My account"
+          - menuitem "Saved searches"
+          - menuitem "Saved cars"
+          - menuitem "Recommended cars"
+          - menuitem "Recently viewed cars"
+          - listitem: Messages
+          - menuitem "Financing"
+          - menuitem "United States (EN)":
+            - button "United States (EN)":
+              - text: United States (EN)
+              - img
+            - menu:
+              - list:
+                - menuitem "United States (EN)"
+                - menuitem "Estados Unidos (ES)"
+                - menuitem "Canada (EN)"
+                - menuitem "Canada (FR)"
+                - menuitem "United Kingdom"
+          - menuitem "Sign out"
+- main:
+  - img
+  - heading "Welcome back, James" [level=1]
+  - text: Sell My Car Buy Used Buy New Certified Pre-Owned Financing
+  - radio
+  - heading "Get an offer in less than 2 minutes" [level=2]
+  - group:
+    - radio
+    - text: License plate
+    - radio
+    - text: VIN
+  - group:
+    - text: Enter license plate
+    - textbox "Enter license plate":
+      - /placeholder: (EX.) C4R 6URU
+    - text: State
+    - combobox "State":
+      - option [selected]
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+    - button "Get your offer"
+  - text: pick up where you left off Contact Support.
+  - alert: pick up where you left off. contact support.
+  - radio
+  - radio
+  - group:
+    - combobox:
+      - option [selected]
+    - combobox:
+      - option [selected]
+    - textbox "ZIP"
+    - button "Search"
+  - text: Honda Crosstour (within 100mi) Toyota Camry (within 50mi)
+  - radio
+  - group:
+    - combobox:
+      - option [selected]
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+    - combobox:
+      - option [selected]
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+    - textbox "ZIP"
+    - button "Search"
+  - radio
+  - group:
+    - combobox:
+      - option [selected]
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+    - combobox:
+      - option [selected]
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+    - textbox "ZIP"
+    - button "Search"
+  - radio
+  - radio
+  - group:
+    - combobox:
+      - option [selected]
+    - combobox:
+      - option [selected]
+    - textbox "ZIP"
+    - button "Search"
+  - text: Honda Crosstour (within 100mi) Toyota Camry (within 50mi)
+  - radio
+  - group:
+    - combobox:
+      - option [selected]
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+    - combobox:
+      - option [selected]
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+    - textbox "ZIP"
+    - button "Search"
+  - radio
+  - group:
+    - combobox:
+      - option [selected]
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+    - combobox:
+      - option [selected]
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+      - option
+    - textbox "ZIP"
+    - button "Search"
+  - radio
+  - group:
+    - combobox:
+      - option [selected]
+    - combobox:
+      - option [selected]
+    - textbox "ZIP"
+    - button "Search"
+  - text: Honda Crosstour (within 100mi) Toyota Camry (within 50mi)
+  - radio
+  - text: See my options
+  - heading "Sell 100% online in 3 simple steps" [level=1]
+  - paragraph: Enter a few details, get our best offer, and leave pickup to us.
+  - text: Get your offer
+  - heading "Recent price drops" [level=2]
+  - img "2019 Ford Flex SEL AWD"
+  - button "Save this listing"
+  - paragraph: 2019 Ford Flex SEL AWD
+  - paragraph: $27,996
+  - paragraph: 33,533 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Benton Harbor, MI
+  - img "2020 Ford Escape SEL AWD"
+  - button "Save this listing"
+  - paragraph: 2020 Ford Escape SEL AWD
+  - paragraph: $24,992
+  - paragraph: 53,133 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Benton Harbor, MI
+  - img "2018 Ford F-350 Super Duty XLT Crew Cab 4WD"
+  - button "Save this listing"
+  - paragraph: 2018 Ford F-350 Super Duty XLT Crew Cab 4WD
+  - paragraph: $43,994
+  - paragraph: 44,685 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Benton Harbor, MI
+  - img "2021 Chevrolet Suburban Premier 4WD"
+  - button "Save this listing"
+  - paragraph: 2021 Chevrolet Suburban Premier 4WD
+  - paragraph: $62,536
+  - paragraph: 58,417 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Benton Harbor, MI
+  - img "Image Not Available"
+  - button "Save this listing"
+  - paragraph: 2011 Nissan Juke SL
+  - paragraph: $5,994
+  - paragraph: 182,861 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Benton Harbor, MI
+  - img "2022 Honda Accord Hybrid EX-L FWD"
+  - button "Save this listing"
+  - paragraph: 2022 Honda Accord Hybrid EX-L FWD
+  - paragraph: $34,665
+  - paragraph: 14,040 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Bridgman, MI
+  - img "2021 Chevrolet Tahoe Z71 4WD"
+  - button "Save this listing"
+  - paragraph: 2021 Chevrolet Tahoe Z71 4WD
+  - paragraph: $64,991
+  - paragraph: 34,730 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Benton Harbor, MI
+  - img "2020 Chevrolet Silverado 1500 LT Crew Cab 4WD"
+  - button "Save this listing"
+  - paragraph: 2020 Chevrolet Silverado 1500 LT Crew Cab 4WD
+  - paragraph: $36,991
+  - paragraph: 60,295 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Benton Harbor, MI
+  - img "Image Not Available"
+  - button "Save this listing"
+  - paragraph: 2021 Cadillac CT5 Sport Sedan AWD
+  - paragraph: $42,991
+  - paragraph: 13,402 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Benton Harbor, MI
+  - img "2019 GMC Acadia Denali AWD"
+  - button "Save this listing"
+  - paragraph: 2019 GMC Acadia Denali AWD
+  - paragraph: $29,244
+  - paragraph: 88,083 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Benton Harbor, MI
+  - img "2020 Chevrolet Colorado Work Truck Extended Cab RWD"
+  - button "Save this listing"
+  - paragraph: 2020 Chevrolet Colorado Work Truck Extended Cab RWD
+  - paragraph: $22,594
+  - paragraph: 33,514 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Benton Harbor, MI
+  - img "Image Not Available"
+  - button "Save this listing"
+  - paragraph: 2008 Ford F-150
+  - paragraph: $9,991
+  - paragraph: 162,693 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Benton Harbor, MI
+  - img "2022 Buick Encore Preferred AWD"
+  - button "Save this listing"
+  - paragraph: 2022 Buick Encore Preferred AWD
+  - paragraph: $25,996
+  - paragraph: 1,054 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Benton Harbor, MI
+  - img "2019 Hyundai Veloster Turbo 1.6T FWD"
+  - button "Save this listing"
+  - paragraph: 2019 Hyundai Veloster Turbo 1.6T FWD
+  - paragraph: $22,991
+  - paragraph: 32,092 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Benton Harbor, MI
+  - img "2019 Subaru Outback 2.5i Limited AWD"
+  - button "Save this listing"
+  - paragraph: 2019 Subaru Outback 2.5i Limited AWD
+  - paragraph: $25,996
+  - paragraph: 59,393 miles
+  - img
+  - text: FAIR DEAL
+  - paragraph: Benton Harbor, MI
+  - heading "Models you may like" [level=2]
+  - heading "Toyota RAV4" [level=4]
+  - img "Toyota RAV4"
+  - heading "Toyota Venza" [level=4]
+  - img "Toyota Venza"
+  - heading "Acura MDX" [level=4]
+  - img "Acura MDX"
+  - heading "Trending searches" [level=2]
+  - img "Family"
+  - text: Family friendly
+  - img "Best"
+  - text: Best in snow
+  - img "Reliable"
+  - text: Reliable & affordable
+  - img "Small"
+  - text: Small & sporty
+  - img "Affordable"
+  - text: Affordable luxury
+  - img "Adventure"
+  - text: Adventure & offroad
+  - img "For"
+  - text: For sale by owner
+  - img "Fuel"
+  - text: Fuel efficient
+  - heading "Recent test drives" [level=2]
+  - listbox:
+    - 'option "2024 Subaru Crosstrek Review and Video 2024 Subaru Crosstrek Review and Video Matt Smith The best-selling subcompact crossover on the market gets a smart and tasteful refresh. 2023 Lexus RZ Review 2023 Lexus RZ Review Natalie Harrington Lexus and parent company Toyota were early to the electrification game: The Prius beat most of the world to market, and the 2005 Lexus RX 400h was ... 2023 Land Rover Defender Review and Video 2023 Land Rover Defender Review and Video Clifford Atiyeh The newest iteration of the iconic Land Rover gets an extended-length variant, adding practicality to purpose."':
+      - img "2024 Subaru Crosstrek Review and Video"
+      - heading "2024 Subaru Crosstrek Review and Video" [level=4]
+      - paragraph: Matt Smith
+      - paragraph: The best-selling subcompact crossover on the market gets a smart and tasteful refresh.
+      - img "2023 Lexus RZ Review"
+      - heading "2023 Lexus RZ Review" [level=4]
+      - paragraph: Natalie Harrington
+      - paragraph: "Lexus and parent company Toyota were early to the electrification game: The Prius beat most of the world to market, and the 2005 Lexus RX 400h was ..."
+      - img "2023 Land Rover Defender Review and Video"
+      - heading "2023 Land Rover Defender Review and Video" [level=4]
+      - paragraph: Clifford Atiyeh
+      - paragraph: The newest iteration of the iconic Land Rover gets an extended-length variant, adding practicality to purpose.
+    - option "2023 Toyota Corolla Hybrid Review and Video 2023 Toyota Corolla Hybrid Review and Video 2023 Ford Maverick Review 2023 Ford Maverick Review":
+      - img "2023 Toyota Corolla Hybrid Review and Video"
+      - heading "2023 Toyota Corolla Hybrid Review and Video" [level=4]
+      - img "2023 Ford Maverick Review"
+      - heading "2023 Ford Maverick Review" [level=4]
+  - button "Previous"
+  - button "Next"
+  - list:
+    - listitem:
+      - button
+    - listitem:
+      - button
+  - heading "Recent previews" [level=2]
+  - listbox:
+    - option "2023 MINI Countryman 2023 MINI Countryman Chris Teague The Countryman is what happens when MINI sets out to make a crossover. Its still a small, quirky vehicle, instantly recognizable as a MINI, just with... 2023 MINI Cooper Clubman 2023 MINI Cooper Clubman Chris Teague The world has changed drastically since Minis car first roamed the streets, and the storied British automaker has had to adapt. After its revival in ... 2023 MINI Cooper 2023 MINI Cooper Chris Teague The iconic MINI Cooper has grown both larger and more advanced over the years, but its still a small, agile car with attractive styling. For 2023, MI...":
+      - img "2023 MINI Countryman"
+      - heading "2023 MINI Countryman" [level=4]
+      - paragraph: Chris Teague
+      - paragraph: The Countryman is what happens when MINI sets out to make a crossover. Its still a small, quirky vehicle, instantly recognizable as a MINI, just with...
+      - img "2023 MINI Cooper Clubman"
+      - heading "2023 MINI Cooper Clubman" [level=4]
+      - paragraph: Chris Teague
+      - paragraph: The world has changed drastically since Minis car first roamed the streets, and the storied British automaker has had to adapt. After its revival in ...
+      - img "2023 MINI Cooper"
+      - heading "2023 MINI Cooper" [level=4]
+      - paragraph: Chris Teague
+      - paragraph: The iconic MINI Cooper has grown both larger and more advanced over the years, but its still a small, agile car with attractive styling. For 2023, MI...
+    - option "2024 Volkswagen ID.Buzz 2024 Volkswagen ID.Buzz Clifford Atiyeh 2023 Land Rover Range Rover Sport 2023 Land Rover Range Rover Sport Matt Smith":
+      - img "2024 Volkswagen ID.Buzz"
+      - heading "2024 Volkswagen ID.Buzz" [level=4]
+      - paragraph: Clifford Atiyeh
+      - img "2023 Land Rover Range Rover Sport"
+      - heading "2023 Land Rover Range Rover Sport" [level=4]
+      - paragraph: Matt Smith
+  - button "Previous"
+  - button "Next"
+  - list:
+    - listitem:
+      - button
+    - listitem:
+      - button
+  - heading "Popular Cars" [level=4]
+  - text: Popular Makers Popular SUV / Crossovers Popular Sedans Popular Pickup Trucks Popular Hatchbacks / Wagons Popular Vans / Minivans Popular Coupes Popular New Cars
+  - radio
+  - list:
+    - listitem: Audi
+    - listitem: BMW
+    - listitem: Honda
+    - listitem: Toyota
+    - listitem: Bentley
+    - listitem: Cadillac
+    - listitem: Hyundai
+    - listitem: Tesla
+    - listitem: Jeep
+    - listitem: Land Rover
+    - listitem: Lincoln
+    - listitem: Lexus
+    - listitem: Maserati
+    - listitem: Mercedes-Benz
+    - listitem: Porsche
+    - listitem: Subaru
+  - radio
+  - list:
+    - listitem: Acura MDX
+    - listitem: Audi Q5
+    - listitem: Audi Q7
+    - listitem: BMW X3
+    - listitem: BMW X5
+    - listitem: Cadillac Escalade
+    - listitem: Chevrolet Equinox
+    - listitem: Chevrolet Suburban
+    - listitem: Chevrolet Tahoe
+    - listitem: Chevrolet Traverse
+    - listitem: Dodge Durango
+    - listitem: Ford Escape
+    - listitem: Ford Expedition
+    - listitem: Ford Explorer
+    - listitem: GMC Acadia
+    - listitem: GMC Yukon
+    - listitem: Honda CR-V
+    - listitem: Honda HR-V
+    - listitem: Honda Pilot
+    - listitem: Hyundai Santa Fe
+    - listitem: Jeep Grand Cherokee
+    - listitem: Jeep Wrangler
+    - listitem: Kia Sorento
+    - listitem: Land Rover Range Rover
+    - listitem: Land Rover Range Rover Sport
+    - listitem: Lexus GX
+    - listitem: Lexus RX
+    - listitem: Mazda CX-5
+    - listitem: Mercedes-Benz GLC-Class
+    - listitem: Mercedes-Benz GLE-Class
+    - listitem: Nissan Pathfinder
+    - listitem: Nissan Rogue
+    - listitem: Subaru Outback
+    - listitem: Toyota 4Runner
+    - listitem: Toyota Highlander
+    - listitem: Toyota RAV4
+    - listitem: Volkswagen Atlas
+    - listitem: Volkswagen Tiguan
+    - listitem: Volvo XC60
+    - listitem: Volvo XC90
+  - radio
+  - list:
+    - listitem: Audi A4
+    - listitem: BMW 3 Series
+    - listitem: BMW 5 Series
+    - listitem: Chevrolet Cruze
+    - listitem: Chevrolet Impala
+    - listitem: Chevrolet Malibu
+    - listitem: Chrysler 300
+    - listitem: Dodge Charger
+    - listitem: Ford Fusion
+    - listitem: Honda Accord
+    - listitem: Honda Civic
+    - listitem: Hyundai Elantra
+    - listitem: INFINITI Q50
+    - listitem: Lexus ES
+    - listitem: Mazda MAZDA3
+    - listitem: Mercedes-Benz C-Class
+    - listitem: Mercedes-Benz E-Class
+    - listitem: Mercedes-Benz S-Class
+    - listitem: Nissan Altima
+    - listitem: Nissan Maxima
+    - listitem: Tesla Model 3
+    - listitem: Toyota Camry
+    - listitem: Toyota Corolla
+    - listitem: Volkswagen Jetta
+  - radio
+  - list:
+    - listitem: Chevrolet Colorado
+    - listitem: Chevrolet Silverado 1500
+    - listitem: Chevrolet Silverado 2500HD
+    - listitem: Chevrolet Silverado 3500
+    - listitem: Dodge RAM 1500
+    - listitem: Dodge RAM 2500
+    - listitem: Dodge RAM 3500
+    - listitem: Ford F-150
+    - listitem: Ford F-250 Super Duty
+    - listitem: Ford F-350 Super Duty
+    - listitem: Ford Ranger
+    - listitem: GMC Sierra 1500
+    - listitem: GMC Sierra 2500HD
+    - listitem: Honda Ridgeline
+    - listitem: Jeep Gladiator
+    - listitem: Nissan Frontier
+    - listitem: RAM 1500
+    - listitem: RAM 2500
+    - listitem: RAM 3500
+    - listitem: Toyota Tacoma
+    - listitem: Toyota Tundra
+  - radio
+  - list:
+    - listitem: MINI Cooper
+    - listitem: Toyota Prius
+    - listitem: Subaru Forester
+    - listitem: Subaru Impreza
+  - radio
+  - list:
+    - listitem: Ford Transit Cargo
+    - listitem: RAM ProMaster
+    - listitem: Honda Odyssey
+    - listitem: Toyota Sienna
+  - radio
+  - list:
+    - listitem: BMW 4 Series
+    - listitem: Chevrolet Camaro
+    - listitem: Chevrolet Corvette
+    - listitem: Dodge Challenger
+    - listitem: Ford Mustang
+    - listitem: Porsche 911
+  - radio
+  - list:
+    - listitem: Chevrolet Silverado 1500
+    - listitem: Ford Bronco
+    - listitem: Ford F-150
+    - listitem: Ford Maverick
+    - listitem: Jeep Grand Cherokee L
+- banner: Connect with Us
+- banner: Go Mobile
+- img "Download on the App Store"
+- img "Get it on Google Play"
+- contentinfo:
+  - img "Click for the BBB Business Review of this Auto Listing Service in Cambridge MA"
+  - heading "Company" [level=4]
+  - list:
+    - listitem: About CarGurus
+    - listitem: Advertise With CarGurus
+    - listitem: Our Team
+    - listitem: Press
+    - listitem: Investor Relations
+    - listitem: Price Trends
+    - listitem: Blog
+    - listitem: Careers
+  - heading "For Dealers" [level=4]
+  - list:
+    - listitem: Dealer Signup
+    - listitem: Dealer Resources
+  - heading "Terms" [level=4]
+  - list:
+    - listitem: Do Not Sell or Share My Personal Information
+    - listitem: Terms of Use
+    - listitem: Privacy Policy
+    - listitem: Interest-Based Ads
+    - listitem: Security
+  - heading "Help" [level=4]
+  - list:
+    - listitem: Help
+    - listitem: Contact Us
+    - listitem: Delivery
+  - img "Click for the BBB Business Review of this Auto Listing Service in Cambridge MA"
+  - button "United States (EN)":
+    - text: United States (EN)
+    - img
+  - list:
+    - listitem: United States (EN)
+    - listitem: Estados Unidos (ES)
+    - listitem: Canada (EN)
+    - listitem: Canada (FR)
+    - listitem: United Kingdom
+  - paragraph: 2023 CarGurus, Inc., All Rights Reserved.

@@ -1,0 +1,21 @@
+{
+  "task": "mind2web-element-identification",
+  "source": "Shopping/gamestop",
+  "domain": "Shopping",
+  "website": "gamestop",
+  "confirmed_task": "Show me RPG video games.",
+  "target_role": "button",
+  "target_operation": "CLICK",
+  "questions": [
+    {
+      "id": "element",
+      "question": "You are a web agent. Task: \"Show me RPG video games.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Main Menu"
+    },
+    {
+      "id": "actiontype",
+      "question": "You are a web agent. Task: \"Show me RPG video games.\". You have identified the target element: \"Main Menu\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK"
+    }
+  ]
+}

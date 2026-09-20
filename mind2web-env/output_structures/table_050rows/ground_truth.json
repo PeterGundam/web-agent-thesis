@@ -1,0 +1,10 @@
+{
+  "task": "structure-lookup",
+  "structureType": "table",
+  "numRows": 50,
+  "seed": 42,
+  "targetCountry": "Canada",
+  "targetPopulation": 474660108,
+  "targetRowId": "row-12",
+  "question": "What is the population of Canada?"
+}

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Country Population (list, 100 rows)</title>
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 2rem; }
+    table { border-collapse: collapse; width: 100%; max-width: 600px; }
+    th, td { border: 1px solid #ccc; padding: 6px 12px; text-align: left; }
+    th { background: #f0f0f0; }
+    ul { list-style: none; padding: 0; max-width: 600px; }
+    li { border-bottom: 1px solid #ccc; padding: 6px 12px; }
+    .table-header, .row { display: flex; border-bottom: 1px solid #ccc; max-width: 600px; }
+    .cell { flex: 1; padding: 6px 12px; }
+    .table-header { background: #f0f0f0; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h1>List of Countries by Population</h1>
+  <ul>
+    <li id="row-22">Afghanistan: 247,933,641</li>
+    <li id="row-59">Albania: 121,359,375</li>
+    <li id="row-21">Andorra: 309,220,871</li>
+    <li id="row-30">Antigua and Barbuda: 9,719,135</li>
+    <li id="row-97">Austria: 287,433,063</li>
+    <li id="row-49">Bangladesh: 305,053,433</li>
+    <li id="row-99">Barbados: 395,934,992</li>
+    <li id="row-35">Belarus: 142,391,782</li>
+    <li id="row-53">Belize: 380,992,476</li>
+    <li id="row-39">Benin: 194,904,899</li>
+    <li id="row-5">Bhutan: 313,057,291</li>
+    <li id="row-37">Bolivia: 16,125,192</li>
+    <li id="row-63">Brunei: 33,316,936</li>
+    <li id="row-64">Burkina Faso: 145,432,484</li>
+    <li id="row-17">Burundi: 357,541,087</li>
+    <li id="row-58">Cambodia: 220,968,364</li>
+    <li id="row-12">Canada: 474,660,108</li>
+    <li id="row-55">Comoros: 360,142,554</li>
+    <li id="row-24">Costa Rica: 169,282,793</li>
+    <li id="row-14">Cote d'Ivoire: 141,888,888</li>
+    <li id="row-69">Croatia: 242,711,612</li>
+    <li id="row-7">Cyprus: 121,096,257</li>
+    <li id="row-52">Czech Republic: 456,920,910</li>
+    <li id="row-82">Democratic Republic of the Congo: 56,324,845</li>
+    <li id="row-19">Djibouti: 125,857,831</li>
+    <li id="row-76">Dominica: 145,610,725</li>
+    <li id="row-90">Dominican Republic: 196,999,228</li>
+    <li id="row-95">Estonia: 117,310,763</li>
+    <li id="row-66">Eswatini: 441,087,191</li>
+    <li id="row-36">Fiji: 395,572,145</li>
+    <li id="row-56">Finland: 155,498,842</li>
+    <li id="row-94">France: 29,003,086</li>
+    <li id="row-27">Georgia: 495,698,881</li>
+    <li id="row-86">Germany: 381,291,666</li>
+    <li id="row-4">Guatemala: 199,541,280</li>
+    <li id="row-9">Haiti: 417,514,853</li>
+    <li id="row-31">Honduras: 442,286,072</li>
+    <li id="row-81">Hungary: 482,750,964</li>
+    <li id="row-23">India: 455,407,986</li>
+    <li id="row-83">Indonesia: 301,993,634</li>
+    <li id="row-51">Iran: 95,777,584</li>
+    <li id="row-34">Ireland: 477,278,549</li>
+    <li id="row-42">Italy: 6,841,820</li>
+    <li id="row-46">Japan: 193,290,123</li>
+    <li id="row-32">Kenya: 387,364,583</li>
+    <li id="row-38">Kiribati: 130,023,148</li>
+    <li id="row-96">Kosovo: 262,018,904</li>
+    <li id="row-3">Kuwait: 382,286,844</li>
+    <li id="row-47">Laos: 86,042,245</li>
+    <li id="row-92">Latvia: 82,700,231</li>
+    <li id="row-1">Liberia: 194,340,470</li>
+    <li id="row-20">Libya: 63,297,453</li>
+    <li id="row-67">Lithuania: 126,570,794</li>
+    <li id="row-48">Luxembourg: 493,528,163</li>
+    <li id="row-40">Malawi: 255,076,003</li>
+    <li id="row-91">Malaysia: 429,427,276</li>
+    <li id="row-85">Mali: 401,838,155</li>
+    <li id="row-18">Malta: 214,263,117</li>
+    <li id="row-8">Marshall Islands: 325,896,990</li>
+    <li id="row-70">Mauritius: 395,313,271</li>
+    <li id="row-93">Mexico: 99,456,983</li>
+    <li id="row-28">Micronesia: 199,897,762</li>
+    <li id="row-50">Monaco: 96,590,277</li>
+    <li id="row-43">Montenegro: 410,380,979</li>
+    <li id="row-73">Morocco: 167,909,915</li>
+    <li id="row-25">Mozambique: 38,863,618</li>
+    <li id="row-84">Nauru: 347,396,219</li>
+    <li id="row-78">Nepal: 53,209,876</li>
+    <li id="row-75">Netherlands: 337,522,955</li>
+    <li id="row-61">New Zealand: 245,648,341</li>
+    <li id="row-68">North Korea: 259,565,972</li>
+    <li id="row-57">Oman: 39,338,927</li>
+    <li id="row-71">Pakistan: 83,343,171</li>
+    <li id="row-45">Palau: 37,632,908</li>
+    <li id="row-65">Peru: 462,142,939</li>
+    <li id="row-2">Philippines: 450,321,759</li>
+    <li id="row-77">Poland: 139,960,069</li>
+    <li id="row-29">Romania: 163,691,550</li>
+    <li id="row-79">Russia: 39,665,702</li>
+    <li id="row-87">Saint Kitts and Nevis: 348,395,640</li>
+    <li id="row-98">Saudi Arabia: 54,525,462</li>
+    <li id="row-15">Senegal: 173,159,529</li>
+    <li id="row-10">Singapore: 165,255,401</li>
+    <li id="row-26">Slovakia: 255,122,685</li>
+    <li id="row-62">Somalia: 484,824,074</li>
+    <li id="row-72">South Korea: 139,440,200</li>
+    <li id="row-11">Suriname: 200,090,856</li>
+    <li id="row-88">Syria: 292,455,632</li>
+    <li id="row-0">Taiwan: 486,704,089</li>
+    <li id="row-41">Tajikistan: 61,508,680</li>
+    <li id="row-33">Thailand: 402,593,557</li>
+    <li id="row-60">Timor-Leste: 298,150,848</li>
+    <li id="row-74">Togo: 139,724,537</li>
+    <li id="row-16">Tuvalu: 456,386,188</li>
+    <li id="row-6">Uganda: 290,473,765</li>
+    <li id="row-13">United Arab Emirates: 43,268,711</li>
+    <li id="row-89">United Kingdom: 239,443,865</li>
+    <li id="row-44">United States: 143,098,379</li>
+    <li id="row-54">Uruguay: 40,631,172</li>
+    <li id="row-80">Zambia: 290,299,768</li>
+  </ul>
+</body>
+</html>

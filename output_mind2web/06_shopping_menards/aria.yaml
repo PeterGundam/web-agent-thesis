@@ -1,0 +1,230 @@
+- text: Skip to main content Google Chrome Mozilla Firefox Microsoft Edge
+- banner:
+  - text: Go to the home page.
+  - img
+  - img "Menards Dedicated to Service and Quality"
+  - text: You're shopping
+  - button "WILLISTON, ND"
+  - text: Opens at 6:00 AM Delivering to
+  - button "58801"
+  - text: Credit Center Help Gifting Order Tracker Rebate Center
+  - navigation:
+    - button "Go to the home page.":
+      - text: Go to the home page.
+      - list:
+        - listitem
+    - button "Departments"
+    - button "Appliances"
+    - button "Bath"
+    - button "Building Materials"
+    - button "Doors, Windows & Millwork"
+    - button "Electrical"
+    - button "Flooring & Rugs"
+    - button "Grocery & Home"
+    - button "Hardware"
+    - button "Heating & Cooling"
+    - button "Kitchen"
+    - button "Lighting & Ceiling Fans"
+    - button "Outdoors"
+    - button "Paint"
+    - button "Pet & Wildlife"
+    - button "Plumbing"
+    - button "Storage & Organization"
+    - button "Tools"
+    - button "Window Treatments"
+    - text: Gift Cards New At Menards Ray's List Clearance & Bargains
+    - button "Brands"
+    - text: Shop All Departments All
+    - listitem:
+      - button "Project Center"
+    - listitem: Weekly Ad
+    - button "All Departments"
+    - 'textbox "Enter SKU, Model # or Keyword"'
+    - button "Search"
+    - list:
+      - listitem:
+        - button "Welcome, James"
+      - listitem: Click to go to your cart. 6 Items
+- dialog:
+  - button:
+    - img
+- dialog:
+  - button:
+    - img
+  - textbox
+  - button "update"
+- dialog:
+  - button:
+    - img
+- dialog:
+  - button:
+    - img
+- dialog:
+  - button:
+    - img
+- dialog:
+  - button:
+    - img
+- dialog:
+  - button:
+    - img
+- dialog:
+  - button:
+    - img
+- dialog:
+  - button:
+    - img
+  - button "Yes"
+  - button "No"
+- main:
+  - text: 11% off everything! Now through April 16, 2023. Mail-in rebate. Rebate is in form of merchandise credit check. Click to view flyer for complete details.
+  - button
+  - button
+  - img "11% off garage doors. A garage door can transform your home. Ideal Door brand designer steel panel garage door for $1,957.11 each after rebate. Click to shop Ideal Door designer oak walnut insulated garage door with windows. - slide 1 of 4"
+  - text: 11% off garage doors. A garage door can transform your home. Ideal Door brand designer steel panel garage door for $1,957.11 each after rebate. Click to shop Ideal Door designer oak walnut insulated garage door with windows.
+  - 'img "Whirlpool: The appliances you need, when you need them most. Over $1,200 in suite savings on this appliance suite from Menards after mail-in rebate. Click to shop the Whirlpool 3-Piece Fingerprint Resistant Stainless Steel Kitchen Suite. - slide 2 of 4"'
+  - text: "Whirlpool: The appliances you need, when you need them most. Over $1,200 in suite savings on this appliance suite from Menards after mail-in rebate. Click to shop the Whirlpool 3-Piece Fingerprint Resistant Stainless Steel Kitchen Suite."
+  - img "11% off all playsets. PlayStar Ninja Power Tower Gold Build-it-Yourself Playset for $2,770.07 after rebate. Click to shop the materials list. - slide 3 of 4"
+  - text: 11% off all playsets. PlayStar Ninja Power Tower Gold Build-it-Yourself Playset for $2,770.07 after rebate. Click to shop the materials list.
+  - img "Save 11% on bathroom upgrades. Ove Decors dove gray vanity and white engineered marble vanity top for $497.99 each after rebate. Click to shop. - slide 4 of 4"
+  - text: Save 11% on bathroom upgrades. Ove Decors dove gray vanity and white engineered marble vanity top for $497.99 each after rebate. Click to shop. 11% off everything!
+  - button
+  - button
+  - img "11% off garage doors. A garage door can transform your home. Ideal Door brand designer steel panel garage door for $1,957.11 each after rebate. Click to shop Ideal Door designer oak walnut insulated garage door with windows. - slide 1 of 4"
+  - text: 11% off garage doors. A garage door can transform your home. Ideal Door brand designer steel panel garage door for $1,957.11 each after rebate. Click to shop Ideal Door designer oak walnut insulated garage door with windows.
+  - 'img "Whirlpool: The appliances you need, when you need them most. Over $1,200 in suite savings on this appliance suite from Menards after mail-in rebate. Click to shop the Whirlpool 3-Piece Fingerprint Resistant Stainless Steel Kitchen Suite. - slide 2 of 4"'
+  - text: "Whirlpool: The appliances you need, when you need them most. Over $1,200 in suite savings on this appliance suite from Menards after mail-in rebate. Click to shop the Whirlpool 3-Piece Fingerprint Resistant Stainless Steel Kitchen Suite."
+  - img "11% off all playsets. PlayStar Ninja Power Tower Gold Build-it-Yourself Playset for $2,770.07 after rebate. Click to shop the materials list. - slide 3 of 4"
+  - text: 11% off all playsets. PlayStar Ninja Power Tower Gold Build-it-Yourself Playset for $2,770.07 after rebate. Click to shop the materials list.
+  - img "Save 11% on bathroom upgrades. Ove Decors dove gray vanity and white engineered marble vanity top for $497.99 each after rebate. Click to shop. - slide 4 of 4"
+  - text: Save 11% on bathroom upgrades. Ove Decors dove gray vanity and white engineered marble vanity top for $497.99 each after rebate. Click to shop. Featured Flyer Items
+  - button "Pause Play"
+  - slider: "0"
+  - progressbar
+  - text: 00:00
+  - button "Unmute Mute"
+  - slider: "1"
+  - button "Disable captions Enable captions"
+  - button "Settings"
+  - menu:
+    - menuitem "Captions Disabled"
+    - menuitem "Quality undefined"
+    - menuitem "Speed Normal"
+  - button "Captions Go back to previous menu"
+  - button "Quality Go back to previous menu"
+  - button "Speed Go back to previous menu"
+  - menu:
+    - menuitemradio "0.5"
+    - menuitemradio "0.75"
+    - menuitemradio "Normal"
+    - menuitemradio "1.25"
+    - menuitemradio "1.5"
+    - menuitemradio "1.75"
+    - menuitemradio "2"
+    - menuitemradio "4"
+  - button "PIP"
+  - button "Exit fullscreen Enter fullscreen"
+  - button "Play"
+  - button "Previous":
+    - img
+    - text: Previous
+  - listitem:
+    - text: "MaxIt Knect-A-Shelf 36\"W x 72\"H x 18\"D 5-Shelf Plastic Freestanding Shelving Unit $29.98 You Save: $20.01 with Sale Price & Mail-In Rebate"
+    - button "More Information"
+    - button "Add To Cart"
+  - listitem:
+    - text: "32 Gallon Trash Can with Lid $9.99 You Save: $7.98 with Sale Price & Mail-In Rebate"
+    - button "More Information"
+    - button "Add To Cart"
+  - listitem:
+    - text: "Smart Electrician 3200 Lumen 46\" LED Shop Light $9.99 You Save: $8.00 with Sale Price & Mail-In Rebate"
+    - button "More Information"
+    - button "Add To Cart"
+  - button "Next":
+    - img
+    - text: Next
+  - button "Previous":
+    - img
+    - text: Previous
+  - listitem:
+    - text: "Tuscany Jensen One-Handle Pull-Down Kitchen Faucet $114.98 You Save: $23.02 with Sale Price & Mail-In Rebate"
+    - button "More Information"
+    - button "Add To Cart"
+  - listitem:
+    - text: "Smart Electrician 9' 16/3 3-Outlet Light-Duty Orange Extension Cord $3.99 You Save: $6.00 with Sale Price & Mail-In Rebate"
+    - button "More Information"
+    - button "Add To Cart"
+  - listitem:
+    - text: "Performax 26-1/2\"W x 35-3/4\"H x 18-1/4\"D Base Garage Storage Cabinet $186.89 You Save: $38.10 with Sale Price & Mail-In Rebate"
+    - button "More Information"
+    - button "Add To Cart"
+  - listitem:
+    - text: "Moen Host 3/4 HP Garbage Disposal Non-Final Price: $143.11 View Mail-In Rebate Amount in Cart"
+    - button "More Information"
+    - button "Add To Cart"
+  - listitem:
+    - text: "Keter 44.5\" x 18.9\" Artemis Elevated Garden Bed $99.99 You Save: $30.00 with Sale Price & Mail-In Rebate"
+    - button "More Information"
+    - button "Add To Cart"
+  - listitem:
+    - text: "Enchanted Garden Sunflower Seeds Wild Bird Food - 20 lb $14.99 You Save: $4.00 with Sale Price & Mail-In Rebate"
+    - button "More Information"
+    - button "Add To Cart"
+  - button "Next":
+    - img
+    - text: Next
+  - text: 11% off all flooring! MS International brand Hillside Latte Foam and Hillside Ombre Greige flooring for $1.99 per square foot after rebate. Sold in 19.02 square foot cartons. Click to shop. 11% off all flooring! MS International brand Hillside Latte Foam and Hillside Ombre Greige flooring for $1.99 per square foot after rebate. Sold in 19.02 square foot cartons. Click to shop. Shop Lumber Shop Doors Shop Lighting Shop Lumber Shop Doors Shop Lighting 11% off all NIBCO brand valves! Click to shop NIBCO 1- and 2-piece lead-free bronze ball valves. 11% off all NIBCO brand valves! Click to shop NIBCO 1- and 2-piece lead-free bronze ball valves. Upgrade Your Home and Save 11%! Siding Garage Doors Appliances 11% off staples. Gardner Bender brand 3/4-inch plastic wire staples, 250 pack, for $7.29 and 3/4-inch plastic wire staples, 100 pack, for $4.29. Click to shop. 11% off staples. Gardner Bender brand 3/4-inch plastic wire staples, 250 pack, for $7.29 and 3/4-inch plastic wire staples, 100 pack, for $4.29. Click to shop. Save 11% on a full kitchen remodel with Oland white L-shaped cabinets from Klearvue Cabinetry for $1,999 after rebate. Click to shop. Save 11% on a full kitchen remodel with Oland white L-shaped cabinets from Klearvue Cabinetry for $1,999 after rebate. Click to shop. These DIY'ers got inspired and upgraded their homes. So can you! All the tools & materials you need can be found at Menards. Back Patio Oasis - Project by Jamie in Marshall, MO Patio & Walkway Pavers - Project by Mario in Bolingbrook, IL
+  - button
+  - button
+  - img "Back Patio Oasis - Project by Jamie in Marshall, MO - slide 1 of 2"
+  - text: Back Patio Oasis - Project by Jamie in Marshall, MO
+  - img "Patio & Walkway Pavers - Project by Mario in Bolingbrook, IL - slide 2 of 2"
+  - text: "Patio & Walkway Pavers - Project by Mario in Bolingbrook, IL Discover more projects. Only at Menards: Backyard Creations Only at Menards: Masterforce Only at Menards: Master Garden Only at Menards: Yardworks Featured Categories Spring Savings Spring Savings Outdoor Power Equipment Outdoor Power Equipment Appliances Appliances Heating & Cooling Heating & Cooling Lighting Lighting Pet Supplies Pet Supplies Smart Home Smart Home Security Security Paint & Stain Paint & Stain Building Materials Building Materials Door Store Door Store Window Store Window Store Bath Bath Kitchen Kitchen UCreate Cabinetry Planner CRAT Designer Flooring Flooring Plumbing Plumbing Housewares Housewares View our weekly ad Ray's List Clearance & Bargains. Find BIG savings on limited-time offers, closeouts, open box, and clearance items from your Menards store. See if you're pre-approved without affecting your credit score. 2% rebate every day or Special financing offers. Learn More See if you're pre-approved without affecting your credit score. 2% rebate every day or Special financing offers. Learn More Recommended for You *Mail-in Rebate. Rebate is in the form of merchandise credit check."
+  - dialog:
+    - button:
+      - img
+    - button "Close"
+  - dialog:
+    - button:
+      - img
+- contentinfo: Help Center Sign up & Save BIG Careers Use our App! Sell to Us! Affiliated Websites Midwest Manufacturing Real Estate Nail Plant Menards Transportation Menards Self Storage Business Opportunities Contractor Hauling Suppliers & Service Providers Company Information About Us Site Map Departments Appliances Bath Building Materials Doors, Windows & Millwork Electrical Flooring & Rugs Grocery & Home Hardware Heating & Cooling Kitchen Lighting & Ceiling Fans Outdoors Paint Pet & Wildlife Plumbing Storage & Organization Tools Help Project Center Project Center Buying Guides Design & Buy Garden Center Make It with Menards My Lists How-To Videos Facebook Twitter Instagram Pinterest YouTube About Us Site Map Accessibility Statement Privacy Statement Terms Security California Transparency in Supply Chains Act Disclosure California Privacy Rights Your Privacy Choices 2004-2023 Menard, Inc. All Rights Reserved.
+- text: Make Your Dream A Reality With Menards Design & Buy +
+- button:
+  - listbox:
+    - option "Yard Building Yard Building":
+      - img "Yard Building"
+      - text: Yard Building
+    - option "Landscape Landscape":
+      - img "Landscape"
+      - text: Landscape
+    - option "Residential Post Frame Residential Post Frame":
+      - img "Residential Post Frame"
+      - text: Residential Post Frame
+    - option "Deck Deck":
+      - img "Deck"
+      - text: Deck
+    - option "Post Frame Post Frame":
+      - img "Post Frame"
+      - text: Post Frame
+    - option "Trusses Trusses":
+      - img "Trusses"
+      - text: Trusses
+    - option "Garage Garage":
+      - img "Garage"
+      - text: Garage
+    - option "Garage Door Garage Door":
+      - img "Garage Door"
+      - text: Garage Door
+    - option "Window Window":
+      - img "Window"
+      - text: Window
+    - option "Your Door, Your Way Your Door, Your Way":
+      - img "Your Door, Your Way"
+      - text: Your Door, Your Way
+    - option "Countertop Countertop":
+      - img "Countertop"
+      - text: Countertop
+    - option "Cabinets Cabinets":
+      - img "Cabinets"
+      - text: Cabinets
+- button

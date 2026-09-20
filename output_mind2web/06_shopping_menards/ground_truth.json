@@ -1,0 +1,21 @@
+{
+  "task": "mind2web-element-identification",
+  "source": "Shopping/menards",
+  "domain": "Shopping",
+  "website": "menards",
+  "confirmed_task": "Look for the cheapest led smart home indoor strip lighting, add it to the cart, and schedule the delivery.",
+  "target_role": "button",
+  "target_operation": "HOVER",
+  "questions": [
+    {
+      "id": "element",
+      "question": "You are a web agent. Task: \"Look for the cheapest led smart home indoor strip lighting, add it to the cart, and schedule the delivery.\". Which element should be used to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Departments"
+    },
+    {
+      "id": "actiontype",
+      "question": "You are a web agent. Task: \"Look for the cheapest led smart home indoor strip lighting, add it to the cart, and schedule the delivery.\". You have identified the target element: \"Departments\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "HOVER"
+    }
+  ]
+}

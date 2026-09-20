@@ -1,0 +1,110 @@
+[
+  {
+    "structureType": "table",
+    "numRows": 10,
+    "status": "ok",
+    "rawLength": 1518,
+    "cleanedLength": 941,
+    "ariaLength": 1033,
+    "outDir": "/home/peterdinh/Desktop/web-agent-thesis/output_structures/table_010rows"
+  },
+  {
+    "structureType": "table",
+    "numRows": 50,
+    "status": "ok",
+    "rawLength": 4112,
+    "cleanedLength": 3535,
+    "ariaLength": 4421,
+    "outDir": "/home/peterdinh/Desktop/web-agent-thesis/output_structures/table_050rows"
+  },
+  {
+    "structureType": "table",
+    "numRows": 100,
+    "status": "ok",
+    "rawLength": 7375,
+    "cleanedLength": 6798,
+    "ariaLength": 8695,
+    "outDir": "/home/peterdinh/Desktop/web-agent-thesis/output_structures/table_100rows"
+  },
+  {
+    "structureType": "table",
+    "numRows": 195,
+    "status": "ok",
+    "rawLength": 13700,
+    "cleanedLength": 13123,
+    "ariaLength": 16880,
+    "outDir": "/home/peterdinh/Desktop/web-agent-thesis/output_structures/table_195rows"
+  },
+  {
+    "structureType": "list",
+    "numRows": 10,
+    "status": "ok",
+    "rawLength": 1242,
+    "cleanedLength": 665,
+    "ariaLength": 439,
+    "outDir": "/home/peterdinh/Desktop/web-agent-thesis/output_structures/list_010rows"
+  },
+  {
+    "structureType": "list",
+    "numRows": 50,
+    "status": "ok",
+    "rawLength": 3116,
+    "cleanedLength": 2539,
+    "ariaLength": 1953,
+    "outDir": "/home/peterdinh/Desktop/web-agent-thesis/output_structures/list_050rows"
+  },
+  {
+    "structureType": "list",
+    "numRows": 100,
+    "status": "ok",
+    "rawLength": 5479,
+    "cleanedLength": 4902,
+    "ariaLength": 3865,
+    "outDir": "/home/peterdinh/Desktop/web-agent-thesis/output_structures/list_100rows"
+  },
+  {
+    "structureType": "list",
+    "numRows": 195,
+    "status": "ok",
+    "rawLength": 10094,
+    "cleanedLength": 9517,
+    "ariaLength": 7530,
+    "outDir": "/home/peterdinh/Desktop/web-agent-thesis/output_structures/list_195rows"
+  },
+  {
+    "structureType": "divs",
+    "numRows": 10,
+    "status": "ok",
+    "rawLength": 2343,
+    "cleanedLength": 1766,
+    "ariaLength": 288,
+    "outDir": "/home/peterdinh/Desktop/web-agent-thesis/output_structures/divs_010rows"
+  },
+  {
+    "structureType": "divs",
+    "numRows": 50,
+    "status": "ok",
+    "rawLength": 8137,
+    "cleanedLength": 7560,
+    "ariaLength": 1122,
+    "outDir": "/home/peterdinh/Desktop/web-agent-thesis/output_structures/divs_050rows"
+  },
+  {
+    "structureType": "divs",
+    "numRows": 100,
+    "status": "ok",
+    "rawLength": 15400,
+    "cleanedLength": 14823,
+    "ariaLength": 2184,
+    "outDir": "/home/peterdinh/Desktop/web-agent-thesis/output_structures/divs_100rows"
+  },
+  {
+    "structureType": "divs",
+    "numRows": 195,
+    "status": "ok",
+    "rawLength": 29325,
+    "cleanedLength": 28748,
+    "ariaLength": 4234,
+    "outDir": "/home/peterdinh/Desktop/web-agent-thesis/output_structures/divs_195rows"
+  }
+]

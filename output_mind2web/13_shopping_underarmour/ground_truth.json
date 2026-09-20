@@ -1,0 +1,21 @@
+{
+  "task": "mind2web-element-identification",
+  "source": "Shopping/underarmour",
+  "domain": "Shopping",
+  "website": "underarmour",
+  "confirmed_task": "Search for newest girls' training  leggings in size yxl and save the top three results.",
+  "target_role": "menuitem",
+  "target_operation": "HOVER",
+  "questions": [
+    {
+      "id": "element",
+      "question": "You are a web agent. Task: \"Search for newest girls' training  leggings in size yxl and save the top three results.\". Which element should be used to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Kids"
+    },
+    {
+      "id": "actiontype",
+      "question": "You are a web agent. Task: \"Search for newest girls' training  leggings in size yxl and save the top three results.\". You have identified the target element: \"Kids\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "HOVER"
+    }
+  ]
+}

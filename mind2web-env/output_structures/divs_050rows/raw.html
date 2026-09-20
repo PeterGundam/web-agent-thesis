@@ -1,0 +1,223 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8">
+  <title>Country Population (divs, 50 rows)</title>
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 2rem; }
+    table { border-collapse: collapse; width: 100%; max-width: 600px; }
+    th, td { border: 1px solid #ccc; padding: 6px 12px; text-align: left; }
+    th { background: #f0f0f0; }
+    ul { list-style: none; padding: 0; max-width: 600px; }
+    li { border-bottom: 1px solid #ccc; padding: 6px 12px; }
+    .table-header, .row { display: flex; border-bottom: 1px solid #ccc; max-width: 600px; }
+    .cell { flex: 1; padding: 6px 12px; }
+    .table-header { background: #f0f0f0; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h1>List of Countries by Population</h1>
+  <div class="table-header"><div class="cell">Country</div><div class="cell">Population</div></div>
+  <div class="table-body">
+    <div class="row" id="row-22">
+      <div class="cell country">Afghanistan</div>
+      <div class="cell population">247,933,641</div>
+    </div>
+    <div class="row" id="row-21">
+      <div class="cell country">Andorra</div>
+      <div class="cell population">309,220,871</div>
+    </div>
+    <div class="row" id="row-30">
+      <div class="cell country">Antigua and Barbuda</div>
+      <div class="cell population">9,719,135</div>
+    </div>
+    <div class="row" id="row-49">
+      <div class="cell country">Bangladesh</div>
+      <div class="cell population">305,053,433</div>
+    </div>
+    <div class="row" id="row-35">
+      <div class="cell country">Belarus</div>
+      <div class="cell population">142,391,782</div>
+    </div>
+    <div class="row" id="row-39">
+      <div class="cell country">Benin</div>
+      <div class="cell population">194,904,899</div>
+    </div>
+    <div class="row" id="row-5">
+      <div class="cell country">Bhutan</div>
+      <div class="cell population">313,057,291</div>
+    </div>
+    <div class="row" id="row-37">
+      <div class="cell country">Bolivia</div>
+      <div class="cell population">16,125,192</div>
+    </div>
+    <div class="row" id="row-17">
+      <div class="cell country">Burundi</div>
+      <div class="cell population">357,541,087</div>
+    </div>
+    <div class="row" id="row-12">
+      <div class="cell country">Canada</div>
+      <div class="cell population">474,660,108</div>
+    </div>
+    <div class="row" id="row-24">
+      <div class="cell country">Costa Rica</div>
+      <div class="cell population">169,282,793</div>
+    </div>
+    <div class="row" id="row-14">
+      <div class="cell country">Cote d'Ivoire</div>
+      <div class="cell population">141,888,888</div>
+    </div>
+    <div class="row" id="row-7">
+      <div class="cell country">Cyprus</div>
+      <div class="cell population">121,096,257</div>
+    </div>
+    <div class="row" id="row-19">
+      <div class="cell country">Djibouti</div>
+      <div class="cell population">125,857,831</div>
+    </div>
+    <div class="row" id="row-36">
+      <div class="cell country">Fiji</div>
+      <div class="cell population">395,572,145</div>
+    </div>
+    <div class="row" id="row-27">
+      <div class="cell country">Georgia</div>
+      <div class="cell population">495,698,881</div>
+    </div>
+    <div class="row" id="row-4">
+      <div class="cell country">Guatemala</div>
+      <div class="cell population">199,541,280</div>
+    </div>
+    <div class="row" id="row-9">
+      <div class="cell country">Haiti</div>
+      <div class="cell population">417,514,853</div>
+    </div>
+    <div class="row" id="row-31">
+      <div class="cell country">Honduras</div>
+      <div class="cell population">442,286,072</div>
+    </div>
+    <div class="row" id="row-23">
+      <div class="cell country">India</div>
+      <div class="cell population">455,407,986</div>
+    </div>
+    <div class="row" id="row-34">
+      <div class="cell country">Ireland</div>
+      <div class="cell population">477,278,549</div>
+    </div>
+    <div class="row" id="row-42">
+      <div class="cell country">Italy</div>
+      <div class="cell population">6,841,820</div>
+    </div>
+    <div class="row" id="row-46">
+      <div class="cell country">Japan</div>
+      <div class="cell population">193,290,123</div>
+    </div>
+    <div class="row" id="row-32">
+      <div class="cell country">Kenya</div>
+      <div class="cell population">387,364,583</div>
+    </div>
+    <div class="row" id="row-38">
+      <div class="cell country">Kiribati</div>
+      <div class="cell population">130,023,148</div>
+    </div>
+    <div class="row" id="row-3">
+      <div class="cell country">Kuwait</div>
+      <div class="cell population">382,286,844</div>
+    </div>
+    <div class="row" id="row-47">
+      <div class="cell country">Laos</div>
+      <div class="cell population">86,042,245</div>
+    </div>
+    <div class="row" id="row-1">
+      <div class="cell country">Liberia</div>
+      <div class="cell population">194,340,470</div>
+    </div>
+    <div class="row" id="row-20">
+      <div class="cell country">Libya</div>
+      <div class="cell population">63,297,453</div>
+    </div>
+    <div class="row" id="row-48">
+      <div class="cell country">Luxembourg</div>
+      <div class="cell population">493,528,163</div>
+    </div>
+    <div class="row" id="row-40">
+      <div class="cell country">Malawi</div>
+      <div class="cell population">255,076,003</div>
+    </div>
+    <div class="row" id="row-18">
+      <div class="cell country">Malta</div>
+      <div class="cell population">214,263,117</div>
+    </div>
+    <div class="row" id="row-8">
+      <div class="cell country">Marshall Islands</div>
+      <div class="cell population">325,896,990</div>
+    </div>
+    <div class="row" id="row-28">
+      <div class="cell country">Micronesia</div>
+      <div class="cell population">199,897,762</div>
+    </div>
+    <div class="row" id="row-43">
+      <div class="cell country">Montenegro</div>
+      <div class="cell population">410,380,979</div>
+    </div>
+    <div class="row" id="row-25">
+      <div class="cell country">Mozambique</div>
+      <div class="cell population">38,863,618</div>
+    </div>
+    <div class="row" id="row-45">
+      <div class="cell country">Palau</div>
+      <div class="cell population">37,632,908</div>
+    </div>
+    <div class="row" id="row-2">
+      <div class="cell country">Philippines</div>
+      <div class="cell population">450,321,759</div>
+    </div>
+    <div class="row" id="row-29">
+      <div class="cell country">Romania</div>
+      <div class="cell population">163,691,550</div>
+    </div>
+    <div class="row" id="row-15">
+      <div class="cell country">Senegal</div>
+      <div class="cell population">173,159,529</div>
+    </div>
+    <div class="row" id="row-10">
+      <div class="cell country">Singapore</div>
+      <div class="cell population">165,255,401</div>
+    </div>
+    <div class="row" id="row-26">
+      <div class="cell country">Slovakia</div>
+      <div class="cell population">255,122,685</div>
+    </div>
+    <div class="row" id="row-11">
+      <div class="cell country">Suriname</div>
+      <div class="cell population">200,090,856</div>
+    </div>
+    <div class="row" id="row-0">
+      <div class="cell country">Taiwan</div>
+      <div class="cell population">486,704,089</div>
+    </div>
+    <div class="row" id="row-41">
+      <div class="cell country">Tajikistan</div>
+      <div class="cell population">61,508,680</div>
+    </div>
+    <div class="row" id="row-33">
+      <div class="cell country">Thailand</div>
+      <div class="cell population">402,593,557</div>
+    </div>
+    <div class="row" id="row-16">
+      <div class="cell country">Tuvalu</div>
+      <div class="cell population">456,386,188</div>
+    </div>
+    <div class="row" id="row-6">
+      <div class="cell country">Uganda</div>
+      <div class="cell population">290,473,765</div>
+    </div>
+    <div class="row" id="row-13">
+      <div class="cell country">United Arab Emirates</div>
+      <div class="cell population">43,268,711</div>
+    </div>
+    <div class="row" id="row-44">
+      <div class="cell country">United States</div>
+      <div class="cell population">143,098,379</div>
+    </div>
+  </div>
+
+
+</body></html>

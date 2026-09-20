@@ -1,0 +1,10 @@
+{
+  "task": "structure-lookup",
+  "structureType": "table",
+  "numRows": 10,
+  "seed": 42,
+  "targetCountry": "Haiti",
+  "targetPopulation": 417514853,
+  "targetRowId": "row-9",
+  "question": "What is the population of Haiti?"
+}

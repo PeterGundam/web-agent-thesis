@@ -1,0 +1,21 @@
+{
+  "task": "mind2web-element-identification",
+  "source": "Shopping/gamestop",
+  "domain": "Shopping",
+  "website": "gamestop",
+  "confirmed_task": "find kinect camera for xbox one.",
+  "target_role": "searchbox",
+  "target_operation": "TYPE: kinect camera",
+  "questions": [
+    {
+      "id": "element",
+      "question": "You are a web agent. Task: \"find kinect camera for xbox one.\". Which element should be used to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Search games, consoles & more"
+    },
+    {
+      "id": "actiontype",
+      "question": "You are a web agent. Task: \"find kinect camera for xbox one.\". You have identified the target element: \"Search games, consoles & more\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "TYPE: kinect camera"
+    }
+  ]
+}

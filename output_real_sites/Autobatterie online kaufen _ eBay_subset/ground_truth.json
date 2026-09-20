@@ -1,0 +1,17 @@
+{
+  "task": "real-world-manual",
+  "source": "Autobatterie online kaufen _ eBay",
+  "numItems": 8,
+  "questions": [
+    {
+      "id": "cheapest",
+      "question": "Which product is the cheapest (has the lowest price)? Answer with ONLY the product name, nothing else.",
+      "expectedAnswer": "Autobatterie 55Ah 12V 520A/EN Starter Auto Batterie ersetzt 50Ah 54Ah 52Ah"
+    },
+    {
+      "id": "count",
+      "question": "How many products/items are shown on this page? Answer with ONLY the number, nothing else.",
+      "expectedAnswer": 8
+    }
+  ]
+}

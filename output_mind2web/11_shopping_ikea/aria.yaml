@@ -1,0 +1,388 @@
+- button "Skip to main content"
+- button "Save on home solutions designed with sustainability in mind at the IKEA Earth Month Event! Offers valid 4/11-5/29* NEW! Get Standard Delivery starting at $19. See details."
+- button
+- button "Menu"
+- banner:
+  - search:
+    - combobox "What are you looking for?"
+    - button
+    - text: End of search dropdown.
+  - list:
+    - listitem:
+      - button
+    - listitem: Hej! Log in or sign up
+    - listitem: Track order
+    - listitem: Favorites
+    - listitem: Shopping bag
+    - listitem:
+      - button
+- navigation:
+  - button "Open until 9:00pm Columbus"
+  - button "Deliver to 43235"
+  - list:
+    - listitem: Products
+    - listitem: Marketplace
+    - listitem: Rooms
+    - listitem: Ideas & Inspiration
+    - listitem: Design
+    - listitem: Deals
+- complementary:
+  - button
+  - button "Search"
+  - button
+  - text: Hej! Log in or sign up
+  - navigation:
+    - list:
+      - listitem:
+        - button "Products"
+      - listitem:
+        - button "Marketplace"
+      - listitem:
+        - button "Rooms"
+      - listitem: Ideas & Inspiration
+      - listitem: Design
+      - listitem:
+        - button "Deals"
+      - listitem: New at IKEA
+      - listitem: Gift Ideas
+      - listitem: IKEA Family
+      - listitem: IKEA for Business
+      - listitem: IKEA Gift Registry
+      - listitem: IKEA Food & Swedish restaurant
+    - list:
+      - listitem: My profile
+      - listitem: My orders
+      - listitem: Find your IKEA location
+      - listitem: IKEA Gift Card
+      - listitem: IKEA Credit Card
+      - listitem: Customer Service
+      - listitem: Services
+  - navigation:
+    - list:
+      - listitem: Marketplace
+      - listitem: Series
+      - listitem: Limited collections
+      - listitem: Last Chance
+    - text: Furniture Beds & mattresses Storage & organization Kitchen & appliances Baby & kids Home textiles Home dcor Outdoor Lighting Smart home Kitchenware & tableware Bathroom Rugs Laundry & cleaning Home improvement Plants and planters Summer shop Home electronics IKEA food & Swedish restaurant Pet accessories Working from home
+  - navigation:
+    - list:
+      - listitem: Shop All
+      - listitem: Shop by Category
+      - listitem: Shop by Color
+      - listitem: Shop Styles & Trends
+      - listitem: Featured Shops
+      - listitem: Everyday Rituals
+      - listitem: Store Who You Are
+  - navigation:
+    - list:
+      - listitem: Bedroom
+      - listitem: Living room
+      - listitem: Kitchen & appliances
+      - listitem: Home office
+      - listitem: Bathroom
+      - listitem: Kids room
+      - listitem: Dining
+      - listitem: Hallway
+      - listitem: Outdoor
+      - listitem: Business Solutions
+      - listitem: Laundry
+      - listitem: All Rooms
+  - navigation:
+    - list:
+      - listitem: Appliance deals & offers
+      - listitem: IKEA Family Offers
+      - listitem: Limited Time Offers
+      - listitem: Our Lowest Prices
+      - listitem: New Lower Price
+      - listitem: Home Essentials Under $20
+      - listitem: All offers
+  - text: Change country
+- main:
+  - article:
+    - heading "Welcome to IKEA USA" [level=1]
+    - img "Little girl sitting on bench surrounded by plants."
+    - list:
+      - listitem:
+        - tooltip "New JOLPEN Loveseat, outdoor Previous price $ 109 . 00 $ 87 . 00 Price valid Apr 4, 2023 - May 29, 2023 or while supply lasts go to product page":
+          - text: New
+          - heading "JOLPEN Loveseat, outdoor" [level=3]
+          - text: Previous price $ 109 . 00 $ 87 . 00 Price valid Apr 4, 2023 - May 29, 2023 or while supply lasts go to product page
+      - listitem:
+        - tooltip "New RTBUSKE Vase/watering can $ 16 . 99 go to product page":
+          - text: New
+          - heading "RTBUSKE Vase/watering can" [level=3]
+          - text: $ 16 . 99 go to product page
+    - heading "Celebrate Earth Month with IKEA!" [level=2]
+    - paragraph: We want to make it easier for you to live a more sustainable everyday life at home. Join us for inspiring Earth Day events, special offers on plant-based foods and energy-efficient appliances, exciting new services designed to help you create less waste! Offer valid 3/15 - 5/29*
+    - button "Explore Earth Month offers"
+    - list:
+      - text: Skip listing
+      - button "Buy more save more! Save up to $100 on Outdoor Save now on outdoor furniture! Get $25 off when you spend $250, $50 off when you spend $350, or $100 off when you spend $500. Hurry, offer ends soon! Offer valid online only, 4/16/23-5/2/23":
+        - img "Buy more save more! Save up to $100 on Outdoor"
+        - heading "Save now on outdoor furniture!" [level=3]
+        - text: Get $25 off when you spend $250, $50 off when you spend $350, or $100 off when you spend $500. Hurry, offer ends soon! Offer valid online only, 4/16/23-5/2/23
+      - button
+    - img "Outdoor Furniture and Umbrellas page"
+    - heading "20% off Select Outdoor Furniture and Umbrellas" [level=3]
+    - text: "Be an outdoor optimist! Offer valid: 4/4-5/29/23."
+    - button
+    - img "BONDHOLMEN Outdoor Furniture page"
+    - heading "40% off BONDHOLMEN Outdoor Furniture" [level=3]
+    - text: "Relax and unwind Offer valid: 4/4-5/29/23."
+    - button
+    - img "TARNO Foldable Outdoor Chairs and Tables page"
+    - heading "25% off select TARNO Foldable Outdoor Chairs and Tables" [level=3]
+    - text: "Table for two? Offer valid: 4/4-5/29/23."
+    - button
+    - button
+  - scrollbar
+- heading "Unbeatable low prices" [level=2]
+- list:
+  - text: Skip listing
+  - button "Our weekly offer Deal of the Week! Seize the savings! Don't miss this new weekly deal. MORABO Grann/Bomstad Black Sofa Frames price is regularly $1,349.00 Sale $849.00. Valid 4/17-4/23/23":
+    - img "Our weekly offer"
+    - heading "Deal of the Week!" [level=3]
+    - text: Seize the savings! Don't miss this new weekly deal. MORABO Grann/Bomstad Black Sofa Frames price is regularly $1,349.00 Sale $849.00. Valid 4/17-4/23/23
+  - button
+- img "New lower prices page"
+- list:
+  - listitem:
+    - tooltip "NewLowerPrice SLIBB Flexible laundry basket Previous price $ 6 . 79 $ 5 . 99 Price valid from Mar 14, 2023 go to product page":
+      - text: NewLowerPrice
+      - heading "SLIBB Flexible laundry basket" [level=3]
+      - text: Previous price $ 6 . 79 $ 5 . 99 Price valid from Mar 14, 2023 go to product page
+- heading "New lower prices" [level=3]
+- text: We work hard every day to keep prices as low as possible for you, and we lower prices where we can. By producing in high volumes with smarter designs and flat packaging, we can continue to offer affordable products without compromising quality.
+- button
+- img "Under $20 page"
+- heading "Affordable home essentials under $20" [level=3]
+- text: We are making it even easier to shop and find what you are looking for under $20. Shop our best quality products at an affordable price.
+- button
+- img "Lowest price page"
+- heading "Fresh styles, low prices" [level=3]
+- text: Shop our lowest priced furnishings, from lamps to loveseats.
+- button
+- button:
+  - scrollbar
+- heading "IKEA Family members save 5% in-store on all furniture and dcor" [level=2]
+- paragraph: Members save more every day, every visit! You now save 5% off in-store on all furniture and dcor* and on select delivery options**. Plus, you get special offers, free in-store perks, price protection, and more. Its free to join, and youll be saving in no time. *Some restrictions apply, see full Terms & Conditions .
+- paragraph: Already a member? Login now .
+- button "Join for free"
+- heading "Right now at IKEA" [level=2]
+- list:
+  - text: Skip listing
+  - button "Taskrabbit page $20 off assembly for first time users Learn more about how Taskrabbit can conveniently assemble your new furniture and take care of your other to-do's. Use code OUTDOOR20. Offer Valid 04/10-05/31.":
+    - img "Taskrabbit page"
+    - heading "$20 off assembly for first time users" [level=3]
+    - text: Learn more about how Taskrabbit can conveniently assemble your new furniture and take care of your other to-do's. Use code OUTDOOR20. Offer Valid 04/10-05/31.
+  - button
+- img "Interior design services page"
+- heading "NEW! IKEA Interior Design Service" [level=3]
+- text: You can do it yourself, but you dont have to. Book a virtual appointment with a professional interior designer today for only $99/room!
+- button
+- img "As-is page"
+- heading "The As-is section is now online!" [level=3]
+- text: IKEA Family members, it's now easier than ever to browse and shop your local stores' As-is section of gently used furniture, discontinued items and affordable furnishings online. Happy As-is shopping!
+- button
+- img "IKEA Kreativ page"
+- heading "Step into the future with IKEA Kreativ" [level=3]
+- text: Plan your space in 3D to see what your favorite furnishings will look like in your home!
+- button
+- button:
+  - scrollbar
+- img "The OMSESIDIG collection page"
+- heading "The MSESIDIG collection" [level=2]
+- paragraph: We've brought nine Latin American creatives together to bring you MSESIDIG - a collection about celebrating the good things in life - food, friends, family, and fun!
+- button "Shop the collection"
+- heading "Live your best al fresco life" [level=2]
+- paragraph: Get your outdoor space ready to enjoy meals in the sun and under the stars with affordable outdoor dining furniture, grills, plants, lighting and more.
+- button "Shop outdoor furniture"
+- img "Outdoor furniture"
+- img "Tray with food on it"
+- img "Outdoor chairs"
+- img "Serving trays"
+- img "Outdoor lighting"
+- text: Shop outdoor furniture
+- heading "Popular categories" [level=2]:
+  - strong: Popular categories
+- img "Shop sofas and sectionals"
+- paragraph: Sofas & Sectionals
+- img "Shop beds and mattresses"
+- paragraph: Beds & Mattresses
+- img "Shop bookcases and shelving units"
+- paragraph: Bookcases & Shelving
+- img "Shop TV and media furniture"
+- paragraph: TV & Media Furniture
+- img "Shop storage and organization"
+- paragraph: Storage & Organization
+- img "Shop tables and desks"
+- paragraph: Tables & Desks
+- img "Shop lighting"
+- paragraph: Lighting
+- img "Shop bathroom items"
+- paragraph: Bathroom
+- img "Shop rugs"
+- paragraph: Rugs
+- img "Shop armoires and wardrobes"
+- paragraph: Dressers
+- img "Shop baby and kids"
+- paragraph: Children & Nursery
+- img "Shop cookware and tablewares"
+- paragraph: Cookware & Tableware
+- img "Shop kitchen and appliances"
+- paragraph: Appliances
+- img "Shop home decor"
+- paragraph: Home Dcor
+- img "Shop deals"
+- paragraph: Deals
+- list:
+  - listitem:
+    - img "Shop sofas and sectionals"
+    - text: Sofas & Sectionals
+  - listitem:
+    - img "Shop beds and mattresses"
+    - text: Beds & Mattresses
+  - listitem:
+    - img "Shop bookcases and shelving units"
+    - text: Bookcases & Shelving
+  - listitem:
+    - img "Shop TV and media furniture"
+    - text: TV & Media Furniture
+  - listitem:
+    - img "Shop storage and organization"
+    - text: Storage & Organization
+- region:
+  - list:
+    - listitem:
+      - img "Shop tables and desks"
+      - text: Tables & Desks
+    - listitem:
+      - img "Shop lighting"
+      - text: Lighting
+    - listitem:
+      - img "Shop bathroom items"
+      - text: Bathroom
+    - listitem:
+      - img "Shop rugs"
+      - text: Rugs
+    - listitem:
+      - img "Shop armoires and wardrobes"
+      - text: Dressers
+    - listitem:
+      - img "Shop baby and kids"
+      - text: Children & Nursery
+    - listitem:
+      - img "Shop cookware and tablewares"
+      - text: Cookware & Tableware
+    - listitem:
+      - img "Shop kitchen and appliances"
+      - text: Appliances
+    - listitem:
+      - img "Shop home decor"
+      - text: Home Dcor
+    - listitem:
+      - img "Shop deals"
+      - text: Deals
+- button "View all categories"
+- button "Learn more"
+- heading "Services to help you shop" [level=2]
+- heading "Delivery" [level=3]
+- paragraph: Shop from home and get it delivered to your front door.
+- text: Learn more
+- heading "Click & Collect" [level=3]
+- paragraph: Buy online, pick-up in store.
+- text: Learn more
+- heading "Taskrabbit Assembly" [level=3]
+- paragraph: Find flexible and affordable ways to get your to-dos done.
+- text: Learn more
+- heading "Ways to pay" [level=3]
+- paragraph: Finance your dream home with our credit cards.
+- text: Learn more
+- button "View all services"
+- text: "As seen on Instagram See how our products look in real homes! Share your photos on Instagram with #MyIKEAUSA or tag @IKEAUSA for a chance to be seen here! Skip visual ugc carousel content"
+- button "A photo of homepage by instagram user davda_id A photo of homepage by instagram user afaf.interior A photo of homepage by instagram user brooke_on_trails A photo of homepage by instagram user admittedlyimperfect A photo of homepage by instagram user an.ode.to.life A photo of homepage by instagram user maybecoton A photo of homepage by instagram user coffeewithabby A photo of homepage by instagram user mrs.jayp A photo of homepage by instagram user hastaakshar._by_.pallavi A photo of homepage by instagram user willyoudiy":
+  - img "A photo of homepage by instagram user davda_id"
+  - img "A photo of homepage by instagram user afaf.interior"
+  - img "A photo of homepage by instagram user brooke_on_trails"
+  - img "A photo of homepage by instagram user admittedlyimperfect"
+  - img "A photo of homepage by instagram user an.ode.to.life"
+  - img "A photo of homepage by instagram user maybecoton"
+  - img "A photo of homepage by instagram user coffeewithabby"
+  - img "A photo of homepage by instagram user mrs.jayp"
+  - img "A photo of homepage by instagram user hastaakshar._by_.pallavi"
+  - img "A photo of homepage by instagram user willyoudiy"
+- button
+- scrollbar
+- dialog:
+  - button "Featured on Instagram"
+- heading "Design inspiration and modern home ideas" [level=2]
+- button
+- button "All"
+- button "Bedroom"
+- button "Living room"
+- button "Kitchen"
+- button "Workspace"
+- button "Outdoor"
+- button "Bathroom"
+- button "Kids room"
+- button "Dining room"
+- button "Hallway"
+- button "Laundry"
+- button "Bundles"
+- button
+- text: Skip listing
+- img "Outdoor featuring a white LUNGN privacy screen placed behind a table that supports a green VARMBLIXT serving bowl with lid."
+- button "Add to favorites"
+- img "A table decorated and set for Easter with IKEA 365+ tableware, ROSENHTTA napkins and coloured eggs hanging from plant twigs."
+- button "Add to favorites"
+- img "A rustic wooden table top with dried flowers, photographs, straw, a bowl, a wooden spoon, fork and chopping board on top."
+- button "Add to favorites"
+- img "A white shelving unit, a white/black storage basket with dinosaur toys, clear jars with paint tubes, a white table lamp."
+- button "Add to favorites"
+- img "A white SMGRA changing table with a baby lying on it ready to be changed. A small girl is standing on a stool looking on."
+- button "Add to favorites"
+- img "Baby and children room featuring a person next to a beige frame made of wood storing multiple white boxes with lid."
+- button "Add to favorites"
+- img "Modern workspace close-up of a white drawer unit with transparent drawers underneath a rectangular table supporting a vase."
+- button "Add to favorites"
+- img "A SVALLET work lamp in dark grey and white on a yellow display stand."
+- button "Add to favorites"
+- img "An ENKELSPRIG water bottle, HALVVARM food container, KALAS tumblers are on a white KLIPSK bed tray for snack time."
+- button "Add to favorites"
+- img "A white KLEPPSTAD sliding-door wardrobe, half open to reveal colourful clothing, with white storage boxes on top."
+- button "Add to favorites"
+- img "A SLATTUM upholstered bed frame in Knisa light grey has white bed linen and an off-white throw. It is against a white wall."
+- button "Add to favorites"
+- img "Living room with a two-seat sofa with a golden-yellow cushion, and a side table on castors set a flatwoven rug."
+- button "Add to favorites"
+- button "Load 12 more"
+- group:
+  - img "Link to Chest and Dresser Recall"
+- paragraph:
+  - strong: IKEA Chest and Dresser Safety Recall
+- button "Learn more"
+- group:
+  - img "Link to BLVINGAD recall"
+- paragraph:
+  - strong: IKEA recalls BLVINGAD fishing game
+- button "Learn More"
+- heading "This is IKEA" [level=2]
+- paragraph:
+  - strong: Sustainable everyday
+- paragraph: How sustainable is IKEA? Well, more sustainable every day. With products like veggie hot dogs, and energy-saving solutions, were paving the way for more sustainable homes for the many.
+- paragraph: Learn more
+- paragraph:
+  - strong: Climate and environment
+- paragraph: Find out how IKEA invests, inspires and acts to tackle environmental issues, reduce carbon footprints and drive positive change on a global scale.
+- paragraph: Learn more
+- paragraph:
+  - strong: Work with us
+- paragraph: Coming from all over the world, our IKEA co-workers share a special set of values and a vision to enable people to live a better, more sustainable everyday life. They come together within diverse, inclusive, open IKEA work environments, where each of them offers something unique.
+- paragraph: Learn more
+- heading "Furniture and inspiration for a better everyday life at home" [level=2]
+- paragraph: Welcome to IKEA, where you will always find affordable furniture , stylish home dcor and innovative modern home solutions, as well as design inspiration and unique home ideas! If you are online furniture shopping or if you are visiting a local IKEA store near you, you can expect super low prices on a wide variety of exciting home essentials that are perfect for larger homes and small space living.
+- paragraph: If you want to save even more money when you are shopping at IKEA, be sure to join IKEA Family so you can take advantage of our regular furniture sales, amazing deals on home furnishings and special offers on home accessories. Get ready for big savings whether you are refreshing your space with small upgrades, like new curtains or sheets, or planning bigger home renovation projects, like remodeling your kitchen or doing a DIY bathroom makeover!
+- paragraph: So, now you are probably wondering, How do I find an IKEA furniture store near me? Check out the IKEA Store Locator and we hope to see you soon! IKEA also has many new ways to shop. Want to shop online from the comfort of your sofa? No problem, weve made shopping online at IKEA easier than ever. Browse our full store experience online to find affordable home goods for every room, including home office , living room , kitchen , bathroom , bedroom and outdoor furniture , and get deliveries straight to your doorstep! We also offer Click-and-collect where you can buy online and pick-up in store for even faster and easier shopping.
+- button "Back to top"
+- button "Share"
+- contentinfo

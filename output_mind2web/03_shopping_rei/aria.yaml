@@ -1,0 +1,2131 @@
+- banner:
+  - list:
+    - listitem: REI Accessibility Statement
+    - listitem: Skip to main content
+    - listitem: Skip to Shop REI categories
+  - navigation:
+    - list:
+      - listitem: Shop REI
+      - listitem: REI Outlet
+      - listitem: Used Gear
+      - listitem: Trade In
+      - listitem: REI Adventures
+      - listitem: Classes & Events
+      - listitem: Expert Advice
+      - listitem: Uncommon Path
+      - listitem: Membership
+  - img "REI Co-op, Go to REI.com Home Page"
+  - text: Shop
+  - search:
+    - combobox:
+      - searchbox "search input field"
+      - button "Clear Search"
+    - button "Search"
+    - button "Cancel"
+  - list:
+    - listitem:
+      - button "My REI Find your store Open select my store":
+        - img
+        - img
+        - text: My REI Find your store Open select my store
+    - listitem:
+      - button "Hi, James":
+        - img
+        - text: Hi, James
+    - listitem: Cart
+    - listitem:
+      - button "Open menu"
+      - button "Close menu"
+  - navigation:
+    - list:
+      - listitem: Hi, James Sign Out
+      - listitem:
+        - button "Camp & Hike"
+        - text: Explore Camp & Hike
+        - list:
+          - listitem:
+            - button "Camp & Hike"
+          - listitem: Explore Camp & Hike
+          - listitem:
+            - text: Backpacks
+            - list:
+              - listitem:
+                - button "Backpacks"
+              - listitem: Explore Backpacks
+              - listitem: Backpacking Packs
+              - listitem: Day Packs
+              - listitem: Hydration Packs
+              - listitem: Baby Carrier Packs
+              - listitem: Waist Packs
+              - listitem: Accessories
+          - listitem:
+            - text: Tents
+            - list:
+              - listitem:
+                - button "Tents"
+              - listitem: Explore Tents
+              - listitem: Backpacking Tents
+              - listitem: Camping Tents
+              - listitem: Roof-top Tents
+              - listitem: Shelters
+              - listitem: Bivy Sacks
+              - listitem: Accessories
+          - listitem:
+            - text: Sleeping Bags
+            - list:
+              - listitem:
+                - button "Sleeping Bags"
+              - listitem: Explore Sleeping Bags
+              - listitem: Men's
+              - listitem: Women's
+              - listitem: Double
+              - listitem: Kids'
+              - listitem: Bag Liners
+              - listitem: Blankets
+          - listitem:
+            - text: Pads & Hammocks
+            - list:
+              - listitem:
+                - button "Pads & Hammocks"
+              - listitem: Explore Pads & Hammocks
+              - listitem: Sleeping Pads
+              - listitem: Hammocks
+              - listitem: Cots
+              - listitem: Air Mattresses
+              - listitem: Pillows
+          - listitem:
+            - text: Hiking Footwear
+            - list:
+              - listitem:
+                - button "Hiking Footwear"
+              - listitem: Explore Hiking Footwear
+              - listitem: Men's
+              - listitem: Women's
+              - listitem: Kids'
+              - listitem: Hiking Socks
+              - listitem: Leg Gaiters
+          - listitem:
+            - text: Hiking Clothing
+            - list:
+              - listitem:
+                - button "Hiking Clothing"
+              - listitem: Explore Hiking Clothing
+              - listitem: Jackets
+              - listitem: Shirts
+              - listitem: Pants
+              - listitem: Shorts
+              - listitem: Hats & Accessories
+              - listitem: Sunglasses
+          - listitem:
+            - text: Camp Kitchen
+            - list:
+              - listitem:
+                - button "Camp Kitchen"
+              - listitem: Explore Camp Kitchen
+              - listitem: Stoves, Grills & Fuel
+              - listitem: Cookware & Dinnerware
+              - listitem: Food
+              - listitem: Coffee & Tea
+              - listitem: Utensils
+              - listitem: Coolers
+          - listitem:
+            - text: Camp Furniture
+            - list:
+              - listitem:
+                - button "Camp Furniture"
+              - listitem: Explore Camp Furniture
+              - listitem: Chairs
+              - listitem: Tables
+              - listitem: Fire Pits
+          - listitem:
+            - text: Water
+            - list:
+              - listitem:
+                - button "Water"
+              - listitem: Explore Water
+              - listitem: Glasses, Cups & Mugs
+              - listitem: Water Bottles
+              - listitem: Water Treatment
+              - listitem: Hydration Reservoirs
+              - listitem: Thermoses
+          - listitem:
+            - text: Lighting
+            - list:
+              - listitem:
+                - button "Lighting"
+              - listitem: Explore Lighting
+              - listitem: Headlamps
+              - listitem: Flashlights
+              - listitem: Lanterns
+          - listitem:
+            - text: Electronics
+            - list:
+              - listitem:
+                - button "Electronics"
+              - listitem: Explore Electronics
+              - listitem: GPS
+              - listitem: Solar Chargers
+              - listitem: Portable Power
+              - listitem: PLB & Satellite Messengers
+              - listitem: Watches
+              - listitem: Two-Way Radios
+          - listitem:
+            - text: Health & Safety
+            - list:
+              - listitem:
+                - button "Health & Safety"
+              - listitem: Explore Health & Safety
+              - listitem: Camp Bathroom
+              - listitem: Emergency & Survival
+              - listitem: First Aid
+              - listitem: Bear Safety Gear
+              - listitem: Fire Starting Gear
+          - listitem:
+            - text: Gadgets & Gear
+            - list:
+              - listitem:
+                - button "Gadgets & Gear"
+              - listitem: Explore Gadgets & Gear
+              - listitem: Trekking Poles
+              - listitem: Knives
+              - listitem: Binoculars
+              - listitem: Compasses
+              - listitem: Multi-Tools
+              - listitem: Camp Tools
+              - listitem: Storage & Maintenance
+              - listitem: Dog Gear
+              - listitem: Games & Toys
+              - listitem: Books and Maps
+          - listitem:
+            - text: Camp & Hike Deals
+            - list:
+              - listitem:
+                - button "Camp & Hike Deals"
+              - listitem: Explore Camp & Hike Deals
+              - listitem: Tent Deals
+              - listitem: Sleeping Bag Deals
+              - listitem: Backpack Deals
+          - listitem:
+            - list:
+              - listitem: New Arrivals
+              - listitem: Sale & Clearance
+              - listitem: New Colors! YETI
+              - listitem: Top-Rated Camping Gear
+        - list:
+          - list:
+            - listitem: New Arrivals
+            - listitem: Sale & Clearance
+            - listitem: New Colors! YETI
+            - listitem: Top-Rated Camping Gear
+          - listitem: Expert Advice
+          - listitem: Used Gear
+          - listitem: Classes & Events
+          - listitem: New REI Adventures Trips
+      - listitem:
+        - button "Climb"
+        - text: Explore Climb
+        - list:
+          - listitem:
+            - button "Climb"
+          - listitem: Explore Climb
+          - listitem:
+            - text: Climbing Shoes
+            - list:
+              - listitem:
+                - button "Climbing Shoes"
+              - listitem: Explore Climbing Shoes
+              - listitem: Mens Climbing
+              - listitem: Men's Approach
+              - listitem: Women's Climbing
+              - listitem: Women's Approach
+          - listitem:
+            - text: Climbing Harnesses
+            - list:
+              - listitem:
+                - button "Climbing Harnesses"
+              - listitem: Explore Climbing Harnesses
+              - listitem: Mens
+              - listitem: Womens
+              - listitem: Kids'
+          - listitem:
+            - text: Climbing Ropes
+            - list:
+              - listitem:
+                - button "Climbing Ropes"
+              - listitem: Explore Climbing Ropes
+              - listitem: Single Ropes
+              - listitem: Static & Rescue
+              - listitem: Half Ropes
+              - listitem: Twin Ropes
+              - listitem: Rope Bags
+          - listitem:
+            - text: Hardware
+            - list:
+              - listitem:
+                - button "Hardware"
+              - listitem: Explore Hardware
+              - listitem: Carabiners
+              - listitem: Climbing Protection
+              - listitem: Quickdraws
+              - listitem: Belay & Rappel
+              - listitem: Pulleys
+              - listitem: Ascenders & Descenders
+          - listitem:
+            - text: Essentials
+            - list:
+              - listitem:
+                - button "Essentials"
+              - listitem: Explore Essentials
+              - listitem: Chalk & Chalk Bags
+              - listitem: Packs
+              - listitem: Helmets
+              - listitem: Holds
+              - listitem: Training Gear
+              - listitem: Bouldering Crash Pads
+          - listitem:
+            - text: Climbing Clothing
+            - list:
+              - listitem:
+                - button "Climbing Clothing"
+              - listitem: Explore Climbing Clothing
+              - listitem: Mens Rock
+              - listitem: Mens Mountaineering
+              - listitem: Womens Rock
+              - listitem: Women's Mountaineering
+              - listitem: Climbing Gloves
+          - listitem:
+            - text: Mountaineering
+            - list:
+              - listitem:
+                - button "Mountaineering"
+              - listitem: Explore Mountaineering
+              - listitem: Crampons
+              - listitem: Ice Axes & Tools
+              - listitem: Mountaineering Boots
+              - listitem: Mountaineering Tents
+              - listitem: Snow & Ice Protection
+          - listitem:
+            - text: Webbing & Cords
+            - list:
+              - listitem:
+                - button "Webbing & Cords"
+              - listitem: Explore Webbing & Cords
+              - listitem: Cords
+              - listitem: Slings
+              - listitem: Webbing
+              - listitem: Slacklines
+          - listitem:
+            - text: Climbing Deals
+            - list:
+              - listitem:
+                - button "Climbing Deals"
+              - listitem: Explore Climbing Deals
+              - listitem: Climbing Shoe Deals
+              - listitem: Mountaineering Deals
+          - listitem:
+            - list:
+              - listitem: New Arrivals
+              - listitem: Sale & Clearance
+              - listitem: Top-Rated Gear
+              - listitem: Shop All Climb
+        - list:
+          - list:
+            - listitem: New Arrivals
+            - listitem: Sale & Clearance
+            - listitem: Top-Rated Gear
+            - listitem: Shop All Climb
+          - listitem: Expert Advice
+          - listitem: Used Gear
+          - listitem: Classes
+          - listitem: REI Adventures Trips
+      - listitem:
+        - button "Cycle"
+        - text: Explore Cycle
+        - list:
+          - listitem:
+            - button "Cycle"
+          - listitem: Explore Cycle
+          - listitem:
+            - text: Bikes
+            - list:
+              - listitem:
+                - button "Bikes"
+              - listitem: Explore Bikes
+              - listitem: Mountain Bikes
+              - listitem: Road Bikes
+              - listitem: Hybrid Bikes
+              - listitem: Electric Bikes
+              - listitem: Kids' Bikes
+              - listitem: Specialty Bikes
+          - listitem:
+            - text: Bike Helmets
+            - list:
+              - listitem:
+                - button "Bike Helmets"
+              - listitem: Explore Bike Helmets
+              - listitem: Mountain
+              - listitem: Road
+              - listitem: Kids'
+              - listitem: Recreational
+          - listitem:
+            - text: Cycling Clothing
+            - list:
+              - listitem:
+                - button "Cycling Clothing"
+              - listitem: Explore Cycling Clothing
+              - listitem: Jackets
+              - listitem: Jerseys
+              - listitem: Shorts
+              - listitem: Tights & Pants
+              - listitem: Accessories
+          - listitem:
+            - text: Cycling Shoes
+            - list:
+              - listitem:
+                - button "Cycling Shoes"
+              - listitem: Explore Cycling Shoes
+              - listitem: Mountain
+              - listitem: Road
+              - listitem: City
+              - listitem: Indoor
+              - listitem: Cleats
+              - listitem: Cycling Socks
+          - listitem:
+            - text: Bike Components
+            - list:
+              - listitem:
+                - button "Bike Components"
+              - listitem: Explore Bike Components
+              - listitem: Pedals
+              - listitem: Tires
+              - listitem: Wheels
+              - listitem: Drivetrain Components
+              - listitem: Handlebars
+              - listitem: Brakes
+              - listitem: Saddles
+          - listitem:
+            - text: Bike Racks
+            - list:
+              - listitem:
+                - button "Bike Racks"
+              - listitem: Explore Bike Racks
+              - listitem: Hitch
+              - listitem: Roof
+              - listitem: Trunk
+              - listitem: Truck Bed
+              - listitem: Bike Storage Racks
+          - listitem:
+            - text: Packs, Bags & Trailers
+            - list:
+              - listitem:
+                - button "Packs, Bags & Trailers"
+              - listitem: Explore Packs, Bags & Trailers
+              - listitem: Panniers & On-Bike Packs
+              - listitem: Backpacks & Bags
+              - listitem: Bike Trailers
+              - listitem: Kids Trailers
+              - listitem: Bike Cargo Racks
+          - listitem:
+            - text: Tools & Maintenance
+            - list:
+              - listitem:
+                - button "Tools & Maintenance"
+              - listitem: Explore Tools & Maintenance
+              - listitem: Bike Tools
+              - listitem: Repair Stands
+              - listitem: Lubricants & Cleaners
+          - listitem:
+            - text: Bike Accessories
+            - list:
+              - listitem:
+                - button "Bike Accessories"
+              - listitem: Explore Bike Accessories
+              - listitem: Locks
+              - listitem: Lights
+              - listitem: Pumps
+              - listitem: Fenders
+              - listitem: Computers
+              - listitem: Water Bottles
+              - listitem: Child Bike Seats
+          - listitem:
+            - text: Indoor Cycling
+            - list:
+              - listitem:
+                - button "Indoor Cycling"
+              - listitem: Explore Indoor Cycling
+              - listitem: Shoes
+              - listitem: Trainers & Simulators
+              - listitem: Trainer Accessories
+          - listitem:
+            - text: Cycling Deals
+            - list:
+              - listitem:
+                - button "Cycling Deals"
+              - listitem: Explore Cycling Deals
+              - listitem: Bike Deals
+              - listitem: Cycling Clothing Deals
+              - listitem: Bike Accessories Deals
+          - listitem:
+            - list:
+              - listitem: New Arrivals
+              - listitem: Sale & Clearance
+              - listitem: Up to 30% off Select Bikes
+              - listitem: Shop Co-op Cycles Gen-E Bikes
+              - listitem: Shop All Cycle
+        - list:
+          - list:
+            - listitem: New Arrivals
+            - listitem: Sale & Clearance
+            - listitem: Up to 30% off Select Bikes
+            - listitem: Shop Co-op Cycles Gen-E Bikes
+            - listitem: Shop All Cycle
+          - listitem: Expert Advice
+          - listitem: How to Choose
+          - listitem: Used Gear
+          - listitem: Shop Services
+          - listitem: Classes & Events
+          - listitem: REI Adventures Trips
+      - listitem:
+        - button "Water"
+        - text: Explore Water
+        - list:
+          - listitem:
+            - button "Water"
+          - listitem: Explore Water
+          - listitem:
+            - text: Kayaking
+            - list:
+              - listitem:
+                - button "Kayaking"
+              - listitem: Explore Kayaking
+              - listitem: Kayaks
+              - listitem: Kayak Paddles
+              - listitem: Accessories
+              - listitem: Carts
+          - listitem:
+            - text: Paddle Boarding
+            - list:
+              - listitem:
+                - button "Paddle Boarding"
+              - listitem: Explore Paddle Boarding
+              - listitem: Paddle Boards
+              - listitem: Paddle Board Paddles
+              - listitem: Accessories
+          - listitem:
+            - text: Canoeing
+            - list:
+              - listitem:
+                - button "Canoeing"
+              - listitem: Explore Canoeing
+              - listitem: Canoes
+              - listitem: Canoe Paddles
+              - listitem: Accessories
+          - listitem:
+            - text: Rafts & Tubes
+            - list:
+              - listitem:
+                - button "Rafts & Tubes"
+              - listitem: Explore Rafts & Tubes
+              - listitem: Packrafts
+              - listitem: River Tubes
+              - listitem: Inflatable Rafts
+              - listitem: Inflatable Docks
+          - listitem:
+            - text: Paddling Clothing
+            - list:
+              - listitem:
+                - button "Paddling Clothing"
+              - listitem: Explore Paddling Clothing
+              - listitem: Rashguards
+              - listitem: Paddling Jackets
+              - listitem: Wetsuits
+              - listitem: Dry Suits
+          - listitem:
+            - text: Water Accessories
+            - list:
+              - listitem:
+                - button "Water Accessories"
+              - listitem: Explore Water Accessories
+              - listitem: Bodyboards
+              - listitem: Dry Bags
+              - listitem: Waterproof Cases
+              - listitem: Sunglasses
+              - listitem: Snorkeling
+              - listitem: PFDs
+          - listitem:
+            - text: Beach Clothing & Footwear
+            - list:
+              - listitem:
+                - button "Beach Clothing & Footwear"
+              - listitem: Explore Beach Clothing & Footwear
+              - listitem: Men's Swimwear
+              - listitem: Women's Swimwear
+              - listitem: Kids' Swimwear
+              - listitem: Beach Footwear
+              - listitem: Sun Hats
+          - listitem:
+            - text: Beach Gear & Furniture
+            - list:
+              - listitem:
+                - button "Beach Gear & Furniture"
+              - listitem: Explore Beach Gear & Furniture
+              - listitem: Picnic Blankets
+              - listitem: Beach Towels
+              - listitem: Outdoor Toys
+              - listitem: Shade Shelters
+              - listitem: Coolers
+              - listitem: Camp Chairs
+          - listitem:
+            - text: Racks & Storage
+            - list:
+              - listitem:
+                - button "Racks & Storage"
+              - listitem: Explore Racks & Storage
+              - listitem: Kayak Car Racks
+              - listitem: Paddle Board Car Racks
+              - listitem: Kayak Storage
+          - listitem:
+            - text: Watersports Deals
+            - list:
+              - listitem:
+                - button "Watersports Deals"
+              - listitem: Explore Watersports Deals
+              - listitem: Paddle Clothing Deals
+              - listitem: Women's Swim Deals
+              - listitem: Men's Swim Deals
+          - listitem:
+            - list:
+              - listitem: New Arrivals
+              - listitem: Sale & Clearance
+              - listitem: Shop Dry Storage
+              - listitem: Shop All Watersports
+        - list:
+          - list:
+            - listitem: New Arrivals
+            - listitem: Sale & Clearance
+            - listitem: Shop Dry Storage
+            - listitem: Shop All Watersports
+          - listitem: Expert Advice
+          - listitem: Used Gear
+          - listitem: Classes
+          - listitem: REI Adventures Trips
+      - listitem:
+        - button "Run"
+        - text: Explore Run
+        - list:
+          - listitem:
+            - button "Run"
+          - listitem: Explore Run
+          - listitem:
+            - text: Men's Running Shoes
+            - list:
+              - listitem:
+                - button "Men's Running Shoes"
+              - listitem: Explore Men's Running Shoes
+              - listitem: Trail-Running
+              - listitem: Road-Running
+              - listitem: Insoles
+              - listitem: Running Socks
+          - listitem:
+            - text: Men's Running Clothing
+            - list:
+              - listitem:
+                - button "Men's Running Clothing"
+              - listitem: Explore Men's Running Clothing
+              - listitem: Jackets
+              - listitem: Vests
+              - listitem: Shirts
+              - listitem: Shorts
+              - listitem: Pants & Tights
+              - listitem: Accessories
+          - listitem:
+            - text: Women's Running Shoes
+            - list:
+              - listitem:
+                - button "Women's Running Shoes"
+              - listitem: Explore Women's Running Shoes
+              - listitem: Trail-Running
+              - listitem: Road-Running
+              - listitem: Insoles
+              - listitem: Running Socks
+          - listitem:
+            - text: Women's Running Clothing
+            - list:
+              - listitem:
+                - button "Women's Running Clothing"
+              - listitem: Explore Women's Running Clothing
+              - listitem: Jackets
+              - listitem: Vests
+              - listitem: Shirts
+              - listitem: Sports Bras
+              - listitem: Shorts
+              - listitem: Pants & Tights
+              - listitem: Accessories
+          - listitem:
+            - text: Running Packs
+            - list:
+              - listitem:
+                - button "Running Packs"
+              - listitem: Explore Running Packs
+              - listitem: Hydration Belts
+              - listitem: Hydration Vests
+              - listitem: Race Belts
+              - listitem: Water Bottles
+          - listitem:
+            - text: Running Gear & Gadgets
+            - list:
+              - listitem:
+                - button "Running Gear & Gadgets"
+              - listitem: Explore Running Gear & Gadgets
+              - listitem: GPS Sports Watches
+              - listitem: Running Watches
+              - listitem: Running Lights
+              - listitem: Reflective Gear
+              - listitem: Sport Sunglasses
+              - listitem: Energy Food & Drinks
+              - listitem: Injury Recovery
+              - listitem: Jogging Strollers
+          - listitem:
+            - text: Run Deals
+            - list:
+              - listitem:
+                - button "Run Deals"
+              - listitem: Explore Run Deals
+              - listitem: Mens Clothing Deals
+              - listitem: Mens Shoe Deals
+              - listitem: Womens Clothing Deals
+              - listitem: Womens Shoe Deals
+          - listitem:
+            - list:
+              - listitem: New Arrivals
+              - listitem: Sale & Clearance
+              - listitem: Trail-Running Shoes
+              - listitem: Summer Run Clothing
+        - list:
+          - list:
+            - listitem: New Arrivals
+            - listitem: Sale & Clearance
+            - listitem: Trail-Running Shoes
+            - listitem: Summer Run Clothing
+          - listitem: Expert Advice
+          - listitem: Classes
+          - listitem: Let's Run Together
+          - listitem: Training Podcasts
+      - listitem:
+        - button "Fitness"
+        - text: Explore Fitness
+        - list:
+          - listitem:
+            - button "Fitness"
+          - listitem: Explore Fitness
+          - listitem:
+            - text: Women's Workout Clothing
+            - list:
+              - listitem:
+                - button "Women's Workout Clothing"
+              - listitem: Explore Women's Workout Clothing
+              - listitem: Shirts
+              - listitem: Sports Bras
+              - listitem: Shorts
+              - listitem: Pants & Leggings
+              - listitem: Jackets & Sweatshirts
+              - listitem: Accessories
+              - listitem: Plus Size
+          - listitem:
+            - text: Men's Workout Clothing
+            - list:
+              - listitem:
+                - button "Men's Workout Clothing"
+              - listitem: Explore Men's Workout Clothing
+              - listitem: Shirts
+              - listitem: Shorts
+              - listitem: Pants & Tights
+              - listitem: Jackets & Sweatshirts
+              - listitem: Accessories
+          - listitem:
+            - text: Yoga
+            - list:
+              - listitem:
+                - button "Yoga"
+              - listitem: Explore Yoga
+              - listitem: Women's Clothing
+              - listitem: Men's Clothing
+              - listitem: Yoga Gear
+              - listitem: Yoga Mats
+              - listitem: Mat Bags
+              - listitem: Props
+              - listitem: Towels
+          - listitem:
+            - text: Exercise Equipment
+            - list:
+              - listitem:
+                - button "Exercise Equipment"
+              - listitem: Explore Exercise Equipment
+              - listitem: Resistance Bands
+              - listitem: Suspension Trainers
+              - listitem: Grip Strengtheners
+              - listitem: Indoor Cycling
+              - listitem: Triathlon
+              - listitem: Inline Skates
+          - listitem:
+            - text: Fitness Electronics
+            - list:
+              - listitem:
+                - button "Fitness Electronics"
+              - listitem: Explore Fitness Electronics
+              - listitem: Fitness Trackers
+              - listitem: Heart Rate Monitors
+              - listitem: Headphones
+              - listitem: Portable Speakers
+          - listitem:
+            - text: Fitness Accessories
+            - list:
+              - listitem:
+                - button "Fitness Accessories"
+              - listitem: Explore Fitness Accessories
+              - listitem: Energy Food & Drinks
+              - listitem: Water Bottles
+              - listitem: Gym Bags
+          - listitem:
+            - text: Injury Prevention & Recovery
+            - list:
+              - listitem:
+                - button "Injury Prevention & Recovery"
+              - listitem: Explore Injury Prevention & Recovery
+              - listitem: Foam Rollers
+              - listitem: Massagers
+              - listitem: Support Braces & Tape
+          - listitem:
+            - text: Fitness Deals
+            - list:
+              - listitem:
+                - button "Fitness Deals"
+              - listitem: Explore Fitness Deals
+              - listitem: Womens Deals
+              - listitem: Mens Deals
+              - listitem: Fitness Gear Deals
+              - listitem: REI Outlet Fitness
+          - listitem:
+            - list:
+              - listitem: New Arrivals
+              - listitem: Sale & Clearance
+              - listitem: Fitness Electronics
+              - listitem: Matching Workout Sets
+        - list:
+          - list:
+            - listitem: New Arrivals
+            - listitem: Sale & Clearance
+            - listitem: Fitness Electronics
+            - listitem: Matching Workout Sets
+          - listitem: Expert Advice
+          - listitem: Used Gear
+      - listitem:
+        - button "Snow"
+        - text: Explore Snow
+        - list:
+          - listitem:
+            - button "Snow"
+          - listitem: Explore Snow
+          - listitem:
+            - text: Snow Clothing
+            - list:
+              - listitem:
+                - button "Snow Clothing"
+              - listitem: Explore Snow Clothing
+              - listitem: Jackets
+              - listitem: Snow Pants
+              - listitem: Snowsuits
+              - listitem: Base Layers
+              - listitem: Hats & Headwear
+              - listitem: Gloves and Mittens
+              - listitem: Socks
+          - listitem:
+            - text: Downhill Skiing
+            - list:
+              - listitem:
+                - button "Downhill Skiing"
+              - listitem: Explore Downhill Skiing
+              - listitem: Skis
+              - listitem: Boots
+              - listitem: Bindings
+              - listitem: Poles
+              - listitem: Helmets
+              - listitem: Goggles
+              - listitem: Ski Packs & Bags
+          - listitem:
+            - text: Snowboarding
+            - list:
+              - listitem:
+                - button "Snowboarding"
+              - listitem: Explore Snowboarding
+              - listitem: Snowboards
+              - listitem: Boots
+              - listitem: Bindings
+              - listitem: Helmets
+              - listitem: Goggles
+              - listitem: Snowboard Packs & Bags
+          - listitem:
+            - text: Backcountry
+            - list:
+              - listitem:
+                - button "Backcountry"
+              - listitem: Explore Backcountry
+              - listitem: Skis
+              - listitem: Ski Boots
+              - listitem: Bindings
+              - listitem: Poles
+              - listitem: Skins
+              - listitem: Splitboards
+              - listitem: Splitboard Bindings
+          - listitem:
+            - text: Cross-Country Skiing
+            - list:
+              - listitem:
+                - button "Cross-Country Skiing"
+              - listitem: Explore Cross-Country Skiing
+              - listitem: Skis
+              - listitem: Boots
+              - listitem: Bindings
+              - listitem: Poles
+              - listitem: Waxing & Tuning
+          - listitem:
+            - text: Snowshoeing
+            - list:
+              - listitem:
+                - button "Snowshoeing"
+              - listitem: Explore Snowshoeing
+              - listitem: Snowshoes
+              - listitem: Winter Boots
+              - listitem: Poles
+          - listitem:
+            - text: Avalanche Safety Gear
+            - list:
+              - listitem:
+                - button "Avalanche Safety Gear"
+              - listitem: Explore Avalanche Safety Gear
+              - listitem: Avalanche Backpacks
+              - listitem: Avalanche Transceivers
+              - listitem: Snow Shovels
+              - listitem: Snow Probes
+          - listitem:
+            - button "Snow Accessories"
+            - text: Snow Accessories
+            - list:
+              - listitem:
+                - button "Snow Accessories"
+              - listitem: Ski & Snowboard Racks
+              - listitem: Cargo Roof Boxes
+              - listitem: Winter Traction
+              - listitem: Hand & Foot Warmers
+          - listitem:
+            - text: Snow Deals
+            - list:
+              - listitem:
+                - button "Snow Deals"
+              - listitem: Explore Snow Deals
+              - listitem: Downhill Skiing Deals
+              - listitem: Snowboarding Deals
+              - listitem: REI Outlet Snow
+          - listitem:
+            - list:
+              - listitem: New Arrivals
+              - listitem: Up to 50% Off Snow Clothing & Gear
+              - listitem: Up to 50% off Cold Weather Hats & Gloves
+              - listitem: Shop Car Racks
+              - listitem: Shop All Snowsports
+        - list:
+          - list:
+            - listitem: New Arrivals
+            - listitem: Up to 50% Off Snow Clothing & Gear
+            - listitem: Up to 50% off Cold Weather Hats & Gloves
+            - listitem: Shop Car Racks
+            - listitem: Shop All Snowsports
+          - listitem: Expert Advice
+          - listitem: Used Gear
+          - listitem: Shop Services
+          - listitem: REI Adventures Trips
+      - listitem:
+        - button "Travel"
+        - text: Explore Travel
+        - list:
+          - listitem:
+            - button "Travel"
+          - listitem: Explore Travel
+          - listitem:
+            - text: Luggage
+            - list:
+              - listitem:
+                - button "Luggage"
+              - listitem: Explore Luggage
+              - listitem: Carry-On Luggage
+              - listitem: Wheeled Luggage
+              - listitem: Travel Packs
+              - listitem: Travel Duffels
+              - listitem: Packing Organizers
+              - listitem: Accessories
+          - listitem:
+            - text: Backpacks
+            - list:
+              - listitem:
+                - button "Backpacks"
+              - listitem: Explore Backpacks
+              - listitem: Travel Backpacks
+              - listitem: Travel Daypacks
+              - listitem: Laptop Backpacks
+          - listitem:
+            - text: Day Bags
+            - list:
+              - listitem:
+                - button "Day Bags"
+              - listitem: Explore Day Bags
+              - listitem: Duffel Bags
+              - listitem: Shoulder Bags
+              - listitem: Messenger Bags
+              - listitem: Waist Packs
+              - listitem: Tote Bags
+              - listitem: Wallets & Money Belts
+          - listitem:
+            - text: Car Racks
+            - list:
+              - listitem:
+                - button "Car Racks"
+              - listitem: Explore Car Racks
+              - listitem: Cargo Boxes & Bags
+              - listitem: Bike Racks
+              - listitem: Watercraft Racks
+              - listitem: Ski & Snowboard
+              - listitem: Base Roof Racks
+          - listitem:
+            - text: Travel Clothing
+            - list:
+              - listitem:
+                - button "Travel Clothing"
+              - listitem: Explore Travel Clothing
+              - listitem: Mens
+              - listitem: Womens
+              - listitem: Kids
+          - listitem:
+            - button "Electronics, Bags & Cases"
+            - text: Electronics, Bags & Cases
+            - list:
+              - listitem:
+                - button "Electronics, Bags & Cases"
+              - listitem: Photography
+              - listitem: Action Cameras
+              - listitem: Camera Bags
+              - listitem: Laptop Bags
+              - listitem: Phone Cases
+          - listitem:
+            - text: Travel Accessories
+            - list:
+              - listitem:
+                - button "Travel Accessories"
+              - listitem: Explore Travel Accessories
+              - listitem: Pillows & Sleeping
+              - listitem: Converters & Adapters
+              - listitem: Keychains
+              - listitem: Toiletry Bags
+              - listitem: Travel Mugs
+          - listitem:
+            - text: Travel Deals
+            - list:
+              - listitem:
+                - button "Travel Deals"
+              - listitem: Explore Travel Deals
+              - listitem: Luggage Deals
+              - listitem: Backpack Deals
+              - listitem: Day Bag Deals
+              - listitem: Travel Clothing Deals
+          - listitem:
+            - list:
+              - listitem: New Arrivals
+              - listitem: Sale & Clearance
+              - listitem: Travel Bags & Packs
+              - listitem: Top-Rated Travel Gear
+        - list:
+          - list:
+            - listitem: New Arrivals
+            - listitem: Sale & Clearance
+            - listitem: Travel Bags & Packs
+            - listitem: Top-Rated Travel Gear
+          - listitem: New REI Adventures Trips
+          - listitem: Expert Advice
+          - listitem: Used Gear
+      - listitem:
+        - button "Men"
+        - text: Explore Men
+        - list:
+          - listitem:
+            - button "Men"
+          - listitem: Explore Men
+          - listitem:
+            - text: Summer Clothing
+            - list:
+              - listitem:
+                - button "Summer Clothing"
+              - listitem: Explore Summer Clothing
+              - listitem: Swimwear
+              - listitem: Shorts
+              - listitem: T-Shirts
+              - listitem: Graphic Tops
+              - listitem: Casual Shoes
+              - listitem: Sandals
+              - listitem: Sun Hats
+              - listitem: Sunglasses
+          - listitem:
+            - text: Footwear
+            - list:
+              - listitem:
+                - button "Footwear"
+              - listitem: Explore Footwear
+              - listitem: Boots
+              - listitem: Shoes
+              - listitem: Slippers
+              - listitem: Casual Shoes
+              - listitem: Sneakers
+              - listitem: Sandals
+              - listitem: Insoles
+              - listitem: Socks
+          - listitem:
+            - text: Jackets
+            - list:
+              - listitem:
+                - button "Jackets"
+              - listitem: Explore Jackets
+              - listitem: Casual Jackets
+              - listitem: Down & Insulated
+              - listitem: Fleece & Soft-Shell
+              - listitem: Rain Jackets
+              - listitem: Running Jackets
+              - listitem: Wind Shells
+              - listitem: Ski & Snowboard
+          - listitem:
+            - text: Tops
+            - list:
+              - listitem:
+                - button "Tops"
+              - listitem: Explore Tops
+              - listitem: Shirts
+              - listitem: T-Shirts
+              - listitem: Graphic Tops
+              - listitem: Sweaters & Sweatshirts
+              - listitem: Vests
+          - listitem:
+            - text: Bottoms
+            - list:
+              - listitem:
+                - button "Bottoms"
+              - listitem: Explore Bottoms
+              - listitem: Pants
+              - listitem: Shorts
+          - listitem:
+            - text: Underwear
+            - list:
+              - listitem:
+                - button "Underwear"
+              - listitem: Explore Underwear
+              - listitem: Briefs & Boxers
+              - listitem: Base Layer Tops
+              - listitem: Base Layer Bottoms
+          - listitem:
+            - text: Swimwear
+            - list:
+              - listitem:
+                - button "Swimwear"
+              - listitem: Explore Swimwear
+              - listitem: Swim Trunks
+              - listitem: Rashguards
+              - listitem: Goggles
+          - listitem:
+            - text: Accessories
+            - list:
+              - listitem:
+                - button "Accessories"
+              - listitem: Explore Accessories
+              - listitem: Hats
+              - listitem: Sun Hats
+              - listitem: Gloves & Mittens
+              - listitem: Belts
+              - listitem: Leg Gaiters
+          - listitem:
+            - text: Headwear
+            - list:
+              - listitem:
+                - button "Headwear"
+              - listitem: Explore Headwear
+              - listitem: Face Masks
+              - listitem: Bandanas
+              - listitem: Neck Gaiters
+              - listitem: Balaclavas
+          - listitem:
+            - button "More"
+            - text: More
+            - list:
+              - listitem:
+                - button "More"
+              - listitem: Sunglasses
+              - listitem: Watches
+          - listitem:
+            - button "Activity Collections"
+            - text: Activity Collections
+            - list:
+              - listitem:
+                - button "Activity Collections"
+              - listitem: Snow Clothing
+              - listitem: Hiking Clothing
+              - listitem: Hiking Footwear
+              - listitem: Cycling Clothing
+              - listitem: Cycling Shoes
+              - listitem: Running Clothing
+              - listitem: Running Shoes
+          - listitem:
+            - text: Big, Tall & Short
+            - list:
+              - listitem:
+                - button "Big, Tall & Short"
+              - listitem: Explore Big, Tall & Short
+              - listitem: Big
+              - listitem: Tall
+              - listitem: Short
+          - listitem:
+            - text: Mens Deals
+            - list:
+              - listitem:
+                - button "Mens Deals"
+              - listitem: Explore Mens Deals
+              - listitem: Jackets Deals
+              - listitem: Shirts Deals
+              - listitem: Pants Deals
+              - listitem: Footwear Deals
+          - listitem:
+            - list:
+              - listitem: New Arrivals
+              - listitem: Sale & Clearance
+              - listitem: Rain Gear
+              - listitem: New! Trailmade Collection
+        - list:
+          - list:
+            - listitem: New Arrivals
+            - listitem: Sale & Clearance
+            - listitem: Rain Gear
+            - listitem: New! Trailmade Collection
+          - listitem: Expert Advice
+          - listitem: Used Gear
+      - listitem:
+        - button "Women"
+        - text: Explore Women
+        - list:
+          - listitem:
+            - button "Women"
+          - listitem: Explore Women
+          - listitem:
+            - text: Summer Clothing
+            - list:
+              - listitem:
+                - button "Summer Clothing"
+              - listitem: Explore Summer Clothing
+              - listitem: Swimwear
+              - listitem: Shorts
+              - listitem: T-Shirts
+              - listitem: Tank Tops
+              - listitem: Graphic Tops
+              - listitem: Casual Shoes
+              - listitem: Sandals
+              - listitem: Sun Hats
+              - listitem: Sunglasses
+          - listitem:
+            - text: Footwear
+            - list:
+              - listitem:
+                - button "Footwear"
+              - listitem: Explore Footwear
+              - listitem: Boots
+              - listitem: Shoes
+              - listitem: Slippers
+              - listitem: Casual Shoes
+              - listitem: Sneakers
+              - listitem: Sandals
+              - listitem: Insoles
+              - listitem: Socks
+          - listitem:
+            - text: Jackets
+            - list:
+              - listitem:
+                - button "Jackets"
+              - listitem: Explore Jackets
+              - listitem: Casual Jackets
+              - listitem: Down & Insulated
+              - listitem: Fleece & Soft-Shell
+              - listitem: Rain Jackets
+              - listitem: Running Jackets
+              - listitem: Wind Shells
+              - listitem: Ski & Snowboard
+          - listitem:
+            - text: Tops
+            - list:
+              - listitem:
+                - button "Tops"
+              - listitem: Explore Tops
+              - listitem: Shirts
+              - listitem: T-Shirts
+              - listitem: Tank Tops
+              - listitem: Graphic Tops
+              - listitem: Sweaters & Sweatshirts
+              - listitem: Vests
+          - listitem:
+            - text: Bottoms
+            - list:
+              - listitem:
+                - button "Bottoms"
+              - listitem: Explore Bottoms
+              - listitem: Pants
+              - listitem: Leggings
+              - listitem: Shorts
+          - listitem:
+            - text: Skirts & Dresses
+            - list:
+              - listitem:
+                - button "Skirts & Dresses"
+              - listitem: Explore Skirts & Dresses
+              - listitem: Dresses
+              - listitem: Skirts
+              - listitem: Skorts
+          - listitem:
+            - text: Underwear
+            - list:
+              - listitem:
+                - button "Underwear"
+              - listitem: Explore Underwear
+              - listitem: Briefs
+              - listitem: Sports Bras
+              - listitem: Base Layer Tops
+              - listitem: Base Layer Bottoms
+          - listitem:
+            - text: Swimwear
+            - list:
+              - listitem:
+                - button "Swimwear"
+              - listitem: Explore Swimwear
+              - listitem: Swimsuits
+              - listitem: Rashguards
+              - listitem: Water Shorts
+              - listitem: Cover Ups
+              - listitem: Goggles
+          - listitem:
+            - text: Accessories
+            - list:
+              - listitem:
+                - button "Accessories"
+              - listitem: Explore Accessories
+              - listitem: Hats
+              - listitem: Sun Hats
+              - listitem: Gloves & Mittens
+              - listitem: Belts
+              - listitem: Leg Gaiters
+          - listitem:
+            - text: Headwear
+            - list:
+              - listitem:
+                - button "Headwear"
+              - listitem: Explore Headwear
+              - listitem: Face Masks
+              - listitem: Bandanas
+              - listitem: Neck Gaiters
+              - listitem: Balaclavas
+          - listitem:
+            - button "More"
+            - text: More
+            - list:
+              - listitem:
+                - button "More"
+              - listitem: Sunglasses
+              - listitem: Watches
+              - listitem: Bags
+          - listitem:
+            - button "Activity Collections"
+            - text: Activity Collections
+            - list:
+              - listitem:
+                - button "Activity Collections"
+              - listitem: Snow Clothing
+              - listitem: Hiking Clothing
+              - listitem: Hiking Footwear
+              - listitem: Cycling Clothing
+              - listitem: Cycling Shoes
+              - listitem: Running Clothing
+              - listitem: Running Shoes
+              - listitem: Yoga Clothing
+          - listitem:
+            - text: Plus, Petite and Tall
+            - list:
+              - listitem:
+                - button "Plus, Petite and Tall"
+              - listitem: Explore Plus, Petite and Tall
+              - listitem: Plus
+              - listitem: Petite
+              - listitem: Tall
+          - listitem:
+            - text: Womens Deals
+            - list:
+              - listitem:
+                - button "Womens Deals"
+              - listitem: Explore Womens Deals
+              - listitem: Jackets Deals
+              - listitem: Shirts Deals
+              - listitem: Pants Deals
+              - listitem: Footwear Deals
+          - listitem:
+            - list:
+              - listitem: New Arrivals
+              - listitem: Sale & Clearance
+              - listitem: Rain Gear
+              - listitem: New! Trailmade Collection
+        - list:
+          - list:
+            - listitem: New Arrivals
+            - listitem: Sale & Clearance
+            - listitem: Rain Gear
+            - listitem: New! Trailmade Collection
+          - listitem: Women's Adventures
+          - listitem: Expert Advice
+          - listitem: Used Gear
+      - listitem:
+        - button "Kids"
+        - text: Explore Kids
+        - list:
+          - listitem:
+            - button "Kids"
+          - listitem: Explore Kids
+          - listitem:
+            - button "Summer Clothing"
+            - text: Summer Clothing
+            - list:
+              - listitem:
+                - button "Summer Clothing"
+              - listitem: Swimwear
+              - listitem: Shorts
+              - listitem: T-Shirts
+              - listitem: Graphic Clothing
+              - listitem: Sandals
+              - listitem: Sun Hats
+              - listitem: Sunglasses
+          - listitem:
+            - text: Footwear
+            - list:
+              - listitem:
+                - button "Footwear"
+              - listitem: Explore Footwear
+              - listitem: Boots
+              - listitem: Shoes
+              - listitem: Sandals
+              - listitem: Socks
+          - listitem:
+            - text: Jackets
+            - list:
+              - listitem:
+                - button "Jackets"
+              - listitem: Explore Jackets
+              - listitem: Down & Insulated
+              - listitem: Fleece & Soft-Shell
+              - listitem: Rain Jackets
+              - listitem: Ski & Snowboard
+          - listitem:
+            - text: Clothing
+            - list:
+              - listitem:
+                - button "Clothing"
+              - listitem: Explore Clothing
+              - listitem: Shirts
+              - listitem: T-Shirts
+              - listitem: Graphic Clothing
+              - listitem: Sweaters & Sweatshirts
+              - listitem: Pants
+              - listitem: Shorts
+              - listitem: Swimwear
+          - listitem:
+            - text: Accessories
+            - list:
+              - listitem:
+                - button "Accessories"
+              - listitem: Explore Accessories
+              - listitem: Hats
+              - listitem: Sun Hats
+              - listitem: Gloves & Mittens
+              - listitem: Sunglasses
+              - listitem: Base Layers
+          - listitem:
+            - text: Snow
+            - list:
+              - listitem:
+                - button "Snow"
+              - listitem: Explore Snow
+              - listitem: Downhill Skiing
+              - listitem: Cross-Country Skiing
+              - listitem: Snowboarding
+              - listitem: Snowshoes
+          - listitem:
+            - text: Kids' Camp & Hike
+            - list:
+              - listitem:
+                - button "Kids' Camp & Hike"
+              - listitem: Explore Kids' Camp & Hike
+              - listitem: Baby Carrier Packs
+              - listitem: Backpacks
+              - listitem: Sleeping Bags
+          - listitem:
+            - text: Kids' Cycling
+            - list:
+              - listitem:
+                - button "Kids' Cycling"
+              - listitem: Explore Kids' Cycling
+              - listitem: Bikes
+              - listitem: Helmets
+              - listitem: Accessories
+          - listitem:
+            - text: Strollers
+            - list:
+              - listitem:
+                - button "Strollers"
+              - listitem: Explore Strollers
+              - listitem: Jogging Strollers
+              - listitem: Accessories
+              - listitem: Conversion Kits
+              - listitem: Weather Shields
+          - listitem:
+            - button "More"
+            - text: More
+            - list:
+              - listitem:
+                - button "More"
+              - listitem: Kids Climbing
+              - listitem: Kids Watersports
+              - listitem: Toys & Games
+          - listitem:
+            - button "By Gender"
+            - text: By Gender
+            - list:
+              - listitem:
+                - button "By Gender"
+              - listitem: Boys
+              - listitem: Girls
+              - listitem: Infant & Toddler
+          - listitem:
+            - text: Kids Deals
+            - list:
+              - listitem:
+                - button "Kids Deals"
+              - listitem: Explore Kids Deals
+              - listitem: Boys Deals
+              - listitem: Girls Deals
+              - listitem: Infant & Toddler Deals
+          - listitem:
+            - list:
+              - listitem: New Arrivals
+              - listitem: Sale & Clearance
+              - listitem: Rain Gear
+              - listitem: New! Cotopaxi for Kids
+        - list:
+          - list:
+            - listitem: New Arrivals
+            - listitem: Sale & Clearance
+            - listitem: Rain Gear
+            - listitem: New! Cotopaxi for Kids
+          - listitem: Expert Advice
+          - listitem: Used Gear
+          - listitem: REI Adventures Trips
+      - listitem:
+        - button "Deals"
+        - text: Explore Deals
+        - list:
+          - listitem:
+            - button "Deals"
+          - listitem: Explore Deals
+          - listitem:
+            - text: Men's Deals
+            - list:
+              - listitem:
+                - button "Men's Deals"
+              - listitem: Explore Men's Deals
+              - listitem: Jackets
+              - listitem: Pants
+              - listitem: Shirts
+              - listitem: Underwear
+          - listitem:
+            - text: Women's Deals
+            - list:
+              - listitem:
+                - button "Women's Deals"
+              - listitem: Explore Women's Deals
+              - listitem: Jackets
+              - listitem: Pants
+              - listitem: Shirts
+              - listitem: Underwear
+          - listitem:
+            - text: Footwear Deals
+            - list:
+              - listitem:
+                - button "Footwear Deals"
+              - listitem: Explore Footwear Deals
+              - listitem: Men's Footwear
+              - listitem: Women's Footwear
+              - listitem: Kids'
+              - listitem: Socks
+          - listitem:
+            - text: Camp & Hike Deals
+            - list:
+              - listitem:
+                - button "Camp & Hike Deals"
+              - listitem: Explore Camp & Hike Deals
+              - listitem: Tents
+              - listitem: Sleeping Bags
+              - listitem: Backpacks
+              - listitem: Camp Kitchen
+          - listitem:
+            - text: Cycling Deals
+            - list:
+              - listitem:
+                - button "Cycling Deals"
+              - listitem: Explore Cycling Deals
+              - listitem: Bikes
+              - listitem: Bike Helmets
+              - listitem: Cycling Clothing
+              - listitem: Bike Accessories
+          - listitem:
+            - text: Run & Fitness Deals
+            - list:
+              - listitem:
+                - button "Run & Fitness Deals"
+              - listitem: Explore Run & Fitness Deals
+              - listitem: Men's Clothing
+              - listitem: Women's Clothing
+              - listitem: Men's Running Shoes
+              - listitem: Women's Running Shoes
+          - listitem:
+            - text: More Deals
+            - list:
+              - listitem:
+                - button "More Deals"
+              - listitem: Explore More Deals
+              - listitem: Climbing
+              - listitem: Kids'
+              - listitem: Watersports
+              - listitem: Travel & Luggage
+              - listitem: Deals by Brand
+              - listitem: Deals by Category
+          - listitem:
+            - text: REI Outlet
+            - list:
+              - listitem:
+                - button "REI Outlet"
+              - listitem: Explore REI Outlet
+              - listitem: 50% Off
+              - listitem: Deals under $20
+              - listitem: Just Reduced
+          - listitem:
+            - list:
+              - listitem: Featured Deals
+              - listitem: Up to 50% off run & fitness deals
+              - listitem: Up to 50% off clothing & footwear
+              - listitem: Up to 40% off camping deals
+        - list:
+          - list:
+            - listitem: Featured Deals
+            - listitem: Up to 50% off run & fitness deals
+            - listitem: Up to 50% off clothing & footwear
+            - listitem: Up to 40% off camping deals
+      - listitem:
+        - button "Brands"
+        - text: Explore Brands
+        - list:
+          - listitem:
+            - button "Brands"
+          - listitem: Explore Brands
+          - listitem:
+            - button "Made by REI"
+            - text: Made by REI
+            - list:
+              - listitem:
+                - button "Made by REI"
+              - listitem: Shop all REI Co-op
+              - listitem: Co-op Cycles
+              - listitem: Camp & Hike
+              - listitem: Tents
+              - listitem: Hiking Backpacks
+              - listitem: Mens Clothing & Jackets
+              - listitem: Womens Clothing & Jackets
+              - listitem: Kids Clothing & Jackets
+              - listitem: Men's Footwear
+              - listitem: Women's Footwear
+          - listitem:
+            - button "Top Brands"
+            - text: Top Brands
+            - list:
+              - listitem:
+                - button "Top Brands"
+              - listitem: Arc'teryx
+              - listitem: KUHL
+              - listitem: Black Diamond
+              - listitem: Garmin
+              - listitem: HOKA
+              - listitem: La Sportiva
+              - listitem: Osprey
+              - listitem: Patagonia
+              - listitem: Salomon
+              - listitem: Smartwool
+              - listitem: The North Face
+              - listitem: Thule
+          - listitem:
+            - button "Trending Brands"
+            - text: Trending Brands
+            - list:
+              - listitem:
+                - button "Trending Brands"
+              - listitem: prAna
+              - listitem: Brooks
+              - listitem: Cotopaxi
+              - listitem: Danner
+              - listitem: Dometic
+              - listitem: Electra
+              - listitem: Janji
+              - listitem: "On"
+              - listitem: Snow Peak
+              - listitem: Stanley
+              - listitem: Thousand
+              - listitem: Vuori
+          - listitem:
+            - button "Member Favorites"
+            - text: Member Favorites
+            - list:
+              - listitem:
+                - button "Member Favorites"
+              - listitem: Big Agnes
+              - listitem: Cannondale
+              - listitem: Darn Tough
+              - listitem: Fjallraven
+              - listitem: Exped
+              - listitem: Gregory
+              - listitem: Keen
+              - listitem: Merrell
+              - listitem: NEMO
+              - listitem: Oboz
+              - listitem: Sea to Summit
+              - listitem: Yakima
+          - listitem:
+            - list:
+              - listitem: Patagonia Deals
+              - listitem: The North Face Deals
+              - listitem: "New to REI: Allbirds"
+              - listitem: Outdoor Afro x REI Co-op Collection
+        - list:
+          - list:
+            - listitem: Patagonia Deals
+            - listitem: The North Face Deals
+            - listitem: "New to REI: Allbirds"
+            - listitem: Outdoor Afro x REI Co-op Collection
+      - listitem:
+        - button "More"
+        - list:
+          - listitem:
+            - button "More"
+          - listitem: New Arrivals
+          - listitem: Gift Cards
+          - listitem: Dog Gear
+          - listitem: Rental Gear
+          - listitem: Packs & Bags
+          - listitem: Electronics
+          - listitem: Footwear
+          - listitem: Sunglasses
+          - listitem: Books & Maps
+          - listitem: Car Racks
+          - listitem: Outdoor Gifts
+          - listitem: Trade-In
+          - listitem: Returns & Exchanges
+          - listitem: All Brands
+          - listitem: All Categories
+        - list:
+          - listitem: Membership
+          - listitem: Opt Outside
+          - listitem: Classes & Events
+          - listitem: REI Adventures
+          - listitem: Expert Advice
+          - listitem: Uncommon Path
+          - listitem: Stewardship
+          - listitem: Used Gear
+    - text: Help Center Live Chat 1-800-426-4840
+- marquee:
+  - button "message 2 of 3. Become an REI Co-op Member today and earn a $30 bonus card plus a lifetime of benefits. Join now message 3 of 3. Earn 5% in card rewards on co-op purchases with the REI Co-op Mastercard & get a $100 REI gift card. Restrictions apply. Learn more":
+    - text: message 2 of 3. Become an REI Co-op Member today and
+    - strong: earn a $30 bonus card
+    - text: plus a lifetime of benefits. Join now message 3 of 3.
+    - strong: Earn 5% in card rewards on co-op purchases with the REI Co-op Mastercard & get a $100 REI gift card.
+    - text: Restrictions apply. Learn more
+  - button
+- main:
+  - main:
+    - img "An image of a group of friends wearing the new Trailmade collection. The outfits are bold color combinations of mainly golden yellow and orange with blue accents and pops of color."
+    - heading "Introducing Trailmade by REI Co-op" [level=1]
+    - text: Our new XS3XL collection turns make do into made for you. Available just for members through 5/1. Shop the collection
+    - img "Red text reads, up to fifty percent off."
+    - heading "Save up to 50% on all clearance" [level=2]
+    - text: Save on past-season styles. Discount based on original prices. Shop the deals
+    - heading "Shop top categories" [level=2]
+    - list:
+      - listitem:
+        - text: Member collection
+        - img "REI Co-op Trailmade Pants - Women's"
+      - listitem:
+        - text: Men's summer clothing
+        - img "Outdoor Afro + REI Co-op Trail Shorts - Men's"
+      - listitem:
+        - text: Women's summer clothing
+        - img "Vuori Energy Crop Tank Top - Women's"
+      - listitem:
+        - text: Sandals
+        - img "Teva Hurricane XLT2 Sandals - Women's"
+      - listitem:
+        - text: Camp furniture
+        - img "Dometic GO Compact Camp Bench"
+      - listitem:
+        - text: Backpacking tents
+        - img "REI Co-op Trailmade 2 Tent with Footprint"
+      - listitem:
+        - text: Travel
+        - img "Stanley Quencher H2.0 FlowState Tumbler - 40 fl. oz."
+      - listitem:
+        - text: New arrivals
+        - img "HOKA Clifton 9 Road-Running Shoes - Women's"
+      - listitem:
+        - text: Sneakers
+        - img "On Cloud 5 Shoes - Women's"
+      - listitem:
+        - text: "Sale: Outlet deals"
+        - img "ALPS Mountaineering Torrent Dry Bag Multi-Pack"
+    - paragraph: Looking for more great deals
+    - text: Shop all deals
+    - heading "Gear up for adventure" [level=2]
+    - heading "Members save $30 on Hipcamp stays booked through 5/6." [level=3]
+    - text: Learn more
+    - img "A group of kids run around playing in their tent."
+    - heading "The REI Cooperative Action Fund directly supports organizations building a more equitable outdoors." [level=3]
+    - text: Donate today
+    - img "A family hikes on a trail while the children climb over a fallen tree. The RCAF logo."
+    - heading "Celebrate Earth Month with Re/Supply and turn your lightly used gear into credit with the co-op." [level=3]
+    - text: Learn more
+    - img "A serene mountainous landscape at dusk. The Resupply logo."
+    - heading "Want to sleep under the stars without totally roughing it? We got you." [level=3]
+    - text: Come camping with us
+    - img "A view of the interior of a tent with colorful sleeping bags. Two campers sit on camp chairs near the tent's entrance."
+    - heading "#REImember" [level=2]
+    - text: Opt outside with @REI and members like you on Instagram.
+    - list:
+      - listitem:
+        - img "@amapolarosadaa's instagram image of Co-op Cycles REV 12 Kids' Bike and Teva Men's Original Universal Sandals 90S Multi 13"
+        - button "@amapolarosadaa's instagram image of Co-op Cycles REV 12 Kids' Bike and Teva Men's Original Universal Sandals 90S Multi 13 Shop Now"
+        - text: "@amapolarosadaa"
+        - img
+        - text: 19 likes
+      - listitem:
+        - img "@gingerpirate's instagram image of REI Co-op Men's Sahara Shade Hoodie and Patagonia P-6 Logo LoPro Trucker Hat"
+        - button "@gingerpirate's instagram image of REI Co-op Men's Sahara Shade Hoodie and Patagonia P-6 Logo LoPro Trucker Hat Shop Now"
+        - text: "@gingerpirate"
+        - img
+        - text: 198 likes
+      - listitem:
+        - img "@nelliespatzchen's instagram image of Arc'teryx Women's Thorium Down Hoodie"
+        - button "@nelliespatzchen's instagram image of Arc'teryx Women's Thorium Down Hoodie Shop Now"
+        - text: "@nelliespatzchen"
+        - img
+        - text: 16 likes
+      - listitem:
+        - img "@kayla.ulvila's instagram image of REI Co-op Half Dome SL 2+ Tent with Footprint"
+        - button "@kayla.ulvila's instagram image of REI Co-op Half Dome SL 2+ Tent with Footprint Shop Now"
+        - text: "@kayla.ulvila"
+        - img
+        - text: 13 likes
+      - listitem:
+        - img "@nsblayze's instagram image of REI Co-op Half Dome SL 2+ Tent with Footprint"
+        - button "@nsblayze's instagram image of REI Co-op Half Dome SL 2+ Tent with Footprint Shop Now"
+        - text: "@nsblayze"
+        - img
+        - text: 20 likes
+      - listitem:
+        - img "@nsblayze's instagram image of TOAKS Titanium 900ml D115mm Pot, Mountain House Creamy Macaroni & Cheese - 2 Servings and Jetboil Jetpower Fuel - 8.11 oz. / 230g"
+        - button "@nsblayze's instagram image of TOAKS Titanium 900ml D115mm Pot, Mountain House Creamy Macaroni & Cheese - 2 Servings and Jetboil Jetpower Fuel - 8.11 oz. / 230g Shop Now"
+        - text: "@nsblayze"
+        - img
+        - text: 20 likes
+      - listitem:
+        - img "@jules.spawn's instagram image of The North Face Women's Shelbe Raschel Hoodie and REI Co-op Women's Swiftland 7/8 Running Tights"
+        - button "@jules.spawn's instagram image of The North Face Women's Shelbe Raschel Hoodie and REI Co-op Women's Swiftland 7/8 Running Tights Shop Now"
+        - text: "@jules.spawn"
+      - listitem:
+        - img "@am.mountainadventures's instagram image of REI Co-op Flash 22 Pack"
+        - button "@am.mountainadventures's instagram image of REI Co-op Flash 22 Pack Shop Now"
+        - text: "@am.mountainadventures"
+        - img
+        - text: 33 likes
+      - listitem:
+        - img "@dan.trave1s's instagram image of Teva Women's Hurricane XLT2 Sandals"
+        - button "@dan.trave1s's instagram image of Teva Women's Hurricane XLT2 Sandals Shop Now"
+        - text: "@dan.trave1s"
+      - listitem:
+        - img "@tilakj's instagram image of Co-op Cycles ADV 2.1 Bike"
+        - button "@tilakj's instagram image of Co-op Cycles ADV 2.1 Bike Shop Now"
+        - text: "@tilakj"
+        - img
+        - text: 9 likes
+    - button "Load More"
+    - dialog:
+      - button:
+        - img
+    - complementary:
+      - heading "People also viewed" [level=2]
+      - list:
+        - listitem:
+          - button "0"
+        - listitem:
+          - button "5"
+        - listitem:
+          - button "10"
+        - listitem:
+          - button "15"
+      - list:
+        - listitem:
+          - img "Quencher H2.0 FlowState Tumbler - 30 fl. oz."
+          - heading "Stanley Quencher H2.0 FlowState Tumbler - 30 fl. oz." [level=3]
+          - text: (42) 42 reviews with an average rating of 4.3 out of 5 stars $35.00
+        - listitem:
+          - img "Quencher H2.0 FlowState Tumbler - 40 fl. oz."
+          - heading "Stanley Quencher H2.0 FlowState Tumbler - 40 fl. oz." [level=3]
+          - text: (146) 146 reviews with an average rating of 4.3 out of 5 stars $45.00
+        - listitem:
+          - img "Quencher H2.0 FlowState Tumbler - 14 fl. oz."
+          - heading "Stanley Quencher H2.0 FlowState Tumbler - 14 fl. oz." [level=3]
+          - text: (1) 1 reviews with an average rating of 4.0 out of 5 stars $20.00
+        - listitem:
+          - img "IceFlow Straw Tumbler - 30 fl. oz."
+          - heading "Stanley IceFlow Straw Tumbler - 30 fl. oz." [level=3]
+          - text: (892) 892 reviews with an average rating of 4.3 out of 5 stars $31.00
+        - listitem:
+          - img "Amicus Stove Cookset Combo"
+          - heading "Soto Amicus Stove Cookset Combo" [level=3]
+          - text: (130) 130 reviews with an average rating of 4.5 out of 5 stars $44.95
+        - listitem:
+          - img "ECO 5-Piece Mess Kit"
+          - heading "UCO ECO 5-Piece Mess Kit" [level=3]
+          - text: (111) 111 reviews with an average rating of 4.4 out of 5 stars $29.95
+        - listitem:
+          - img "Adventure Vacuum Quencher Travel Tumbler - 30 fl. oz."
+          - heading "Stanley Adventure Vacuum Quencher Travel Tumbler - 30 fl. oz." [level=3]
+          - text: (65) 65 reviews with an average rating of 4.1 out of 5 stars $30.00
+        - listitem:
+          - img "Flash Cooking System"
+          - heading "Jetboil Flash Cooking System" [level=3]
+          - text: (448) 448 reviews with an average rating of 4.5 out of 5 stars $124.95
+        - listitem:
+          - img "IceFlow Straw Tumbler - 20 fl. oz."
+          - heading "Stanley IceFlow Straw Tumbler - 20 fl. oz." [level=3]
+          - text: (205) 205 reviews with an average rating of 4.1 out of 5 stars $26.00
+        - listitem:
+          - img "Squeeze Water Filter System"
+          - heading "Sawyer Squeeze Water Filter System" [level=3]
+          - text: (443) 443 reviews with an average rating of 4.2 out of 5 stars $40.95
+        - listitem:
+          - img "GoKit Deluxe 7-Tool Mess Kit"
+          - heading "humangear GoKit Deluxe 7-Tool Mess Kit" [level=3]
+          - text: (6) 6 reviews with an average rating of 4.2 out of 5 stars $24.95
+        - listitem:
+          - img "Gourmet Kitchen Set 11"
+          - heading "GSI Outdoors Gourmet Kitchen Set 11" [level=3]
+          - text: (20) 20 reviews with an average rating of 4.0 out of 5 stars $44.95
+        - listitem:
+          - img "MiniMo Cooking System"
+          - heading "Jetboil MiniMo Cooking System" [level=3]
+          - text: (318) 318 reviews with an average rating of 4.4 out of 5 stars $164.95
+        - listitem:
+          - img "Switchback Sleeping Pad"
+          - heading "NEMO Switchback Sleeping Pad" [level=3]
+          - text: (353) 353 reviews with an average rating of 4.3 out of 5 stars $44.95 $54.95
+        - listitem:
+          - img "Titanium 750ml Pot"
+          - heading "TOAKS Titanium 750ml Pot" [level=3]
+          - text: (101) 101 reviews with an average rating of 4.7 out of 5 stars $26.95
+        - listitem:
+          - img "PocketRocket 2 Stove"
+          - heading "MSR PocketRocket 2 Stove" [level=3]
+          - text: (402) 402 reviews with an average rating of 4.6 out of 5 stars $59.95
+        - listitem:
+          - img "Rakau Knife Set"
+          - heading "GSI Outdoors Rakau Knife Set" [level=3]
+          - text: (11) 11 reviews with an average rating of 4.9 out of 5 stars $79.95
+        - listitem:
+          - img "Reusable Antimicrobial Pee Cloth"
+          - heading "Kula Cloth Reusable Antimicrobial Pee Cloth" [level=3]
+          - text: (147) 147 reviews with an average rating of 4.7 out of 5 stars $20.00
+      - button:
+        - img
+      - button:
+        - img
+    - complementary:
+      - heading "People also bought" [level=2]
+      - list:
+        - listitem:
+          - img "Rambler Tumbler with MagSlider Lid - 20 fl. oz."
+          - heading "YETI Rambler Tumbler with MagSlider Lid - 20 fl. oz." [level=3]
+          - text: (30529) 30529 reviews with an average rating of 4.7 out of 5 stars $35.00
+        - listitem:
+          - img "Rambler Tumbler with MagSlider Lid - 30 fl. oz."
+          - heading "YETI Rambler Tumbler with MagSlider Lid - 30 fl. oz." [level=3]
+          - text: (30111) 30111 reviews with an average rating of 4.7 out of 5 stars $27.93 $38.00
+        - listitem:
+          - img "Performance Jogger Pants - Women's"
+          - heading "Vuori Performance Jogger Pants - Women's" [level=3]
+          - text: (833) 833 reviews with an average rating of 4.8 out of 5 stars $74.93 $94.00
+        - listitem:
+          - img "IceFlow Vacuum Water Jug with Flip Straw Lid - 40 fl. oz."
+          - heading "Stanley IceFlow Vacuum Water Jug with Flip Straw Lid - 40 fl. oz." [level=3]
+          - text: (112) 112 reviews with an average rating of 4.0 out of 5 stars $41.00
+        - listitem:
+          - img "All Around Tumbler - 20 fl. oz."
+          - heading "Hydro Flask All Around Tumbler - 20 fl. oz." [level=3]
+          - text: (302) 302 reviews with an average rating of 4.6 out of 5 stars $20.93 $27.95
+        - listitem:
+          - img "Cloud 5 Shoes - Women's"
+          - heading "On Cloud 5 Shoes - Women's" [level=3]
+          - text: (200) 200 reviews with an average rating of 4.5 out of 5 stars $140.00
+    - heading "Shop top categories" [level=2]
+    - list:
+      - listitem: Bike racks
+      - listitem: Camp chairs
+      - listitem: Coolers
+      - listitem: Hammocks
+      - listitem: Bike trailers
+      - listitem: Kayaks
+      - listitem: Mountain bikes
+      - listitem: Tents
+      - listitem: Trail running shoes
+      - listitem: Womens hiking shoes
+    - heading "Shop brands we love" [level=2]
+    - list:
+      - listitem: Altra Lone Peak
+      - listitem: Cannondale bikes
+      - listitem: Chacos
+      - listitem: Stanley Tumblers
+      - listitem: Merrell
+      - listitem: Olukai
+      - listitem: On Running shoes
+      - listitem: Patagonia baggies
+      - listitem: Salomon shoes
+      - listitem: Shimano cycling shoes
+    - img "Two people lean on their trekking poles, taking a break from backpacking, and look out at the view of the water below them."
+    - dialog:
+      - button:
+        - img
+      - document:
+        - textbox
+        - button "Sign me up!"
+        - button "No, thanks"
+        - text: Privacy Policy
+        - iframe: <input backend_node_id="12832" bounding_box_rect="-1,-1,-1,-1" type="hidden" id="recaptcha-token" value="03AKH6MRFSIv4SnZGx4npR-mxkkQR7v5Fcm7HGN2eCVtjUP2LmRHnDapOz6XkIrPfbsfOgwz1PNI2mmyykglTDSlMBd4_SBpeObXC6VeYVedtXDsT2YyGZv3VUnUEYIcwxSJKBwyfxUM-lSQKWQZUPaziOKfyy07Jyu8efh6eouZt2FUxTnG-iHgkZLJB-8Fr6usOXyeknKJfDvIRtRl8ZM-uE0wpxLtpI4H5-XXnZkfIIXfKPNHrPRikVyw8swlZy3f1yMM_Q1-dfH9-cvn_geESKHvM3Vv8YqAtyjPZBrnNAmVPJtwG1iTdNUWYOyDNo0vmwY3lBMyUc7YcVU6oH_Ep1vUzfanJOHrqlMHqJFTFFqeKcGYbiD3D3N_-UOt4Me2-LYp_yl7MNbu5q6vpnJe3oKLmvZuf3Fm69oZnMvYUoMr4xi-If20P4g0XW6Mrddqfo6eROjIUWVNKCI_oJGxcFXCyWK31LoK-zE2J5HvEMGXaWC6fDv20cDIIvrQsW8dA92bUlRzuqpCMYioWcU1GHN2z7Txt4ENS20UX8nRbWvEYiZZxEi2ZgwsX8W-Jzd6x0ZBg2ozGCKdawbFILg_TZIiiyXIqyBo-_EkcgiHlUOq-CP5yZiXzrZMum8FifLwf7556vJxxHF2fYxrhppWYswk04qpLUcXGluG7IAXd4wUYpwenOY1PyNJiCTHRw8fZQkyVRgyOdd3fl-Ga0uC7-1ixgq4LUQz-m_4kWyR-dyhoWzCAN0eWhPSQP9M6Cqcp5QazXclx2uHiJ5yqAljGFuMVypMqjyme6nVBYHB5JgN7haV-tBK2d9SyyPAwPaa9MVY9Qr9zVeAdlzB2cDZqOxKX4FFf6sgjq2bN3B1ZcVcbfePb0GJK3_LFj3n4gzwF6kP9ieAopTKnc9gDSNLRMzNxUJq89NmCDNucfJbC-duL0tGtQ8SbaqEiZIYBvDgIKRBnJYZK4k1-epLQhy5oYcUCbQAyZ7WczzgY105iq_d62QlwuVCcAGI1pQgjpg-zJQFvnJ99h6t7xfL0HsykQGvAaxtTL72WQNwP1tpnBzUhWlbvx2Yv2v5dnbSFYFWvZIC1KsdUS3iDpuo86TmDnFzD1swufZCXUiPr5g1QQ-5m7Vb5fG1RbiYgr1b5R2lg7kzcsb7Lz6W8i2iYVO2Wqrslqe8IItGG_Why3bPoZh3Jqwj3as20" input_value="03AKH6MRFSIv4SnZGx4npR-mxkkQR7v5Fcm7HGN2eCVtjUP2LmRHnDapOz6XkIrPfbsfOgwz1PNI2mmyykglTDSlMBd4_SBpeObXC6VeYVedtXDsT2YyGZv3VUnUEYIcwxSJKBwyfxUM-lSQKWQZUPaziOKfyy07Jyu8efh6eouZt2FUxTnG-iHgkZLJB-8Fr6usOXyeknKJfDvIRtRl8ZM-uE0wpxLtpI4H5-XXnZkfIIXfKPNHrPRikVyw8swlZy3f1yMM_Q1-dfH9-cvn_geESKHvM3Vv8YqAtyjPZBrnNAmVPJtwG1iTdNUWYOyDNo0vmwY3lBMyUc7YcVU6oH_Ep1vUzfanJOHrqlMHqJFTFFqeKcGYbiD3D3N_-UOt4Me2-LYp_yl7MNbu5q6vpnJe3oKLmvZuf3Fm69oZnMvYUoMr4xi-If20P4g0XW6Mrddqfo6eROjIUWVNKCI_oJGxcFXCyWK31LoK-zE2J5HvEMGXaWC6fDv20cDIIvrQsW8dA92bUlRzuqpCMYioWcU1GHN2z7Txt4ENS20UX8nRbWvEYiZZxEi2ZgwsX8W-Jzd6x0ZBg2ozGCKdawbFILg_TZIiiyXIqyBo-_EkcgiHlUOq-CP5yZiXzrZMum8FifLwf7556vJxxHF2fYxrhppWYswk04qpLUcXGluG7IAXd4wUYpwenOY1PyNJiCTHRw8fZQkyVRgyOdd3fl-Ga0uC7-1ixgq4LUQz-m_4kWyR-dyhoWzCAN0eWhPSQP9M6Cqcp5QazXclx2uHiJ5yqAljGFuMVypMqjyme6nVBYHB5JgN7haV-tBK2d9SyyPAwPaa9MVY9Qr9zVeAdlzB2cDZqOxKX4FFf6sgjq2bN3B1ZcVcbfePb0GJK3_LFj3n4gzwF6kP9ieAopTKnc9gDSNLRMzNxUJq89NmCDNucfJbC-duL0tGtQ8SbaqEiZIYBvDgIKRBnJYZK4k1-epLQhy5oYcUCbQAyZ7WczzgY105iq_d62QlwuVCcAGI1pQgjpg-zJQFvnJ99h6t7xfL0HsykQGvAaxtTL72WQNwP1tpnBzUhWlbvx2Yv2v5dnbSFYFWvZIC1KsdUS3iDpuo86TmDnFzD1swufZCXUiPr5g1QQ-5m7Vb5fG1RbiYgr1b5R2lg7kzcsb7Lz6W8i2iYVO2Wqrslqe8IItGG_Why3bPoZh3Jqwj3as20" is_clickable="true"/> <div backend_node_id="12834" bounding_box_rect="-1,-1,-1,-1" class="rc-anchor rc-anchor-invisible rc-anchor-light rc-anchor-invisible-nohover"> <div backend_node_id="12839" bounding_box_rect="-1,-1,-1,-1" class="rc-anchor-invisible-text"> <div backend_node_id="12844" bounding_box_rect="-1,-1,-1,-1" class="rc-anchor-pt"> <a backend_node_id="12845" bounding_box_rect="-1,-1,-1,-1" is_clickable="true"> <text backend_node_id="12846" bounding_box_rect="-1,-1,-1,-1">Privacy</text> </a> <a backend_node_id="12849" bounding_box_rect="-1,-1,-1,-1" is_clickable="true"> <text backend_node_id="12850" bounding_box_rect="-1,-1,-1,-1">Terms</text> </a> </div> </div> <div backend_node_id="12851" bounding_box_rect="-1,-1,-1,-1" class="rc-anchor-normal-footer"> <div backend_node_id="12854" bounding_box_rect="-1,-1,-1,-1" class="rc-anchor-pt"> <a backend_node_id="12855" bounding_box_rect="-1,-1,-1,-1" is_clickable="true"> <text backend_node_id="12856" bounding_box_rect="-1,-1,-1,-1">Privacy</text> </a> <a backend_node_id="12859" bounding_box_rect="-1,-1,-1,-1" is_clickable="true"> <text backend_node_id="12860" bounding_box_rect="-1,-1,-1,-1">Terms</text> </a> </div> </div> </div>
+    - dialog:
+      - button:
+        - img
+      - img "REI Co op membership"
+      - heading "Annual Co-op Member Reward" [level=3]
+      - paragraph: Each March, members get back an estimated 10%* on their yearly eligible full-price purchases to spend at the co-op. (Plus, members get special offers & coupons, no minimum free standard shipping, used gear buy & trade-in, shop service discounts and much more.)
+      - paragraph: Membership lasts a lifetimejoin for $30 once, enjoy forever.
+      - paragraph: "*A 10% Co-op Member Reward is typical but not guaranteed. Your Co-op Member Reward is based on eligible net qualified purchases, which exclude REI Outlet items, sale, clearance items, discounted items, gift cards, REI adventure travel, REI classes or day trips, service fees (e.g., rentals, labor), membership fee, postage, event tickets, passes or registrations, government agencies and sales tax."
+- contentinfo:
+  - button "Give us feedback"
+  - textbox
+  - button "Sign me up!"
+  - text: REI Privacy Policy
+  - heading "Who we are" [level=2]:
+    - button "Who we are"
+  - paragraph: Read our story
+  - heading "Become an REI Co-op Member" [level=2]:
+    - button "Become an REI Co-op Member"
+  - paragraph: Join us
+  - heading "Take a stand" [level=2]:
+    - button "Take a stand"
+  - paragraph: REI Cooperative Action Network
+  - heading "Apply for the REI Co-op Mastercard" [level=2]:
+    - button "Apply for the REI Co-op Mastercard"
+  - paragraph: Details Manage your card
+  - list:
+    - listitem:
+      - list:
+        - listitem: Sign Into My Account
+        - listitem: My Rewards Lookup
+        - listitem: My Wish Lists
+        - listitem: Membership Benefits
+    - listitem:
+      - list:
+        - listitem: Order Status
+        - listitem: Return Policy & Information
+        - listitem: Store Curbside Pickup
+        - listitem: Shipping Info
+    - listitem:
+      - list:
+        - listitem: Outdoor Gift Ideas
+        - listitem: Gift Cards
+    - listitem:
+      - list:
+        - listitem: Sales & Coupons
+        - listitem: Free Shipping Details
+    - listitem:
+      - list:
+        - listitem: Member Number Lookup
+        - listitem: New Gear Collections
+        - listitem: Kids' Bike Finder
+        - listitem: Used Gear
+        - listitem: Trade-in Program
+    - listitem:
+      - list:
+        - listitem: Expert Advice
+        - listitem: Classes & Events
+        - listitem: REI Adventure Travel
+        - listitem: Uncommon Path
+        - listitem: Path Ahead Ventures
+    - listitem:
+      - list:
+        - listitem: Jobs & Careers
+        - listitem: Co-op Culture
+        - listitem: Sell at REI
+        - listitem: Affiliate Program
+        - listitem: Corporate & Group Sales
+    - listitem:
+      - list:
+        - listitem: About REI
+        - listitem: Cooperative Action Fund
+        - listitem: Newsroom
+        - listitem: Technology Blog
+        - listitem: Stewardship
+    - listitem:
+      - list:
+        - listitem: Search Help Center
+        - listitem: Find a Store
+        - listitem: Live Chat
+        - listitem: Call Us
+  - text: Help Center Find a Store Live Chat 1-800-426-4840 Get REI apps for shopping & adventure
+  - img "Get it on Google Play"
+  - img "Download on the App Store"
+  - list:
+    - listitem: instagram
+    - listitem: Tik Tok
+    - listitem: facebook
+    - listitem: twitter
+    - listitem: pinterest
+    - listitem: youtube
+    - listitem: podcasts
+  - list:
+    - listitem: Terms of Use
+    - listitem:
+      - button "California Consumer Privacy Act (CCPA) Opt-Out Icon Your Privacy Choices":
+        - img "California Consumer Privacy Act (CCPA) Opt-Out Icon"
+        - text: Your Privacy Choices
+    - listitem: Privacy Policy
+    - listitem: California Privacy Rights
+    - listitem: Product Recalls
+    - listitem: CA Transparency Act
+    - listitem: REI Accessibility Statement

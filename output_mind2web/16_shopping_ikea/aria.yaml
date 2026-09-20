@@ -1,0 +1,387 @@
+- button "Skip to main content"
+- button "Save big and shop limited-time deals during IKEA Spring Sale online and in store. Offer valid 3/15-5/29* Save on select delivery options with IKEA Family. See Details"
+- button
+- button "Menu"
+- banner:
+  - search:
+    - combobox "What are you looking for?"
+    - button
+    - text: End of search dropdown.
+  - list:
+    - listitem:
+      - button
+    - listitem: Hej James!
+    - listitem: Track order
+    - listitem: Favorites
+    - listitem: Shopping bag
+    - listitem:
+      - button
+- navigation:
+  - button "Opens at 10:00am Brooklyn"
+  - button "Deliver to 43235"
+  - list:
+    - listitem: Products
+    - listitem: Marketplace
+    - listitem: Rooms
+    - listitem: Ideas & Inspiration
+    - listitem: Design
+    - listitem: Deals
+- complementary:
+  - button
+  - button "Search"
+  - button
+  - text: Hej James!
+  - navigation:
+    - list:
+      - listitem:
+        - button "Products"
+      - listitem:
+        - button "Marketplace"
+      - listitem:
+        - button "Rooms"
+      - listitem: Ideas & Inspiration
+      - listitem: Design
+      - listitem:
+        - button "Deals"
+      - listitem: New at IKEA
+      - listitem: Gift Ideas
+      - listitem: IKEA Family
+      - listitem: IKEA for Business
+      - listitem: IKEA Gift Registry
+      - listitem: IKEA Food & Swedish restaurant
+    - list:
+      - listitem: My profile
+      - listitem: My orders
+      - listitem: Find your IKEA location
+      - listitem: IKEA Gift Card
+      - listitem: IKEA Credit Card
+      - listitem: Customer Service
+      - listitem: Services
+  - navigation:
+    - list:
+      - listitem: Marketplace
+      - listitem: Series
+      - listitem: Limited collections
+      - listitem: Last Chance
+    - text: Furniture Beds & mattresses Storage & organization Kitchen & appliances Baby & kids Home textiles Home dcor Outdoor Lighting Smart home Kitchenware & tableware Bathroom Rugs Laundry & cleaning Home improvement Plants and planters Summer shop Home electronics IKEA food & Swedish restaurant Pet accessories Working from home
+  - navigation:
+    - list:
+      - listitem: Shop All
+      - listitem: Shop by Category
+      - listitem: Shop by Color
+      - listitem: Shop Styles & Trends
+      - listitem: Featured Shops
+      - listitem: Everyday Rituals
+      - listitem: Store Who You Are
+  - navigation:
+    - list:
+      - listitem: Bedroom
+      - listitem: Living room
+      - listitem: Kitchen & appliances
+      - listitem: Home office
+      - listitem: Bathroom
+      - listitem: Kids room
+      - listitem: Dining
+      - listitem: Hallway
+      - listitem: Outdoor
+      - listitem: Business Solutions
+      - listitem: Laundry
+      - listitem: All Rooms
+  - navigation:
+    - list:
+      - listitem: Appliance deals & offers
+      - listitem: IKEA Family Offers
+      - listitem: Limited Time Offers
+      - listitem: Our Lowest Prices
+      - listitem: New Lower Price
+      - listitem: Home Essentials Under $20
+      - listitem: All offers
+  - text: Change country
+- main:
+  - article:
+    - heading "Welcome to IKEA USA" [level=1]
+    - group "Shop HUNDREDS of limited-time deals to save big on home essentials to refresh every room. Hurry, these offers are only valid now through 5/29/23 while supplies last!":
+      - img "Spring Sale Limited time offers page"
+      - text: Shop HUNDREDS of limited-time deals to save big on home essentials to refresh every room. Hurry, these offers are only valid now through 5/29/23 while supplies last!
+    - button "Explore all offers"
+    - group:
+      - img "Outdoor table setting"
+      - list:
+        - listitem:
+          - tooltip "BONDHOLMEN Armchair, outdoor Previous price $ 120 . 00 $ 70 . 00 Price valid Mar 15, 2023 - May 29, 2023 or while supply lasts go to product page":
+            - heading "BONDHOLMEN Armchair, outdoor" [level=3]
+            - text: Previous price $ 120 . 00 $ 70 . 00 Price valid Mar 15, 2023 - May 29, 2023 or while supply lasts go to product page
+        - listitem:
+          - tooltip "LCK Shelving unit, outdoor Previous price $ 99 . 00 $ 79 . 00 Price valid Apr 4, 2023 - May 29, 2023 or while supply lasts go to product page":
+            - heading "LCK Shelving unit, outdoor" [level=3]
+            - text: Previous price $ 99 . 00 $ 79 . 00 Price valid Apr 4, 2023 - May 29, 2023 or while supply lasts go to product page
+        - listitem:
+          - tooltip "BONDHOLMEN Table+6 armchairs, outdoor Previous price $ 1,119 . 00 $ 947 . 00 Price valid Apr 4, 2023 - May 29, 2023 or while supply lasts go to product page":
+            - heading "BONDHOLMEN Table+6 armchairs, outdoor" [level=3]
+            - text: Previous price $ 1,119 . 00 $ 947 . 00 Price valid Apr 4, 2023 - May 29, 2023 or while supply lasts go to product page
+        - listitem:
+          - tooltip "RGKORN Plant pot $ 44 . 99 go to product page":
+            - heading "RGKORN Plant pot" [level=3]
+            - text: $ 44 . 99 go to product page
+    - group:
+      - img "Outdoor patio setting"
+      - list:
+        - listitem:
+          - tooltip "TRN Table+2 chairs, outdoor Previous price $ 89 . 00 $ 69 . 00 Price valid Apr 4, 2023 - May 29, 2023 or while supply lasts go to product page":
+            - heading "TRN Table+2 chairs, outdoor" [level=3]
+            - text: Previous price $ 89 . 00 $ 69 . 00 Price valid Apr 4, 2023 - May 29, 2023 or while supply lasts go to product page
+        - listitem:
+          - tooltip "TRN Chair, outdoor Previous price $ 30 . 00 $ 20 . 00 Price valid Apr 4, 2023 - May 29, 2023 or while supply lasts go to product page":
+            - heading "TRN Chair, outdoor" [level=3]
+            - text: Previous price $ 30 . 00 $ 20 . 00 Price valid Apr 4, 2023 - May 29, 2023 or while supply lasts go to product page
+        - listitem:
+          - tooltip "BORRBY Lantern for block candle $ 26 . 99 go to product page":
+            - heading "BORRBY Lantern for block candle" [level=3]
+            - text: $ 26 . 99 go to product page
+    - heading "Unbeatable low prices" [level=2]
+    - list:
+      - text: Skip listing
+      - button "Our weekly offer SYVDE Dressing table Previous price $ 249 . 99 $ 129 . 99 Price valid Apr 3, 2023 - Apr 9, 2023 or while supply lasts go to product page Deal of the Week! Seize the savings! Don't miss this new weekly deal. SYVDE price is regularly $249.99 Sale $129.99. Valid 4/3-4/9/23":
+        - img "Our weekly offer"
+        - list:
+          - listitem:
+            - tooltip "SYVDE Dressing table Previous price $ 249 . 99 $ 129 . 99 Price valid Apr 3, 2023 - Apr 9, 2023 or while supply lasts go to product page":
+              - heading "SYVDE Dressing table" [level=3]
+              - text: Previous price $ 249 . 99 $ 129 . 99 Price valid Apr 3, 2023 - Apr 9, 2023 or while supply lasts go to product page
+        - heading "Deal of the Week!" [level=3]
+        - text: Seize the savings! Don't miss this new weekly deal. SYVDE price is regularly $249.99 Sale $129.99. Valid 4/3-4/9/23
+      - button
+    - img "New lower prices"
+    - list:
+      - listitem:
+        - tooltip "NewLowerPrice FEJKA Artificial potted plant Previous price $ 9 . 99 $ 7 . 99 Price valid from Mar 15, 2023 go to product page":
+          - text: NewLowerPrice
+          - heading "FEJKA Artificial potted plant" [level=3]
+          - text: Previous price $ 9 . 99 $ 7 . 99 Price valid from Mar 15, 2023 go to product page
+    - heading "New lower prices" [level=3]
+    - text: We work hard every day to keep prices as low as possible for you, and we lower prices where we can. By producing in high volumes with smarter designs and flat packaging, we can continue to offer affordable products without compromising quality.
+    - button
+    - img "Under $20 page"
+    - heading "Affordable home essentials under $20" [level=3]
+    - text: We are making it even easier to shop and find what you are looking for under $20. Shop our best quality products at an affordable price.
+    - button
+    - img "New Lowest price"
+    - heading "Fresh styles, low prices" [level=3]
+    - text: Shop our lowest priced furnishings, from lamps to loveseats.
+    - button
+  - button
+  - scrollbar
+- heading "IKEA Family members save 5% in-store on all furniture and dcor" [level=2]
+- paragraph: Members save more every day, every visit! You now save 5% off in-store on all furniture and dcor* and on select delivery options**. Plus, you get special offers, free in-store perks, price protection, and more. Its free to join, and youll be saving in no time. *Some restrictions apply, see full Terms & Conditions .
+- paragraph: Already a member? Login now .
+- button "Join for free"
+- heading "Right now at IKEA" [level=2]
+- list:
+  - text: Skip listing
+  - button "Kitchen cabinets 20% off select RINGHULT and KUNGSBACKA cabinet fronts Save big on stylish new cabinet fronts to start your dream kitchen makeover. IKEA Family offer ends 4/10/23.":
+    - img "Kitchen cabinets"
+    - heading "20% off select RINGHULT and KUNGSBACKA cabinet fronts" [level=3]
+    - text: Save big on stylish new cabinet fronts to start your dream kitchen makeover. IKEA Family offer ends 4/10/23.
+  - button
+- img "As-is page"
+- heading "The As-is section is now online!" [level=3]
+- text: IKEA Family members, it's now easier than ever to browse and shop your local stores' As-is section of gently used furniture, discontinued items and affordable furnishings online. Happy As-is shopping!
+- button
+- img "IKEA Kreativ page"
+- heading "Step into the future with IKEA Kreativ" [level=3]
+- text: Plan your space in 3D to see what your favorite furnishings will look like in your home!
+- button
+- button
+- img "The OMSESIDIG collection page"
+- heading "The MSESIDIG collection" [level=2]
+- paragraph: We've brought nine Latin American creatives together to bring you MSESIDIG - a collection about celebrating the good things in life - food, friends, family, and fun!
+- button "Shop the collection"
+- heading "Spring into al fresco mode" [level=2]
+- paragraph: Create a cool outdoor caf vibe with affordable patio furniture so you can enjoy your morning coffee, meals, and more under the sun or stars.
+- button "Shop outdoor furniture"
+- img "Outoor table with place settings"
+- img "Outoor table with place settings"
+- text: Shop outdoor furniture
+- heading "Popular categories" [level=2]:
+  - strong: Popular categories
+- img "Shop sofas and sectionals"
+- paragraph: Sofas & Sectionals
+- img "Shop beds and mattresses"
+- paragraph: Beds & Mattresses
+- img "Shop bookcases and shelving units"
+- paragraph: Bookcases & Shelving
+- img "Shop TV and media furniture"
+- paragraph: TV & Media Furniture
+- img "Shop storage and organization"
+- paragraph: Storage & Organization
+- img "Shop tables and desks"
+- paragraph: Tables & Desks
+- img "Shop lighting"
+- paragraph: Lighting
+- img "Shop bathroom items"
+- paragraph: Bathroom
+- img "Shop rugs"
+- paragraph: Rugs
+- img "Shop armoires and wardrobes"
+- paragraph: Dressers
+- img "Shop baby and kids"
+- paragraph: Children & Nursery
+- img "Shop cookware and tablewares"
+- paragraph: Cookware & Tableware
+- img "Shop kitchen and appliances"
+- paragraph: Appliances
+- img "Shop home decor"
+- paragraph: Home Dcor
+- img "Shop deals"
+- paragraph: Deals
+- list:
+  - listitem:
+    - img "Shop sofas and sectionals"
+    - text: Sofas & Sectionals
+  - listitem:
+    - img "Shop beds and mattresses"
+    - text: Beds & Mattresses
+  - listitem:
+    - img "Shop bookcases and shelving units"
+    - text: Bookcases & Shelving
+  - listitem:
+    - img "Shop TV and media furniture"
+    - text: TV & Media Furniture
+  - listitem:
+    - img "Shop storage and organization"
+    - text: Storage & Organization
+- region:
+  - list:
+    - listitem:
+      - img "Shop tables and desks"
+      - text: Tables & Desks
+    - listitem:
+      - img "Shop lighting"
+      - text: Lighting
+    - listitem:
+      - img "Shop bathroom items"
+      - text: Bathroom
+    - listitem:
+      - img "Shop rugs"
+      - text: Rugs
+    - listitem:
+      - img "Shop armoires and wardrobes"
+      - text: Dressers
+    - listitem:
+      - img "Shop baby and kids"
+      - text: Children & Nursery
+    - listitem:
+      - img "Shop cookware and tablewares"
+      - text: Cookware & Tableware
+    - listitem:
+      - img "Shop kitchen and appliances"
+      - text: Appliances
+    - listitem:
+      - img "Shop home decor"
+      - text: Home Dcor
+    - listitem:
+      - img "Shop deals"
+      - text: Deals
+- button "View all categories"
+- button "Learn more"
+- heading "Services to help you shop" [level=2]
+- heading "Delivery" [level=3]
+- paragraph: Shop from home and get it delivered to your front door.
+- text: Learn more
+- heading "Click & Collect" [level=3]
+- paragraph: Buy online, pick-up in store.
+- text: Learn more
+- heading "Taskrabbit Assembly" [level=3]
+- paragraph: Find flexible and affordable ways to get your to-dos done.
+- text: Learn more
+- heading "Ways to pay" [level=3]
+- paragraph: Finance your dream home with our credit cards.
+- text: Learn more
+- button "View all services"
+- text: "As seen on Instagram See how our products look in real homes! Share your photos on Instagram with #MyIKEAUSA or tag @IKEAUSA for a chance to be seen here! Skip visual ugc carousel content"
+- button "A photo of homepage by instagram user jessica_agnes A photo of homepage by instagram user fabnkosher A photo of homepage by instagram user hickorynutfarmbarndominium A photo of homepage by instagram user admittedlyimperfect A photo of homepage by instagram user afaf.interior A photo of homepage by instagram user lezimadesigns A photo of homepage by instagram user excuse_2_decorate A photo of homepage by instagram user mrs.jayp A photo of homepage by instagram user currys_house_of_kittens A photo of homepage by instagram user coffeewithabby":
+  - img "A photo of homepage by instagram user jessica_agnes"
+  - img "A photo of homepage by instagram user fabnkosher"
+  - img "A photo of homepage by instagram user hickorynutfarmbarndominium"
+  - img "A photo of homepage by instagram user admittedlyimperfect"
+  - img "A photo of homepage by instagram user afaf.interior"
+  - img "A photo of homepage by instagram user lezimadesigns"
+  - img "A photo of homepage by instagram user excuse_2_decorate"
+  - img "A photo of homepage by instagram user mrs.jayp"
+  - img "A photo of homepage by instagram user currys_house_of_kittens"
+  - img "A photo of homepage by instagram user coffeewithabby"
+- button
+- scrollbar
+- dialog:
+  - button "Featured on Instagram"
+- heading "Design inspiration and modern home ideas" [level=2]
+- button
+- button "All"
+- button "Bedroom"
+- button "Living room"
+- button "Kitchen"
+- button "Workspace"
+- button "Outdoor"
+- button "Bathroom"
+- button "Kids room"
+- button "Dining room"
+- button "Hallway"
+- button "Laundry"
+- button "Bundles"
+- button
+- text: Skip listing
+- img "A patio area featuring lit SOMMARLANKE floor lamps are set next to NAMMARO seats with beige seat cushions and pillows."
+- button "Add to favorites"
+- img "An outdoor area featuring RGKORN plant pots with green plants placed on gravel next to several seat sections with cushions."
+- button "Add to favorites"
+- img "Multiple SOMMARLNKE LED pendant lamps hang above seat sections outfitted with back cushions and several cushions."
+- button "Add to favorites"
+- img "Outdoor with a NMMAR seat sec for modular sofa for outdoors placed next to multiple KUDDARNA seat cushions for outdoors."
+- button "Add to favorites"
+- img "In a living room, a woman adjusts the fan speed setting on a light wood side table model of the STARKVIND air purifier."
+- button "Add to favorites"
+- img "Two OLIVBLAD plant stands on a balcony, one has two shelves, the other has three, both are filled with lots of plants."
+- button "Add to favorites"
+- img "A modern hallway that features an open wardrobe with sliding doors, a high back armchair, a side table and a floor lamp."
+- button "Add to favorites"
+- img "A SOLLERN chaise longue on a garden terrace, covered with STRIMSPORRE, INGALILL and KONSTANSE covered cushions."
+- button "Add to favorites"
+- img "A white wall and a light brown, stained STACKHOLMEN stool with a black, braided rope seat that's slightly curved upward."
+- button "Add to favorites"
+- img "Outdoor featuring a person standing next to a brown NMMAR reclining chair for outdoors placed next to a NMMAR stool."
+- button "Add to favorites"
+- img "A hallway with a folded-down, white NORDEN gateleg table against a wall, and a LRBRO mirror a white NYMNE lamp above it."
+- button "Add to favorites"
+- img "The legs of a black VIHOLMEN chair on top of black RUNNEN floor decking with terracotta plant pots in the background."
+- button "Add to favorites"
+- button "Load 12 more"
+- group:
+  - img "Link to Chest and Dresser Recall"
+- paragraph:
+  - strong: IKEA Chest and Dresser Safety Recall
+- button "Learn more"
+- group:
+  - img "BLVINGAD"
+- paragraph:
+  - strong: IKEA recalls BLVINGAD fishing game
+- button "Learn More"
+- heading "This is IKEA" [level=2]
+- paragraph:
+  - strong: Sustainable everyday
+- paragraph: How sustainable is IKEA? Well, more sustainable every day. With products like veggie hot dogs, and energy-saving solutions, were paving the way for more sustainable homes for the many.
+- paragraph: Learn more
+- paragraph:
+  - strong: Climate and environment
+- paragraph: Find out how IKEA invests, inspires and acts to tackle environmental issues, reduce carbon footprints and drive positive change on a global scale.
+- paragraph: Learn more
+- paragraph:
+  - strong: Work with us
+- paragraph: Coming from all over the world, our IKEA co-workers share a special set of values and a vision to enable people to live a better, more sustainable everyday life. They come together within diverse, inclusive, open IKEA work environments, where each of them offers something unique.
+- paragraph: Learn more
+- heading "Furniture and inspiration for a better everyday life at home" [level=2]
+- paragraph: Welcome to IKEA, where you will always find affordable furniture , stylish home dcor and innovative modern home solutions, as well as design inspiration and unique home ideas! If you are online furniture shopping or if you are visiting a local IKEA store near you, you can expect super low prices on a wide variety of exciting home essentials that are perfect for larger homes and small space living.
+- paragraph: If you want to save even more money when you are shopping at IKEA, be sure to join IKEA Family so you can take advantage of our regular furniture sales, amazing deals on home furnishings and special offers on home accessories. Get ready for big savings whether you are refreshing your space with small upgrades, like new curtains or sheets, or planning bigger home renovation projects, like remodeling your kitchen or doing a DIY bathroom makeover!
+- paragraph: So, now you are probably wondering, How do I find an IKEA furniture store near me? Check out the IKEA Store Locator and we hope to see you soon! IKEA also has many new ways to shop. Want to shop online from the comfort of your sofa? No problem, weve made shopping online at IKEA easier than ever. Browse our full store experience online to find affordable home goods for every room, including home office , living room , kitchen , bathroom , bedroom and outdoor furniture , and get deliveries straight to your doorstep! We also offer Click-and-collect where you can buy online and pick-up in store for even faster and easier shopping.
+- button "Back to top"
+- button "Share"
+- contentinfo

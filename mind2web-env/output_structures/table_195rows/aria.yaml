@@ -1,0 +1,592 @@
+- heading "List of Countries by Population" [level=1]
+- table:
+  - rowgroup:
+    - row "Country Population":
+      - columnheader "Country"
+      - columnheader "Population"
+  - rowgroup:
+    - row "Afghanistan 247,933,641":
+      - cell "Afghanistan"
+      - cell "247,933,641"
+    - row "Albania 121,359,375":
+      - cell "Albania"
+      - cell "121,359,375"
+    - row "Algeria 427,895,254":
+      - cell "Algeria"
+      - cell "427,895,254"
+    - row "Andorra 309,220,871":
+      - cell "Andorra"
+      - cell "309,220,871"
+    - row "Angola 55,132,330":
+      - cell "Angola"
+      - cell "55,132,330"
+    - row "Antigua and Barbuda 9,719,135":
+      - cell "Antigua and Barbuda"
+      - cell "9,719,135"
+    - row "Argentina 461,767,361":
+      - cell "Argentina"
+      - cell "461,767,361"
+    - row "Armenia 183,928,240":
+      - cell "Armenia"
+      - cell "183,928,240"
+    - row "Australia 352,945,023":
+      - cell "Australia"
+      - cell "352,945,023"
+    - row "Austria 287,433,063":
+      - cell "Austria"
+      - cell "287,433,063"
+    - row "Azerbaijan 421,680,169":
+      - cell "Azerbaijan"
+      - cell "421,680,169"
+    - row "Bahamas 236,903,935":
+      - cell "Bahamas"
+      - cell "236,903,935"
+    - row "Bahrain 53,411,458":
+      - cell "Bahrain"
+      - cell "53,411,458"
+    - row "Bangladesh 305,053,433":
+      - cell "Bangladesh"
+      - cell "305,053,433"
+    - row "Barbados 395,934,992":
+      - cell "Barbados"
+      - cell "395,934,992"
+    - row "Belarus 142,391,782":
+      - cell "Belarus"
+      - cell "142,391,782"
+    - row "Belgium 140,855,516":
+      - cell "Belgium"
+      - cell "140,855,516"
+    - row "Belize 380,992,476":
+      - cell "Belize"
+      - cell "380,992,476"
+    - row "Benin 194,904,899":
+      - cell "Benin"
+      - cell "194,904,899"
+    - row "Bhutan 313,057,291":
+      - cell "Bhutan"
+      - cell "313,057,291"
+    - row "Bolivia 16,125,192":
+      - cell "Bolivia"
+      - cell "16,125,192"
+    - row "Bosnia 168,828,703":
+      - cell "Bosnia"
+      - cell "168,828,703"
+    - row "Bosnia and Herzegovina 219,693,094":
+      - cell "Bosnia and Herzegovina"
+      - cell "219,693,094"
+    - row "Botswana 429,577,932":
+      - cell "Botswana"
+      - cell "429,577,932"
+    - row "Brazil 231,382,716":
+      - cell "Brazil"
+      - cell "231,382,716"
+    - row "Brunei 33,316,936":
+      - cell "Brunei"
+      - cell "33,316,936"
+    - row "Bulgaria 149,417,438":
+      - cell "Bulgaria"
+      - cell "149,417,438"
+    - row "Burkina Faso 145,432,484":
+      - cell "Burkina Faso"
+      - cell "145,432,484"
+    - row "Burundi 357,541,087":
+      - cell "Burundi"
+      - cell "357,541,087"
+    - row "Cabo Verde 296,862,847":
+      - cell "Cabo Verde"
+      - cell "296,862,847"
+    - row "Cambodia 220,968,364":
+      - cell "Cambodia"
+      - cell "220,968,364"
+    - row "Cameroon 169,424,961":
+      - cell "Cameroon"
+      - cell "169,424,961"
+    - row "Canada 474,660,108":
+      - cell "Canada"
+      - cell "474,660,108"
+    - row "Central African Republic 98,553,047":
+      - cell "Central African Republic"
+      - cell "98,553,047"
+    - row "Chad 458,525,077":
+      - cell "Chad"
+      - cell "458,525,077"
+    - row "Chile 479,425,925":
+      - cell "Chile"
+      - cell "479,425,925"
+    - row "China 401,197,337":
+      - cell "China"
+      - cell "401,197,337"
+    - row "Colombia 333,622,878":
+      - cell "Colombia"
+      - cell "333,622,878"
+    - row "Comoros 360,142,554":
+      - cell "Comoros"
+      - cell "360,142,554"
+    - row "Costa Rica 169,282,793":
+      - cell "Costa Rica"
+      - cell "169,282,793"
+    - row "Cote d'Ivoire 141,888,888":
+      - cell "Cote d'Ivoire"
+      - cell "141,888,888"
+    - row "Croatia 242,711,612":
+      - cell "Croatia"
+      - cell "242,711,612"
+    - row "Cuba 249,359,567":
+      - cell "Cuba"
+      - cell "249,359,567"
+    - row "Cyprus 121,096,257":
+      - cell "Cyprus"
+      - cell "121,096,257"
+    - row "Czech Republic 456,920,910":
+      - cell "Czech Republic"
+      - cell "456,920,910"
+    - row "Democratic Republic of the Congo 56,324,845":
+      - cell "Democratic Republic of the Congo"
+      - cell "56,324,845"
+    - row "Denmark 167,037,808":
+      - cell "Denmark"
+      - cell "167,037,808"
+    - row "Djibouti 125,857,831":
+      - cell "Djibouti"
+      - cell "125,857,831"
+    - row "Dominica 145,610,725":
+      - cell "Dominica"
+      - cell "145,610,725"
+    - row "Dominican Republic 196,999,228":
+      - cell "Dominican Republic"
+      - cell "196,999,228"
+    - row "Ecuador 100,407,600":
+      - cell "Ecuador"
+      - cell "100,407,600"
+    - row "Egypt 485,140,239":
+      - cell "Egypt"
+      - cell "485,140,239"
+    - row "El Salvador 288,235,146":
+      - cell "El Salvador"
+      - cell "288,235,146"
+    - row "Equatorial Guinea 375,314,236":
+      - cell "Equatorial Guinea"
+      - cell "375,314,236"
+    - row "Eritrea 122,176,311":
+      - cell "Eritrea"
+      - cell "122,176,311"
+    - row "Estonia 117,310,763":
+      - cell "Estonia"
+      - cell "117,310,763"
+    - row "Eswatini 441,087,191":
+      - cell "Eswatini"
+      - cell "441,087,191"
+    - row "Ethiopia 354,294,560":
+      - cell "Ethiopia"
+      - cell "354,294,560"
+    - row "Fiji 395,572,145":
+      - cell "Fiji"
+      - cell "395,572,145"
+    - row "Finland 155,498,842":
+      - cell "Finland"
+      - cell "155,498,842"
+    - row "France 29,003,086":
+      - cell "France"
+      - cell "29,003,086"
+    - row "Gabon 366,145,447":
+      - cell "Gabon"
+      - cell "366,145,447"
+    - row "Gambia 367,497,106":
+      - cell "Gambia"
+      - cell "367,497,106"
+    - row "Georgia 495,698,881":
+      - cell "Georgia"
+      - cell "495,698,881"
+    - row "Germany 381,291,666":
+      - cell "Germany"
+      - cell "381,291,666"
+    - row "Ghana 436,013,695":
+      - cell "Ghana"
+      - cell "436,013,695"
+    - row "Greece 272,501,157":
+      - cell "Greece"
+      - cell "272,501,157"
+    - row "Grenada 312,214,891":
+      - cell "Grenada"
+      - cell "312,214,891"
+    - row "Guatemala 199,541,280":
+      - cell "Guatemala"
+      - cell "199,541,280"
+    - row "Guinea 127,759,066":
+      - cell "Guinea"
+      - cell "127,759,066"
+    - row "Guinea-Bissau 197,192,322":
+      - cell "Guinea-Bissau"
+      - cell "197,192,322"
+    - row "Guyana 188,367,283":
+      - cell "Guyana"
+      - cell "188,367,283"
+    - row "Haiti 417,514,853":
+      - cell "Haiti"
+      - cell "417,514,853"
+    - row "Honduras 442,286,072":
+      - cell "Honduras"
+      - cell "442,286,072"
+    - row "Hungary 482,750,964":
+      - cell "Hungary"
+      - cell "482,750,964"
+    - row "Iceland 493,950,424":
+      - cell "Iceland"
+      - cell "493,950,424"
+    - row "India 455,407,986":
+      - cell "India"
+      - cell "455,407,986"
+    - row "Indonesia 301,993,634":
+      - cell "Indonesia"
+      - cell "301,993,634"
+    - row "Iran 95,777,584":
+      - cell "Iran"
+      - cell "95,777,584"
+    - row "Iraq 460,245,949":
+      - cell "Iraq"
+      - cell "460,245,949"
+    - row "Ireland 477,278,549":
+      - cell "Ireland"
+      - cell "477,278,549"
+    - row "Israel 109,213,541":
+      - cell "Israel"
+      - cell "109,213,541"
+    - row "Italy 6,841,820":
+      - cell "Italy"
+      - cell "6,841,820"
+    - row "Jamaica 313,823,302":
+      - cell "Jamaica"
+      - cell "313,823,302"
+    - row "Japan 193,290,123":
+      - cell "Japan"
+      - cell "193,290,123"
+    - row "Jordan 420,967,206":
+      - cell "Jordan"
+      - cell "420,967,206"
+    - row "Kazakhstan 250,191,358":
+      - cell "Kazakhstan"
+      - cell "250,191,358"
+    - row "Kenya 387,364,583":
+      - cell "Kenya"
+      - cell "387,364,583"
+    - row "Kiribati 130,023,148":
+      - cell "Kiribati"
+      - cell "130,023,148"
+    - row "Kosovo 262,018,904":
+      - cell "Kosovo"
+      - cell "262,018,904"
+    - row "Kuwait 382,286,844":
+      - cell "Kuwait"
+      - cell "382,286,844"
+    - row "Kyrgyzstan 443,262,152":
+      - cell "Kyrgyzstan"
+      - cell "443,262,152"
+    - row "Laos 86,042,245":
+      - cell "Laos"
+      - cell "86,042,245"
+    - row "Latvia 82,700,231":
+      - cell "Latvia"
+      - cell "82,700,231"
+    - row "Lebanon 477,036,651":
+      - cell "Lebanon"
+      - cell "477,036,651"
+    - row "Lesotho 498,968,750":
+      - cell "Lesotho"
+      - cell "498,968,750"
+    - row "Liberia 194,340,470":
+      - cell "Liberia"
+      - cell "194,340,470"
+    - row "Libya 63,297,453":
+      - cell "Libya"
+      - cell "63,297,453"
+    - row "Liechtenstein 148,347,993":
+      - cell "Liechtenstein"
+      - cell "148,347,993"
+    - row "Lithuania 126,570,794":
+      - cell "Lithuania"
+      - cell "126,570,794"
+    - row "Luxembourg 493,528,163":
+      - cell "Luxembourg"
+      - cell "493,528,163"
+    - row "Madagascar 371,002,507":
+      - cell "Madagascar"
+      - cell "371,002,507"
+    - row "Malawi 255,076,003":
+      - cell "Malawi"
+      - cell "255,076,003"
+    - row "Malaysia 429,427,276":
+      - cell "Malaysia"
+      - cell "429,427,276"
+    - row "Maldives 412,829,668":
+      - cell "Maldives"
+      - cell "412,829,668"
+    - row "Mali 401,838,155":
+      - cell "Mali"
+      - cell "401,838,155"
+    - row "Malta 214,263,117":
+      - cell "Malta"
+      - cell "214,263,117"
+    - row "Marshall Islands 325,896,990":
+      - cell "Marshall Islands"
+      - cell "325,896,990"
+    - row "Mauritania 145,945,987":
+      - cell "Mauritania"
+      - cell "145,945,987"
+    - row "Mauritius 395,313,271":
+      - cell "Mauritius"
+      - cell "395,313,271"
+    - row "Mexico 99,456,983":
+      - cell "Mexico"
+      - cell "99,456,983"
+    - row "Micronesia 199,897,762":
+      - cell "Micronesia"
+      - cell "199,897,762"
+    - row "Moldova 382,987,075":
+      - cell "Moldova"
+      - cell "382,987,075"
+    - row "Monaco 96,590,277":
+      - cell "Monaco"
+      - cell "96,590,277"
+    - row "Mongolia 449,226,851":
+      - cell "Mongolia"
+      - cell "449,226,851"
+    - row "Montenegro 410,380,979":
+      - cell "Montenegro"
+      - cell "410,380,979"
+    - row "Morocco 167,909,915":
+      - cell "Morocco"
+      - cell "167,909,915"
+    - row "Mozambique 38,863,618":
+      - cell "Mozambique"
+      - cell "38,863,618"
+    - row "Myanmar 454,847,800":
+      - cell "Myanmar"
+      - cell "454,847,800"
+    - row "Namibia 36,501,929":
+      - cell "Namibia"
+      - cell "36,501,929"
+    - row "Nauru 347,396,219":
+      - cell "Nauru"
+      - cell "347,396,219"
+    - row "Nepal 53,209,876":
+      - cell "Nepal"
+      - cell "53,209,876"
+    - row "Netherlands 337,522,955":
+      - cell "Netherlands"
+      - cell "337,522,955"
+    - row "New Zealand 245,648,341":
+      - cell "New Zealand"
+      - cell "245,648,341"
+    - row "Nicaragua 333,105,131":
+      - cell "Nicaragua"
+      - cell "333,105,131"
+    - row "Niger 159,127,314":
+      - cell "Niger"
+      - cell "159,127,314"
+    - row "Nigeria 131,171,103":
+      - cell "Nigeria"
+      - cell "131,171,103"
+    - row "North Korea 259,565,972":
+      - cell "North Korea"
+      - cell "259,565,972"
+    - row "North Macedonia 258,065,779":
+      - cell "North Macedonia"
+      - cell "258,065,779"
+    - row "Norway 154,694,637":
+      - cell "Norway"
+      - cell "154,694,637"
+    - row "Oman 39,338,927":
+      - cell "Oman"
+      - cell "39,338,927"
+    - row "Pakistan 83,343,171":
+      - cell "Pakistan"
+      - cell "83,343,171"
+    - row "Palau 37,632,908":
+      - cell "Palau"
+      - cell "37,632,908"
+    - row "Panama 455,694,444":
+      - cell "Panama"
+      - cell "455,694,444"
+    - row "Papua New Guinea 140,072,530":
+      - cell "Papua New Guinea"
+      - cell "140,072,530"
+    - row "Paraguay 213,308,256":
+      - cell "Paraguay"
+      - cell "213,308,256"
+    - row "Peru 462,142,939":
+      - cell "Peru"
+      - cell "462,142,939"
+    - row "Philippines 450,321,759":
+      - cell "Philippines"
+      - cell "450,321,759"
+    - row "Poland 139,960,069":
+      - cell "Poland"
+      - cell "139,960,069"
+    - row "Portugal 471,479,359":
+      - cell "Portugal"
+      - cell "471,479,359"
+    - row "Qatar 189,755,015":
+      - cell "Qatar"
+      - cell "189,755,015"
+    - row "Republic of the Congo 100,594,328":
+      - cell "Republic of the Congo"
+      - cell "100,594,328"
+    - row "Romania 163,691,550":
+      - cell "Romania"
+      - cell "163,691,550"
+    - row "Russia 39,665,702":
+      - cell "Russia"
+      - cell "39,665,702"
+    - row "Rwanda 164,217,785":
+      - cell "Rwanda"
+      - cell "164,217,785"
+    - row "Saint Kitts and Nevis 348,395,640":
+      - cell "Saint Kitts and Nevis"
+      - cell "348,395,640"
+    - row "Saint Lucia 128,264,081":
+      - cell "Saint Lucia"
+      - cell "128,264,081"
+    - row "Saint Vincent and the Grenadines 358,631,751":
+      - cell "Saint Vincent and the Grenadines"
+      - cell "358,631,751"
+    - row "Samoa 412,519,868":
+      - cell "Samoa"
+      - cell "412,519,868"
+    - row "San Marino 417,947,723":
+      - cell "San Marino"
+      - cell "417,947,723"
+    - row "Saudi Arabia 54,525,462":
+      - cell "Saudi Arabia"
+      - cell "54,525,462"
+    - row "Senegal 173,159,529":
+      - cell "Senegal"
+      - cell "173,159,529"
+    - row "Serbia 270,377,121":
+      - cell "Serbia"
+      - cell "270,377,121"
+    - row "Seychelles 140,429,012":
+      - cell "Seychelles"
+      - cell "140,429,012"
+    - row "Sierra Leone 339,901,620":
+      - cell "Sierra Leone"
+      - cell "339,901,620"
+    - row "Singapore 165,255,401":
+      - cell "Singapore"
+      - cell "165,255,401"
+    - row "Slovakia 255,122,685":
+      - cell "Slovakia"
+      - cell "255,122,685"
+    - row "Slovenia 489,575,038":
+      - cell "Slovenia"
+      - cell "489,575,038"
+    - row "Solomon Islands 451,346,643":
+      - cell "Solomon Islands"
+      - cell "451,346,643"
+    - row "Somalia 484,824,074":
+      - cell "Somalia"
+      - cell "484,824,074"
+    - row "South Africa 89,702,546":
+      - cell "South Africa"
+      - cell "89,702,546"
+    - row "South Korea 139,440,200":
+      - cell "South Korea"
+      - cell "139,440,200"
+    - row "South Sudan 192,314,043":
+      - cell "South Sudan"
+      - cell "192,314,043"
+    - row "Spain 371,170,138":
+      - cell "Spain"
+      - cell "371,170,138"
+    - row "Sri Lanka 404,000,385":
+      - cell "Sri Lanka"
+      - cell "404,000,385"
+    - row "Sudan 432,103,009":
+      - cell "Sudan"
+      - cell "432,103,009"
+    - row "Suriname 200,090,856":
+      - cell "Suriname"
+      - cell "200,090,856"
+    - row "Sweden 5,993,055":
+      - cell "Sweden"
+      - cell "5,993,055"
+    - row "Switzerland 238,896,412":
+      - cell "Switzerland"
+      - cell "238,896,412"
+    - row "Syria 292,455,632":
+      - cell "Syria"
+      - cell "292,455,632"
+    - row "Taiwan 486,704,089":
+      - cell "Taiwan"
+      - cell "486,704,089"
+    - row "Tajikistan 61,508,680":
+      - cell "Tajikistan"
+      - cell "61,508,680"
+    - row "Tanzania 457,990,354":
+      - cell "Tanzania"
+      - cell "457,990,354"
+    - row "Thailand 402,593,557":
+      - cell "Thailand"
+      - cell "402,593,557"
+    - row "Timor-Leste 298,150,848":
+      - cell "Timor-Leste"
+      - cell "298,150,848"
+    - row "Togo 139,724,537":
+      - cell "Togo"
+      - cell "139,724,537"
+    - row "Tonga 245,395,833":
+      - cell "Tonga"
+      - cell "245,395,833"
+    - row "Trinidad and Tobago 212,455,246":
+      - cell "Trinidad and Tobago"
+      - cell "212,455,246"
+    - row "Tunisia 361,044,367":
+      - cell "Tunisia"
+      - cell "361,044,367"
+    - row "Turkey 277,394,290":
+      - cell "Turkey"
+      - cell "277,394,290"
+    - row "Turkmenistan 69,045,717":
+      - cell "Turkmenistan"
+      - cell "69,045,717"
+    - row "Tuvalu 456,386,188":
+      - cell "Tuvalu"
+      - cell "456,386,188"
+    - row "Uganda 290,473,765":
+      - cell "Uganda"
+      - cell "290,473,765"
+    - row "Ukraine 267,869,020":
+      - cell "Ukraine"
+      - cell "267,869,020"
+    - row "United Arab Emirates 43,268,711":
+      - cell "United Arab Emirates"
+      - cell "43,268,711"
+    - row "United Kingdom 239,443,865":
+      - cell "United Kingdom"
+      - cell "239,443,865"
+    - row "United States 143,098,379":
+      - cell "United States"
+      - cell "143,098,379"
+    - row "Uruguay 40,631,172":
+      - cell "Uruguay"
+      - cell "40,631,172"
+    - row "Uzbekistan 36,264,274":
+      - cell "Uzbekistan"
+      - cell "36,264,274"
+    - row "Vanuatu 315,141,010":
+      - cell "Vanuatu"
+      - cell "315,141,010"
+    - row "Venezuela 72,996,720":
+      - cell "Venezuela"
+      - cell "72,996,720"
+    - row "Vietnam 14,735,339":
+      - cell "Vietnam"
+      - cell "14,735,339"
+    - row "Yemen 60,886,959":
+      - cell "Yemen"
+      - cell "60,886,959"
+    - row "Zambia 290,299,768":
+      - cell "Zambia"
+      - cell "290,299,768"
+    - row "Zimbabwe 333,711,998":
+      - cell "Zimbabwe"
+      - cell "333,711,998"

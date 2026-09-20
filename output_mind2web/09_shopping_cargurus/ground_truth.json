@@ -1,0 +1,21 @@
+{
+  "task": "mind2web-element-identification",
+  "source": "Shopping/cargurus",
+  "domain": "Shopping",
+  "website": "cargurus",
+  "confirmed_task": "calculate a car loan payment for a $25000 car with a $5000 down payment and 12 percent interest rate for 48 months.",
+  "target_role": "menuitem",
+  "target_operation": "HOVER",
+  "questions": [
+    {
+      "id": "element",
+      "question": "You are a web agent. Task: \"calculate a car loan payment for a $25000 car with a $5000 down payment and 12 percent interest rate for 48 months.\". Which element should be used to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Finance"
+    },
+    {
+      "id": "actiontype",
+      "question": "You are a web agent. Task: \"calculate a car loan payment for a $25000 car with a $5000 down payment and 12 percent interest rate for 48 months.\". You have identified the target element: \"Finance\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "HOVER"
+    }
+  ]
+}

@@ -1,0 +1,1226 @@
+- button "United States"
+- text: Borderfree
+- combobox:
+  - option [selected]
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+- combobox:
+  - option [selected]
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+- button "OK"
+- banner:
+  - text: Skip to main content Skip to footer content
+  - paragraph: FREE U.S. Shipping Orders $99+ & FREE Returns
+  - paragraph: FREE U.S. Shipping Orders $99+ & FREE Returns
+  - paragraph: UP TO 50% OFF + EXTRA 30% OFF WITH CODE SPRING30. Shop now.
+  - button
+  - text: Need Help?
+  - button "US"
+  - list:
+    - listitem: CA
+    - listitem: MX
+  - text: See All English
+  - button "Register"
+  - text: "|"
+  - button "Log In"
+  - button "Menu"
+  - button
+  - button
+  - button
+  - img "Under Armour Logo"
+  - navigation:
+    - button "Under Armour Logo":
+      - img "Under Armour Logo"
+    - button
+  - menubar:
+    - link "New":
+      - text: New
+      - img
+    - menuitem "Men"
+    - menu:
+      - text: Men
+      - listitem:
+        - img "Image for banner of category"
+        - text: Shop Now
+      - menu:
+        - menuitem "New Arrivals"
+        - menuitem "Spring Picks"
+        - menuitem "Best Sellers"
+        - menuitem "Project Rock"
+        - menuitem "Big & Tall"
+        - menuitem "UA Fleece Shop"
+        - menuitem "College Fan Gear"
+        - menuitem "Matching Sets"
+      - menu:
+        - menuitem "Baselayer"
+        - menuitem "Jackets & Vests"
+        - menuitem "Pants & Leggings"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Shorts"
+        - menuitem "Swimwear"
+        - menuitem "Underwear"
+      - menu:
+        - menuitem "Baseball"
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Football"
+        - menuitem "Golf"
+        - menuitem "Hockey"
+        - menuitem "Hunting"
+        - menuitem "Military & Tactical"
+        - menuitem "Hiking & Outdoor"
+        - menuitem "Running"
+        - menuitem "Soccer"
+        - menuitem "Training"
+      - menu:
+        - menuitem "UA SlipSpeed"
+        - 'menuitem "UA ColdGear: Keeps You Warm"'
+        - 'menuitem "UA HeatGear: Keeps You Cool"'
+        - menuitem "UA RUSH Performance Apparel"
+        - menuitem "UA HOVR Shoes"
+        - menuitem "Curry Brand"
+        - menuitem "UA Freedom"
+      - menuitem "Accessories"
+      - menu:
+        - menuitem "Accessories"
+        - menuitem "Backpacks & Bags"
+        - menuitem "Beanies & Cold Weather Gear"
+        - menuitem "Belts"
+        - menuitem "Equipment"
+        - menuitem "Face Masks, Hoods & Gaiters"
+        - menuitem "Hats & Visors"
+        - menuitem "Headphones"
+        - menuitem "Socks"
+        - menuitem "Sport Gloves"
+        - menuitem "Sunglasses"
+        - menuitem "Water Bottles & Coolers"
+      - text: Shop All Men
+      - menuitem "Accessories"
+      - menu:
+        - menuitem "Accessories"
+        - text: Shop All Accessories
+        - menuitem "Backpacks & Bags"
+        - menuitem "Beanies & Cold Weather Gear"
+        - menuitem "Belts"
+        - menuitem "Equipment"
+        - menuitem "Face Masks, Hoods & Gaiters"
+        - menuitem "Hats & Visors"
+        - menuitem "Headphones"
+        - menuitem "Socks"
+        - menuitem "Sport Gloves"
+        - menuitem "Sunglasses"
+        - menuitem "Water Bottles & Coolers"
+      - menuitem "Baselayer"
+      - menu:
+        - menuitem "New Arrivals":
+          - text: New Arrivals
+          - img
+        - menuitem "Spring Picks"
+        - menuitem "Best Sellers"
+        - menuitem "Project Rock"
+        - menuitem "Big & Tall"
+        - menuitem "UA Fleece Shop"
+        - menuitem "College Fan Gear"
+        - menuitem "Matching Sets"
+      - menuitem "Jackets & Vests"
+      - menu:
+        - menuitem "Jackets & Vests"
+        - text: Shop All Jackets & Vests
+        - menuitem "Jackets"
+        - menuitem "Vests"
+      - menuitem "Pants & Leggings"
+      - menu:
+        - menuitem "Pants & Leggings"
+        - text: Shop All Pants & Leggings
+        - menuitem "Leggings & Baselayer"
+        - menuitem "Outdoor & Lifestyle Pants"
+        - menuitem "Shorts"
+        - menuitem "Workout Pants & Joggers"
+      - menuitem "Shirts & Tops"
+      - menu:
+        - menuitem "Shirts & Tops"
+        - text: Shop All Shirts & Tops
+        - menuitem "Tank Tops & Sleeveless"
+        - menuitem "Short Sleeves"
+        - menuitem "Graphic T-shirts"
+        - menuitem "Polo Shirts"
+        - menuitem "Long Sleeves"
+        - menuitem "Hoodies & Sweatshirts"
+      - menuitem "Shoes"
+      - menu:
+        - menuitem "Shoes"
+        - text: Shop All Shoes
+        - menuitem "Baseball"
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Football"
+        - menuitem "Golf"
+        - menuitem "Hiking & Hunting"
+        - menuitem "Lacrosse"
+        - menuitem "Military & Tactical Boots"
+        - menuitem "Running"
+        - menuitem "Sandals & Slides"
+        - menuitem "Soccer"
+        - menuitem "Sportstyle"
+        - menuitem "Training"
+      - menu:
+        - menuitem "UA SlipSpeed"
+        - 'menuitem "UA ColdGear: Keeps You Warm"'
+        - 'menuitem "UA HeatGear: Keeps You Cool"'
+        - menuitem "UA RUSH Performance Apparel"
+        - menuitem "UA HOVR Shoes"
+        - menuitem "Curry Brand"
+        - menuitem "UA Freedom"
+      - menu:
+        - menuitem "Baseball"
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Football"
+        - menuitem "Golf"
+        - menuitem "Hiking & Outdoor"
+        - menuitem "Hockey"
+        - menuitem "Hunting"
+        - menuitem "Military & Tactical"
+        - menuitem "Running"
+        - menuitem "Soccer"
+        - menuitem "Training"
+      - menuitem "Shorts"
+      - menuitem "Swimwear"
+      - menuitem "Underwear"
+    - menuitem "Women"
+    - menu:
+      - text: Women
+      - listitem:
+        - img "Image for banner of category"
+        - text: Shop Now
+      - menu:
+        - menuitem "New Arrivals"
+        - menuitem "Spring Picks"
+        - menuitem "Best Sellers"
+        - menuitem "UA Plus Size"
+        - menuitem "UA Fleece Shop"
+        - menuitem "Project Rock"
+        - menuitem "College Fan Gear"
+        - menuitem "Matching Sets"
+      - menu:
+        - menuitem "Baselayer"
+        - menuitem "Jackets & Vests"
+        - menuitem "Pants & Leggings"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Shorts"
+        - menuitem "Sports Bras"
+        - menuitem "Underwear"
+      - menu:
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Golf"
+        - menuitem "Hunting"
+        - menuitem "Military & Tactical"
+        - menuitem "Hiking & Outdoor"
+        - menuitem "Running"
+        - menuitem "Soccer"
+        - menuitem "Softball"
+        - menuitem "Training"
+        - menuitem "Volleyball"
+        - menuitem "Yoga & Studio"
+      - menu:
+        - menuitem "UA SlipSpeed"
+        - 'menuitem "UA ColdGear: Keeps You Warm"'
+        - 'menuitem "UA HeatGear: Keeps You Cool"'
+        - menuitem "UA RUSH Performance Apparel"
+        - menuitem "UA HOVR Shoes"
+        - menuitem "Curry Brand"
+        - menuitem "UA Freedom"
+        - menuitem "UA Meridian"
+      - menuitem "Accessories"
+      - menu:
+        - menuitem "Accessories"
+        - menuitem "Backpacks & Bags"
+        - menuitem "Beanies & Cold Weather Gear"
+        - menuitem "Equipment"
+        - menuitem "Face Masks, Hoods & Gaiters"
+        - menuitem "Hats & Visors"
+        - menuitem "Headphones"
+        - menuitem "Socks"
+        - menuitem "Sport Gloves"
+        - menuitem "Sunglasses"
+        - menuitem "Water Bottles & Coolers"
+      - text: Shop All Women
+      - menuitem "Accessories"
+      - menu:
+        - menuitem "Accessories"
+        - text: Shop All Accessories
+        - menuitem "Backpacks & Bags"
+        - menuitem "Beanies & Cold Weather Gear"
+        - menuitem "Equipment"
+        - menuitem "Face Masks, Hoods & Gaiters"
+        - menuitem "Hats & Visors"
+        - menuitem "Headphones"
+        - menuitem "Socks"
+        - menuitem "Sport Gloves"
+        - menuitem "Sunglasses"
+        - menuitem "Water Bottles & Coolers"
+      - menuitem "Baselayer"
+      - menu:
+        - menuitem "New Arrivals":
+          - text: New Arrivals
+          - img
+        - menuitem "Spring Picks"
+        - menuitem "Best Sellers"
+        - menuitem "UA Plus Size"
+        - menuitem "UA Fleece Shop"
+        - menuitem "Project Rock"
+        - menuitem "College Fan Gear"
+        - menuitem "Matching Sets"
+      - menuitem "Jackets & Vests"
+      - menu:
+        - menuitem "Jackets & Vests"
+        - text: Shop All Jackets & Vests
+        - menuitem "Jackets"
+        - menuitem "Vests"
+      - menuitem "Pants & Leggings"
+      - menu:
+        - menuitem "Pants & Leggings"
+        - text: Shop All Pants & Leggings
+        - menuitem "Capris & Crops"
+        - menuitem "Leggings & Baselayer"
+        - menuitem "Pants, Sweatpants & Joggers"
+        - menuitem "Shorts"
+      - menuitem "Shirts & Tops"
+      - menu:
+        - menuitem "Shirts & Tops"
+        - text: Shop All Shirts & Tops
+        - menuitem "Graphic T-shirts"
+        - menuitem "Hoodies & Sweatshirts"
+        - menuitem "Long Sleeves"
+        - menuitem "Polo Shirts"
+        - menuitem "Short Sleeves"
+        - menuitem "Tank Tops & Sleeveless"
+      - menuitem "Shoes"
+      - menu:
+        - menuitem "Shoes"
+        - text: Shop All Shoes
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Hiking & Hunting"
+        - menuitem "Lacrosse"
+        - menuitem "Military & Tactical"
+        - menuitem "Running"
+        - menuitem "Sandals & Slides"
+        - menuitem "Soccer"
+        - menuitem "Softball"
+        - menuitem "Sportstyle"
+        - menuitem "Training"
+        - menuitem "Volleyball"
+      - menu:
+        - menuitem "UA SlipSpeed"
+        - 'menuitem "UA ColdGear: Keeps You Warm"'
+        - 'menuitem "UA HeatGear: Keeps You Cool"'
+        - menuitem "UA RUSH Performance Apparel"
+        - menuitem "UA HOVR Shoes"
+        - menuitem "Curry Brand"
+        - menuitem "UA Freedom"
+        - menuitem "UA Meridian"
+      - menu:
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Golf"
+        - menuitem "Hiking & Outdoor"
+        - menuitem "Hunting"
+        - menuitem "Military & Tactical"
+        - menuitem "Running"
+        - menuitem "Soccer"
+        - menuitem "Softball"
+        - menuitem "Training"
+        - menuitem "Volleyball"
+        - menuitem "Yoga & Studio"
+      - menuitem "Shorts"
+      - menuitem "Sports Bras"
+      - menuitem "Underwear"
+    - menuitem "Kids"
+    - menu:
+      - text: Kids
+      - listitem:
+        - img "Image for banner of category"
+        - text: Shop Now
+      - menu:
+        - menuitem "New Arrivals"
+        - menuitem "Spring Picks"
+        - menuitem "Best Sellers"
+        - menuitem "Project Rock"
+        - menuitem "Matching Sets"
+        - 'menuitem "UA HeatGear: Keeps You Cool"'
+        - menuitem "UA Fleece Shop"
+        - menuitem "College Fan Gear"
+        - menuitem "UA Motion Collection"
+        - menuitem "UA Pennant Collection"
+      - menuitem "Boys"
+      - menu:
+        - menuitem "Boys"
+        - menuitem "Accessories"
+        - menuitem "Baselayer"
+        - menuitem "One Piece & Sets"
+        - menuitem "Jackets & Vests"
+        - menuitem "Pants & Leggings"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Shorts"
+        - menuitem "Socks"
+        - menuitem "Swimwear"
+        - menuitem "Underwear"
+      - menuitem "Girls"
+      - menu:
+        - menuitem "Girls"
+        - menuitem "Accessories"
+        - menuitem "Baselayer"
+        - menuitem "Dresses & Rompers"
+        - menuitem "One Piece & Sets"
+        - menuitem "Jackets"
+        - menuitem "Pants & Leggings"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Shorts"
+        - menuitem "Socks"
+        - menuitem "Sports Bras"
+        - menuitem "Swimwear"
+      - menu:
+        - menuitem "Baseball"
+        - menuitem "Basketball"
+        - menuitem "Football"
+        - menuitem "Golf"
+        - menuitem "Softball"
+        - menuitem "Volleyball"
+        - menuitem "Soccer"
+        - menuitem "Running & Training"
+        - menuitem "Hockey"
+      - menu:
+        - menuitem "Big Kids (Size 8+)"
+        - menuitem "Little Kids (Size 4-7)"
+        - menuitem "Toddler (2T - 4T)"
+        - menuitem "Infant (12M - 24M)"
+        - menuitem "Newborn (0M - 9M)"
+      - text: Shop All Kids
+      - menuitem "Boys"
+      - menu:
+        - menuitem "Boys"
+        - text: Shop All Boys
+        - menuitem "Accessories"
+        - menuitem "Baselayer"
+        - menuitem "Jackets & Vests"
+        - menuitem "One Piece & Sets"
+        - menuitem "Pants & Leggings"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Shorts"
+        - menuitem "Socks"
+        - menuitem "Swimwear"
+        - menuitem "Underwear"
+      - menu:
+        - menuitem "New Arrivals":
+          - text: New Arrivals
+          - img
+        - menuitem "Spring Picks"
+        - menuitem "Best Sellers"
+        - menuitem "Project Rock"
+        - menuitem "Matching Sets"
+        - 'menuitem "UA HeatGear: Keeps You Cool"'
+        - menuitem "UA Fleece Shop"
+        - menuitem "College Fan Gear"
+        - menuitem "UA Motion Collection"
+        - menuitem "UA Pennant Collection"
+      - menuitem "Girls"
+      - menu:
+        - menuitem "Girls"
+        - text: Shop All Girls
+        - menuitem "Accessories"
+        - menuitem "Baselayer"
+        - menuitem "Dresses & Rompers"
+        - menuitem "Jackets"
+        - menuitem "One Piece & Sets"
+        - menuitem "Pants & Leggings"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Shorts"
+        - menuitem "Socks"
+        - menuitem "Sports Bras"
+        - menuitem "Swimwear"
+      - menu:
+        - menuitem "Big Kids (Size 8+)"
+        - menuitem "Infant (12M - 24M)"
+        - menuitem "Little Kids (Size 4-7)"
+        - menuitem "Newborn (0M - 9M)"
+        - menuitem "Toddler (2T - 4T)"
+      - menu:
+        - menuitem "Baseball"
+        - menuitem "Basketball"
+        - menuitem "Football"
+        - menuitem "Golf"
+        - menuitem "Hockey"
+        - menuitem "Running & Training"
+        - menuitem "Soccer"
+        - menuitem "Softball"
+        - menuitem "Volleyball"
+    - menuitem "Shoes"
+    - menu:
+      - text: Shoes
+      - listitem:
+        - img "Image for banner of category"
+        - text: Shop Now
+      - menu:
+        - menuitem "New Arrivals"
+        - menuitem "Best Sellers"
+        - menuitem "Curry Brand"
+        - menuitem "Project Rock"
+        - menuitem "UA HOVR Phantom 3"
+      - menu:
+        - menuitem "Men's Shoes"
+        - menuitem "Women's Shoes"
+        - menuitem "Boys' Shoes"
+        - menuitem "Girls' Shoes"
+        - menuitem "Unisex Shoes"
+      - menu:
+        - menuitem "Baseball"
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Football"
+        - menuitem "Golf"
+        - menuitem "Hiking & Hunting"
+        - menuitem "Lacrosse"
+        - menuitem "Running"
+        - menuitem "Soccer"
+        - menuitem "Softball"
+        - menuitem "Sportstyle"
+        - menuitem "Military & Tactical"
+        - menuitem "Track & Field"
+        - menuitem "Training"
+        - menuitem "Volleyball"
+      - menu:
+        - menuitem "UA SlipSpeed"
+        - menuitem "UA Flow"
+        - menuitem "UA HOVR"
+        - menuitem "Cleats"
+        - menuitem "Boots"
+        - menuitem "UA Charged"
+        - menuitem "Sandals & Slides"
+        - menuitem "Sportstyle Shoes"
+      - text: Shop All Shoes
+      - menuitem "Men's Shoes"
+      - menuitem "Women's Shoes"
+      - menuitem "Boys' Shoes"
+      - menuitem "Girls' Shoes"
+      - menuitem "Unisex Shoes"
+      - menu:
+        - menuitem "Baseball"
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Football"
+        - menuitem "Golf"
+        - menuitem "Hiking & Hunting"
+        - menuitem "Lacrosse"
+        - menuitem "Military & Tactical"
+        - menuitem "Running"
+        - menuitem "Soccer"
+        - menuitem "Softball"
+        - menuitem "Sportstyle"
+        - menuitem "Track & Field"
+        - menuitem "Training"
+        - menuitem "Volleyball"
+      - menu:
+        - menuitem "New Arrivals":
+          - text: New Arrivals
+          - img
+        - menuitem "Best Sellers"
+        - menuitem "Curry Brand"
+        - menuitem "Project Rock"
+        - menuitem "UA HOVR Phantom 3"
+      - menu:
+        - menuitem "UA SlipSpeed"
+        - menuitem "UA Flow"
+        - menuitem "UA HOVR"
+        - menuitem "UA Charged"
+        - menuitem "Cleats"
+        - menuitem "Boots"
+        - menuitem "Sandals & Slides"
+        - menuitem "Sportstyle Shoes"
+    - link "Curry"
+    - menuitem "Outlet"
+    - menu:
+      - text: Outlet
+      - listitem:
+        - img "Image for banner of category"
+        - text: Shop Now
+      - menu:
+        - menuitem "Up To 50% Off + Extra 30% Off"
+        - menuitem "Shoes Under $50"
+        - menuitem "Athletic Clothing Under $25"
+        - menuitem "Sportsmask 2/$10"
+        - menuitem "Buy More Save More Boxerjocks"
+      - menuitem "Men"
+      - menu:
+        - menuitem "Men"
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Jackets & Vests"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Underwear"
+      - menuitem "Women"
+      - menu:
+        - menuitem "Women"
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Jackets & Vests"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Sports Bras"
+      - menuitem "Boys"
+      - menu:
+        - menuitem "Boys"
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Jackets & Vests"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Underwear"
+      - menuitem "Girls"
+      - menu:
+        - menuitem "Girls"
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Jackets"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+      - text: Shop All Outlet
+      - menuitem "Men"
+      - menu:
+        - menuitem "Men"
+        - text: Shop All Men
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Jackets & Vests"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Underwear"
+      - menuitem "Women"
+      - menu:
+        - menuitem "Women"
+        - text: Shop All Women
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Jackets & Vests"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Sports Bras"
+      - menuitem "Boys"
+      - menu:
+        - menuitem "Boys"
+        - text: Shop All Boys
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Jackets & Vests"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Underwear"
+      - menuitem "Girls"
+      - menu:
+        - menuitem "Girls"
+        - text: Shop All Girls
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Jackets"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+      - menu:
+        - menuitem "Up To 50% Off + Extra 30% Off"
+        - menuitem "Shoes Under $50"
+        - menuitem "Athletic Clothing Under $25"
+        - menuitem "Sportsmask 2/$10"
+        - menuitem "Buy More Save More Boxerjocks"
+    - text: "Region: US"
+  - button "Log In"
+  - button "Register"
+  - text: Saved Help
+  - button "Under Armour Logo":
+    - img "Under Armour Logo"
+  - button
+  - search:
+    - combobox "Search UA"
+    - button "Clear"
+    - button
+- text: Saved
+- dialog:
+  - document:
+    - button "Nevermind"
+    - button "Remove Item"
+- paragraph: UP TO 50% OFF + EXTRA 30% OFF WITH CODE SPRING30 See details.
+- paragraph: UP TO 50% OFF + EXTRA 30% OFF WITH CODE SPRING30. Shop now.
+- dialog:
+  - button
+- main:
+  - navigation:
+    - list:
+      - listitem: Men
+      - listitem: Shirts & Tops
+  - button
+  - group:
+    - button "Shop This Outfit"
+    - img "Men's UA Football All Over Print Metal Logo Short Sleeve, Black, pdpMainDesktop image number 0"
+  - group:
+    - img "Men's UA Football All Over Print Metal Logo Short Sleeve, Black, pdpMainDesktop image number 1"
+  - group:
+    - img "Men's UA Football All Over Print Metal Logo Short Sleeve, Black, pdpMainDesktop image number 2"
+  - group:
+    - img "Men's UA Football All Over Print Metal Logo Short Sleeve, Black, pdpMainDesktop image number 3"
+  - group:
+    - img "Men's UA Football All Over Print Metal Logo Short Sleeve, Black, pdpMainDesktop image number 4"
+  - group:
+    - img "Men's UA Football All Over Print Metal Logo Short Sleeve, Black, pdpMainDesktop image number 5"
+  - group:
+    - img "Men's UA Football All Over Print Metal Logo Short Sleeve, Black, pdpMainDesktop image number 6"
+  - group:
+    - img "Men's UA Football All Over Print Metal Logo Short Sleeve, Black, pdpMainDesktop image number 7"
+  - text: View Photos ( 8 )
+  - button "Shop This Outfit"
+  - dialog:
+    - document:
+      - text: index-0 index-1 index-2 index-3 index-4 index-5 index-6 index-7
+      - button
+  - text: Athlete is 6'2" & wearing size LG
+  - navigation:
+    - list:
+      - listitem: Men
+      - listitem: Shirts & Tops
+  - heading "Men's UA Football All Over Print Metal Logo Short Sleeve" [level=1]
+  - button
+  - list:
+    - listitem:
+      - button "Select color Black"
+    - button "Select color Black"
+  - button "Select color Black"
+  - button "Select color Black"
+  - button "Select color Black"
+  - button "Select color Black"
+  - button "$25.00 No rating value average rating value is 0.0 of 5. Read 0 Reviews Same page link. (0) 4 interest-free payments of $6.25. Klarna . Learn more":
+    - text: $25.00
+    - link "No rating value average rating value is 0.0 of 5. Read 0 Reviews Same page link. (0)"
+    - paragraph:
+      - text: 4 interest-free payments of $6.25. Klarna .
+      - button "Learn more"
+  - button "Select color Black"
+  - button "Select color Black"
+  - button "Select color Black"
+  - button "Select color Black"
+  - button "Black / White - 001"
+  - list:
+    - button "Select color Black"
+    - listitem:
+      - button "Select color Black":
+        - button "Select color Black"
+    - button "Select color Black":
+      - button "Select color Black"
+  - button "Select color Black":
+    - button "Select color Black"
+  - button "Select color Black":
+    - button "Select color Black"
+  - button "Select color Black":
+    - button "Select color Black"
+  - button "Select color Black":
+    - button "Select color Black"
+  - button "Select color Black":
+    - button "Select color Black"
+  - button "Select color Black":
+    - button "Select color Black"
+  - button "Size & Fit Guide SM":
+    - button "Select color Black"
+    - button "Select color Black"
+    - button "Select color Black"
+    - text: Size & Fit Guide SM
+  - button "Select color Black"
+  - list:
+    - button "Select color Black"
+    - listitem:
+      - button "Select color Black"
+      - button "XS"
+    - listitem:
+      - button "SM"
+    - listitem:
+      - button "MD"
+    - listitem:
+      - button "LG"
+    - listitem:
+      - button "XL"
+    - listitem:
+      - button "XXL"
+    - listitem:
+      - button "3XL"
+  - text: Loose Fitted Compression Fuller Cut
+  - img "Select A Store"
+  - text: "Pick Up In Store: Currently Unavailable At Tanger outlet Columbus Qty"
+  - combobox:
+    - option [selected]
+    - option
+    - option
+    - option
+    - option
+    - option
+    - option
+  - button "Add to Bag"
+  - tabpanel:
+    - button "Free Returns & Exchanges"
+    - text: Try it on at home! We offer free returns and exchanges within 60 days if purchased from UA.com, app, or a store location. Its fast and easy. More Info
+  - text: What's it do?
+  - heading "Product Description" [level=2]
+  - paragraph: Everyone makes graphic Ts...but Under Armour makes them better. The fabric we use is light, soft, and quick-drying.
+  - tablist:
+    - tab "DNA"
+    - tab "Specs"
+    - tab "Fit & Care"
+  - tabpanel:
+    - heading "Product Details" [level=3]
+    - list:
+      - listitem: Super-soft, cotton-blend fabric provides all-day comfort
+      - listitem: Ribbed collar
+  - text: How would you rate our products and descriptions?
+  - dialog:
+    - document:
+      - button
+      - iframe: "<div backend_node_id=\"9116\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"JFE\" id=\"P_1679698389973\"> <div backend_node_id=\"9117\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"JFEContent SkinV2 webkit CSS3\"> <form backend_node_id=\"9118\" bounding_box_rect=\"-1,-1,-1,-1\" id=\"Page\" name=\"Page\" class=\"Page ActivePage\"> <div backend_node_id=\"9123\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Skin\"> <div backend_node_id=\"9127\" bounding_box_rect=\"-1,-1,-1,-1\" id=\"Wrapper\"> <div backend_node_id=\"9155\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"SkinInner\"> <div backend_node_id=\"9168\" bounding_box_rect=\"-1,-1,-1,-1\" id=\"SkinContent\"> <div backend_node_id=\"9170\" bounding_box_rect=\"-1,-1,-1,-1\" id=\"Questions\" role=\"main\"> <div backend_node_id=\"9171\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"LanguageSelectorContainer\"> <select backend_node_id=\"9173\" bounding_box_rect=\"-1,-1,-1,-1\" aria_label=\"Language\" name=\"Q_lang\" id=\"Q_lang\" class=\"Q_lang\"> <option backend_node_id=\"9175\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"ID\"> <text backend_node_id=\"9176\" bounding_box_rect=\"-1,-1,-1,-1\">Bahasa Indonesia</text> </option> <option backend_node_id=\"9178\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"DE\"> <text backend_node_id=\"9179\" bounding_box_rect=\"-1,-1,-1,-1\">Deutsch</text> </option> <option backend_node_id=\"9181\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"EN\" option_selected=\"true\"> <text backend_node_id=\"9182\" bounding_box_rect=\"-1,-1,-1,-1\">English</text> </option> <option backend_node_id=\"9184\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"ES-ES\"> <text backend_node_id=\"9185\" bounding_box_rect=\"-1,-1,-1,-1\">Espaol</text> </option> <option backend_node_id=\"9187\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"ES\"> <text backend_node_id=\"9188\" bounding_box_rect=\"-1,-1,-1,-1\">Espaol (Amrica Latina)</text> </option> <option backend_node_id=\"9190\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"FR\"> <text backend_node_id=\"9191\" bounding_box_rect=\"-1,-1,-1,-1\">Franais</text> </option> <option backend_node_id=\"9193\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"FR-CA\"> <text backend_node_id=\"9194\" bounding_box_rect=\"-1,-1,-1,-1\">Franais (Canada)</text> </option> <option backend_node_id=\"9196\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"IT\"> <text backend_node_id=\"9197\" bounding_box_rect=\"-1,-1,-1,-1\">Italiano</text> </option> <option backend_node_id=\"9199\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"ES-MX\"> <text backend_node_id=\"9200\" bounding_box_rect=\"-1,-1,-1,-1\">Mexican Spanish</text> </option> <option backend_node_id=\"9202\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"NL\"> <text backend_node_id=\"9203\" bounding_box_rect=\"-1,-1,-1,-1\">Nederlands</text> </option> <option backend_node_id=\"9205\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"PT\"> <text backend_node_id=\"9206\" bounding_box_rect=\"-1,-1,-1,-1\">Portugus</text> </option> <option backend_node_id=\"9208\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"PT-BR\"> <text backend_node_id=\"9209\" bounding_box_rect=\"-1,-1,-1,-1\">Portugus (Brasil)</text> </option> <option backend_node_id=\"9211\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"TR\"> <text backend_node_id=\"9212\" bounding_box_rect=\"-1,-1,-1,-1\">Trke</text> </option> <option backend_node_id=\"9214\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"TH\"/> <option backend_node_id=\"9217\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"KO\"/> <option backend_node_id=\"9220\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"JA\"/> <option backend_node_id=\"9223\" bounding_box_rect=\"-1,-1,-1,-1\" value=\"ZH-T\"/> </select> </div> <div backend_node_id=\"9227\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"QuestionOuter BorderColor MC QID2\" id=\"QID2\"> <div backend_node_id=\"9233\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Inner BorderColor DL\"> <div backend_node_id=\"9235\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"InnerInner BorderColor\"> <fieldset backend_node_id=\"9237\" bounding_box_rect=\"-1,-1,-1,-1\"> <div backend_node_id=\"9246\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"QuestionBody\"> <select backend_node_id=\"9248\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"ChoiceStructure Selection QR-QID2 QWatchTimer\" name=\"QR~QID2\" id=\"QR~QID2\"> <option backend_node_id=\"9250\" bounding_box_rect=\"-1,-1,-1,-1\" aria_label=\"Blank\" value=\"QR~QID2~null\" option_selected=\"true\"/> <option backend_node_id=\"9252\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"5\" id=\"QR~QID2~5\"> <text backend_node_id=\"9253\" bounding_box_rect=\"-1,-1,-1,-1\">Excellent</text> </option> <option backend_node_id=\"9255\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"4\" id=\"QR~QID2~4\"> <text backend_node_id=\"9256\" bounding_box_rect=\"-1,-1,-1,-1\">Good</text> </option> <option backend_node_id=\"9258\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"3\" id=\"QR~QID2~3\"> <text backend_node_id=\"9259\" bounding_box_rect=\"-1,-1,-1,-1\">Fair</text> </option> <option backend_node_id=\"9261\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"2\" id=\"QR~QID2~2\"> <text backend_node_id=\"9262\" bounding_box_rect=\"-1,-1,-1,-1\">Poor</text> </option> <option backend_node_id=\"9264\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"1\" id=\"QR~QID2~1\"> <text backend_node_id=\"9265\" bounding_box_rect=\"-1,-1,-1,-1\">Very Poor</text> </option> </select> </div> </fieldset> </div> </div> </div> <div backend_node_id=\"9272\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"QuestionOuter BorderColor MC QID12\" id=\"QID12\"> <div backend_node_id=\"9278\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Inner BorderColor DL\"> <div backend_node_id=\"9280\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"InnerInner BorderColor\"> <fieldset backend_node_id=\"9282\" bounding_box_rect=\"-1,-1,-1,-1\"> <div backend_node_id=\"9288\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"QuestionBody\"> <select backend_node_id=\"9290\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"ChoiceStructure Selection QR-QID12 QWatchTimer\" name=\"QR~QID12\" id=\"QR~QID12\"> <option backend_node_id=\"9292\" bounding_box_rect=\"-1,-1,-1,-1\" aria_label=\"Blank\" value=\"QR~QID12~null\" option_selected=\"true\"/> <option backend_node_id=\"9294\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"1\" id=\"QR~QID12~1\"> <text backend_node_id=\"9295\" bounding_box_rect=\"-1,-1,-1,-1\">General suggestion or compliment </text> </option> <option backend_node_id=\"9297\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"4\" id=\"QR~QID12~4\"> <text backend_node_id=\"9298\" bounding_box_rect=\"-1,-1,-1,-1\">Missing product description information </text> </option> <option backend_node_id=\"9300\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"5\" id=\"QR~QID12~5\"> <text backend_node_id=\"9301\" bounding_box_rect=\"-1,-1,-1,-1\">Confusing product description information </text> </option> <option backend_node_id=\"9303\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"6\" id=\"QR~QID12~6\"> <text backend_node_id=\"9304\" bounding_box_rect=\"-1,-1,-1,-1\">Inaccurate product description information </text> </option> <option backend_node_id=\"9306\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"7\" id=\"QR~QID12~7\"> <text backend_node_id=\"9307\" bounding_box_rect=\"-1,-1,-1,-1\">Missing product photo(s) </text> </option> <option backend_node_id=\"9309\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"8\" id=\"QR~QID12~8\"> <text backend_node_id=\"9310\" bounding_box_rect=\"-1,-1,-1,-1\">Confusing product photo(s) </text> </option> <option backend_node_id=\"9312\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"9\" id=\"QR~QID12~9\"> <text backend_node_id=\"9313\" bounding_box_rect=\"-1,-1,-1,-1\">Inaccurate product photo(s) </text> </option> <option backend_node_id=\"9315\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"10\" id=\"QR~QID12~10\"> <text backend_node_id=\"9316\" bounding_box_rect=\"-1,-1,-1,-1\">Missing fit/sizing information </text> </option> <option backend_node_id=\"9318\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"11\" id=\"QR~QID12~11\"> <text backend_node_id=\"9319\" bounding_box_rect=\"-1,-1,-1,-1\">Confusing fit/sizing information </text> </option> <option backend_node_id=\"9321\" bounding_box_rect=\"-1,-1,-1,-1\" class=\"Selection\" value=\"12\" id=\"QR~QID12~12\"> <text backend_node_id=\"9322\" bounding_box_rect=\"-1,-1,-1,-1\">Other</text> </option> </select> </div> </fieldset> </div> </div> </div> </div> <div backend_node_id=\"9356\" bounding_box_rect=\"-1,-1,-1,-1\" id=\"Buttons\" role=\"navigation\"> <input backend_node_id=\"9357\" bounding_box_rect=\"-1,-1,-1,-1\" id=\"NextButton\" class=\"NextButton Button\" title=\"\" type=\"button\" name=\"NextButton\" value=\"\" aria_label=\"Next\" input_value=\"\" is_clickable=\"true\"/> </div> </div> </div> </div> <div backend_node_id=\"9366\" bounding_box_rect=\"-1,-1,-1,-1\" id=\"Plug\"> <a backend_node_id=\"9367\" bounding_box_rect=\"-1,-1,-1,-1\" aria_label=\"Powered by Qualtrics: Learn more about Qualtrics in a new tab\" is_clickable=\"true\"> <text backend_node_id=\"9368\" bounding_box_rect=\"-1,-1,-1,-1\">Powered by Qualtrics</text> </a> </div> </div> </form> </div> </div>"
+  - img "Men's UA Football All Over Print Metal Logo Short Sleeve, Black, pdpMainDesktop image number 1"
+  - img "Men's UA Football All Over Print Metal Logo Short Sleeve, Black, pdpMainDesktop image number 2"
+  - img "Men's UA Football All Over Print Metal Logo Short Sleeve, Black, pdpMainDesktop image number 3"
+  - img "Men's UA Football All Over Print Metal Logo Short Sleeve, Black, pdpMainDesktop image number 4"
+  - text: You May Also Like
+  - group:
+    - text: New Colors
+    - button "Men's UA Tech Graphic Shorts":
+      - img "Men's UA Tech Graphic Shorts"
+    - text: Men's UA Tech Graphic Shorts $18.97 - $30.00
+  - group:
+    - button "Men's UA Big Logo Short Sleeve":
+      - img "Men's UA Big Logo Short Sleeve"
+    - text: Men's UA Big Logo Short Sleeve $30.00
+  - group:
+    - button "Men's UA Tech Big Logo Print Fill Short Sleeve":
+      - img "Men's UA Tech Big Logo Print Fill Short Sleeve"
+    - text: Men's UA Tech Big Logo Print Fill Short Sleeve $18.97 - $25.00
+  - group:
+    - button "Men's UA World Tour Waves Short Sleeve":
+      - img "Men's UA World Tour Waves Short Sleeve"
+    - text: Men's UA World Tour Waves Short Sleeve $30.00 $22.97
+  - group:
+    - button "Men's UA GL Foundation Short Sleeve T-Shirt":
+      - img "Men's UA GL Foundation Short Sleeve T-Shirt"
+    - text: Men's UA GL Foundation Short Sleeve T-Shirt $25.00
+  - group:
+    - text: Best Seller
+    - button "Men's UA Freedom Flag T-Shirt":
+      - img "Men's UA Freedom Flag T-Shirt"
+    - text: Men's UA Freedom Flag T-Shirt $30.00
+  - group:
+    - button "Men's UA Camo Chest Stripe Short Sleeve":
+      - img "Men's UA Camo Chest Stripe Short Sleeve"
+    - text: Men's UA Camo Chest Stripe Short Sleeve $25.00
+  - group:
+    - button "Men's UA Fast Left Chest T-Shirt":
+      - img "Men's UA Fast Left Chest T-Shirt"
+    - text: Men's UA Fast Left Chest T-Shirt $25.00 $12.97
+  - group:
+    - text: Best Seller
+    - button "Men's UA Sportstyle Left Chest Short Sleeve Shirt":
+      - img "Men's UA Sportstyle Left Chest Short Sleeve Shirt"
+    - text: Men's UA Sportstyle Left Chest Short Sleeve Shirt $16.97 - $25.00
+  - group:
+    - button "Men's UA Freedom Flag Camo T-Shirt":
+      - img "Men's UA Freedom Flag Camo T-Shirt"
+    - text: Men's UA Freedom Flag Camo T-Shirt $30.00
+  - button
+  - heading "Product Reviews" [level=2]
+  - text: No rating value
+  - button "Write the first Review . This action will open a modal dialog."
+  - status:
+    - button "Rating Filter by Rating"
+    - combobox:
+      - option [selected]
+      - option
+      - option
+      - option
+      - option
+    - button "Locale Filter by Locale"
+    - combobox:
+      - option [selected]
+      - option
+  - list:
+    - listitem:
+      - button "Active Filters 1 star Remove Filter 1 star"
+    - listitem:
+      - button "Active Filters 2 stars Remove Filter 2 stars"
+    - listitem:
+      - button "Active Filters 3 stars Remove Filter 3 stars"
+    - listitem:
+      - button "Active Filters 4 stars Remove Filter 4 stars"
+    - listitem:
+      - button "Active Filters 5 stars Remove Filter 5 stars"
+    - listitem:
+      - button "Active Filters English (Canada) Remove Filter English (Canada)"
+    - listitem:
+      - button "Active Filters English (United States) Remove Filter English (United States)"
+    - listitem:
+      - button "Clear All Clear All Filters"
+  - heading "Q & A" [level=2]
+  - button "Ask a Question"
+  - text: Men's UA Football All Over Print Metal Logo Short Sleeve $25.00
+  - button "Add to Bag"
+  - dialog:
+    - button "Men's UA Tech Graphic Shorts":
+      - img "Men's UA Tech Graphic Shorts"
+    - text: Men's UA Tech Graphic Shorts
+    - button "Men's UA Big Logo Short Sleeve":
+      - img "Men's UA Big Logo Short Sleeve"
+    - text: Men's UA Big Logo Short Sleeve
+    - button "Men's UA Tech Big Logo Print Fill Short Sleeve":
+      - img "Men's UA Tech Big Logo Print Fill Short Sleeve"
+    - text: Men's UA Tech Big Logo Print Fill Short Sleeve
+    - button "Men's UA World Tour Waves Short Sleeve":
+      - img "Men's UA World Tour Waves Short Sleeve"
+    - text: Men's UA World Tour Waves Short Sleeve
+    - button "Men's UA GL Foundation Short Sleeve T-Shirt":
+      - img "Men's UA GL Foundation Short Sleeve T-Shirt"
+    - text: Men's UA GL Foundation Short Sleeve T-Shirt
+    - button "Men's UA Freedom Flag T-Shirt":
+      - img "Men's UA Freedom Flag T-Shirt"
+    - text: Men's UA Freedom Flag T-Shirt
+    - button "Men's UA Camo Chest Stripe Short Sleeve":
+      - img "Men's UA Camo Chest Stripe Short Sleeve"
+    - text: Men's UA Camo Chest Stripe Short Sleeve
+    - button "Men's UA Fast Left Chest T-Shirt":
+      - img "Men's UA Fast Left Chest T-Shirt"
+    - text: Men's UA Fast Left Chest T-Shirt
+    - button "Men's UA Sportstyle Left Chest Short Sleeve Shirt":
+      - img "Men's UA Sportstyle Left Chest Short Sleeve Shirt"
+    - text: Men's UA Sportstyle Left Chest Short Sleeve Shirt
+    - button "Men's UA Freedom Flag Camo T-Shirt":
+      - img "Men's UA Freedom Flag Camo T-Shirt"
+    - text: Men's UA Freedom Flag Camo T-Shirt
+    - button "Continue Shopping"
+    - button "View Bag & Check Out"
+- contentinfo:
+  - img "Under Armour"
+  - text: Stay in the loop.
+  - paragraph: Sign up for email updates today.
+  - form:
+    - text: Email Address *
+    - textbox
+    - button "Sign Up"
+    - paragraph: By providing your email, you agree to the Terms of Use and Privacy Policy . You may unsubscribe later.
+  - img "Shop"
+  - img "Map My Run"
+  - text: Accepted Payment Methods
+  - img "mastercard"
+  - img "discover"
+  - img "visa"
+  - img "amex"
+  - img "apple pay"
+  - img "pay pal"
+  - img "klarna"
+  - text: Live Chat Chat Now
+  - paragraph: Monday - Sunday
+  - text: Need Help?
+  - list:
+    - listitem: Live Chat Now
+    - listitem: Help Center
+    - listitem: International Help & FAQ
+    - listitem: Size Guide
+    - listitem: Shipping & Delivery
+    - listitem: Returns & Exchanges
+    - listitem: International Returns & Exchanges
+    - listitem: Store Locator
+    - listitem: Order Tracking
+    - listitem: International Order Tracking
+    - listitem: Gift Cards
+    - listitem: Sitemap
+    - listitem: Student Discount
+  - text: About Under Armour
+  - list:
+    - listitem: Affiliates
+    - listitem: About Us/Our Story
+    - listitem: Careers
+    - listitem: UA Community
+    - listitem: UA Access To Sports
+    - listitem: Investor Relations
+    - listitem: Product Recalls
+    - listitem: Corporate Sales
+    - listitem: UA Newsroom
+    - listitem: Do Not Sell My Personal Information
+    - listitem: Innovation Idea House
+  - text: UA Social
+  - list:
+    - listitem:
+      - img "Instagram"
+      - text: Instagram
+    - listitem:
+      - img "Facebook"
+      - text: Facebook
+    - listitem:
+      - img "Twitter"
+      - text: Twitter
+    - listitem:
+      - img "YouTube"
+      - text: Youtube
+  - text: 2023 Under Armour, Inc. Privacy Policy / Terms of Use /
+  - complementary:
+    - link "Cookie Preferences"
+- dialog:
+  - document:
+    - button
+    - form:
+      - textbox
+      - button "Sign Up"
+      - paragraph: Terms of Use Privacy Policy
+      - button "Continue Shopping"
+- text: Learn about your data rights Click here
+- button
+- button "Feedback"
+- dialog:
+  - button "Close":
+    - img "Close"

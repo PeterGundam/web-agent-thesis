@@ -1,0 +1,10 @@
+{
+  "task": "structure-lookup",
+  "structureType": "table",
+  "numRows": 100,
+  "seed": 42,
+  "targetCountry": "Somalia",
+  "targetPopulation": 484824074,
+  "targetRowId": "row-62",
+  "question": "What is the population of Somalia?"
+}

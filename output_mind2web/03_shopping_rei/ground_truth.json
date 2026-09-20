@@ -1,0 +1,21 @@
+{
+  "task": "mind2web-element-identification",
+  "source": "Shopping/rei",
+  "domain": "Shopping",
+  "website": "rei",
+  "confirmed_task": "Trade in a Nemo Front Porch 2P Tent via mail with my membership info Joe Bloggs, phone number 123456789",
+  "target_role": "link",
+  "target_operation": "CLICK",
+  "questions": [
+    {
+      "id": "element",
+      "question": "You are a web agent. Task: \"Trade in a Nemo Front Porch 2P Tent via mail with my membership info Joe Bloggs, phone number 123456789\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Trade In"
+    },
+    {
+      "id": "actiontype",
+      "question": "You are a web agent. Task: \"Trade in a Nemo Front Porch 2P Tent via mail with my membership info Joe Bloggs, phone number 123456789\". You have identified the target element: \"Trade In\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK"
+    }
+  ]
+}

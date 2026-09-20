@@ -1,0 +1,21 @@
+{
+  "task": "mind2web-element-identification",
+  "source": "Shopping/bookdepository",
+  "domain": "Shopping",
+  "website": "bookdepository",
+  "confirmed_task": "Check all English Reading and Writing skills Educational Books for Ages 6-8 currently in stock that are available in hardback under 20$.",
+  "target_role": "link",
+  "target_operation": "CLICK",
+  "questions": [
+    {
+      "id": "element",
+      "question": "You are a web agent. Task: \"Check all English Reading and Writing skills Educational Books for Ages 6-8 currently in stock that are available in hardback under 20$.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Shop by category∨"
+    },
+    {
+      "id": "actiontype",
+      "question": "You are a web agent. Task: \"Check all English Reading and Writing skills Educational Books for Ages 6-8 currently in stock that are available in hardback under 20$.\". You have identified the target element: \"Shop by category∨\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK"
+    }
+  ]
+}

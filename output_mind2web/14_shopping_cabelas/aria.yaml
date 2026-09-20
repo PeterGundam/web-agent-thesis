@@ -1,0 +1,1564 @@
+- alert:
+  - button "Close"
+  - text: Continue Cancel
+- text: Display Update Message
+- region: Shopping Cart Display Updated
+- text: SPRING FISHING CLASSIC | Shop Now SPRING FISHING CLASSIC
+- img "Arrow"
+- button
+- text: "My Store: Columbus, OH"
+- paragraph:
+  - strong: FREE
+  - text: Shipping on Orders $50+
+- list:
+  - listitem: Boats
+  - listitem: Off Road
+  - listitem: Resorts & Restaurants
+  - listitem: Outdoor Tips
+  - listitem: CLUB
+  - listitem: Gift Cards
+  - listitem: Help
+  - listitem: Canada
+- banner:
+  - img "Cabelas Logo"
+  - button "Search"
+  - search:
+    - textbox "What can we help you find?"
+    - button
+    - text: Suggested site content and search history menu
+    - button "Search"
+    - button "Submit"
+  - textbox: https://www.cabelas.com/shop/CustomerServiceLandingPageView?catalogId=10551&langId=-1&storeId=10651
+  - paragraph:
+    - img "customer service icon"
+  - region
+  - text: My Account Customer Service Customer Service Order History Product Subscriptions Wish List Change Sign-In Email Saved Cards Addresses Change Password Preferences Manage CLUB Account Outdoor Rewards
+  - textbox: https://www.cabelas.com/shop/Logoff?myAcctMain=1&catalogId=10551&langId=-1&deleteCartCookie=true&URL=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen&storeId=10651
+  - text: Sign Out Shopping Cart
+  - region:
+    - button "MY CART 0"
+    - img "close flyout"
+    - text: View Cart Continue Shopping
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button
+  - img "Cabelas Logo"
+  - img "Cabelas"
+  - img "customer service icon"
+  - text: "0"
+  - listitem: Sign In Create an Account Customer Service My Account Customer Service Customer Service Order History Product Subscriptions Wish List Change Sign-In Email Saved Cards Addresses Change Password Preferences Manage CLUB Account Outdoor Rewards Sign Out
+  - menu:
+    - menuitem "Hunting":
+      - text: Hunting
+      - menu:
+        - text: Shop Now Bargain Cave Outdoor Tips
+        - list:
+          - menuitem "Hunting"
+          - listitem:
+            - menuitem "Archery"
+            - button "Bows Arrows & Accessories Broadheads & Field Points Crossbows and Accessories View All":
+              - list:
+                - listitem:
+                  - menuitem "Bows"
+                - listitem:
+                  - menuitem "Arrows & Accessories"
+                - listitem:
+                  - menuitem "Broadheads & Field Points"
+                - listitem:
+                  - menuitem "Crossbows and Accessories"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Optics & Scopes"
+            - button "Binoculars Scopes Rangefinders Spotting Scopes View All":
+              - list:
+                - listitem:
+                  - menuitem "Binoculars"
+                - listitem:
+                  - menuitem "Scopes"
+                - listitem:
+                  - menuitem "Rangefinders"
+                - listitem:
+                  - menuitem "Spotting Scopes"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Hunting Accessories"
+            - button "2 Way Radios And GPS Ground Blinds Scent Elimination Scents View All":
+              - list:
+                - listitem:
+                  - menuitem "2 Way Radios And GPS"
+                - listitem:
+                  - menuitem "Ground Blinds"
+                - listitem:
+                  - menuitem "Scent Elimination"
+                - listitem:
+                  - menuitem "Scents"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Tree Stands"
+            - button "Ladder Stands Fixed Position Stands Climbing Stands Box Blinds/Tripods View All":
+              - list:
+                - listitem:
+                  - menuitem "Ladder Stands"
+                - listitem:
+                  - menuitem "Fixed Position Stands"
+                - listitem:
+                  - menuitem "Climbing Stands"
+                - listitem:
+                  - menuitem "Box Blinds/Tripods"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Game and Trail Cameras"
+            - button "Cameras Camera Accessories":
+              - list:
+                - listitem:
+                  - menuitem "Cameras"
+                - listitem:
+                  - menuitem "Camera Accessories"
+          - listitem:
+            - menuitem "Food Plots & Feeding"
+            - button "Feed/Attractants/Minerals Food Plot Seeds & Accessories Game Feeders":
+              - list:
+                - listitem:
+                  - menuitem "Feed/Attractants/Minerals"
+                - listitem:
+                  - menuitem "Food Plot Seeds & Accessories"
+                - listitem:
+                  - menuitem "Game Feeders"
+          - listitem:
+            - menuitem "Game Calls"
+            - button "Turkey Calls Big Game Calls Predator Calls Waterfowl Calls View All":
+              - list:
+                - listitem:
+                  - menuitem "Turkey Calls"
+                - listitem:
+                  - menuitem "Big Game Calls"
+                - listitem:
+                  - menuitem "Predator Calls"
+                - listitem:
+                  - menuitem "Waterfowl Calls"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Decoys"
+            - button "Duck & Goose Decoys Big Game Decoys Predator Decoys Turkey Decoys View All":
+              - list:
+                - listitem:
+                  - menuitem "Duck & Goose Decoys"
+                - listitem:
+                  - menuitem "Big Game Decoys"
+                - listitem:
+                  - menuitem "Predator Decoys"
+                - listitem:
+                  - menuitem "Turkey Decoys"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Knives & Tools"
+            - button "Knives Multi-Tools Saws, Machetes & Axes Knife Sharpeners View All":
+              - list:
+                - listitem:
+                  - menuitem "Knives"
+                - listitem:
+                  - menuitem "Multi-Tools"
+                - listitem:
+                  - menuitem "Saws, Machetes & Axes"
+                - listitem:
+                  - menuitem "Knife Sharpeners"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Dog Training"
+            - button "Electronic Dog Training Training Supplies Bedding & Shelters Chews, Treats & Toys":
+              - list:
+                - listitem:
+                  - menuitem "Electronic Dog Training"
+                - listitem:
+                  - menuitem "Training Supplies"
+                - listitem:
+                  - menuitem "Bedding & Shelters"
+                - listitem:
+                  - menuitem "Chews, Treats & Toys"
+          - listitem:
+            - menuitem "Game & Food Processing"
+            - button "Meat Grinders Vacuum Sealers Dehydrators Slicers View All":
+              - list:
+                - listitem:
+                  - menuitem "Meat Grinders"
+                - listitem:
+                  - menuitem "Vacuum Sealers"
+                - listitem:
+                  - menuitem "Dehydrators"
+                - listitem:
+                  - menuitem "Slicers"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Hunting Clothing"
+            - button "Men's Hunting Clothing Women's Hunting Clothing Kids' Hunting Clothing Tactical Clothing View All":
+              - list:
+                - listitem:
+                  - menuitem "Men's Hunting Clothing"
+                - listitem:
+                  - menuitem "Women's Hunting Clothing"
+                - listitem:
+                  - menuitem "Kids' Hunting Clothing"
+                - listitem:
+                  - menuitem "Tactical Clothing"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Hunting Packs & Bags"
+          - listitem:
+            - menuitem "Essential Turkey Hunting Gear"
+          - listitem:
+            - menuitem "New Hunting"
+          - listitem:
+            - menuitem "Hunting Sale"
+          - listitem:
+            - menuitem "Trail Cameras & Accessories"
+    - menuitem "Shooting":
+      - text: Shooting
+      - menu:
+        - text: Shop Now Bargain Cave Outdoor Tips New Shooting
+        - list:
+          - menuitem "Shooting"
+          - listitem:
+            - menuitem "Guns"
+            - button "Centerfire Pistol Centerfire Rifles Rimfire Rifle Shotguns View All":
+              - list:
+                - listitem:
+                  - menuitem "Centerfire Pistol"
+                - listitem:
+                  - menuitem "Centerfire Rifles"
+                - listitem:
+                  - menuitem "Rimfire Rifle"
+                - listitem:
+                  - menuitem "Shotguns"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Ammunition"
+            - button "Centerfire Rifle Ammo Handgun Ammo Shotshell Ammo Rimfire Ammo":
+              - list:
+                - listitem:
+                  - menuitem "Centerfire Rifle Ammo"
+                - listitem:
+                  - menuitem "Handgun Ammo"
+                - listitem:
+                  - menuitem "Shotshell Ammo"
+                - listitem:
+                  - menuitem "Rimfire Ammo"
+          - listitem:
+            - menuitem "Optics & Scopes"
+            - button "Binoculars Scopes Rangefinders Spotting Scopes View All":
+              - list:
+                - listitem:
+                  - menuitem "Binoculars"
+                - listitem:
+                  - menuitem "Scopes"
+                - listitem:
+                  - menuitem "Rangefinders"
+                - listitem:
+                  - menuitem "Spotting Scopes"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Shooting Accessories"
+            - button "Eye & Ear Protection Holsters Sticks/Bipods/Rests Targets & Trap Throwers View All":
+              - list:
+                - listitem:
+                  - menuitem "Eye & Ear Protection"
+                - listitem:
+                  - menuitem "Holsters"
+                - listitem:
+                  - menuitem "Sticks/Bipods/Rests"
+                - listitem:
+                  - menuitem "Targets & Trap Throwers"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Gun Storage"
+            - button "Gun Cabinets & Concealment Gun Safes & Vaults Gun Socks Rifle, Shotgun & Pistol Cases":
+              - list:
+                - listitem:
+                  - menuitem "Gun Cabinets & Concealment"
+                - listitem:
+                  - menuitem "Gun Safes & Vaults"
+                - listitem:
+                  - menuitem "Gun Socks"
+                - listitem:
+                  - menuitem "Rifle, Shotgun & Pistol Cases"
+          - listitem:
+            - menuitem "Gun Parts"
+            - button "Choke Tubes Firearm Sights Magazines Stocks, Grips & Recoil Pads View All":
+              - list:
+                - listitem:
+                  - menuitem "Choke Tubes"
+                - listitem:
+                  - menuitem "Firearm Sights"
+                - listitem:
+                  - menuitem "Magazines"
+                - listitem:
+                  - menuitem "Stocks, Grips & Recoil Pads"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Reloading Supplies"
+            - button "Bullets & Brass Dies & Shell Holders Presses and Benches Primers & Powder View All":
+              - list:
+                - listitem:
+                  - menuitem "Bullets & Brass"
+                - listitem:
+                  - menuitem "Dies & Shell Holders"
+                - listitem:
+                  - menuitem "Presses and Benches"
+                - listitem:
+                  - menuitem "Primers & Powder"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Black Powder Guns & Accessories"
+            - button "Black Powder Accessories Black Powder Guns Black Powder Bullets":
+              - list:
+                - listitem:
+                  - menuitem "Black Powder Accessories"
+                - listitem:
+                  - menuitem "Black Powder Guns"
+                - listitem:
+                  - menuitem "Black Powder Bullets"
+          - listitem:
+            - menuitem "Recreational Shooting"
+            - button "Airsoft Guns & Accessories Slingshots Blowguns & Accessories Pellet & BB Guns":
+              - list:
+                - listitem:
+                  - menuitem "Airsoft Guns & Accessories"
+                - listitem:
+                  - menuitem "Slingshots"
+                - listitem:
+                  - menuitem "Blowguns & Accessories"
+                - listitem:
+                  - menuitem "Pellet & BB Guns"
+          - listitem:
+            - menuitem "Personal Defense"
+    - menuitem "Fishing":
+      - text: Fishing
+      - menu:
+        - text: Shop Now Shop The Rig Bargain Cave Outdoor Tips Customer Favorites
+        - list:
+          - menuitem "Fishing"
+          - listitem:
+            - menuitem "Fishing Reels"
+            - button "Baitcast Reels Spinning Reels Saltwater Reels Fly Reels View All":
+              - list:
+                - listitem:
+                  - menuitem "Baitcast Reels"
+                - listitem:
+                  - menuitem "Spinning Reels"
+                - listitem:
+                  - menuitem "Saltwater Reels"
+                - listitem:
+                  - menuitem "Fly Reels"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Fishing Rods"
+            - button "Spinning Rods Casting Rods Trolling Rods Saltwater Rods View All":
+              - list:
+                - listitem:
+                  - menuitem "Spinning Rods"
+                - listitem:
+                  - menuitem "Casting Rods"
+                - listitem:
+                  - menuitem "Trolling Rods"
+                - listitem:
+                  - menuitem "Saltwater Rods"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Rod and Reel Combos"
+            - button "Spinning Combos Baitcast Combos Spincast Combos Saltwater Combos View All":
+              - list:
+                - listitem:
+                  - menuitem "Spinning Combos"
+                - listitem:
+                  - menuitem "Baitcast Combos"
+                - listitem:
+                  - menuitem "Spincast Combos"
+                - listitem:
+                  - menuitem "Saltwater Combos"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Lures"
+            - button "Hard Bait Lures Soft Bait Lures Fishing Spoons Jigs View All":
+              - list:
+                - listitem:
+                  - menuitem "Hard Bait Lures"
+                - listitem:
+                  - menuitem "Soft Bait Lures"
+                - listitem:
+                  - menuitem "Fishing Spoons"
+                - listitem:
+                  - menuitem "Jigs"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Fishing Line, Hooks, & Weights"
+            - button "Fishing Line Fish Hooks Weights & Sinkers Jig Heads View All":
+              - list:
+                - listitem:
+                  - menuitem "Fishing Line"
+                - listitem:
+                  - menuitem "Fish Hooks"
+                - listitem:
+                  - menuitem "Weights & Sinkers"
+                - listitem:
+                  - menuitem "Jig Heads"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Fishing Accessories"
+            - button "Tools & Pliers Fillet Knives & Tables Rod Holders & Racks Rod & Reel Accessories View All":
+              - list:
+                - listitem:
+                  - menuitem "Tools & Pliers"
+                - listitem:
+                  - menuitem "Fillet Knives & Tables"
+                - listitem:
+                  - menuitem "Rod Holders & Racks"
+                - listitem:
+                  - menuitem "Rod & Reel Accessories"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Tackle Boxes and Bags"
+            - button "Tackle Bags Tackle Boxes Utility Boxes":
+              - list:
+                - listitem:
+                  - menuitem "Tackle Bags"
+                - listitem:
+                  - menuitem "Tackle Boxes"
+                - listitem:
+                  - menuitem "Utility Boxes"
+          - listitem:
+            - menuitem "Fly Fishing"
+            - button "Fly Rods, Reels & Combos Flies & Fly Tying Fly Line, Leader & Tippet Fly Fishing Accessories View All":
+              - list:
+                - listitem:
+                  - menuitem "Fly Rods, Reels & Combos"
+                - listitem:
+                  - menuitem "Flies & Fly Tying"
+                - listitem:
+                  - menuitem "Fly Line, Leader & Tippet"
+                - listitem:
+                  - menuitem "Fly Fishing Accessories"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Ice Fishing"
+            - button "New Ice Fishing Shelters & Sleds Ice Augers Terminal View All":
+              - list:
+                - listitem:
+                  - menuitem "New Ice Fishing"
+                - listitem:
+                  - menuitem "Shelters & Sleds"
+                - listitem:
+                  - menuitem "Ice Augers"
+                - listitem:
+                  - menuitem "Terminal"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Saltwater Fishing"
+            - button "Saltwater Reels Saltwater Rods Saltwater Combos Saltwater Lures View All":
+              - list:
+                - listitem:
+                  - menuitem "Saltwater Reels"
+                - listitem:
+                  - menuitem "Saltwater Rods"
+                - listitem:
+                  - menuitem "Saltwater Combos"
+                - listitem:
+                  - menuitem "Saltwater Lures"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Bowfishing"
+          - listitem:
+            - menuitem "New Fishing"
+          - listitem:
+            - menuitem "Fishing Sale"
+    - menuitem "Boating":
+      - text: Boating
+      - menu:
+        - text: Shop Now Electronics Training Boating Center Bargain Cave Outdoor Tips
+        - list:
+          - menuitem "Boating"
+          - listitem:
+            - menuitem "Marine Electronics"
+            - button "Fish Finders & Chartplotters Sonar Accessories Marine Mounts & Cases Marine Stereos & Radios View All":
+              - list:
+                - listitem:
+                  - menuitem "Fish Finders & Chartplotters"
+                - listitem:
+                  - menuitem "Sonar Accessories"
+                - listitem:
+                  - menuitem "Marine Mounts & Cases"
+                - listitem:
+                  - menuitem "Marine Stereos & Radios"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Trolling Motors & Accessories"
+            - button "Freshwater Trolling Motors Saltwater Trolling Motors Trolling Motor Accessories":
+              - list:
+                - listitem:
+                  - menuitem "Freshwater Trolling Motors"
+                - listitem:
+                  - menuitem "Saltwater Trolling Motors"
+                - listitem:
+                  - menuitem "Trolling Motor Accessories"
+          - listitem:
+            - menuitem "Boat Accessories"
+            - button "Rod Holders & Fishing Accessories Anchoring, Rope & Docking Chargers & Portable Power Cleaning Supplies & Organization View All":
+              - list:
+                - listitem:
+                  - menuitem "Rod Holders & Fishing Accessories"
+                - listitem:
+                  - menuitem "Anchoring, Rope & Docking"
+                - listitem:
+                  - menuitem "Chargers & Portable Power"
+                - listitem:
+                  - menuitem "Cleaning Supplies & Organization"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Outboard Motor Accessories"
+            - button "Oils & Accessories Fuel Tanks & Accessories Prop Accessories Gauges & Controls View All":
+              - list:
+                - listitem:
+                  - menuitem "Oils & Accessories"
+                - listitem:
+                  - menuitem "Fuel Tanks & Accessories"
+                - listitem:
+                  - menuitem "Prop Accessories"
+                - listitem:
+                  - menuitem "Gauges & Controls"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Boat Covers / Biminis"
+            - button "Universal Covers Custom Fit Covers Bimini Tops Cover Accessories & Tie Downs":
+              - list:
+                - listitem:
+                  - menuitem "Universal Covers"
+                - listitem:
+                  - menuitem "Custom Fit Covers"
+                - listitem:
+                  - menuitem "Bimini Tops"
+                - listitem:
+                  - menuitem "Cover Accessories & Tie Downs"
+          - listitem:
+            - menuitem "Boat Seats & Furniture"
+            - button "Boat Seats Pontoon Furniture Saltwater Seating Seat Mounts & Pedestals View All":
+              - list:
+                - listitem:
+                  - menuitem "Boat Seats"
+                - listitem:
+                  - menuitem "Pontoon Furniture"
+                - listitem:
+                  - menuitem "Saltwater Seating"
+                - listitem:
+                  - menuitem "Seat Mounts & Pedestals"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Trailer Accessories"
+            - button "Winches & Tie Downs Guide-Ons, Brackets & Rollers Trailer Hitches Jacks & Dollies View All":
+              - list:
+                - listitem:
+                  - menuitem "Winches & Tie Downs"
+                - listitem:
+                  - menuitem "Guide-Ons, Brackets & Rollers"
+                - listitem:
+                  - menuitem "Trailer Hitches"
+                - listitem:
+                  - menuitem "Jacks & Dollies"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Kayaks & Canoes"
+            - button "Kayaks & Fishing Kayaks Kayak & Canoe Accessories Paddles & Oars Stand-Up Paddle Boards View All":
+              - list:
+                - listitem:
+                  - menuitem "Kayaks & Fishing Kayaks"
+                - listitem:
+                  - menuitem "Kayak & Canoe Accessories"
+                - listitem:
+                  - menuitem "Paddles & Oars"
+                - listitem:
+                  - menuitem "Stand-Up Paddle Boards"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Water Sports"
+            - button "Life Jackets Towables & Skis Water & Pool Toys":
+              - list:
+                - listitem:
+                  - menuitem "Life Jackets"
+                - listitem:
+                  - menuitem "Towables & Skis"
+                - listitem:
+                  - menuitem "Water & Pool Toys"
+          - listitem:
+            - menuitem "Pedal Boats & Pond Prowlers"
+        - img "Boat Center"
+    - menuitem "Camping":
+      - text: Camping
+      - menu:
+        - text: Shop Now Bargain Cave Outdoor Tips
+        - list:
+          - menuitem "Camping"
+          - listitem:
+            - menuitem "Tents"
+            - button "Camping Tents Backpack Tents Truck Tents Canopies View All":
+              - list:
+                - listitem:
+                  - menuitem "Camping Tents"
+                - listitem:
+                  - menuitem "Backpack Tents"
+                - listitem:
+                  - menuitem "Truck Tents"
+                - listitem:
+                  - menuitem "Canopies"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Camp Essentials"
+            - button "Camp Chairs & Furniture Camp Accessories Drinkware Generators View All":
+              - list:
+                - listitem:
+                  - menuitem "Camp Chairs & Furniture"
+                - listitem:
+                  - menuitem "Camp Accessories"
+                - listitem:
+                  - menuitem "Drinkware"
+                - listitem:
+                  - menuitem "Generators"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Camp Kitchen"
+            - button "Coolers Camp Cookware Camp Stoves Camp Food View All":
+              - list:
+                - listitem:
+                  - menuitem "Coolers"
+                - listitem:
+                  - menuitem "Camp Cookware"
+                - listitem:
+                  - menuitem "Camp Stoves"
+                - listitem:
+                  - menuitem "Camp Food"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Survival/First Aid"
+          - listitem:
+            - menuitem "Sleeping Gear"
+            - button "Sleeping Bags Sleeping Pads Cots Hammocks":
+              - list:
+                - listitem:
+                  - menuitem "Sleeping Bags"
+                - listitem:
+                  - menuitem "Sleeping Pads"
+                - listitem:
+                  - menuitem "Cots"
+                - listitem:
+                  - menuitem "Hammocks"
+          - listitem:
+            - menuitem "Lighting"
+            - button "Flashlights Headlamps Lanterns Batteries View All":
+              - list:
+                - listitem:
+                  - menuitem "Flashlights"
+                - listitem:
+                  - menuitem "Headlamps"
+                - listitem:
+                  - menuitem "Lanterns"
+                - listitem:
+                  - menuitem "Batteries"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Packs & Bags"
+            - button "Packs Bags Hydration Packs Hunting Packs & Bags":
+              - list:
+                - listitem:
+                  - menuitem "Packs"
+                - listitem:
+                  - menuitem "Bags"
+                - listitem:
+                  - menuitem "Hydration Packs"
+                - listitem:
+                  - menuitem "Hunting Packs & Bags"
+          - listitem:
+            - menuitem "Camping Customer Favorites"
+          - listitem:
+            - menuitem "Camping Sale"
+          - listitem:
+            - menuitem "New Camping"
+    - menuitem "Outdoor Rec":
+      - text: Outdoor Rec
+      - menu:
+        - text: Shop Now Bargain Cave Outdoor Tips
+        - list:
+          - menuitem "Outdoor Rec"
+          - listitem:
+            - menuitem "Kayaks & Canoes"
+            - button "Kayaks & Fishing Kayaks Kayak & Canoe Accessories Paddles & Oars Stand-Up Paddle Boards View All":
+              - list:
+                - listitem:
+                  - menuitem "Kayaks & Fishing Kayaks"
+                - listitem:
+                  - menuitem "Kayak & Canoe Accessories"
+                - listitem:
+                  - menuitem "Paddles & Oars"
+                - listitem:
+                  - menuitem "Stand-Up Paddle Boards"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Truck & Auto"
+            - button "Interior Accessories Exterior Accessories Maintenance & Organization Camper & RV View All":
+              - list:
+                - listitem:
+                  - menuitem "Interior Accessories"
+                - listitem:
+                  - menuitem "Exterior Accessories"
+                - listitem:
+                  - menuitem "Maintenance & Organization"
+                - listitem:
+                  - menuitem "Camper & RV"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Bikes & Accessories"
+            - button "Mountain Bikes Electric Bikes Bike Helmets Bike Racks & Storage View All":
+              - list:
+                - listitem:
+                  - menuitem "Mountain Bikes"
+                - listitem:
+                  - menuitem "Electric Bikes"
+                - listitem:
+                  - menuitem "Bike Helmets"
+                - listitem:
+                  - menuitem "Bike Racks & Storage"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Outdoor Power Equipment"
+            - button "Generators Yard Maintenance Tools Outdoor Equipment Batteries Snow Removal Tools View All":
+              - list:
+                - listitem:
+                  - menuitem "Generators"
+                - listitem:
+                  - menuitem "Yard Maintenance Tools"
+                - listitem:
+                  - menuitem "Outdoor Equipment Batteries"
+                - listitem:
+                  - menuitem "Snow Removal Tools"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Water Sports"
+            - button "Life Jackets Towables & Skis Water & Pool Toys":
+              - list:
+                - listitem:
+                  - menuitem "Life Jackets"
+                - listitem:
+                  - menuitem "Towables & Skis"
+                - listitem:
+                  - menuitem "Water & Pool Toys"
+          - listitem:
+            - menuitem "Trailer Accessories"
+            - button "Winches & Tie Downs Guide-Ons, Brackets & Rollers Trailer Hitches Jacks & Dollies View All":
+              - list:
+                - listitem:
+                  - menuitem "Winches & Tie Downs"
+                - listitem:
+                  - menuitem "Guide-Ons, Brackets & Rollers"
+                - listitem:
+                  - menuitem "Trailer Hitches"
+                - listitem:
+                  - menuitem "Jacks & Dollies"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "ATV Accessories"
+            - button "ATV/UTV Accessories Racks, Bags & Storage Implements And Tools Helmets and Goggles View All":
+              - list:
+                - listitem:
+                  - menuitem "ATV/UTV Accessories"
+                - listitem:
+                  - menuitem "Racks, Bags & Storage"
+                - listitem:
+                  - menuitem "Implements And Tools"
+                - listitem:
+                  - menuitem "Helmets and Goggles"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Metal Detecting & Prospecting"
+          - listitem:
+            - menuitem "Outdoor Recreation New Arrivals"
+          - listitem:
+            - menuitem "Outdoor Recreation Sale"
+        - img "Tracker Off Road"
+    - menuitem "Clothing":
+      - text: Clothing
+      - menu:
+        - text: Shop Now Shop The Look Bargain Cave Outdoor Tips
+        - list:
+          - menuitem "Clothing"
+          - listitem:
+            - menuitem "Men's Clothing"
+            - button "Jackets, Coats & Outerwear Shirts & Tops Pants & Shorts Clothing Accessories Hats & Caps Fishing Clothing Workwear Rain Gear Swimwear Big and Tall Clothing Bibs & Coveralls Base Layers New Clothing Clothing Sale":
+              - list:
+                - listitem:
+                  - menuitem "Jackets, Coats & Outerwear"
+                - listitem:
+                  - menuitem "Shirts & Tops"
+                - listitem:
+                  - menuitem "Pants & Shorts"
+                - listitem:
+                  - menuitem "Clothing Accessories"
+                - listitem:
+                  - menuitem "Hats & Caps"
+                - listitem:
+                  - menuitem "Fishing Clothing"
+                - listitem:
+                  - menuitem "Workwear"
+                - listitem:
+                  - menuitem "Rain Gear"
+                - listitem:
+                  - menuitem "Swimwear"
+                - listitem:
+                  - menuitem "Big and Tall Clothing"
+                - listitem:
+                  - menuitem "Bibs & Coveralls"
+                - listitem:
+                  - menuitem "Base Layers"
+                - listitem:
+                  - menuitem "New Clothing"
+                - listitem:
+                  - menuitem "Clothing Sale"
+          - listitem:
+            - menuitem "Women's Clothing"
+            - button "Jackets, Coats & Outerwear Pants, Shorts, Skirts & Dresses Shirts & Tops Clothing Accessories Hats & Caps Fishing Clothing Workwear Swimwear Rain Gear Sleepwear & Loungewear Base Layers Plus Sizes New Clothing Clothing Sale Women's Shop the Look":
+              - list:
+                - listitem:
+                  - menuitem "Jackets, Coats & Outerwear"
+                - listitem:
+                  - menuitem "Pants, Shorts, Skirts & Dresses"
+                - listitem:
+                  - menuitem "Shirts & Tops"
+                - listitem:
+                  - menuitem "Clothing Accessories"
+                - listitem:
+                  - menuitem "Hats & Caps"
+                - listitem:
+                  - menuitem "Fishing Clothing"
+                - listitem:
+                  - menuitem "Workwear"
+                - listitem:
+                  - menuitem "Swimwear"
+                - listitem:
+                  - menuitem "Rain Gear"
+                - listitem:
+                  - menuitem "Sleepwear & Loungewear"
+                - listitem:
+                  - menuitem "Base Layers"
+                - listitem:
+                  - menuitem "Plus Sizes"
+                - listitem:
+                  - menuitem "New Clothing"
+                - listitem:
+                  - menuitem "Clothing Sale"
+                - listitem:
+                  - menuitem "Women's Shop the Look"
+          - listitem:
+            - menuitem "Kids' Clothing"
+            - button "Jackets, Coats & Outerwear Shirts & Tops Pants & Shorts Clothing Accessories Hats & Caps Kids' Fishing Clothing Swimwear Sleepwear My First Camo Base Layers Boys' Clothing Girls' Clothing New Kids' Clothing Kids' Clothing Sale":
+              - list:
+                - listitem:
+                  - menuitem "Jackets, Coats & Outerwear"
+                - listitem:
+                  - menuitem "Shirts & Tops"
+                - listitem:
+                  - menuitem "Pants & Shorts"
+                - listitem:
+                  - menuitem "Clothing Accessories"
+                - listitem:
+                  - menuitem "Hats & Caps"
+                - listitem:
+                  - menuitem "Kids' Fishing Clothing"
+                - listitem:
+                  - menuitem "Swimwear"
+                - listitem:
+                  - menuitem "Sleepwear"
+                - listitem:
+                  - menuitem "My First Camo"
+                - listitem:
+                  - menuitem "Base Layers"
+                - listitem:
+                  - menuitem "Boys' Clothing"
+                - listitem:
+                  - menuitem "Girls' Clothing"
+                - listitem:
+                  - menuitem "New Kids' Clothing"
+                - listitem:
+                  - menuitem "Kids' Clothing Sale"
+          - listitem:
+            - menuitem "Hunting Clothing"
+            - button "Men's Hunting Clothing Women's Hunting Clothing Kids' Hunting Clothing Tactical Clothing Scent Control Hunting Clothing Hunting Waders Waterfowl Hunting Clothing Upland Hunting Clothing Turkey Vests Big & Tall Hunting Clothing New Hunting Clothing Hunting Clothing Sale":
+              - list:
+                - listitem:
+                  - menuitem "Men's Hunting Clothing"
+                - listitem:
+                  - menuitem "Women's Hunting Clothing"
+                - listitem:
+                  - menuitem "Kids' Hunting Clothing"
+                - listitem:
+                  - menuitem "Tactical Clothing"
+                - listitem:
+                  - menuitem "Scent Control Hunting Clothing"
+                - listitem:
+                  - menuitem "Hunting Waders"
+                - listitem:
+                  - menuitem "Waterfowl Hunting Clothing"
+                - listitem:
+                  - menuitem "Upland Hunting Clothing"
+                - listitem:
+                  - menuitem "Turkey Vests"
+                - listitem:
+                  - menuitem "Big & Tall Hunting Clothing"
+                - listitem:
+                  - menuitem "New Hunting Clothing"
+                - listitem:
+                  - menuitem "Hunting Clothing Sale"
+          - listitem:
+            - menuitem "Sunglasses"
+          - listitem:
+            - menuitem "Jewelry"
+          - listitem:
+            - menuitem "Watches"
+          - listitem:
+            - menuitem "Wallets"
+          - listitem:
+            - menuitem "Pocket Knives"
+          - listitem:
+            - menuitem "Customer Favorites"
+    - menuitem "Footwear":
+      - text: Footwear
+      - menu:
+        - text: Shop Now Bargain Cave Outdoor Tips
+        - list:
+          - menuitem "Footwear"
+          - listitem:
+            - menuitem "Men's Shoes & Boots"
+            - button "Hunting Boots Hiking Boots Work Boots Rubber Boots Casual Shoes & Boots Boat & Deck Shoes Fishing & Water Shoes Athletic Shoes Western Boots Sandals Slippers Tactical & Duty Boots Winter Pac Boots":
+              - list:
+                - listitem:
+                  - menuitem "Hunting Boots"
+                - listitem:
+                  - menuitem "Hiking Boots"
+                - listitem:
+                  - menuitem "Work Boots"
+                - listitem:
+                  - menuitem "Rubber Boots"
+                - listitem:
+                  - menuitem "Casual Shoes & Boots"
+                - listitem:
+                  - menuitem "Boat & Deck Shoes"
+                - listitem:
+                  - menuitem "Fishing & Water Shoes"
+                - listitem:
+                  - menuitem "Athletic Shoes"
+                - listitem:
+                  - menuitem "Western Boots"
+                - listitem:
+                  - menuitem "Sandals"
+                - listitem:
+                  - menuitem "Slippers"
+                - listitem:
+                  - menuitem "Tactical & Duty Boots"
+                - listitem:
+                  - menuitem "Winter Pac Boots"
+          - listitem:
+            - menuitem "Women's Shoes & Boots"
+            - button "Hunting Boots Hiking Boots Casual Boots & Shoes Duty Boots Fishing & Water Shoes Athletic Shoes Winter Pac Boots Rubber Boots Sandals Slippers Western Boots Work Boots":
+              - list:
+                - listitem:
+                  - menuitem "Hunting Boots"
+                - listitem:
+                  - menuitem "Hiking Boots"
+                - listitem:
+                  - menuitem "Casual Boots & Shoes"
+                - listitem:
+                  - menuitem "Duty Boots"
+                - listitem:
+                  - menuitem "Fishing & Water Shoes"
+                - listitem:
+                  - menuitem "Athletic Shoes"
+                - listitem:
+                  - menuitem "Winter Pac Boots"
+                - listitem:
+                  - menuitem "Rubber Boots"
+                - listitem:
+                  - menuitem "Sandals"
+                - listitem:
+                  - menuitem "Slippers"
+                - listitem:
+                  - menuitem "Western Boots"
+                - listitem:
+                  - menuitem "Work Boots"
+          - listitem:
+            - menuitem "Kids' Shoes & Boots"
+            - button "Hunting Boots Casual Shoes Fishing & Water Shoes Hiking Boots Winter Pac Boots Rubber Boots Sandals Western Boots":
+              - list:
+                - listitem:
+                  - menuitem "Hunting Boots"
+                - listitem:
+                  - menuitem "Casual Shoes"
+                - listitem:
+                  - menuitem "Fishing & Water Shoes"
+                - listitem:
+                  - menuitem "Hiking Boots"
+                - listitem:
+                  - menuitem "Winter Pac Boots"
+                - listitem:
+                  - menuitem "Rubber Boots"
+                - listitem:
+                  - menuitem "Sandals"
+                - listitem:
+                  - menuitem "Western Boots"
+          - listitem:
+            - menuitem "Waders"
+            - button "Hunting Waders Fishing Waders Wading Boots Wader Accessories":
+              - list:
+                - listitem:
+                  - menuitem "Hunting Waders"
+                - listitem:
+                  - menuitem "Fishing Waders"
+                - listitem:
+                  - menuitem "Wading Boots"
+                - listitem:
+                  - menuitem "Wader Accessories"
+          - listitem:
+            - menuitem "Socks"
+          - listitem:
+            - menuitem "Shoe & Boot Accessories"
+          - listitem:
+            - menuitem "New Shoes & Boots"
+          - listitem:
+            - menuitem "Shoes & Boots Sale"
+          - listitem:
+            - menuitem "Customer Favorites"
+    - menuitem "Home & Gifts":
+      - text: Home & Gifts
+      - menu:
+        - text: Shop Now Bargain Cave Outdoor Tips
+        - list:
+          - menuitem "Home & Gifts"
+          - listitem:
+            - menuitem "Home Decor"
+            - button "Bedding Wall Decor Area Rugs & Door Mats Home Accents View All":
+              - list:
+                - listitem:
+                  - menuitem "Bedding"
+                - listitem:
+                  - menuitem "Wall Decor"
+                - listitem:
+                  - menuitem "Area Rugs & Door Mats"
+                - listitem:
+                  - menuitem "Home Accents"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Outdoor Home Decor"
+            - button "Fire Pits & Logs Racks Lawn & Garden Patio Furniture Wind Chimes View All":
+              - list:
+                - listitem:
+                  - menuitem "Fire Pits & Logs Racks"
+                - listitem:
+                  - menuitem "Lawn & Garden"
+                - listitem:
+                  - menuitem "Patio Furniture"
+                - listitem:
+                  - menuitem "Wind Chimes"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Furniture"
+            - button "Bedroom Recliners Sofas & Loveseats Furniture Accents View All":
+              - list:
+                - listitem:
+                  - menuitem "Bedroom"
+                - listitem:
+                  - menuitem "Recliners"
+                - listitem:
+                  - menuitem "Sofas & Loveseats"
+                - listitem:
+                  - menuitem "Furniture Accents"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Nature"
+            - button "Bird Feeders Bird Houses Weather Tech":
+              - list:
+                - listitem:
+                  - menuitem "Bird Feeders"
+                - listitem:
+                  - menuitem "Bird Houses"
+                - listitem:
+                  - menuitem "Weather Tech"
+          - listitem:
+            - menuitem "Toys"
+            - button "Ride-On Toys Electronic Toys Play Sets Outdoor Games View All":
+              - list:
+                - listitem:
+                  - menuitem "Ride-On Toys"
+                - listitem:
+                  - menuitem "Electronic Toys"
+                - listitem:
+                  - menuitem "Play Sets"
+                - listitem:
+                  - menuitem "Outdoor Games"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Kitchen & Dining"
+            - button "Cooking Accessories Drinkware Tableware":
+              - list:
+                - listitem:
+                  - menuitem "Cooking Accessories"
+                - listitem:
+                  - menuitem "Drinkware"
+                - listitem:
+                  - menuitem "Tableware"
+          - listitem:
+            - menuitem "Food & Drink"
+            - button "Coffee Jerky Batters & Mixes Meats":
+              - list:
+                - listitem:
+                  - menuitem "Coffee"
+                - listitem:
+                  - menuitem "Jerky"
+                - listitem:
+                  - menuitem "Batters & Mixes"
+                - listitem:
+                  - menuitem "Meats"
+          - listitem:
+            - menuitem "Dog Training"
+            - button "Electronic Dog Training Training Supplies Bedding & Shelters Chews, Treats & Toys":
+              - list:
+                - listitem:
+                  - menuitem "Electronic Dog Training"
+                - listitem:
+                  - menuitem "Training Supplies"
+                - listitem:
+                  - menuitem "Bedding & Shelters"
+                - listitem:
+                  - menuitem "Chews, Treats & Toys"
+          - listitem:
+            - menuitem "Patio & Outdoor Cooking"
+            - button "Grills Smokers Fryers Grill Accessories View All":
+              - list:
+                - listitem:
+                  - menuitem "Grills"
+                - listitem:
+                  - menuitem "Smokers"
+                - listitem:
+                  - menuitem "Fryers"
+                - listitem:
+                  - menuitem "Grill Accessories"
+                - listitem:
+                  - menuitem "View All"
+          - listitem:
+            - menuitem "Books & DVDs"
+          - listitem:
+            - menuitem "Novelties"
+          - listitem:
+            - menuitem "Holiday Decor"
+          - listitem:
+            - menuitem "New Home & Gifts"
+          - listitem:
+            - menuitem "Home & Gifts Sale"
+          - listitem:
+            - menuitem "Gift Cards"
+          - listitem:
+            - menuitem "Home & Gift Customer Favorites"
+    - menuitem "Bargain Cave"
+    - listitem: Outdoor Tips
+    - listitem: Stores
+    - listitem: Boats
+    - listitem: Offroad
+    - listitem: CLUB
+    - listitem: Gift Cards
+    - listitem: Help
+    - listitem:
+      - img "Canadian leaf"
+      - text: Canada
+    - listitem:
+      - button "All"
+      - menu:
+        - listitem:
+          - menuitem "Hunting"
+        - listitem:
+          - menuitem "Shooting"
+        - listitem:
+          - menuitem "Fishing"
+        - listitem:
+          - menuitem "Boating"
+        - listitem:
+          - menuitem "Camping"
+        - listitem:
+          - menuitem "Outdoor Rec"
+        - listitem:
+          - menuitem "Clothing"
+        - listitem:
+          - menuitem "Footwear"
+        - listitem:
+          - menuitem "Home & Gifts"
+        - listitem:
+          - menuitem "Bargain Cave"
+- main:
+  - img "Spring Fishing Classic"
+  - img "Spring Fishing Classic"
+  - paragraph: SHOP NOW
+  - img "Spring Fishing Classic"
+  - img "Spring Fishing Classic"
+  - paragraph: SHOP NOW
+  - img "CLUB 0% Interest for 12 Months"
+  - img "CLUB 0% Interest for 12 Months"
+  - text: SHOP NOW
+  - img "Marine"
+  - heading "Marine" [level=2]
+  - paragraph: Fish Finders, Navigation & More
+  - text: SHOP NOW
+  - img "Rod and Reel Trade In"
+  - text: SHOP NOW
+  - img "Tracker Off Road"
+  - img "Tracker Off Road"
+  - img "Tracker Off Road"
+  - paragraph: SHOP NOW
+  - img "Tracker Off Road"
+  - img "Tracker Off Road"
+  - img "Tracker Off Road"
+  - paragraph: SHOP NOW
+  - img "AS Low as $5 per day"
+  - heading "HOT THIS WEEK" [level=2]
+  - button
+  - button
+  - button
+  - button
+  - img "World Wide Sportsman Baitcast 2.0 Shorts for Men"
+  - heading "World Wide Sportsman Baitcast 2.0 Shorts for Men" [level=3]
+  - text: Save 25% Sale Starting at $25.98 Reg. Starting at $35.00
+  - img "Lew's Mach Pro Baitcast Combo"
+  - heading "Lew's Mach Pro Baitcast Combo" [level=3]
+  - text: Save $40! Sale $179.95 Reg. $219.95
+  - img "Bass Pro Shops AM24 Inflatable Life Vest 2pk"
+  - heading "Bass Pro Shops AM24 Inflatable Life Vest 2pk" [level=3]
+  - text: A $199.98 Value $119.97
+  - img "World Wide Sportsman Ultimate Angler Convertible Pants for Ladies"
+  - heading "World Wide Sportsman Ultimate Angler Convertible Pants for Ladies" [level=3]
+  - text: CLUB Member Pricing $34.98 Save 30% with CLUB Save 25% Sale $36.98 Reg. $50
+  - img "PENN Fierce III Spinning Combo"
+  - heading "PENN Fierce III Spinning Combo" [level=3]
+  - text: Save up to $50! Sale $59.97 Reg. Starting at $99.99
+  - img "Lowrance HDS Live 9"
+  - heading "Lowrance HDS Live 9" [level=3]
+  - text: Save $1200 Off Orig. Sale $999.97 Orig. $2199.99
+  - img "Lowrance ActiveTarget Live Sonar"
+  - heading "Lowrance ActiveTarget Live Sonar" [level=3]
+  - text: Save $650 Off Orig. Sale $999.97 Orig. $1649.99
+  - img "Garmin Fenix 6X Pro Solar"
+  - heading "Garmin Fenix 6X Pro Solar" [level=3]
+  - text: Save $450! Sale $499.99 Orig. $949.99
+  - img "World Wide Sportsman Baitcast 2.0 Shorts for Men"
+  - heading "World Wide Sportsman Baitcast 2.0 Shorts for Men" [level=3]
+  - text: Save 25% Sale Starting at $25.98 Reg. Starting at $35.00
+  - img "Lew's Mach Pro Baitcast Combo"
+  - heading "Lew's Mach Pro Baitcast Combo" [level=3]
+  - text: Save $40! Sale $179.95 Reg. $219.95
+  - img "Bass Pro Shops AM24 Inflatable Life Vest 2pk"
+  - heading "Bass Pro Shops AM24 Inflatable Life Vest 2pk" [level=3]
+  - text: A $199.98 Value $119.97
+  - img "World Wide Sportsman Ultimate Angler Convertible Pants for Ladies"
+  - heading "World Wide Sportsman Ultimate Angler Convertible Pants for Ladies" [level=3]
+  - text: CLUB Member Pricing $34.98 Save 30% with CLUB Save 25% Sale $36.98 Reg. $50
+  - img "PENN Fierce III Spinning Combo"
+  - heading "PENN Fierce III Spinning Combo" [level=3]
+  - text: Save up to $50! Sale $59.97 Reg. Starting at $99.99
+  - img "Lowrance HDS Live 9"
+  - heading "Lowrance HDS Live 9" [level=3]
+  - text: Save $1200 Off Orig. Sale $999.97 Orig. $2199.99
+  - img "Lowrance ActiveTarget Live Sonar"
+  - heading "Lowrance ActiveTarget Live Sonar" [level=3]
+  - text: Save $650 Off Orig. Sale $999.97 Orig. $1649.99
+  - img "Garmin Fenix 6X Pro Solar"
+  - heading "Garmin Fenix 6X Pro Solar" [level=3]
+  - text: Save $450! Sale $499.99 Orig. $949.99
+  - img "World Wide Sportsman Baitcast 2.0 Shorts for Men"
+  - heading "World Wide Sportsman Baitcast 2.0 Shorts for Men" [level=3]
+  - text: Save 25% Sale Starting at $25.98 Reg. Starting at $35.00
+  - img "Lew's Mach Pro Baitcast Combo"
+  - heading "Lew's Mach Pro Baitcast Combo" [level=3]
+  - text: Save $40! Sale $179.95 Reg. $219.95
+  - img "Bass Pro Shops AM24 Inflatable Life Vest 2pk"
+  - heading "Bass Pro Shops AM24 Inflatable Life Vest 2pk" [level=3]
+  - text: A $199.98 Value $119.97
+  - img "World Wide Sportsman Ultimate Angler Convertible Pants for Ladies"
+  - heading "World Wide Sportsman Ultimate Angler Convertible Pants for Ladies" [level=3]
+  - text: CLUB Member Pricing $34.98 Save 30% with CLUB Save 25% Sale $36.98 Reg. $50
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button "Shop by Category 0;480;768;1024;1280 1;2;3;4;8":
+    - heading "Shop by Category" [level=2]
+    - textbox: 0;480;768;1024;1280
+    - textbox: 1;2;3;4;8
+  - button
+  - button
+  - list:
+    - button
+    - listitem:
+      - button
+      - button
+      - button "Fish finder on boat Marine Electronics":
+        - img "Fish finder on boat"
+        - paragraph: Marine Electronics
+      - button
+      - button
+    - button
+    - listitem:
+      - button
+      - button
+      - button
+      - img "Man using fishing reel"
+      - paragraph: Fishing Reels
+    - listitem:
+      - img "Silhouette of man fishing on boat with trolling motor"
+      - paragraph: Trolling Motors
+    - listitem:
+      - img "Woman and child walking"
+      - paragraph: Cold Weather Clothing Essentials
+    - listitem:
+      - img "Gun safe in room"
+      - paragraph: Gun Storage
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button
+  - img "Low Price Guarantee"
+  - img "Low Price Guarantee"
+  - text: LEARN MORE
+  - img "Exclusive CLUB Member Savings"
+  - heading "Exclusive" [level=2]
+  - heading "CLUB MEMBER SAVINGS" [level=3]
+  - text: SHOP NOW
+  - img "Clothing Clearance Sale"
+  - paragraph: LIMITED TIME ONLY
+  - heading "CLOTHING CLEARANCE SALE" [level=2]
+  - paragraph: WE TOOK AN ADDITIONAL 25% OFF SELECT ITEMS!
+  - text: SHOP NOW
+  - heading "Our Top Brands" [level=2]
+  - textbox: 0;480;768;1024;1280
+  - textbox: 1;2;3;4;8
+  - list:
+    - listitem:
+      - img "Cabela's"
+    - listitem:
+      - img "RedHead"
+    - listitem:
+      - img "Abu Garcia"
+    - listitem:
+      - img "Garmin"
+    - listitem:
+      - img "Carhartt"
+    - listitem:
+      - img "Shimano"
+    - listitem:
+      - img "Vortex"
+    - listitem:
+      - img "Natural Reflections"
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button
+  - button "Classic Club Card":
+    - img "Classic Club Card"
+  - button "Sign up today and earn up to $50 In CLUB Points"
+  - button "Apply Today"
+  - button
+  - button
+  - button
+  - button "Club Member Sign In Manage your account online."
+  - button
+  - text: Manage My Account CLUB Member Offers Check out the latest perks and discounts for CLUB Members. View offers & events Apply Today Manage My Account View offers & events
+- contentinfo:
+  - heading "CONTACT Cabela's" [level=3]
+  - list:
+    - listitem:
+      - button "Chat Now":
+        - img "Chat Now"
+    - listitem: Email Us
+    - listitem: 1-800-237-4444
+    - listitem: FAQs
+    - listitem: "Support ID: UCD336874422 ?"
+  - button "Help":
+    - heading "Help" [level=3]
+  - heading "Help" [level=3]
+  - list:
+    - listitem: Order Status
+    - listitem: Returns
+    - listitem: Shipping Information
+    - listitem: Product Subscriptions
+    - listitem: Size Chart
+    - listitem: Embroidery Services
+    - listitem: Rod & Reel Repair
+    - listitem: Boat & Boat Centers
+    - listitem: Tracker Off-Road
+  - button "Resources":
+    - heading "Resources" [level=3]
+  - heading "Resources" [level=3]
+  - list:
+    - listitem: Outdoor Tips
+    - listitem: Gift Registry
+    - listitem: Online Catalogs
+    - listitem: Business Sales
+    - listitem: Wildlife Creations
+    - listitem: Military Discount
+    - listitem: Restaurants
+    - listitem: Used Guns
+    - listitem: Outdoor Rewards
+    - listitem: Promotions
+  - button "About Us":
+    - heading "About Us" [level=3]
+  - heading "About Us" [level=3]
+  - list:
+    - listitem: Find a Store
+    - listitem: Careers
+    - listitem: Company News
+    - listitem: Cabela's Story
+    - listitem: About Our Founder
+    - listitem: Our Community
+    - listitem: Conservation
+    - listitem: Affiliate Program
+    - listitem: Bass Pro Shops
+  - button "Sign Up":
+    - heading "Sign Up" [level=3]
+  - heading "Sign Up For Exclusive Deals & Offers" [level=3]
+  - textbox "Enter Your Email Address"
+  - paragraph: You can unsubscribe at any time. Contact Us | Privacy Policy
+  - checkbox
+  - text: I agree to receive special offers, promotions, and catalog announcements
+  - button "Sign Up"
+  - list:
+    - listitem: Sign Up for SMS Messaging
+    - listitem: Get Our Free Catalog
+    - listitem: Download Our Mobile App
+  - heading "Follow US" [level=3]
+  - heading "Proud Partners" [level=3]
+  - img "Toyota Partner"
+  - img "Progressive Partner"
+  - list:
+    - listitem: Gift Card Terms & Conditions
+    - listitem: Recall Information
+    - listitem: UPDATED Terms of Use + Community Guidelines
+    - listitem: Accessibility Policy
+    - listitem: Privacy Policy
+    - listitem: CA TSCA Disclosure
+    - listitem: Do Not Sell Or Share My Personal Information
+    - listitem: Errors & Limitations
+    - listitem: Site Map
+  - paragraph:
+    - text: If you are using a screen reader and are having problems using this website, please call
+    - strong: 1-800-237-4444
+    - text: for assistance.
+  - paragraph: 2023 Cabela's L.L.C. All rights reserved.
+- dialog: OK
+- dialog:
+  - button "CLOSE":
+    - button "CLOSE"
+  - button "OK"
+- dialog:
+  - button "Close"
+  - button "Close"
+  - button "Close"
+  - button "Close"
+  - text: Continue Shopping View List
+- dialog:
+  - button
+  - button "Use My Current Location"
+  - textbox "Enter Zip or City and State"
+  - button "???SEARCH_CATALOGS???"
+  - checkbox
+- text: Store Details
+- dialog:
+  - button "close Firearm Change Store Popup":
+    - img "close Firearm Change Store Popup"
+  - text: Change My Store Stay on Page
+- dialog:
+  - button "Yes"
+  - button "No"
+- dialog: Go Back Continue
+- dialog:
+  - button "Sign In"
+  - button "Register"
+  - text: Continue as Guest
+  - button "Continue Shopping"
+- dialog:
+  - text: X
+  - button "Continue Shopping"
+- dialog:
+  - text: X
+  - button "Continue Shopping"
+- dialog:
+  - text: Back Continue as Guest X
+  - textbox "Email"
+  - textbox "Password"
+  - textbox "Verify Password"
+  - button "Submit"
+  - button "Submit"
+- dialog:
+  - text: X
+  - button "Pay with CLUB Card"
+  - button "Continue to PayPal"
+  - button "Continue to Masterpass"
+- dialog: Return to secure window
+- button "Feedback"

@@ -1,0 +1,17 @@
+{
+  "task": "real-world-manual",
+  "source": "Amazon.de _ wireless mouse",
+  "numItems": 8,
+  "questions": [
+    {
+      "id": "cheapest",
+      "question": "Which product is the cheapest (has the lowest price)? Answer with ONLY the product name, nothing else.",
+      "expectedAnswer": "Logitech M185 wireless mouse, 2.4 GHz connection via nano USB receiver, 1000 DPI optical sensor, 12-month battery life, for left and right-handed users, PC / Mac - gray, English packaging"
+    },
+    {
+      "id": "count",
+      "question": "How many products/items are shown on this page? Answer with ONLY the number, nothing else.",
+      "expectedAnswer": 8
+    }
+  ]
+}

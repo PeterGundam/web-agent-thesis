@@ -1,0 +1,21 @@
+{
+  "task": "mind2web-element-identification",
+  "source": "Shopping/underarmour",
+  "domain": "Shopping",
+  "website": "underarmour",
+  "confirmed_task": "Sign up for the newsletter",
+  "target_role": "textbox",
+  "target_operation": "TYPE: larryknox@gmail.com",
+  "questions": [
+    {
+      "id": "element",
+      "question": "You are a web agent. Task: \"Sign up for the newsletter\". Which element should be used to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Email Address *"
+    },
+    {
+      "id": "actiontype",
+      "question": "You are a web agent. Task: \"Sign up for the newsletter\". You have identified the target element: \"Email Address *\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "TYPE: larryknox@gmail.com"
+    }
+  ]
+}

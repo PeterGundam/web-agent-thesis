@@ -1,0 +1,1092 @@
+- button "United States"
+- text: Borderfree
+- combobox:
+  - option [selected]
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+- combobox:
+  - option [selected]
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+- button "OK"
+- banner:
+  - text: Skip to main content Skip to footer content
+  - paragraph: FREE U.S. Shipping Orders $99+ & FREE Returns
+  - paragraph: FREE U.S. Shipping Orders $99+ & FREE Returns
+  - text: Need Help?
+  - button "US"
+  - list:
+    - listitem: CA
+    - listitem: MX
+  - text: See All English
+  - button "Welcome James"
+  - list:
+    - listitem: My Dashboard
+    - listitem: Order History
+    - listitem: Profile
+    - listitem: Payment Methods
+    - listitem: Addresses
+    - listitem: Saved Items
+    - listitem: Logout
+  - button "Menu"
+  - menuitem
+  - menuitem
+  - menuitem
+  - img "Under Armour Logo"
+  - navigation:
+    - button "Under Armour Logo":
+      - img "Under Armour Logo"
+    - button
+  - menubar:
+    - link "New":
+      - text: New
+      - img
+    - menuitem "Men"
+    - menu:
+      - text: Men
+      - listitem:
+        - img "Image for banner of category"
+        - text: Shop Now
+      - menu:
+        - menuitem "New Arrivals"
+        - menuitem "Jordan Spieth's Inspired Fits"
+        - menuitem "Spring Picks"
+        - menuitem "Best Sellers"
+        - menuitem "Project Rock"
+        - menuitem "Big & Tall"
+        - menuitem "College Fan Gear"
+        - menuitem "Matching Sets"
+        - menuitem "UA Fleece Shop"
+      - menu:
+        - menuitem "Baselayer"
+        - menuitem "Jackets & Vests"
+        - menuitem "Pants & Leggings"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Shorts"
+        - menuitem "Swimwear"
+        - menuitem "Underwear"
+      - menu:
+        - menuitem "Baseball"
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Football"
+        - menuitem "Golf"
+        - menuitem "Hockey"
+        - menuitem "Hunting"
+        - menuitem "Lacrosse"
+        - menuitem "Military & Tactical"
+        - menuitem "Hiking & Outdoor"
+        - menuitem "Running"
+        - menuitem "Soccer"
+        - menuitem "Training"
+      - menu:
+        - menuitem "UA Iso-Chill"
+        - 'menuitem "UA HeatGear: Keeps You Cool"'
+        - menuitem "UA RUSH Performance Apparel"
+        - menuitem "UA HOVR Shoes"
+        - menuitem "Curry Brand"
+        - menuitem "UA Freedom"
+        - 'menuitem "UA ColdGear: Keeps You Warm"'
+      - menuitem "Accessories"
+      - menu:
+        - menuitem "Accessories"
+        - menuitem "Backpacks & Bags"
+        - menuitem "Belts"
+        - menuitem "Equipment"
+        - menuitem "Face Masks, Hoods & Gaiters"
+        - menuitem "Hats & Visors"
+        - menuitem "Headphones"
+        - menuitem "Socks"
+        - menuitem "Sport Gloves"
+        - menuitem "Sunglasses"
+        - menuitem "Water Bottles & Coolers"
+        - menuitem "Warm Weather Gear"
+      - text: Shop All Men
+      - menuitem "Accessories"
+      - menu:
+        - menuitem "Accessories"
+        - text: Shop All Accessories
+        - menuitem "Backpacks & Bags"
+        - menuitem "Belts"
+        - menuitem "Equipment"
+        - menuitem "Face Masks, Hoods & Gaiters"
+        - menuitem "Hats & Visors"
+        - menuitem "Headphones"
+        - menuitem "Socks"
+        - menuitem "Sport Gloves"
+        - menuitem "Sunglasses"
+        - menuitem "Warm Weather Gear"
+        - menuitem "Water Bottles & Coolers"
+      - menuitem "Baselayer"
+      - menu:
+        - menuitem "New Arrivals":
+          - text: New Arrivals
+          - img
+        - menuitem "Jordan Spieth's Inspired Fits"
+        - menuitem "Spring Picks"
+        - menuitem "Best Sellers"
+        - menuitem "Project Rock"
+        - menuitem "Big & Tall"
+        - menuitem "College Fan Gear"
+        - menuitem "Matching Sets"
+        - menuitem "UA Fleece Shop"
+      - menuitem "Jackets & Vests"
+      - menu:
+        - menuitem "Jackets & Vests"
+        - text: Shop All Jackets & Vests
+        - menuitem "Jackets"
+        - menuitem "Vests"
+      - menuitem "Pants & Leggings"
+      - menu:
+        - menuitem "Pants & Leggings"
+        - text: Shop All Pants & Leggings
+        - menuitem "Leggings & Baselayer"
+        - menuitem "Outdoor & Lifestyle Pants"
+        - menuitem "Shorts"
+        - menuitem "Workout Pants & Joggers"
+      - menuitem "Shirts & Tops"
+      - menu:
+        - menuitem "Shirts & Tops"
+        - text: Shop All Shirts & Tops
+        - menuitem "Tank Tops & Sleeveless"
+        - menuitem "Short Sleeves"
+        - menuitem "Graphic T-shirts"
+        - menuitem "Polo Shirts"
+        - menuitem "Long Sleeves"
+        - menuitem "Hoodies & Sweatshirts"
+      - menuitem "Shoes"
+      - menu:
+        - menuitem "Shoes"
+        - text: Shop All Shoes
+        - menuitem "Baseball"
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Football"
+        - menuitem "Golf"
+        - menuitem "Hiking & Hunting"
+        - menuitem "Lacrosse"
+        - menuitem "Military & Tactical Boots"
+        - menuitem "Running"
+        - menuitem "Sandals & Slides"
+        - menuitem "Soccer"
+        - menuitem "Sportstyle"
+        - menuitem "Training"
+      - menu:
+        - menuitem "UA Iso-Chill"
+        - 'menuitem "UA HeatGear: Keeps You Cool"'
+        - menuitem "UA RUSH Performance Apparel"
+        - menuitem "UA HOVR Shoes"
+        - menuitem "Curry Brand"
+        - menuitem "UA Freedom"
+        - 'menuitem "UA ColdGear: Keeps You Warm"'
+      - menu:
+        - menuitem "Baseball"
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Football"
+        - menuitem "Golf"
+        - menuitem "Hiking & Outdoor"
+        - menuitem "Hockey"
+        - menuitem "Hunting"
+        - menuitem "Lacrosse"
+        - menuitem "Military & Tactical"
+        - menuitem "Running"
+        - menuitem "Soccer"
+        - menuitem "Training"
+      - menuitem "Shorts"
+      - menuitem "Swimwear"
+      - menuitem "Underwear"
+    - menuitem "Women"
+    - menu:
+      - text: Women
+      - listitem:
+        - img "Image for banner of category"
+        - text: Shop Now
+      - menu:
+        - menuitem "New Arrivals"
+        - menuitem "Mother's Day Gifts"
+        - 'menuitem "Now Trending: Neutrals"'
+        - menuitem "Spring Picks"
+        - menuitem "UA Plus Size"
+        - menuitem "Best Sellers"
+        - menuitem "Project Rock"
+        - menuitem "College Fan Gear"
+        - menuitem "Matching Sets"
+      - menu:
+        - menuitem "Baselayer"
+        - menuitem "Jackets & Vests"
+        - menuitem "Pants & Leggings"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Shorts"
+        - menuitem "Sports Bras"
+        - menuitem "Underwear"
+      - menu:
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Golf"
+        - menuitem "Lacrosse"
+        - menuitem "Military & Tactical"
+        - menuitem "Hiking & Outdoor"
+        - menuitem "Running"
+        - menuitem "Soccer"
+        - menuitem "Softball"
+        - menuitem "Training"
+        - menuitem "Volleyball"
+        - menuitem "Yoga & Studio"
+      - menu:
+        - menuitem "UA Iso-Chill"
+        - 'menuitem "UA HeatGear: Keeps You Cool"'
+        - menuitem "UA RUSH Performance Apparel"
+        - menuitem "UA HOVR Shoes"
+        - menuitem "Curry Brand"
+        - menuitem "UA Freedom"
+        - menuitem "UA Meridian"
+        - 'menuitem "UA ColdGear: Keeps You Warm"'
+      - menuitem "Accessories"
+      - menu:
+        - menuitem "Accessories"
+        - menuitem "Backpacks & Bags"
+        - menuitem "Equipment"
+        - menuitem "Face Masks, Hoods & Gaiters"
+        - menuitem "Hats & Visors"
+        - menuitem "Headphones"
+        - menuitem "Socks"
+        - menuitem "Sport Gloves"
+        - menuitem "Sunglasses"
+        - menuitem "Water Bottles & Coolers"
+        - menuitem "Warm Weather Gear"
+      - text: Shop All Women
+      - menuitem "Accessories"
+      - menu:
+        - menuitem "Accessories"
+        - text: Shop All Accessories
+        - menuitem "Backpacks & Bags"
+        - menuitem "Equipment"
+        - menuitem "Face Masks, Hoods & Gaiters"
+        - menuitem "Hats & Visors"
+        - menuitem "Headphones"
+        - menuitem "Socks"
+        - menuitem "Sport Gloves"
+        - menuitem "Sunglasses"
+        - menuitem "Warm Weather Gear"
+        - menuitem "Water Bottles & Coolers"
+      - menuitem "Baselayer"
+      - menu:
+        - menuitem "New Arrivals":
+          - text: New Arrivals
+          - img
+        - menuitem "Mother's Day Gifts"
+        - 'menuitem "Now Trending: Neutrals"'
+        - menuitem "Spring Picks"
+        - menuitem "UA Plus Size"
+        - menuitem "Best Sellers"
+        - menuitem "Project Rock"
+        - menuitem "College Fan Gear"
+        - menuitem "Matching Sets"
+      - menuitem "Jackets & Vests"
+      - menu:
+        - menuitem "Jackets & Vests"
+        - text: Shop All Jackets & Vests
+        - menuitem "Jackets"
+        - menuitem "Vests"
+      - menuitem "Pants & Leggings"
+      - menu:
+        - menuitem "Pants & Leggings"
+        - text: Shop All Pants & Leggings
+        - menuitem "Capris & Crops"
+        - menuitem "Leggings & Baselayer"
+        - menuitem "Pants, Sweatpants & Joggers"
+        - menuitem "Shorts"
+      - menuitem "Shirts & Tops"
+      - menu:
+        - menuitem "Shirts & Tops"
+        - text: Shop All Shirts & Tops
+        - menuitem "Graphic T-shirts"
+        - menuitem "Hoodies & Sweatshirts"
+        - menuitem "Long Sleeves"
+        - menuitem "Polo Shirts"
+        - menuitem "Short Sleeves"
+        - menuitem "Tank Tops & Sleeveless"
+      - menuitem "Shoes"
+      - menu:
+        - menuitem "Shoes"
+        - text: Shop All Shoes
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Hiking & Hunting"
+        - menuitem "Lacrosse"
+        - menuitem "Military & Tactical"
+        - menuitem "Running"
+        - menuitem "Sandals & Slides"
+        - menuitem "Soccer"
+        - menuitem "Softball"
+        - menuitem "Sportstyle"
+        - menuitem "Training"
+        - menuitem "Volleyball"
+      - menu:
+        - menuitem "UA Iso-Chill"
+        - 'menuitem "UA HeatGear: Keeps You Cool"'
+        - menuitem "UA RUSH Performance Apparel"
+        - menuitem "UA HOVR Shoes"
+        - menuitem "Curry Brand"
+        - menuitem "UA Freedom"
+        - menuitem "UA Meridian"
+        - 'menuitem "UA ColdGear: Keeps You Warm"'
+      - menu:
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Golf"
+        - menuitem "Hiking & Outdoor"
+        - menuitem "Lacrosse"
+        - menuitem "Military & Tactical"
+        - menuitem "Running"
+        - menuitem "Soccer"
+        - menuitem "Softball"
+        - menuitem "Training"
+        - menuitem "Volleyball"
+        - menuitem "Yoga & Studio"
+      - menuitem "Shorts"
+      - menuitem "Sports Bras"
+      - menuitem "Underwear"
+    - menuitem "Kids"
+    - menu:
+      - text: Kids
+      - listitem:
+        - img "Image for banner of category"
+        - text: Shop Now
+      - menu:
+        - menuitem "New Arrivals"
+        - menuitem "Looks for the Links"
+        - menuitem "Spring Picks"
+        - menuitem "Best Sellers"
+        - menuitem "Project Rock"
+        - menuitem "Matching Sets"
+        - 'menuitem "UA HeatGear: Keeps You Cool"'
+        - menuitem "UA Fleece Shop"
+        - menuitem "College Fan Gear"
+        - menuitem "UA Motion Collection"
+      - menuitem "Boys"
+      - menu:
+        - menuitem "Boys"
+        - menuitem "Accessories"
+        - menuitem "Baselayer"
+        - menuitem "One Piece & Sets"
+        - menuitem "Jackets & Vests"
+        - menuitem "Pants & Leggings"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Shorts"
+        - menuitem "Socks"
+        - menuitem "Swimwear"
+        - menuitem "Underwear"
+      - menuitem "Girls"
+      - menu:
+        - menuitem "Girls"
+        - menuitem "Accessories"
+        - menuitem "Baselayer"
+        - menuitem "Dresses & Rompers"
+        - menuitem "One Piece & Sets"
+        - menuitem "Jackets"
+        - menuitem "Pants & Leggings"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Shorts"
+        - menuitem "Socks"
+        - menuitem "Sports Bras"
+        - menuitem "Swimwear"
+      - menu:
+        - menuitem "Baseball"
+        - menuitem "Basketball"
+        - menuitem "Football"
+        - menuitem "Golf"
+        - menuitem "Softball"
+        - menuitem "Volleyball"
+        - menuitem "Soccer"
+        - menuitem "Running & Training"
+        - menuitem "Hockey"
+      - menu:
+        - menuitem "Big Kids (Size 8+)"
+        - menuitem "Little Kids (Size 4-7)"
+        - menuitem "Toddler (2T - 4T)"
+        - menuitem "Infant (12M - 24M)"
+        - menuitem "Newborn (0M - 9M)"
+      - text: Shop All Kids
+      - menuitem "Boys"
+      - menu:
+        - menuitem "Boys"
+        - text: Shop All Boys
+        - menuitem "Accessories"
+        - menuitem "Baselayer"
+        - menuitem "Jackets & Vests"
+        - menuitem "One Piece & Sets"
+        - menuitem "Pants & Leggings"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Shorts"
+        - menuitem "Socks"
+        - menuitem "Swimwear"
+        - menuitem "Underwear"
+      - menu:
+        - menuitem "New Arrivals":
+          - text: New Arrivals
+          - img
+        - menuitem "Looks for the Links"
+        - menuitem "Spring Picks"
+        - menuitem "Best Sellers"
+        - menuitem "Project Rock"
+        - menuitem "Matching Sets"
+        - 'menuitem "UA HeatGear: Keeps You Cool"'
+        - menuitem "UA Fleece Shop"
+        - menuitem "College Fan Gear"
+        - menuitem "UA Motion Collection"
+      - menuitem "Girls"
+      - menu:
+        - menuitem "Girls"
+        - text: Shop All Girls
+        - menuitem "Accessories"
+        - menuitem "Baselayer"
+        - menuitem "Dresses & Rompers"
+        - menuitem "Jackets"
+        - menuitem "One Piece & Sets"
+        - menuitem "Pants & Leggings"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Shorts"
+        - menuitem "Socks"
+        - menuitem "Sports Bras"
+        - menuitem "Swimwear"
+      - menu:
+        - menuitem "Big Kids (Size 8+)"
+        - menuitem "Infant (12M - 24M)"
+        - menuitem "Little Kids (Size 4-7)"
+        - menuitem "Newborn (0M - 9M)"
+        - menuitem "Toddler (2T - 4T)"
+      - menu:
+        - menuitem "Baseball"
+        - menuitem "Basketball"
+        - menuitem "Football"
+        - menuitem "Golf"
+        - menuitem "Hockey"
+        - menuitem "Running & Training"
+        - menuitem "Soccer"
+        - menuitem "Softball"
+        - menuitem "Volleyball"
+    - menuitem "Shoes"
+    - menu:
+      - text: Shoes
+      - listitem:
+        - img "Image for banner of category"
+        - text: Shop Now
+      - menu:
+        - menuitem "New Arrivals"
+        - menuitem "Flow Velociti Elite"
+        - menuitem "Summer White Shoes"
+        - menuitem "Best Sellers"
+        - menuitem "Curry Brand"
+        - menuitem "Project Rock"
+      - menu:
+        - menuitem "Sandals & Slides"
+        - menuitem "Cleats"
+        - menuitem "Sportstyle Shoes"
+        - menuitem "Boots"
+      - menu:
+        - menuitem "Men's Shoes"
+        - menuitem "Women's Shoes"
+        - menuitem "Boys' Shoes"
+        - menuitem "Girls' Shoes"
+        - menuitem "Unisex Shoes"
+      - menu:
+        - menuitem "Baseball"
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Football"
+        - menuitem "Golf"
+        - menuitem "Hiking & Hunting"
+        - menuitem "Lacrosse"
+        - menuitem "Running"
+        - menuitem "Soccer"
+        - menuitem "Softball"
+        - menuitem "Sportstyle"
+        - menuitem "Military & Tactical"
+        - menuitem "Track & Field"
+        - menuitem "Training"
+        - menuitem "Volleyball"
+      - menu:
+        - menuitem "UA SlipSpeed"
+        - menuitem "UA Flow"
+        - menuitem "UA HOVR"
+        - menuitem "UA Charged"
+      - text: Shop All Shoes
+      - menuitem "Men's Shoes"
+      - menuitem "Women's Shoes"
+      - menuitem "Boys' Shoes"
+      - menuitem "Girls' Shoes"
+      - menuitem "Unisex Shoes"
+      - menu:
+        - menuitem "Cleats"
+        - menuitem "Boots"
+        - menuitem "Sandals & Slides"
+        - menuitem "Sportstyle Shoes"
+      - menu:
+        - menuitem "Baseball"
+        - menuitem "Basketball"
+        - menuitem "Fishing"
+        - menuitem "Football"
+        - menuitem "Golf"
+        - menuitem "Hiking & Hunting"
+        - menuitem "Lacrosse"
+        - menuitem "Military & Tactical"
+        - menuitem "Running"
+        - menuitem "Soccer"
+        - menuitem "Softball"
+        - menuitem "Sportstyle"
+        - menuitem "Track & Field"
+        - menuitem "Training"
+        - menuitem "Volleyball"
+      - menu:
+        - menuitem "New Arrivals":
+          - text: New Arrivals
+          - img
+        - menuitem "Flow Velociti Elite"
+        - menuitem "Summer White Shoes"
+        - menuitem "Best Sellers"
+        - menuitem "Curry Brand"
+        - menuitem "Project Rock"
+      - menu:
+        - menuitem "UA SlipSpeed"
+        - menuitem "UA Flow"
+        - menuitem "UA HOVR"
+        - menuitem "UA Charged"
+    - link "Curry"
+    - menuitem "Outlet"
+    - menu:
+      - text: Outlet
+      - listitem:
+        - img "Image for banner of category"
+        - text: Shop Now
+      - menu:
+        - menuitem "Buy More Save More Deals"
+        - menuitem "Shoes Under $50"
+        - menuitem "Athletic Clothing Under $25"
+        - menuitem "Sportsmask 2/$10"
+        - menuitem "Buy More Save More Boxerjocks"
+      - menuitem "Men"
+      - menu:
+        - menuitem "Men"
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Jackets & Vests"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Underwear"
+      - menuitem "Women"
+      - menu:
+        - menuitem "Women"
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Jackets & Vests"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Sports Bras"
+      - menuitem "Boys"
+      - menu:
+        - menuitem "Boys"
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Underwear"
+      - menuitem "Girls"
+      - menu:
+        - menuitem "Girls"
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+      - text: Shop All Outlet
+      - menuitem "Men"
+      - menu:
+        - menuitem "Men"
+        - text: Shop All Men
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Jackets & Vests"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Underwear"
+      - menuitem "Women"
+      - menu:
+        - menuitem "Women"
+        - text: Shop All Women
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Jackets & Vests"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Sports Bras"
+      - menuitem "Boys"
+      - menu:
+        - menuitem "Boys"
+        - text: Shop All Boys
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+        - menuitem "Underwear"
+      - menuitem "Girls"
+      - menu:
+        - menuitem "Girls"
+        - text: Shop All Girls
+        - menuitem "Accessories"
+        - menuitem "Bottoms"
+        - menuitem "Shirts & Tops"
+        - menuitem "Shoes"
+      - menu:
+        - menuitem "Buy More Save More Deals"
+        - menuitem "Shoes Under $50"
+        - menuitem "Athletic Clothing Under $25"
+        - menuitem "Sportsmask 2/$10"
+        - menuitem "Buy More Save More Boxerjocks"
+    - text: "Region: US"
+  - button "James"
+  - menu:
+    - menuitem "My Dashboard"
+    - menuitem "Order History"
+    - menuitem "Profile"
+    - menuitem "Payment Methods"
+    - menuitem "Addresses"
+    - menuitem "Saved Items"
+    - menuitem "Logout"
+  - text: Saved Order History Help
+  - button "Under Armour Logo":
+    - img "Under Armour Logo"
+  - button
+  - search:
+    - combobox "Search UA"
+    - button "Clear"
+    - button
+- text: Saved
+- dialog:
+  - document:
+    - button "Nevermind"
+    - button "Remove Item"
+- main:
+  - text: DWAYNE JOHNSON Project Rock Proving Ground
+  - paragraph: YOUR LEGACY
+  - paragraph: STARTS NOW
+  - paragraph: "\"Whatever dream you're chasing, no matter how long you've been at it, or how long it might take you: The true test will always be today. It's either One Day, or Day One.\" - Dwayne Johnson"
+  - text: Shop Project Rock Shop Project Rock
+  - paragraph: Put Our Newest Gear To Work
+  - text: Shop Men Shop Women Shop Kids Shop Shoes
+  - button
+  - button
+  - text: UA SlipSpeed
+  - paragraph: PURE PERFORMANCE. VERSATILE FOOTWEAR.
+  - text: Shop New Colors Shop New Colors
+  - img "New Product"
+  - text: New
+  - button "Unisex UA SlipSpeed Training Shoes":
+    - img "Unisex UA SlipSpeed Training Shoes"
+  - list:
+    - listitem
+  - text: 1 Color Unisex UA SlipSpeed Training Shoes $150.00
+  - img "New Product"
+  - text: New
+  - button "Unisex UA SlipSpeed Training Shoes":
+    - img "Unisex UA SlipSpeed Training Shoes"
+  - list:
+    - listitem
+  - text: 1 Color Unisex UA SlipSpeed Training Shoes $150.00
+  - img "null"
+  - img "New Product"
+  - text: New
+  - button "Unisex UA SlipSpeed Training Shoes":
+    - img "Unisex UA SlipSpeed Training Shoes"
+  - list:
+    - listitem
+  - text: 1 Color Unisex UA SlipSpeed Training Shoes $150.00
+  - img "New Product"
+  - text: New
+  - button "Unisex UA SlipSpeed Training Shoes":
+    - img "Unisex UA SlipSpeed Training Shoes"
+  - list:
+    - listitem
+  - text: 1 Color Unisex UA SlipSpeed Training Shoes $150.00
+  - img "New Product"
+  - text: New
+  - button "Unisex UA SlipSpeed Training Shoes":
+    - img "Unisex UA SlipSpeed Training Shoes"
+  - list:
+    - listitem
+  - text: 1 Color Unisex UA SlipSpeed Training Shoes $150.00
+  - img "New Product"
+  - text: New
+  - button "Unisex UA SlipSpeed Training Shoes":
+    - img "Unisex UA SlipSpeed Training Shoes"
+  - list:
+    - listitem
+  - text: 1 Color Unisex UA SlipSpeed Training Shoes $150.00
+  - img "New Product"
+  - text: New
+  - button "Unisex UA SlipSpeed Training Shoes":
+    - img "Unisex UA SlipSpeed Training Shoes"
+  - list:
+    - listitem
+  - text: 1 Color Unisex UA SlipSpeed Training Shoes $150.00
+  - img "New Product"
+  - text: New
+  - button "Unisex UA SlipSpeed Training Shoes":
+    - img "Unisex UA SlipSpeed Training Shoes"
+  - list:
+    - listitem
+  - text: 1 Color Unisex UA SlipSpeed Training Shoes $150.00
+  - button
+  - button
+  - text: Sharon Lokedi 2022 NYC Marathon Winner
+  - paragraph: GO FASTER ON RACE DAY
+  - paragraph: The shoes that helped Sharon Lokedi win the 2022 NYC Marathon are finally here! Get the light, fast UA Flow Velociti Elite now.
+  - text: Shop UA Flow Velociti Elite Shop Running Shoes Shop UA Flow Velociti Elite Shop Running Shoes Shop Mothers Day Shop Kids' Shorts Shop Our Instagram Explore the Gallery
+  - heading "Media Gallery"
+  - list:
+    - listitem:
+      - button
+    - listitem:
+      - button
+    - listitem:
+      - button
+    - listitem:
+      - button
+    - listitem:
+      - button
+    - listitem:
+      - button
+    - listitem:
+      - button
+    - listitem:
+      - button
+    - listitem:
+      - button
+    - listitem:
+      - button
+  - button "Load More - Media Gallery"
+  - status: 10 of 4754 total items loaded in Media Gallery
+- contentinfo:
+  - img "Under Armour"
+  - text: Stay in the loop.
+  - paragraph: Sign up for email updates today.
+  - form:
+    - text: Email Address *
+    - textbox
+    - button "Sign Up"
+    - paragraph: By providing your email, you agree to the Terms of Use and Privacy Policy . You may unsubscribe later.
+  - img "Shop"
+  - img "Map My Run"
+  - text: Accepted Payment Methods
+  - img "mastercard"
+  - img "discover"
+  - img "visa"
+  - img "amex"
+  - img "apple pay"
+  - img "pay pal"
+  - img "klarna"
+  - text: Live Chat Chat Now
+  - paragraph: Monday - Sunday
+  - text: Need Help?
+  - list:
+    - listitem: Live Chat Now
+    - listitem: Help Center
+    - listitem: International Help & FAQ
+    - listitem: Size Guide
+    - listitem: Shipping & Delivery
+    - listitem: Returns & Exchanges
+    - listitem: International Returns & Exchanges
+    - listitem: Store Locator
+    - listitem: Order Tracking
+    - listitem: International Order Tracking
+    - listitem: Gift Cards
+    - listitem: Sitemap
+    - listitem: Student Discount
+  - text: About Under Armour
+  - list:
+    - listitem: Affiliates
+    - listitem: About Us/Our Story
+    - listitem: Careers
+    - listitem: UA Community
+    - listitem: UA Access To Sports
+    - listitem: Investor Relations
+    - listitem: Product Recalls
+    - listitem: Corporate Sales
+    - listitem: UA Newsroom
+    - listitem: Do Not Sell My Personal Information
+    - listitem: Innovation Idea House
+  - text: UA Social
+  - list:
+    - listitem:
+      - img "Instagram"
+      - text: Instagram
+    - listitem:
+      - img "Facebook"
+      - text: Facebook
+    - listitem:
+      - img "Twitter"
+      - text: Twitter
+    - listitem:
+      - img "YouTube"
+      - text: Youtube
+  - text: 2023 Under Armour, Inc. Privacy Policy / Terms of Use /
+  - complementary:
+    - link "Cookie Preferences"
+- dialog:
+  - document:
+    - button
+    - form:
+      - textbox
+      - button "Sign Up"
+      - paragraph: Terms of Use Privacy Policy
+      - button "Continue Shopping"
+- text: Learn about your data rights Click here
+- button
+- button "Feedback"
+- dialog:
+  - button "Close":
+    - img "Close"

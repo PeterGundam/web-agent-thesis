@@ -1,0 +1,1455 @@
+- paragraph: We use cookies to give you the best possible experience. By using our website you agree to our use of cookies .
+- list:
+  - listitem: Home
+  - listitem: Contact us
+  - listitem: Help
+- text: Free delivery worldwide
+- list:
+  - listitem: Order Status
+  - listitem: Wishlist
+  - listitem: My Account
+  - listitem: Sign out
+- banner:
+  - button "Bookdepository.com 0 0":
+    - heading "Bookdepository.com" [level=1]:
+      - img "Bookdepository.com"
+    - text: 0 0
+    - textbox "Search for books by keyword / title / author / ISBN"
+  - button "Search"
+  - text: Advanced Search
+- text: Free delivery worldwide Free delivery worldwide
+- list:
+  - listitem:
+    - text: Shop by category Categories Children's Age Ranges
+    - list:
+      - listitem:
+        - list:
+          - list:
+            - listitem: Art & Photography
+            - listitem: Biography
+            - listitem: Children's Books
+            - listitem: Crafts & Hobbies
+            - listitem: Crime & Thriller
+            - listitem: Fiction
+            - listitem: Food & Drink
+            - listitem: Graphic Novels, Anime & Manga
+            - listitem: History & Archaeology
+            - listitem: Mind, Body & Spirit
+            - listitem: Science Fiction, Fantasy & Horror
+        - list:
+          - list:
+            - listitem: Audio Books
+            - listitem: Business, Finance & Law
+            - listitem: Computing
+            - listitem: Dictionaries & Languages
+            - listitem: Entertainment
+            - listitem: Health
+            - listitem: Home & Garden
+            - listitem: Humour
+            - listitem: Medical
+            - listitem: Natural History
+            - listitem: Personal Development
+            - listitem: Poetry & Drama
+            - listitem: Reference
+            - listitem: Religion
+            - listitem: Romance
+            - listitem: Science & Geography
+            - listitem: Society & Social Sciences
+            - listitem: Sport
+            - listitem: Stationery
+            - listitem: Teaching Resources & Education
+            - listitem: Technology & Engineering
+            - listitem: Teen & Young Adult
+            - listitem: Transport
+            - listitem: Travel & Holiday Guides
+        - list:
+          - listitem: J. K. Rowling Roald Dahl Julia Donaldson Stephen King David Walliams Dr. Seuss Andy Griffiths James Patterson Sarah J. Maas Enid Blyton John Green Brandon Sanderson See all Harry Potter Game Of Thrones Lego Divergent Throne Of Glass Star Wars Books in Spanish Books in Polish Books in German Books in French Languages Bookshop
+      - listitem: Browse All
+      - listitem:
+        - list:
+          - listitem: Ages 0-2
+          - listitem: Ages 3-5
+          - listitem: Ages 6-8
+          - listitem: Ages 9-11
+          - listitem: Teen & Young Adult
+  - listitem: Bestsellers
+  - listitem: Coming Soon
+  - listitem: New Releases
+  - listitem:
+    - text: English
+    - list:
+      - listitem:
+        - list:
+          - listitem: English
+          - listitem: Spanish (Espaol)
+    - combobox:
+      - option [selected]
+      - option
+- text: English
+- list:
+  - listitem:
+    - list:
+      - listitem: English
+      - listitem: Spanish (Espaol)
+- combobox:
+  - option [selected]
+  - option
+- combobox:
+  - option [selected]
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+- text: US$0.00 0
+- img "For all your tech and computing needs"
+- text: For all your tech and computing needs
+- img "The bestselling debut of 2023"
+- text: The bestselling debut of 2023
+- img "New editions of your favourite Sarah J Maas books"
+- text: New editions of your favourite Sarah J Maas books
+- heading "Best Ever Book Lists" [level=2]
+- text: LGBTQIA Best Books Ever Best Cookbooks Ever Best Crime & Thriller Books Best Romance Books Best YA Books Best Bedtime Reading Books Best Autobiographies Best History Books Best Graphic Novels Classic Fantasy Books Best Fairytales and Folktales show more
+- heading "Popular Pages" [level=2]
+- text: Ask the Author Star Wars Literary Prizes New Releases Books by Language Textbooks Harry Potter Book Series Game of Thrones Book Club Classics Books on Screen Fantasy Books Business Books War History Books show more
+- img "Check Out Our New Blog"
+- text: Check Out Our Blog
+- img "Welcome!"
+- text: Visit our Manga Store today!
+- heading "Books by Language" [level=2]
+- img "Bestsellers by Language"
+- text: Books in Spanish Books in German Books in French Books in Polish Books in Italian Books in Finnish show more
+- img "Image of Learn in diversity books"
+- heading "Watch people shop" [level=2]
+- text: Big view
+- paragraph: Someone in Norway bought
+- paragraph: The Green and Salmon Colored Roses of 1933
+- paragraph: with free delivery
+- heading "Our top 25 searched for books" [level=2]
+- img "Harry Potter and the Cursed Child - Parts I & II"
+- text: 14% off
+- button "Quick View"
+- heading "Harry Potter and the Cursed Child - Parts I & II" [level=3]
+- paragraph: J. K. Rowling
+- paragraph: US$20.67 US$24.11
+- paragraph: Save US$3.44
+- button "Add to basket"
+- img "Daisy Jones and The Six"
+- button "Quick View"
+- heading "Daisy Jones and The Six" [level=3]
+- paragraph: Taylor Jenkins Reid
+- paragraph: US$13.21
+- button "Add to basket"
+- 'img "It Ends With Us: The most heartbreaking novel you''ll ever read"'
+- button "Quick View"
+- 'heading "It Ends With Us: The most heartbreaking novel you''ll ever read" [level=3]'
+- paragraph: Colleen Hoover
+- paragraph: US$11.20
+- button "Add to basket"
+- img "The Original Rider Waite Tarot Deck"
+- text: 26% off
+- button "Quick View"
+- heading "The Original Rider Waite Tarot Deck" [level=3]
+- paragraph: A.E. Waite
+- paragraph: US$16.03 US$21.69
+- paragraph: Save US$5.66
+- button "Add to basket"
+- img "Heaven Official's Blessing"
+- text: 6% off
+- button "Quick View"
+- heading "Heaven Official's Blessing" [level=3]
+- paragraph: Mo Xiang Tong Xiu
+- paragraph: US$18.73 US$19.99
+- paragraph: Save US$1.26
+- button "Add to basket"
+- img "Chainsaw Man, Vol. 1"
+- button "Quick View"
+- heading "Chainsaw Man, Vol. 1" [level=3]
+- paragraph: Tatsuki Fujimoto
+- paragraph: US$11.21
+- button "Add to basket"
+- img "Tomorrow, and Tomorrow, and Tomorrow"
+- button "Quick View"
+- heading "Tomorrow, and Tomorrow, and Tomorrow" [level=3]
+- paragraph: Gabrielle Zevin
+- paragraph: US$22.42
+- button "Add to basket"
+- 'img "Harry Potter Box Set: The Complete Collection (Children''s Paperback)"'
+- text: 67% off
+- button "Quick View"
+- 'heading "Harry Potter Box Set: The Complete Collection (Children''s Paperback)" [level=3]'
+- paragraph: J. K. Rowling
+- paragraph: US$83.30 US$259.95
+- paragraph: Save US$176.65
+- button "Add to basket"
+- img "A Court of Thorns and Roses"
+- button "Quick View"
+- heading "A Court of Thorns and Roses" [level=3]
+- paragraph: Sarah J. Maas
+- paragraph: US$12.45
+- button "Add to basket"
+- img "Throne of Glass"
+- button "Quick View"
+- heading "Throne of Glass" [level=3]
+- paragraph: Sarah J. Maas
+- paragraph: US$12.37
+- button "Add to basket"
+- img "Vagabond (VIZBIG Edition), Vol. 1"
+- button "Quick View"
+- heading "Vagabond (VIZBIG Edition), Vol. 1" [level=3]
+- paragraph: Takehiko Inoue
+- paragraph: US$26.64
+- button "Add to basket"
+- img "Once Upon A Broken Heart"
+- button "Quick View"
+- heading "Once Upon A Broken Heart" [level=3]
+- paragraph: Stephanie Garber
+- paragraph: US$10.68 US$10.84
+- paragraph: Save US$0.16
+- button "Add to basket"
+- img "Throne of Glass"
+- button "Quick View"
+- heading "Throne of Glass" [level=3]
+- paragraph: Sarah J. Maas
+- paragraph: US$12.37
+- button "Add to basket"
+- img "The Secret History"
+- button "Quick View"
+- heading "The Secret History" [level=3]
+- paragraph: Donna Tartt
+- paragraph: US$14.50
+- button "Add to basket"
+- img "The Hobbit and the Lord of the Rings"
+- text: 20% off
+- button "Quick View"
+- heading "The Hobbit and the Lord of the Rings" [level=3]
+- paragraph: J. R. R. Tolkien
+- paragraph: US$47.99 US$59.99
+- paragraph: Save US$12.00
+- button "Add to basket"
+- img "Jujutsu Kaisen 0"
+- button "Quick View"
+- heading "Jujutsu Kaisen 0" [level=3]
+- paragraph: Gege Akutami
+- paragraph: US$10.68
+- button "Add to basket"
+- img "Atomic Habits"
+- button "Quick View"
+- heading "Atomic Habits" [level=3]
+- paragraph: James Clear
+- paragraph: US$20.81 US$21.69
+- paragraph: Save US$0.88
+- button "Add to basket"
+- img "The Song of Achilles"
+- button "Quick View"
+- heading "The Song of Achilles" [level=3]
+- paragraph: Madeline Miller
+- paragraph: US$12.80
+- button "Add to basket"
+- img "The Alloy of Law"
+- text: 27% off
+- button "Quick View"
+- heading "The Alloy of Law" [level=3]
+- paragraph: Brandon Sanderson
+- paragraph: US$14.66 US$20.25
+- paragraph: Save US$5.59
+- button "Add to basket"
+- img "Shatter Me"
+- text: 10% off
+- button "Quick View"
+- heading "Shatter Me" [level=3]
+- paragraph: Tahereh Mafi
+- paragraph: US$10.75 US$11.99
+- paragraph: Save US$1.24
+- button "Add to basket"
+- img "Berserk Deluxe Volume 1"
+- button "Quick View"
+- heading "Berserk Deluxe Volume 1" [level=3]
+- paragraph: Kentaro Miura
+- paragraph: US$49.99
+- button "Add to basket"
+- img "JoJo's Bizarre Adventure"
+- button "Quick View"
+- heading "JoJo's Bizarre Adventure" [level=3]
+- paragraph: Hirohiko Araki
+- paragraph: US$19.99
+- button "Add to basket"
+- img "Solo Leveling, Vol. 1 (manga)"
+- button "Quick View"
+- heading "Solo Leveling, Vol. 1 (manga)" [level=3]
+- paragraph: Chugong
+- paragraph: US$19.81 US$20.00
+- paragraph: Save US$0.19
+- button "Add to basket"
+- 'img "Lockwood & Co: The Hollow Boy"'
+- button "Quick View"
+- 'heading "Lockwood & Co: The Hollow Boy" [level=3]'
+- paragraph: Jonathan Stroud
+- paragraph: US$11.67
+- button "Add to basket"
+- img "On Writing"
+- text: 53% off
+- button "Quick View"
+- heading "On Writing" [level=3]
+- paragraph: Stephen King
+- paragraph: US$9.12 US$19.75
+- paragraph: Save US$10.63
+- button "Add to basket"
+- heading "Bestselling Books" [level=2]
+- img "Atomic Habits"
+- button "Quick View"
+- heading "Atomic Habits" [level=3]
+- paragraph: James Clear
+- paragraph: US$20.81 US$21.69
+- paragraph: Save US$0.88
+- button "Add to basket"
+- img "Lessons in Chemistry"
+- button "Quick View"
+- heading "Lessons in Chemistry" [level=3]
+- paragraph: Bonnie Garmus
+- paragraph: US$12.95
+- button "Add to basket"
+- img "The Creative Act"
+- text: 11% off
+- button "Quick View"
+- heading "The Creative Act" [level=3]
+- paragraph: Rick Rubin
+- paragraph: US$26.55 US$30.14
+- paragraph: Save US$3.59
+- button "Add to basket"
+- img "Acceptance"
+- text: 24% off
+- button "Quick View"
+- heading "Acceptance" [level=3]
+- paragraph: Padraig O'Morain
+- paragraph: US$18.12 US$23.99
+- paragraph: Save US$5.87
+- button "Add to basket"
+- 'img "Thousand Autumns: Qian Qiu (Novel) Vol. 1"'
+- text: 6% off
+- button "Quick View"
+- 'heading "Thousand Autumns: Qian Qiu (Novel) Vol. 1" [level=3]'
+- paragraph: Meng Xi Shi
+- paragraph: US$18.63 US$19.99
+- paragraph: Save US$1.36
+- button "Add to basket"
+- img "The Letters I Will Never Send"
+- button "Quick View"
+- heading "The Letters I Will Never Send" [level=3]
+- paragraph: Isabella Dorta
+- paragraph: US$32.86
+- button "Add to basket"
+- img "Seven Husbands of Evelyn Hugo"
+- button "Quick View"
+- heading "Seven Husbands of Evelyn Hugo" [level=3]
+- paragraph: Taylor Jenkins Reid
+- paragraph: US$11.29
+- button "Add to basket"
+- img "Things We Hide From The Light"
+- button "Quick View"
+- heading "Things We Hide From The Light" [level=3]
+- paragraph: Lucy Score
+- paragraph: US$11.57
+- button "Add to basket"
+- img "The Body Keeps the Score"
+- button "Quick View"
+- heading "The Body Keeps the Score" [level=3]
+- paragraph: Bessel van der Kolk
+- paragraph: US$16.64
+- button "Add to basket"
+- img "I'm a Fan"
+- button "Quick View"
+- heading "I'm a Fan" [level=3]
+- paragraph: Sheena Patel
+- paragraph: US$15.44
+- button "Add to basket"
+- 'img "It Ends With Us: The most heartbreaking novel you''ll ever read"'
+- button "Quick View"
+- 'heading "It Ends With Us: The most heartbreaking novel you''ll ever read" [level=3]'
+- paragraph: Colleen Hoover
+- paragraph: US$11.20
+- button "Add to basket"
+- img "Before the Coffee Gets Cold"
+- button "Quick View"
+- heading "Before the Coffee Gets Cold" [level=3]
+- paragraph: Toshikazu Kawaguchi
+- paragraph: US$12.24
+- button "Add to basket"
+- img "Foster"
+- button "Quick View"
+- heading "Foster" [level=3]
+- paragraph: Claire Keegan
+- paragraph: US$10.43 US$10.84
+- paragraph: Save US$0.41
+- button "Add to basket"
+- img "Things We Never Got Over"
+- button "Quick View"
+- heading "Things We Never Got Over" [level=3]
+- paragraph: Lucy Score
+- paragraph: US$11.03
+- button "Add to basket"
+- img "The Boy, The Mole, The Fox and The Horse"
+- button "Quick View"
+- heading "The Boy, The Mole, The Fox and The Horse" [level=3]
+- paragraph: Charlie Mackesy
+- paragraph: US$21.15
+- button "Add to basket"
+- img "Daisy Jones and The Six"
+- button "Quick View"
+- heading "Daisy Jones and The Six" [level=3]
+- paragraph: Taylor Jenkins Reid
+- paragraph: US$13.21
+- button "Add to basket"
+- img "Junkers Ju 88 Volume 3"
+- text: 27% off
+- button "Quick View"
+- heading "Junkers Ju 88 Volume 3" [level=3]
+- paragraph: Chris Goss
+- paragraph: US$35.05 US$48.23
+- paragraph: Save US$13.18
+- button "Add to basket"
+- img "The Psychology of Money"
+- text: 8% off
+- button "Quick View"
+- heading "The Psychology of Money" [level=3]
+- paragraph: Morgan Housel
+- paragraph: US$17.43 US$18.99
+- paragraph: Save US$1.56
+- button "Add to basket"
+- img "Berserk Deluxe Volume 13"
+- button "Quick View"
+- heading "Berserk Deluxe Volume 13" [level=3]
+- paragraph: Kentaro Miura
+- paragraph: US$59.20
+- button "Add to basket"
+- img "Icebreaker"
+- button "Quick View"
+- heading "Icebreaker" [level=3]
+- paragraph: Hannah Grace
+- paragraph: US$11.48
+- button "Add to basket"
+- img "Legends & Lattes"
+- button "Quick View"
+- heading "Legends & Lattes" [level=3]
+- paragraph: Travis Baldree
+- paragraph: US$20.55
+- button "Add to basket"
+- heading "Bestselling new releases" [level=2]
+- img "Lessons in Chemistry"
+- button "Quick View"
+- heading "Lessons in Chemistry" [level=3]
+- paragraph: Bonnie Garmus
+- paragraph: US$12.95
+- button "Add to basket"
+- 'img "Thousand Autumns: Qian Qiu (Novel) Vol. 1"'
+- text: 6% off
+- button "Quick View"
+- 'heading "Thousand Autumns: Qian Qiu (Novel) Vol. 1" [level=3]'
+- paragraph: Meng Xi Shi
+- paragraph: US$18.63 US$19.99
+- paragraph: Save US$1.36
+- button "Add to basket"
+- img "Things We Hide From The Light"
+- button "Quick View"
+- heading "Things We Hide From The Light" [level=3]
+- paragraph: Lucy Score
+- paragraph: US$11.57
+- button "Add to basket"
+- img "I'm a Fan"
+- button "Quick View"
+- heading "I'm a Fan" [level=3]
+- paragraph: Sheena Patel
+- paragraph: US$15.44
+- button "Add to basket"
+- 'img "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Manhua) Vol. 1"'
+- text: 13% off
+- button "Quick View"
+- 'heading "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Manhua) Vol. 1" [level=3]'
+- paragraph: Mo Xiang Tong Xiu
+- paragraph: US$17.21 US$19.99
+- paragraph: Save US$2.78
+- button "Add to basket"
+- img "I Don't Need Therapy"
+- button "Quick View"
+- heading "I Don't Need Therapy" [level=3]
+- paragraph: Toni Lodge
+- paragraph: US$28.94
+- button "Add to basket"
+- img "The Parenting Map"
+- text: 16% off
+- button "Quick View"
+- heading "The Parenting Map" [level=3]
+- paragraph: Dr Shefali Tsabary
+- paragraph: US$17.06 US$20.48
+- paragraph: Save US$3.42
+- button "Add to basket"
+- img "Young Forever"
+- text: 17% off
+- button "Quick View"
+- heading "Young Forever" [level=3]
+- paragraph: Mark Hyman
+- paragraph: US$16.81 US$20.48
+- paragraph: Save US$3.67
+- button "Add to basket"
+- img "The Prison Healer"
+- button "Quick View"
+- heading "The Prison Healer" [level=3]
+- paragraph: Lynette Noni
+- paragraph: US$22.76
+- button "Add to basket"
+- img "Cleopatra and Frankenstein"
+- button "Quick View"
+- heading "Cleopatra and Frankenstein" [level=3]
+- paragraph: Coco Mellors
+- paragraph: US$13.75
+- button "Add to basket"
+- img "Strange Sally Diamond"
+- button "Quick View"
+- heading "Strange Sally Diamond" [level=3]
+- paragraph: Liz Nugent
+- paragraph: US$20.19
+- button "Add to basket"
+- img "Old Babes in the Wood"
+- button "Quick View"
+- heading "Old Babes in the Wood" [level=3]
+- paragraph: Margaret Atwood
+- paragraph: US$27.33
+- button "Add to basket"
+- img "Drama Free"
+- text: 17% off
+- button "Quick View"
+- heading "Drama Free" [level=3]
+- paragraph: Nedra Glover Tawwab
+- paragraph: US$14.86 US$18.07
+- paragraph: Save US$3.21
+- button "Add to basket"
+- img "Strong Female Character"
+- text: 16% off
+- button "Quick View"
+- heading "Strong Female Character" [level=3]
+- paragraph: Fern Brady
+- paragraph: US$17.11 US$20.48
+- paragraph: Save US$3.37
+- button "Add to basket"
+- img "Birnam Wood"
+- button "Quick View"
+- heading "Birnam Wood" [level=3]
+- paragraph: Eleanor Catton
+- paragraph: US$22.36
+- button "Add to basket"
+- img "Feminism Against Progress"
+- button "Quick View"
+- heading "Feminism Against Progress" [level=3]
+- paragraph: Mary Harrington
+- paragraph: US$20.08 US$20.48
+- paragraph: Save US$0.40
+- button "Add to basket"
+- img "The Greatness Mindset"
+- text: 18% off
+- button "Quick View"
+- heading "The Greatness Mindset" [level=3]
+- paragraph: Lewis Howes
+- paragraph: US$22.02 US$26.99
+- paragraph: Save US$4.97
+- button "Add to basket"
+- 'img "Star Wars Jedi: Battle Scars"'
+- button "Quick View"
+- 'heading "Star Wars Jedi: Battle Scars" [level=3]'
+- paragraph: Sam Maggs
+- paragraph: US$25.58 US$26.53
+- paragraph: Save US$0.95
+- button "Add to basket"
+- img "Why Women Grow"
+- button "Quick View"
+- heading "Why Women Grow" [level=3]
+- paragraph: Alice Vincent
+- paragraph: US$20.59
+- button "Add to basket"
+- img "Time to Think"
+- button "Quick View"
+- heading "Time to Think" [level=3]
+- paragraph: Hannah Barnes
+- paragraph: US$25.01
+- button "Add to basket"
+- img "A Day of Fallen Night"
+- button "Quick View"
+- heading "A Day of Fallen Night" [level=3]
+- paragraph: Samantha Shannon
+- paragraph: US$29.93
+- button "Add to basket"
+- img "The Adventures of Amina Al-Sirafi"
+- button "Quick View"
+- heading "The Adventures of Amina Al-Sirafi" [level=3]
+- paragraph: Shannon Chakraborty
+- paragraph: US$32.77
+- button "Add to basket"
+- img "The Girl Who Fell Beneath the Sea"
+- text: 6% off
+- button "Quick View"
+- heading "The Girl Who Fell Beneath the Sea" [level=3]
+- paragraph: Axie Oh
+- paragraph: US$10.14 US$10.84
+- paragraph: Save US$0.70
+- button "Add to basket"
+- img "Never Never"
+- button "Quick View"
+- heading "Never Never" [level=3]
+- paragraph: Colleen Hoover
+- paragraph: US$11.78
+- button "Add to basket"
+- 'img "Teen Titans: Robin"'
+- button "Quick View"
+- 'heading "Teen Titans: Robin" [level=3]'
+- paragraph: Kami Garcia
+- paragraph: US$16.99
+- button "Add to basket"
+- img "The Adventures of Amina Al-Sirafi"
+- button "Quick View"
+- heading "The Adventures of Amina Al-Sirafi" [level=3]
+- paragraph: Shannon Chakraborty
+- paragraph: US$23.74
+- button "Add to basket"
+- img "Lead Sister"
+- text: 19% off
+- button "Quick View"
+- heading "Lead Sister" [level=3]
+- paragraph: Lucy O'Brien
+- paragraph: US$21.36 US$26.53
+- paragraph: Save US$5.17
+- button "Add to basket"
+- img "Marshall The Brave Knight"
+- text: 5% off
+- button "Quick View"
+- heading "Marshall The Brave Knight" [level=3]
+- paragraph: Andrea Mizzi
+- paragraph: US$10.34 US$10.99
+- paragraph: Save US$0.65
+- button "Add to basket"
+- 'img "RecipeTin Eats: Dinner"'
+- button "Quick View"
+- 'heading "RecipeTin Eats: Dinner" [level=3]'
+- paragraph: Nagi Maehashi
+- paragraph: US$38.55
+- button "Add to basket"
+- img "Enchantment"
+- button "Quick View"
+- heading "Enchantment" [level=3]
+- paragraph: Katherine May
+- paragraph: US$19.90 US$20.48
+- paragraph: Save US$0.58
+- button "Add to basket"
+- img "Babi Yar"
+- text: 13% off
+- button "Quick View"
+- heading "Babi Yar" [level=3]
+- paragraph: Anatoly Kuznetsov
+- paragraph: US$17.36 US$20.00
+- paragraph: Save US$2.64
+- button "Add to basket"
+- img "World Radio TV Handbook 2023 2023"
+- text: 6% off
+- button "Quick View"
+- heading "World Radio TV Handbook 2023 2023" [level=3]
+- paragraph: Radio Data Center GmbH
+- paragraph: US$44.97 US$48.23
+- paragraph: Save US$3.26
+- button "Add to basket"
+- img "Sasaki and Miyano, Vol. 7"
+- button "Quick View"
+- heading "Sasaki and Miyano, Vol. 7" [level=3]
+- paragraph: Shou Harusono
+- paragraph: US$12.57 US$13.00
+- paragraph: Save US$0.43
+- button "Add to basket"
+- img "Great Books for Children"
+- text: Great Books for Children
+- img "Great Fiction Selection"
+- text: Great Fiction Selection
+- img "Page-turning Crime and Thriller"
+- text: Page-turning Crime and Thriller
+- img "Brilliant Manga and Graphic Novels"
+- text: Brilliant Manga and Graphic Novels Our Bookmarks New Releases Most Popular Authors
+- heading "Bestselling Preorders" [level=2]
+- img "Me vs Brain"
+- button "Quick View"
+- heading "Me vs Brain" [level=3]
+- paragraph: Hayley Morris
+- paragraph: US$22.24 US$22.90
+- paragraph: Save US$0.66
+- button "Add to basket"
+- img "The Glucose Goddess Method"
+- text: 10% off
+- button "Quick View"
+- heading "The Glucose Goddess Method" [level=3]
+- paragraph: Jessie Inchauspe
+- paragraph: US$23.74 US$26.53
+- paragraph: Save US$2.79
+- button "Pre-order"
+- 'img "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Novel) Vol. 5 (Special Edition)"'
+- text: 10% off
+- button "Quick View"
+- 'heading "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Novel) Vol. 5 (Special Edition)" [level=3]'
+- paragraph: Mo Xiang Tong Xiu;
+- paragraph: US$24.16 US$26.99
+- paragraph: Save US$2.83
+- button "Pre-order"
+- img "Outlive"
+- text: 10% off
+- button "Quick View"
+- heading "Outlive" [level=3]
+- paragraph: Peter Attia
+- paragraph: US$23.74 US$26.53
+- paragraph: Save US$2.79
+- button "Pre-order"
+- img "Fungi of Aotearoa"
+- text: 10% off
+- button "Quick View"
+- heading "Fungi of Aotearoa" [level=3]
+- paragraph: Liv Sisson
+- paragraph: US$21.91 US$24.49
+- paragraph: Save US$2.58
+- button "Pre-order"
+- img "Creative Stained Glass"
+- text: 10% off
+- button "Quick View"
+- heading "Creative Stained Glass" [level=3]
+- paragraph: Noor Springael
+- paragraph: US$20.58 US$22.99
+- paragraph: Save US$2.41
+- button "Pre-order"
+- img "Glucose Goddess Method"
+- text: 10% off
+- button "Quick View"
+- heading "Glucose Goddess Method" [level=3]
+- paragraph: Jessie Inchauspe
+- paragraph: US$31.33 US$35.00
+- paragraph: Save US$3.67
+- button "Pre-order"
+- img "How to Paint Without a Brush"
+- text: 10% off
+- button "Quick View"
+- heading "How to Paint Without a Brush" [level=3]
+- paragraph: Red Hong Yi
+- paragraph: US$31.33 US$35.00
+- paragraph: Save US$3.67
+- button "Pre-order"
+- img "Flawless"
+- text: 10% off
+- button "Quick View"
+- heading "Flawless" [level=3]
+- paragraph: Elsie Silver
+- paragraph: US$10.78 US$12.04
+- paragraph: Save US$1.26
+- button "Pre-order"
+- img "Heartless"
+- text: 10% off
+- button "Quick View"
+- heading "Heartless" [level=3]
+- paragraph: Elsie Silver
+- paragraph: US$10.78 US$12.04
+- paragraph: Save US$1.26
+- button "Pre-order"
+- 'img "Elden Ring Official Strategy Guide, Vol. 2 : Shards of the Shattering"'
+- text: 10% off
+- button "Quick View"
+- 'heading "Elden Ring Official Strategy Guide, Vol. 2 : Shards of the Shattering" [level=3]'
+- paragraph: Future Press
+- paragraph: US$43.15 US$48.22
+- paragraph: Save US$5.07
+- button "Pre-order"
+- 'img "Remnants of Filth: Yuwu (Novel) Vol. 1"'
+- text: 10% off
+- button "Quick View"
+- 'heading "Remnants of Filth: Yuwu (Novel) Vol. 1" [level=3]'
+- paragraph: Rou Bao Bu Chi Rou
+- paragraph: US$17.89 US$19.99
+- paragraph: Save US$2.10
+- button "Pre-order"
+- img "Powerless"
+- text: 10% off
+- button "Quick View"
+- heading "Powerless" [level=3]
+- paragraph: Elsie Silver
+- paragraph: US$10.78 US$12.04
+- paragraph: Save US$1.26
+- button "Pre-order"
+- img "Surviving to Drive"
+- text: 10% off
+- button "Quick View"
+- heading "Surviving to Drive" [level=3]
+- paragraph: Guenther Steiner
+- paragraph: US$21.58 US$24.11
+- paragraph: Save US$2.53
+- button "Pre-order"
+- text: Book Club Classics Fiction Stationery Harry Potter
+- heading "Children's Bestselling Books" [level=2]
+- img "Before the Coffee Gets Cold"
+- button "Quick View"
+- heading "Before the Coffee Gets Cold" [level=3]
+- paragraph: Toshikazu Kawaguchi
+- paragraph: US$12.24
+- button "Add to basket"
+- img "The Boy, The Mole, The Fox and The Horse"
+- button "Quick View"
+- heading "The Boy, The Mole, The Fox and The Horse" [level=3]
+- paragraph: Charlie Mackesy
+- paragraph: US$21.15
+- button "Add to basket"
+- img "Once Upon A Broken Heart"
+- button "Quick View"
+- heading "Once Upon A Broken Heart" [level=3]
+- paragraph: Stephanie Garber
+- paragraph: US$10.68 US$10.84
+- paragraph: Save US$0.16
+- button "Add to basket"
+- img "12 Rules for Life"
+- button "Quick View"
+- heading "12 Rules for Life" [level=3]
+- paragraph: Jordan B. Peterson
+- paragraph: US$14.26
+- button "Add to basket"
+- img "The Invisible String"
+- button "Quick View"
+- heading "The Invisible String" [level=3]
+- paragraph: Patrice Karst
+- paragraph: US$9.87
+- button "Add to basket"
+- img "Better Than the Movies"
+- text: 20% off
+- button "Quick View"
+- heading "Better Than the Movies" [level=3]
+- paragraph: Lynn Painter
+- paragraph: US$10.39 US$12.99
+- paragraph: Save US$2.60
+- button "Add to basket"
+- 'img "Six of Crows: Collector''s Edition"'
+- button "Quick View"
+- 'heading "Six of Crows: Collector''s Edition" [level=3]'
+- paragraph: Leigh Bardugo
+- paragraph: US$20.11 US$20.48
+- paragraph: Save US$0.37
+- button "Add to basket"
+- 'img "Harry Potter Box Set: The Complete Collection (Children''s Paperback)"'
+- text: 67% off
+- button "Quick View"
+- 'heading "Harry Potter Box Set: The Complete Collection (Children''s Paperback)" [level=3]'
+- paragraph: J. K. Rowling
+- paragraph: US$83.30 US$259.95
+- paragraph: Save US$176.65
+- button "Add to basket"
+- img "Crooked Kingdom Collector's Edition"
+- button "Quick View"
+- heading "Crooked Kingdom Collector's Edition" [level=3]
+- paragraph: Leigh Bardugo
+- paragraph: US$19.78 US$20.48
+- paragraph: Save US$0.70
+- button "Add to basket"
+- img "A Good Girl's Guide to Murder"
+- button "Quick View"
+- heading "A Good Girl's Guide to Murder" [level=3]
+- paragraph: Holly Jackson
+- paragraph: US$12.12
+- button "Add to basket"
+- img "The Very Hungry Caterpillar"
+- button "Quick View"
+- heading "The Very Hungry Caterpillar" [level=3]
+- paragraph: Eric Carle
+- paragraph: US$10.15
+- button "Add to basket"
+- 'img "If We Were Villains: The Sensational TikTok Book Club pick"'
+- button "Quick View"
+- 'heading "If We Were Villains: The Sensational TikTok Book Club pick" [level=3]'
+- paragraph: M. L. Rio
+- paragraph: US$12.37
+- button "Add to basket"
+- img "The Prison Healer"
+- button "Quick View"
+- heading "The Prison Healer" [level=3]
+- paragraph: Lynette Noni
+- paragraph: US$22.76
+- button "Add to basket"
+- img "Have You Filled A Bucket Today?"
+- button "Quick View"
+- heading "Have You Filled A Bucket Today?" [level=3]
+- paragraph: Carol McCloud
+- paragraph: US$9.95
+- button "Add to basket"
+- img "A Court of Thorns and Roses"
+- button "Quick View"
+- heading "A Court of Thorns and Roses" [level=3]
+- paragraph: Sarah J. Maas
+- paragraph: US$12.45
+- button "Add to basket"
+- img "Where's Spot?"
+- button "Quick View"
+- heading "Where's Spot?" [level=3]
+- paragraph: Eric Hill
+- paragraph: US$10.80
+- button "Add to basket"
+- img "The Girl Who Fell Beneath the Sea"
+- text: 6% off
+- button "Quick View"
+- heading "The Girl Who Fell Beneath the Sea" [level=3]
+- paragraph: Axie Oh
+- paragraph: US$10.14 US$10.84
+- paragraph: Save US$0.70
+- button "Add to basket"
+- img "The Ballad of Never After"
+- text: 7% off
+- button "Quick View"
+- heading "The Ballad of Never After" [level=3]
+- paragraph: Stephanie Garber
+- paragraph: US$19.02 US$20.48
+- paragraph: Save US$1.46
+- button "Add to basket"
+- img "The Final Gambit"
+- button "Quick View"
+- heading "The Final Gambit" [level=3]
+- paragraph: Jennifer Barnes
+- paragraph: US$14.46
+- button "Add to basket"
+- img "The Tiger Who Came to Tea"
+- button "Quick View"
+- heading "The Tiger Who Came to Tea" [level=3]
+- paragraph: Judith Kerr
+- paragraph: US$10.72
+- button "Add to basket"
+- img "Harry Potter and the Philosopher's Stone"
+- text: 28% off
+- button "Quick View"
+- heading "Harry Potter and the Philosopher's Stone" [level=3]
+- paragraph: J. K. Rowling
+- paragraph: US$11.12 US$15.64
+- paragraph: Save US$4.52
+- button "Add to basket"
+- img "Tabby McTat"
+- button "Quick View"
+- heading "Tabby McTat" [level=3]
+- paragraph: Julia Donaldson
+- paragraph: US$10.74
+- button "Add to basket"
+- 'img "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Light Novel) Vol. 2"'
+- button "Quick View"
+- 'heading "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Light Novel) Vol. 2" [level=3]'
+- paragraph: Yomu Mishima
+- paragraph: US$17.35
+- button "Add to basket"
+- img "The Inheritance Games"
+- button "Quick View"
+- heading "The Inheritance Games" [level=3]
+- paragraph: Jennifer Lynn Barnes
+- paragraph: US$11.30
+- button "Add to basket"
+- img "I Wish I Knew"
+- text: 36% off
+- button "Quick View"
+- heading "I Wish I Knew" [level=3]
+- paragraph: Donna Ashworth
+- paragraph: US$10.80 US$16.99
+- paragraph: Save US$6.19
+- button "Add to basket"
+- img "The Seven Moons of Maali Almeida"
+- text: 5% off
+- button "Quick View"
+- heading "The Seven Moons of Maali Almeida" [level=3]
+- paragraph: Shehan Karunatilaka
+- paragraph: US$19.42 US$20.48
+- paragraph: Save US$1.06
+- button "Add to basket"
+- img "House of Earth and Blood"
+- button "Quick View"
+- heading "House of Earth and Blood" [level=3]
+- paragraph: Sarah Maas
+- paragraph: US$30.00
+- button "Add to basket"
+- img "A Court of Mist and Fury"
+- button "Quick View"
+- heading "A Court of Mist and Fury" [level=3]
+- paragraph: Sarah J. Maas
+- paragraph: US$13.72
+- button "Add to basket"
+- img "Giraffes Can't Dance"
+- button "Quick View"
+- heading "Giraffes Can't Dance" [level=3]
+- paragraph: Giles Andreae
+- paragraph: US$13.16
+- button "Add to basket"
+- img "Heir of Fire (Miniature Character Collection)"
+- text: 16% off
+- button "Quick View"
+- heading "Heir of Fire (Miniature Character Collection)" [level=3]
+- paragraph: Sarah J. Maas
+- paragraph: US$12.59 US$14.99
+- paragraph: Save US$2.40
+- button "Add to basket"
+- heading "Bestselling Food and Drink Books" [level=2]
+- img "Totally Kosher"
+- button "Quick View"
+- heading "Totally Kosher" [level=3]
+- paragraph: Chanie Apfelbaum
+- paragraph: US$38.26
+- button "Add to basket"
+- 'img "Bored of Lunch: The Healthy Slow Cooker Book"'
+- button "Quick View"
+- 'heading "Bored of Lunch: The Healthy Slow Cooker Book" [level=3]'
+- paragraph: Nathan Anthony
+- paragraph: US$24.53
+- button "Add to basket"
+- img "Death to Jar Sauce"
+- text: 45% off
+- button "Quick View"
+- heading "Death to Jar Sauce" [level=3]
+- paragraph: Nat's What I Reckon
+- paragraph: US$18.99 US$34.95
+- paragraph: Save US$15.96
+- button "Add to basket"
+- img "Unreasonable Hospitality"
+- button "Quick View"
+- heading "Unreasonable Hospitality" [level=3]
+- paragraph: Will Guidara
+- paragraph: US$29.03
+- button "Add to basket"
+- 'img "RecipeTin Eats: Dinner"'
+- button "Quick View"
+- 'heading "RecipeTin Eats: Dinner" [level=3]'
+- paragraph: Nagi Maehashi
+- paragraph: US$38.55
+- button "Add to basket"
+- 'img "Bored of Lunch: The Healthy Air Fryer Book"'
+- button "Quick View"
+- 'heading "Bored of Lunch: The Healthy Air Fryer Book" [level=3]'
+- paragraph: Nathan Anthony
+- paragraph: US$24.51
+- button "Add to basket"
+- img "Of Cabbages and Kimchi"
+- button "Quick View"
+- heading "Of Cabbages and Kimchi" [level=3]
+- paragraph: James Read
+- paragraph: US$26.11 US$26.53
+- paragraph: Save US$0.42
+- button "Add to basket"
+- img "How to make the best coffee at home"
+- text: 7% off
+- button "Quick View"
+- heading "How to make the best coffee at home" [level=3]
+- paragraph: James Hoffmann
+- paragraph: US$18.55 US$19.99
+- paragraph: Save US$1.44
+- button "Add to basket"
+- img "Ottolenghi SIMPLE"
+- button "Quick View"
+- heading "Ottolenghi SIMPLE" [level=3]
+- paragraph: Yotam Ottolenghi
+- paragraph: US$39.69
+- button "Add to basket"
+- img "Medical Medium Liver Rescue"
+- text: 19% off
+- button "Quick View"
+- heading "Medical Medium Liver Rescue" [level=3]
+- paragraph: Anthony William
+- paragraph: US$32.36 US$39.99
+- paragraph: Save US$7.63
+- button "Add to basket"
+- img "Food for Life"
+- text: 30% off
+- button "Quick View"
+- heading "Food for Life" [level=3]
+- paragraph: Tim Spector
+- paragraph: US$27.98 US$39.99
+- paragraph: Save US$12.01
+- button "Add to basket"
+- img "Romaine Wasn't Built in a Day"
+- text: 22% off
+- button "Quick View"
+- heading "Romaine Wasn't Built in a Day" [level=3]
+- paragraph: Judith Tschann
+- paragraph: US$17.72 US$22.90
+- paragraph: Save US$5.18
+- button "Add to basket"
+- img "Sabai"
+- button "Quick View"
+- heading "Sabai" [level=3]
+- paragraph: Pailin Chongchitnant
+- paragraph: US$38.40
+- button "Add to basket"
+- img "PlantYou"
+- text: 14% off
+- button "Quick View"
+- heading "PlantYou" [level=3]
+- paragraph: Carleigh Bodrug
+- paragraph: US$25.52 US$30.00
+- paragraph: Save US$4.48
+- button "Add to basket"
+- img "Taste"
+- button "Quick View"
+- heading "Taste" [level=3]
+- paragraph: Stanley Tucci
+- paragraph: US$12.95
+- button "Add to basket"
+- img "BAO"
+- text: 20% off
+- button "Quick View"
+- heading "BAO" [level=3]
+- paragraph: Erchen Chang
+- paragraph: US$31.82 US$39.95
+- paragraph: Save US$8.13
+- button "Add to basket"
+- img "The Proof is in the Plants"
+- text: 40% off
+- button "Quick View"
+- heading "The Proof is in the Plants" [level=3]
+- paragraph: Simon Hill
+- paragraph: US$20.66 US$34.99
+- paragraph: Save US$14.33
+- button "Add to basket"
+- img "Lune"
+- button "Quick View"
+- heading "Lune" [level=3]
+- paragraph: Kate Reid
+- paragraph: US$40.58
+- button "Add to basket"
+- img "The Glucose Goddess Method"
+- text: 10% off
+- button "Quick View"
+- heading "The Glucose Goddess Method" [level=3]
+- paragraph: Jessie Inchauspe
+- paragraph: US$21.91 US$24.49
+- paragraph: Save US$2.58
+- button "Pre-order"
+- img "The Noma Guide to Fermentation (Foundations of Flavor)"
+- text: 32% off
+- button "Quick View"
+- heading "The Noma Guide to Fermentation (Foundations of Flavor)" [level=3]
+- paragraph: Rene Redzepi
+- paragraph: US$27.19 US$40.00
+- paragraph: Save US$12.81
+- button "Add to basket"
+- heading "Bestsellers in Spanish" [level=2]
+- img "Colega"
+- text: 73% off
+- button "Quick View"
+- heading "Colega" [level=3]
+- paragraph: Elena G. Gonzlez
+- paragraph: US$48.53 US$180.77
+- paragraph: Save US$132.24
+- button "Add to basket"
+- 'img "Triloga Nacidos de la Bruma [Mistborn] (pack con: El imperio final | El pozo de la Ascensin | El hroe de las Eras)"'
+- text: 11% off
+- button "Quick View"
+- 'heading "Triloga Nacidos de la Bruma [Mistborn] (pack con: El imperio final | El pozo de la Ascensin | El hroe de las Eras)" [level=3]'
+- paragraph: Brandon Sanderson
+- paragraph: US$51.33 US$58.28
+- paragraph: Save US$6.95
+- button "Add to basket"
+- img "Reina de sombras"
+- button "Quick View"
+- heading "Reina de sombras" [level=3]
+- paragraph: MAAS, SARAH J.
+- paragraph: US$21.72
+- button "Add to basket"
+- img "Como Hacer Que Te Pasen Cosas Buenas"
+- button "Quick View"
+- heading "Como Hacer Que Te Pasen Cosas Buenas" [level=3]
+- paragraph: Marian Rojas
+- paragraph: US$18.95
+- button "Add to basket"
+- img "LOS ANGELES DEL AMOR"
+- text: 14% off
+- button "Quick View"
+- heading "LOS ANGELES DEL AMOR" [level=3]
+- paragraph: Virtue Doreen
+- paragraph: US$28.45 US$33.26
+- paragraph: Save US$4.81
+- button "Add to basket"
+- img "Mundo Invisible"
+- button "Quick View"
+- heading "Mundo Invisible" [level=3]
+- paragraph: Marcela del Carmen Rioseco
+- paragraph: US$11.22
+- button "Add to basket"
+- img "Un inmueble al ao no hace dao"
+- button "Quick View"
+- heading "Un inmueble al ao no hace dao" [level=3]
+- paragraph: Carlos Devis
+- paragraph: US$28.16
+- button "Add to basket"
+- img "Los Cuatro Acuerdos"
+- text: 39% off
+- button "Quick View"
+- heading "Los Cuatro Acuerdos" [level=3]
+- paragraph: Miguel Ruiz
+- paragraph: US$16.28 US$27.00
+- paragraph: Save US$10.72
+- button "Add to basket"
+- img "GRANDMASTER OF DEMONIC CULTIVATION 02 (MO DAO ZU SHI)."
+- button "Quick View"
+- heading "GRANDMASTER OF DEMONIC CULTIVATION 02 (MO DAO ZU SHI)." [level=3]
+- paragraph: MO XIANG TONG XIU
+- paragraph: US$26.39
+- button "Add to basket"
+- img "Conan de Cimmeria n 02/03 1934"
+- button "Quick View"
+- heading "Conan de Cimmeria n 02/03 1934" [level=3]
+- paragraph: US$89.19
+- button "Add to basket"
+- img "Novela Secreta 2"
+- text: 10% off
+- button "Quick View"
+- heading "Novela Secreta 2" [level=3]
+- paragraph: Brandon Sanderson
+- paragraph: US$24.49 US$27.36
+- paragraph: Save US$2.87
+- button "Pre-order"
+- img "Aliens La Etapa Original 1"
+- text: 19% off
+- button "Quick View"
+- heading "Aliens La Etapa Original 1" [level=3]
+- paragraph: AA.VV
+- paragraph: US$84.19 US$104.50
+- paragraph: Save US$20.31
+- button "Add to basket"
+- img "CHAINSAW MAN 12"
+- button "Quick View"
+- heading "CHAINSAW MAN 12" [level=3]
+- paragraph: Tatsuki Fujimoto
+- paragraph: US$15.69
+- button "Add to basket"
+- img "El tarot de las Musas"
+- text: 6% off
+- button "Quick View"
+- heading "El tarot de las Musas" [level=3]
+- paragraph: Chris-Anne
+- paragraph: US$29.08 US$31.21
+- paragraph: Save US$2.13
+- button "Add to basket"
+- img "Neuroarquitectura. Aprendiendo a travs del espacio"
+- button "Quick View"
+- heading "Neuroarquitectura. Aprendiendo a travs del espacio" [level=3]
+- paragraph: Ana Mombiedro
+- paragraph: US$36.32
+- button "Add to basket"
+- img "La psicologa del dinero. Cmo piensan los ricos"
+- button "Quick View"
+- heading "La psicologa del dinero. Cmo piensan los ricos" [level=3]
+- paragraph: Morgan Housel
+- paragraph: US$17.89
+- button "Add to basket"
+- img "Mujer, conoce tu valor y vive con proposito"
+- button "Quick View"
+- heading "Mujer, conoce tu valor y vive con proposito" [level=3]
+- paragraph: Lis Milland
+- paragraph: US$15.00
+- button "Add to basket"
+- img "Diabetes sin problemas. El control de la diabetes con la ayuda del poder del metabolismo"
+- button "Quick View"
+- heading "Diabetes sin problemas. El control de la diabetes con la ayuda del poder del metabolismo" [level=3]
+- paragraph: Frank Surez
+- paragraph: US$30.07
+- button "Add to basket"
+- img "Del Dialogo Interno al Dialogo con el Alma"
+- button "Quick View"
+- heading "Del Dialogo Interno al Dialogo con el Alma" [level=3]
+- paragraph: Russell Bishop
+- paragraph: US$21.21
+- button "Add to basket"
+- img "Bestsellers by Language"
+- text: Books in French Books in German Books in Polish Books in Italian Books in Finnish Books in Spanish
+- paragraph: Welcome to Book Depository! We have more than 20 million titles and free delivery worldwide to over 170 countries . We also really, really love books.
+- paragraph: "Looking for your new favourite book? Browse some of our top categories such as Children's Books , Fiction , Graphic Novels, Anime & Manga , Food & Drink books , Crafts & Hobbies , Art & Photography , Biography , and Crime & Thriller . Our editors have created lovely features for you to explore: Adult colouring books , Harry Potter , Roald Dahl , Books on screen , Man Booker Prize winners , LEGO , Minecraft and more."
+- img "Sign up"
+- paragraph: Learn about new offers and get more deals by joining our newsletter
+- textbox "Email address"
+- button "Sign up now"
+- heading "Follow us" [level=4]
+- list:
+  - listitem
+  - listitem
+  - listitem
+  - listitem
+- contentinfo:
+  - heading "Explore" [level=4]
+  - list:
+    - listitem: About us
+    - listitem: Sitemap
+    - listitem: Bookmarks
+    - listitem: Book Blog
+    - listitem: Sign out
+  - heading "How can we help?" [level=4]
+  - list:
+    - listitem: Help
+    - listitem: Contact us
+    - listitem: Where's my stuff?
+    - listitem: Where do you deliver?
+    - listitem: Cancel my order
+    - listitem: Return my order
+  - heading "Join us" [level=4]
+  - list:
+    - listitem: Affiliates
+    - listitem: Jobs
+  - heading "Important stuff" [level=4]
+  - list:
+    - listitem: Complaints
+    - listitem: Cookies
+    - listitem: Privacy policy
+    - listitem: Terms & Conditions
+    - listitem: UK Modern Slavery Statement
+  - list:
+    - listitem: Sign out
+    - listitem: Order Status
+    - listitem: Contact us
+    - listitem: Help
+    - listitem: About us
+    - listitem: Terms & Conditions
+    - listitem: Privacy policy
+    - listitem: Cookies
+    - listitem: UK Modern Slavery Statement
+  - paragraph: We accept these payment methods
+  - img "Payment methods"
+  - text: "2023 The Book Depository Ltd.UK. Registered company number: 5124926"
+- button "Shop"
+- button "Account & Help"
+- list:
+  - listitem: Browse All
+  - listitem:
+    - list:
+      - listitem: Art & Photography
+      - listitem: Audio Books
+      - listitem: Biography
+      - listitem: Business, Finance & Law
+      - listitem: Children's Books
+      - listitem: Computing
+      - listitem: Crafts & Hobbies
+      - listitem: Crime & Thriller
+      - listitem: Dictionaries & Languages
+      - listitem: Entertainment
+      - listitem: Fiction
+      - listitem: Food & Drink
+      - listitem: Graphic Novels, Anime & Manga
+      - listitem: Health
+      - listitem: History & Archaeology
+      - listitem: Home & Garden
+      - listitem: Humour
+      - listitem: Medical
+      - listitem: Mind, Body & Spirit
+      - listitem: Natural History
+      - listitem: Personal Development
+      - listitem: Poetry & Drama
+      - listitem: Reference
+      - listitem: Religion
+      - listitem: Romance
+      - listitem: Science & Geography
+      - listitem: Science Fiction, Fantasy & Horror
+      - listitem: Society & Social Sciences
+      - listitem: Sport
+      - listitem: Stationery
+      - listitem: Teaching Resources & Education
+      - listitem: Technology & Engineering
+      - listitem: Teen & Young Adult
+      - listitem: Transport
+      - listitem: Travel & Holiday Guides
+  - listitem:
+    - list:
+      - listitem: Ages 0-2
+      - listitem: Ages 3-5
+      - listitem: Ages 6-8
+      - listitem: Ages 9-11
+      - listitem: Teen & Young Adult
+  - listitem: J. K. Rowling Roald Dahl Julia Donaldson Stephen King David Walliams Dr. Seuss Andy Griffiths James Patterson Sarah J. Maas Enid Blyton John Green Brandon Sanderson See all Harry Potter Game Of Thrones Lego Divergent Throne Of Glass Star Wars Books in Spanish Books in Polish Books in German Books in French Languages Bookshop
+- list:
+  - listitem: Home
+  - listitem: Contact us
+  - listitem: Help
+- list:
+  - listitem: Shop by category Categories Children's Age Ranges Top Authors Bestselling Series Books By Language
+  - listitem: Bestsellers
+  - listitem: Coming Soon
+  - listitem: New Releases
+  - listitem:
+    - text: English
+    - list:
+      - listitem:
+        - list:
+          - listitem: English
+          - listitem: Spanish (Espaol)
+    - combobox:
+      - option [selected]
+      - option
+- list:
+  - listitem: Order Status
+  - listitem: Wishlist
+  - listitem: My Account
+  - listitem: Sign out
+- combobox:
+  - option [selected]
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+  - option
+- iframe: <div backend_node_id="17996" bounding_box_rect="0,0,113,0"> <div backend_node_id="17997" bounding_box_rect="0,0,113,0"> <div backend_node_id="17998" bounding_box_rect="0,0,113,0" id="Embed"> <div backend_node_id="18005" bounding_box_rect="0,0,113,45.953125"> <div backend_node_id="18006" bounding_box_rect="0,0,113,45.953125"> <button backend_node_id="18007" bounding_box_rect="0,0,113,45.953125" aria_label="Help" class="wrapper-3hgZT u-isActionable u-textLeft u-inlineBlock u-borderNone u-textBold u-textNoWrap Arrange Arrange--middle u-userLauncherColor "> <span backend_node_id="18008" bounding_box_rect="22,12.984375,27.984375,19.984375" class="container-2zrgf u-userColor icon-3CF6U Icon-1QudM Arrange-sizeFit u-textInheritColor u-inlineBlock Icon" type="Icon"/> <span backend_node_id="18014" bounding_box_rect="49.984375,13.984375,41.015625,18" class="label-6AYOW Arrange-sizeFit u-textInheritColor u-inlineBlock "> <text backend_node_id="18015" bounding_box_rect="49.984375,13.984375,41.015625,18">Help</text> </span> </button> </div> </div> </div> </div> </div>

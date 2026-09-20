@@ -1,0 +1,21 @@
+{
+  "task": "mind2web-element-identification",
+  "source": "Shopping/bookdepository",
+  "domain": "Shopping",
+  "website": "bookdepository",
+  "confirmed_task": "Find a book in Hindi with ISBN 1648926800.",
+  "target_role": "link",
+  "target_operation": "CLICK",
+  "questions": [
+    {
+      "id": "element",
+      "question": "You are a web agent. Task: \"Find a book in Hindi with ISBN 1648926800.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Advanced Search"
+    },
+    {
+      "id": "actiontype",
+      "question": "You are a web agent. Task: \"Find a book in Hindi with ISBN 1648926800.\". You have identified the target element: \"Advanced Search\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK"
+    }
+  ]
+}

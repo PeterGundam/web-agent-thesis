@@ -1,0 +1,21 @@
+{
+  "task": "mind2web-element-identification",
+  "source": "Shopping/cabelas",
+  "domain": "Shopping",
+  "website": "cabelas",
+  "confirmed_task": "Add a dome tent to my shopping cart.",
+  "target_role": "link",
+  "target_operation": "CLICK",
+  "questions": [
+    {
+      "id": "element",
+      "question": "You are a web agent. Task: \"Add a dome tent to my shopping cart.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Camping"
+    },
+    {
+      "id": "actiontype",
+      "question": "You are a web agent. Task: \"Add a dome tent to my shopping cart.\". You have identified the target element: \"Camping\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/01_shopping_underarmour",
+    "folderName": "01_shopping_underarmour"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/02_shopping_tesla",
+    "folderName": "02_shopping_tesla"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/03_shopping_rei",
+    "folderName": "03_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/04_shopping_ikea",
+    "folderName": "04_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/05_shopping_gamestop",
+    "folderName": "05_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/06_shopping_menards",
+    "folderName": "06_shopping_menards"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/07_shopping_rei",
+    "folderName": "07_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/08_shopping_underarmour",
+    "folderName": "08_shopping_underarmour"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/09_shopping_cargurus",
+    "folderName": "09_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/10_shopping_menards",
+    "folderName": "10_shopping_menards"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/11_shopping_ikea",
+    "folderName": "11_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/12_shopping_gamestop",
+    "folderName": "12_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/13_shopping_underarmour",
+    "folderName": "13_shopping_underarmour"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/14_shopping_cabelas",
+    "folderName": "14_shopping_cabelas"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/15_shopping_bookdepository",
+    "folderName": "15_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/16_shopping_ikea",
+    "folderName": "16_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/17_shopping_cargurus",
+    "folderName": "17_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/18_shopping_uniqlo",
+    "folderName": "18_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/19_shopping_underarmour",
+    "folderName": "19_shopping_underarmour"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/20_shopping_bookdepository",
+    "folderName": "20_shopping_bookdepository"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "task": "mind2web-element-identification",
+  "source": "Shopping/ikea",
+  "domain": "Shopping",
+  "website": "ikea",
+  "confirmed_task": "Add decorative LED Candles to the cart.",
+  "target_role": "link",
+  "target_operation": "CLICK",
+  "questions": [
+    {
+      "id": "element",
+      "question": "You are a web agent. Task: \"Add decorative LED Candles to the cart.\". Which element should be clicked to make progress on this task? Answer with ONLY the visible text/label of that element, nothing else.",
+      "expectedAnswer": "Products"
+    },
+    {
+      "id": "actiontype",
+      "question": "You are a web agent. Task: \"Add decorative LED Candles to the cart.\". You have identified the target element: \"Products\". Which type of interaction should be performed on it? Answer with ONLY one word: CLICK, TYPE, SELECT, or HOVER.",
+      "expectedAnswer": "CLICK"
+    }
+  ]
+}

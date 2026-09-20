@@ -1,0 +1,10 @@
+{
+  "task": "structure-lookup",
+  "structureType": "table",
+  "numRows": 195,
+  "seed": 42,
+  "targetCountry": "Cyprus",
+  "targetPopulation": 121096257,
+  "targetRowId": "row-7",
+  "question": "What is the population of Cyprus?"
+}

@@ -1,0 +1,468 @@
+- banner:
+  - navigation:
+    - img "UNIQLO home"
+    - text: Women Men Kids Baby
+  - navigation:
+    - button "Search"
+    - text: Wishlist Cart
+    - button "Menu"
+- tablist:
+  - tab "TOP"
+  - tab "WOMEN"
+  - tab "MEN"
+  - tab "KIDS"
+  - tab "BABY"
+- list:
+  - listitem:
+    - status:
+      - link "Donate to help provide assistance to families affected by the earthquakes in Turkey and Syria."
+    - button
+- img "Men's U AIRism Oversized T-Shirts"
+- img "Uniqlo U"
+- img "AIRism"
+- heading "Men's U AIRism OversizedT-Shirts" [level=2]
+- text: A classic T-shirt with AIRism functionality and new seasonal colors.
+- paragraph: $19.90
+- img "Welcome Spring in Top-Selling T-Shirts"
+- text: King of Prussia Grand Opening Deal
+- heading "Welcome a Colorful Spring with Our Top-Selling Styles" [level=2]
+- text: Mini Short-Sleeve T-Shirts
+- paragraph: $9.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- img "Dry Pique Short-Sleeve Polo Shirts"
+- text: King of Prussia Grand Opening Deal
+- heading "Dry Pique Short-Sleeve Polo Shirts" [level=2]
+- text: Get limited-time deals on timeless polos perfect for everyday wear.
+- paragraph: $19.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- img "Round Mini Shoulder Bags"
+- text: King of Prussia Grand Opening Deal
+- heading "Round Mini Shoulder Bags" [level=2]
+- text: This on-trend bag brings viral style to any look.
+- paragraph: $14.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- img "Men's U AIRism Oversized T-Shirts"
+- img "Uniqlo U"
+- img "AIRism"
+- heading "Men's U AIRism OversizedT-Shirts" [level=2]
+- text: A classic T-shirt with AIRism functionality and new seasonal colors.
+- paragraph: $19.90
+- img "Welcome Spring in Top-Selling T-Shirts"
+- text: King of Prussia Grand Opening Deal
+- heading "Welcome a Colorful Spring with Our Top-Selling Styles" [level=2]
+- text: Mini Short-Sleeve T-Shirts
+- paragraph: $9.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- button
+- button
+- button:
+  - button:
+    - button:
+      - button
+- button
+- img "Men's AirSense Jackets and Pants"
+- paragraph: Adam Scott
+- heading "Men's AirSense Jackets and Pants" [level=2]
+- heading "High-performance fabric that's lightweight, stretchy, and quick-drying." [level=5]
+- text: VIEW MORE
+- img "Versatile Spring Style for Every Day"
+- text: King of Prussia Grand Opening Deal
+- heading "Versatile Spring Style for Every Day" [level=2]
+- text: Smart Ankle Pants (2-Way Stretch)
+- paragraph: $39.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- img "Super Non-Iron Slim-Fit Long-Sleeve Shirts"
+- text: King of Prussia Grand Opening Deal
+- heading "Super Non-Iron Slim-Fit Long-Sleeve Shirts" [level=2]
+- text: Wrinkle-resistant fabric keeps you polished without ironing.
+- paragraph: $29.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- img "Rayon Long-Sleeve Blouses"
+- text: King of Prussia Grand Opening Deal
+- heading "Rayon Long-Sleeve Blouses" [level=2]
+- text: Elegant, wrinkle-resistant,and easy to care for.
+- paragraph: $29.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- img "Men's AirSense Jackets and Pants"
+- paragraph: Adam Scott
+- heading "Men's AirSense Jackets and Pants" [level=2]
+- heading "High-performance fabric that's lightweight, stretchy, and quick-drying." [level=5]
+- text: VIEW MORE
+- img "Versatile Spring Style for Every Day"
+- text: King of Prussia Grand Opening Deal
+- heading "Versatile Spring Style for Every Day" [level=2]
+- text: Smart Ankle Pants (2-Way Stretch)
+- paragraph: $39.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- button
+- button
+- button:
+  - button:
+    - button:
+      - button
+- img "Kids' Ultra Stretch Dry Sweat Long-Sleeve Full-Zip Hoodies"
+- img "Sport Utility Wear"
+- text: King of Prussia Grand Opening Deal
+- heading "Kids' Ultra Stretch Dry Sweat Long-Sleeve Full-Zip Hoodies" [level=2]
+- text: Save on these kid-approved comfortably stretchy sweats, for a limited time only.
+- paragraph: $24.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- 'img "Sport Utility Wear: High-Performance All-Weather Comfort"'
+- img "Sport Utility Wear"
+- text: King of Prussia Grand Opening Deal
+- 'heading "Sport Utility Wear: High-Performance All-Weather Comfort" [level=2]'
+- text: Ultra Stretch Active Jogger Pants
+- paragraph: $29.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- img "UV Protection Pocketable Parkas"
+- img "Sport Utility Wear"
+- img "UV Protection"
+- text: King of Prussia Grand Opening Deal
+- heading "UV Protection Pocketable Parkas" [level=2]
+- text: Get extra sun protection with this light layer that blocks up to 90% of UV rays.
+- paragraph: $39.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- img "DRY-EX Crew Neck Short-Sleeve T-Shirts"
+- img "Sport Utility Wear"
+- img "Masterpiece"
+- heading "DRY-EX Crew Neck Short-Sleeve T-Shirts" [level=2]
+- text: Quick-drying functionality absorbs sweat to keep you feeling fresh.
+- paragraph: $24.90
+- img "Kids' Ultra Stretch Dry Sweat Long-Sleeve Full-Zip Hoodies"
+- img "Sport Utility Wear"
+- text: King of Prussia Grand Opening Deal
+- heading "Kids' Ultra Stretch Dry Sweat Long-Sleeve Full-Zip Hoodies" [level=2]
+- text: Save on these kid-approved comfortably stretchy sweats, for a limited time only.
+- paragraph: $24.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- 'img "Sport Utility Wear: High-Performance All-Weather Comfort"'
+- img "Sport Utility Wear"
+- text: King of Prussia Grand Opening Deal
+- 'heading "Sport Utility Wear: High-Performance All-Weather Comfort" [level=2]'
+- text: Ultra Stretch Active Jogger Pants
+- paragraph: $29.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- button
+- button
+- button:
+  - button:
+    - button:
+      - button
+- img "Kids' AIRism Cotton Blend Innerwear"
+- img "AIRism"
+- heading "Kids' AIRism Cotton Blend Innerwear" [level=2]
+- text: Super smooth and stretchy, feels great against the skin.
+- paragraph: $9.90
+- img "AIRism Ultra Seamless High-Rise Briefs"
+- img "AIRism"
+- text: King of Prussia Grand Opening Deal
+- heading "AIRism Innerwear:Light, Thin, Soft.Next to skin comfort." [level=2]
+- text: AIRism Ultra Seamless High-Rise Briefs
+- paragraph: $7.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- img "Quick-Drying Functionality"
+- img "AIRism"
+- heading "Quick-Drying Functionality" [level=2]
+- heading "Smooth-to-the-touch fibers work to absorb and disperse sweat quickly and comfortably." [level=5]
+- text: VIEW MORE
+- img "AIRism Innerwear:Wearable Technology for Warmer Weather"
+- img "AIRism"
+- heading "AIRism V-Neck Short-Sleeve T-Shirts" [level=2]
+- text: Wearable technology for warmer weather.
+- paragraph: $14.90
+- img "Kids' AIRism Cotton Blend Innerwear"
+- img "AIRism"
+- heading "Kids' AIRism Cotton Blend Innerwear" [level=2]
+- text: Super smooth and stretchy, feels great against the skin.
+- paragraph: $9.90
+- img "AIRism Ultra Seamless High-Rise Briefs"
+- img "AIRism"
+- text: King of Prussia Grand Opening Deal
+- heading "AIRism Innerwear:Light, Thin, Soft.Next to skin comfort." [level=2]
+- text: AIRism Ultra Seamless High-Rise Briefs
+- paragraph: $7.90
+- paragraph: Online + King of Prussia Location Only Offer Until 3/23
+- button
+- button
+- button:
+  - button:
+    - button:
+      - button
+- img "UNIQLO and JW ANDERSON 2023 Spring/Summer Collection"
+- img "JWA"
+- text: Arriving 4/6 Mid-Morning ET
+- heading "UNIQLO and JW ANDERSON 2023 Spring/Summer Collection" [level=2]
+- heading "A Sporting Way of Life." [level=5]
+- text: VIEW MORE
+- img "UNIQLO x Ines de la Fressange Spring/Summer 2023 Collection"
+- img "Ines"
+- heading "UNIQLO x Ines de la Fressange Spring/Summer 2023 Collection" [level=2]
+- heading "A New Taste of Everyday." [level=5]
+- text: VIEW MORE
+- img "Uniqlo U Spring/Summer 2023"
+- img "Uniqlo U"
+- heading "Uniqlo U Spring/Summer 2023" [level=2]
+- text: U Ribbed Long-Sleeve Cardigan
+- paragraph: $29.90
+- paragraph: Sale
+- img "Uniqlo U Spring/Summer 2023"
+- img "Uniqlo U"
+- heading "Uniqlo U Spring/Summer 2023" [level=2]
+- text: U Short Jacket
+- paragraph: $59.90
+- paragraph: Sale
+- img "UNIQLO and JW ANDERSON 2023 Spring/Summer Collection"
+- img "JWA"
+- text: Arriving 4/6 Mid-Morning ET
+- heading "UNIQLO and JW ANDERSON 2023 Spring/Summer Collection" [level=2]
+- heading "A Sporting Way of Life." [level=5]
+- text: VIEW MORE
+- img "UNIQLO x Ines de la Fressange Spring/Summer 2023 Collection"
+- img "Ines"
+- heading "UNIQLO x Ines de la Fressange Spring/Summer 2023 Collection" [level=2]
+- heading "A New Taste of Everyday." [level=5]
+- text: VIEW MORE
+- button
+- button
+- button:
+  - button:
+    - button:
+      - button
+- img "Splatoon 3"
+- img "UT"
+- text: Arriving 3/20
+- heading "Splatoon 3" [level=2]
+- heading "Preview graphic T-shirts designed with vibrant graphics that convey the series'unique world-building." [level=5]
+- text: VIEW MORE
+- paragraph: Nintendo
+- 'img "Sanrio characters: Beach Trip"'
+- img "UT"
+- text: Just Arrived
+- 'heading "Sanrio characters: Beach Trip" [level=2]'
+- heading "Shop cute designs of Sanrio characters having a fun beach vacation." [level=5]
+- text: VIEW MORE
+- img "Celebrating Sofia Coppola"
+- img "UT"
+- heading "Celebrating Sofia Coppola" [level=2]
+- heading "Shop designs saluting legendary director Sofia Coppola and her iconic films." [level=5]
+- text: VIEW MORE
+- paragraph: Focus Features LLC. All Rights Reserved. & 2022 Columbia Pictures Industries, Inc. All Rights Reserved.2013 Somewhere Else, LLC. All Rights Reserved.2022 Paramount Pictures. All Rights Reserved.
+- img "UT ARCHIVE"
+- img "Magic For All"
+- heading "UT ARCHIVE" [level=2]
+- heading "Featuring famous work with original designs from Andy Warhol, Keith Haring and Jean-Michel Basquiat." [level=5]
+- text: VIEW MORE
+- img "Splatoon 3"
+- img "UT"
+- text: Arriving 3/20
+- heading "Splatoon 3" [level=2]
+- heading "Preview graphic T-shirts designed with vibrant graphics that convey the series'unique world-building." [level=5]
+- text: VIEW MORE
+- paragraph: Nintendo
+- 'img "Sanrio characters: Beach Trip"'
+- img "UT"
+- text: Just Arrived
+- 'heading "Sanrio characters: Beach Trip" [level=2]'
+- heading "Shop cute designs of Sanrio characters having a fun beach vacation." [level=5]
+- text: VIEW MORE
+- button
+- button
+- button:
+  - button:
+    - button:
+      - button
+- img "UNIQLO Masterpiece"
+- img "Masterpiece"
+- heading "UNIQLO Masterpiece" [level=2]
+- heading "Simple made better." [level=5]
+- text: VIEW MORE
+- img "UNIQLO Update"
+- heading "UNIQLO Update" [level=2]
+- heading "Thanks to our customers' feedback,check out how our products arecontinuously evolving." [level=5]
+- text: VIEW MORE
+- img "UNIQLO 2023 Spring/Summer Collection"
+- img "Season Catalog"
+- heading "UNIQLO 2023 Spring/Summer Collection" [level=2]
+- 'heading "The Art of Everyday Life: Color, Design, and Functionality" [level=5]'
+- text: VIEW MORE
+- img "LifeWear Magazine Issue 08"
+- img "LifeWear Magazine"
+- heading "LifeWear Magazine Issue 08" [level=2]
+- heading "The new issue dives into a variety of stories searching for how to improve the everyday." [level=5]
+- text: VIEW MORE
+- img "UNIQLO Masterpiece"
+- img "Masterpiece"
+- heading "UNIQLO Masterpiece" [level=2]
+- heading "Simple made better." [level=5]
+- text: VIEW MORE
+- img "UNIQLO Update"
+- heading "UNIQLO Update" [level=2]
+- heading "Thanks to our customers' feedback,check out how our products arecontinuously evolving." [level=5]
+- text: VIEW MORE
+- button
+- button
+- button:
+  - button:
+    - button:
+      - button
+- img "A single T-shirt has the power to spread peace."
+- heading "A single T-shirt has the power to spread peace." [level=2]
+- heading "New T-shirt designs by five well-known collaborators are now available." [level=5]
+- text: VIEW MORE
+- img "Celebrate International Women's Day LifeWear Style"
+- img "Live Station"
+- text: Recorded Live on 3/8
+- heading "Celebrate International Women's Day LifeWear Style" [level=2]
+- heading "Shop everything from innerwearto workwear all designed to improve your everyday." [level=5]
+- text: VIEW MORE
+- img "Celebrate International Women's Day LifeWear Style"
+- heading "LifeWear Leads the Way for International Women's Day" [level=2]
+- heading "Check out what keeps our UNIQLO team members feeling their best." [level=5]
+- text: VIEW MORE
+- img "The Power of Clothing:January 2023 No.24"
+- img "Power of Clothing"
+- heading "The Power of Clothing:January 2023 No.24" [level=2]
+- heading "Roger Federer in conversation with Tadashi Yanai" [level=5]
+- text: VIEW MORE
+- img "A single T-shirt has the power to spread peace."
+- heading "A single T-shirt has the power to spread peace." [level=2]
+- heading "New T-shirt designs by five well-known collaborators are now available." [level=5]
+- text: VIEW MORE
+- img "Celebrate International Women's Day LifeWear Style"
+- img "Live Station"
+- text: Recorded Live on 3/8
+- heading "Celebrate International Women's Day LifeWear Style" [level=2]
+- heading "Shop everything from innerwearto workwear all designed to improve your everyday." [level=5]
+- text: VIEW MORE
+- button
+- button
+- button:
+  - button:
+    - button:
+      - button
+- img "Download the UNIQLO App for exclusive perks!"
+- heading "Download the UNIQLO App for exclusive perks!" [level=2]
+- heading "New app members get $10 OFF their next online or in-store purchase." [level=5]
+- text: VIEW MORE
+- img "UNIQLO King of Prussia"
+- heading "UNIQLO King of Prussia" [level=2]
+- heading "Come visit our new location in King of Prussia, PA!" [level=5]
+- text: VIEW MORE
+- img "UNIQLO Newport Centre"
+- text: Opening 3/24
+- heading "UNIQLO Newport Centre" [level=2]
+- heading "Stay tuned for our new location in Jersey City, NJ!" [level=5]
+- text: VIEW MORE
+- img "GU Pop-Up Store in NYC"
+- img "GU"
+- heading "GU Pop-Up Store in NYC" [level=2]
+- heading "UNIQLO's sister brand, GU,has finally arrived in the USA!" [level=5]
+- text: VIEW MORE
+- img "Download the UNIQLO App for exclusive perks!"
+- heading "Download the UNIQLO App for exclusive perks!" [level=2]
+- heading "New app members get $10 OFF their next online or in-store purchase." [level=5]
+- text: VIEW MORE
+- img "UNIQLO King of Prussia"
+- heading "UNIQLO King of Prussia" [level=2]
+- heading "Come visit our new location in King of Prussia, PA!" [level=5]
+- text: VIEW MORE
+- button
+- button
+- button:
+  - button:
+    - button:
+      - button
+- banner:
+  - heading "The NEW UNIQLO App" [level=2]
+- img "ORDER & PICK"
+- paragraph: In-Store Pick Up
+- paragraph: Skip the wait! Get free shipping when pick up your order in-store.
+- img "Scan + Shop"
+- paragraph: Scan + Shop
+- paragraph: Scan the barcodes of your favorite looks to check if nearby stores have your size and fit.
+- img "Back in Stock Notifications"
+- paragraph: Back in Stock Notifications
+- paragraph: It's back! Sign up for notifications when your most loved items are back in stock.
+- text: LEARN MORE ABOUT UNIQLO APP
+- contentinfo:
+  - navigation:
+    - list:
+      - listitem:
+        - paragraph: My Account
+      - listitem:
+        - paragraph: Store Locator
+      - listitem:
+        - paragraph: Returns / Exchanges
+      - listitem:
+        - paragraph: Contact Us & FAQ
+      - listitem:
+        - paragraph: Terms & Conditions
+      - listitem:
+        - paragraph: Privacy Policy
+      - listitem:
+        - paragraph: CCPA Your Rights and Choices
+      - listitem:
+        - paragraph: Accessibility
+      - listitem:
+        - paragraph: About Us
+      - listitem:
+        - paragraph: Sustainability
+      - listitem:
+        - paragraph: Careers
+  - paragraph: Group company
+  - navigation:
+    - list:
+      - listitem:
+        - paragraph: GU
+      - listitem:
+        - paragraph: Theory
+      - listitem:
+        - paragraph: Helmut Lang
+  - paragraph: Stay connected with us
+  - navigation:
+    - list:
+      - listitem:
+        - paragraph: UNIQLO App
+      - listitem:
+        - paragraph: Text Message
+  - button "Do Not Sell My Personal Information":
+    - paragraph: Do Not Sell My Personal Information
+  - list:
+    - listitem: Copyright UNIQLO Co., Ltd. All rights reserved.
+  - list:
+    - listitem:
+      - img "facebook"
+    - listitem:
+      - img "twitter"
+    - listitem:
+      - img "instagram"
+    - listitem:
+      - img "youtube"
+- alertdialog:
+  - button
+  - text: CCPA Your Rights and Choices
+  - button "Allow All"
+  - switch
+  - list:
+    - listitem:
+      - switch
+  - list:
+    - listitem:
+      - switch
+  - button "Back Button":
+    - img "Back Button"
+  - textbox
+  - button
+  - button "Clear"
+  - checkbox
+  - button "Apply"
+  - button "Cancel"
+  - checkbox
+  - checkbox
+  - checkbox
+  - button "Confirm My Choices"
+  - img "Powered by Onetrust"
+- iframe: <div backend_node_id="3155" bounding_box_rect="0,0,520,1080" id="__next"> <div backend_node_id="3156" bounding_box_rect="0,0,520,1080" class="c-jgxPGh uniqlo"> <div backend_node_id="3157" bounding_box_rect="0,0,520,71" class="c-cwwDEd"> <header backend_node_id="3158" bounding_box_rect="0,0,520,71" class="c-echDhx c-echDhx-fKByKj-withPageCounter-false"> <section backend_node_id="3159" bounding_box_rect="20,12,432,46" class="labels"> <h1 backend_node_id="3160" bounding_box_rect="20,21,432,28"> <text backend_node_id="3161" bounding_box_rect="20,24,257.890625,22">Find your recommended size</text> </h1> </section> <section backend_node_id="3162" bounding_box_rect="456,12,44,46" class="close"> <span backend_node_id="3163" bounding_box_rect="465.203125,18,25.578125,34"> <p backend_node_id="3166" bounding_box_rect="465.203125,40,25.578125,12"> <text backend_node_id="3167" bounding_box_rect="465.203125,40,25.578125,11">Close</text> </p> </span> </section> </header> </div> <main backend_node_id="3168" bounding_box_rect="0,71,520,924" class="c-gVwmOo c-gVwmOo-ivYAPe-padded-false"> <div backend_node_id="3169" bounding_box_rect="0,71,520,187.328125" class="c-grdbsg"> <span backend_node_id="3170" bounding_box_rect="158.0625,89,203.859375,164.9375"> <img backend_node_id="3173" bounding_box_rect="158.0625,89,203.859375,164.9375" alt="hero"/> </span> </div> <div backend_node_id="3174" bounding_box_rect="0,258.328125,520,414.09375" class="c-befoB"> <div backend_node_id="3175" bounding_box_rect="20,274.328125,480,84" class="c-iguoms selected icon_left_container"> <div backend_node_id="3176" bounding_box_rect="37,291.328125,44,50" class="icon_left"> <span backend_node_id="3177" bounding_box_rect="47,304.328125,24,24"> <img backend_node_id="3180" bounding_box_rect="47,304.328125,24,24" alt="pen"/> </span> </div> <div backend_node_id="3181" bounding_box_rect="89,291.328125,394,50" class="content"> <p backend_node_id="3182" bounding_box_rect="89,291.328125,394,21"> <text backend_node_id="3183" bounding_box_rect="89,293.328125,101.40625,16">MySize ASSIST</text> </p> <p backend_node_id="3184" bounding_box_rect="89,320.328125,394,21"> <text backend_node_id="3185" bounding_box_rect="89,322.328125,333.046875,16">Enter your information to find your recommended size</text> </p> </div> </div> <div backend_node_id="3186" bounding_box_rect="20,374.328125,480,134" class="c-iguoms icon_left_container disabled"> <div backend_node_id="3187" bounding_box_rect="37,391.328125,44,100" class="icon_left"> <span backend_node_id="3188" bounding_box_rect="47,429.328125,24,24"> <img backend_node_id="3191" bounding_box_rect="47,429.328125,24,24" alt="camera"/> </span> </div> <div backend_node_id="3192" bounding_box_rect="89,391.328125,394,100" class="content"> <p backend_node_id="3193" bounding_box_rect="89,391.328125,394,21"> <text backend_node_id="3194" bounding_box_rect="89,393.328125,112.796875,16">MySize CAMERA</text> </p> <p backend_node_id="3195" bounding_box_rect="89,420.328125,394,71"> <text backend_node_id="3196" bounding_box_rect="89,422.328125,357.9375,37">Measure your body with a camera scan for more accurate sizing</text> <span backend_node_id="3198" bounding_box_rect="89,470.328125,394,21"> <text backend_node_id="3199" bounding_box_rect="89,472.328125,378.21875,16">Please use the UNIQLO App or website on your smartphone.</text> </span> </p> </div> </div> <h4 backend_node_id="3200" bounding_box_rect="20,532.328125,480,16.09375" class="c-kAknjD"> <text backend_node_id="3201" bounding_box_rect="20,532.328125,80.140625,16">Terms of use</text> </h4> <p backend_node_id="3202" bounding_box_rect="20,560.421875,480,80" class="c-dpqfOr"> <text backend_node_id="3203" bounding_box_rect="20,561.421875,474.015625,46">Information and images collected by MySize ASSIST tool will only be used to recommend the optimal product size. Data will be handled according to our </text> <a backend_node_id="3204" bounding_box_rect="220.796875,593.421875,72.46875,14" is_clickable="true"> <text backend_node_id="3205" bounding_box_rect="220.796875,593.421875,72.46875,14">Privacy policy</text> </a> <text backend_node_id="3206" bounding_box_rect="20,593.421875,464.03125,46">. Photos will be deleted immediately after measurement analysis.If you don't want to proceed, you can close this tool using the X at the top right.</text> </p> </div> </main> <footer backend_node_id="3207" bounding_box_rect="0,995,520,85" class="c-btDsjF"> <div backend_node_id="3208" bounding_box_rect="0,995,520,85" class="c-cULxqI c-cULxqI-fcvKSV-columns-1"> <button backend_node_id="3209" bounding_box_rect="20,1012,480,52" class="c-jcawfJ c-jcawfJ-Jfhiz-size-normal c-jcawfJ-iBIryK-kind-primary c-jcawfJ-fGHEql-fitToContent-false"> <div backend_node_id="3210" bounding_box_rect="169.3125,1028.5,181.359375,19" class="content"> <span backend_node_id="3211" bounding_box_rect="169.3125,1028.5,181.359375,19"> <text backend_node_id="3212" bounding_box_rect="169.3125,1029.5,181.359375,17">AGREE AND CONTINUE</text> </span> </div> </button> </div> </footer> </div> </div>
+- iframe: <div backend_node_id="3236" bounding_box_rect="0,0,520,1080" id="__next"> <div backend_node_id="3237" bounding_box_rect="0,0,520,1080" class="c-jgxPGh uniqlo"> <div backend_node_id="3238" bounding_box_rect="0,0,520,71" class="c-cwwDEd"> <header backend_node_id="3239" bounding_box_rect="0,0,520,71" class="c-echDhx c-echDhx-fKByKj-withPageCounter-false"> <section backend_node_id="3240" bounding_box_rect="20,12,432,46" class="labels"> <h1 backend_node_id="3241" bounding_box_rect="20,21,432,28"> <text backend_node_id="3242" bounding_box_rect="20,24,257.890625,22">Find your recommended size</text> </h1> </section> <section backend_node_id="3243" bounding_box_rect="456,12,44,46" class="close"> <span backend_node_id="3244" bounding_box_rect="465.203125,18,25.578125,34"> <p backend_node_id="3247" bounding_box_rect="465.203125,40,25.578125,12"> <text backend_node_id="3248" bounding_box_rect="465.203125,40,25.578125,11">Close</text> </p> </span> </section> </header> </div> <main backend_node_id="3249" bounding_box_rect="0,71,520,924" class="c-gVwmOo c-gVwmOo-ivYAPe-padded-false"> <div backend_node_id="3250" bounding_box_rect="0,71,520,187.328125" class="c-grdbsg"> <span backend_node_id="3251" bounding_box_rect="158.0625,89,203.859375,164.9375"> <img backend_node_id="3254" bounding_box_rect="158.0625,89,203.859375,164.9375" alt="hero"/> </span> </div> <div backend_node_id="3255" bounding_box_rect="0,258.328125,520,414.09375" class="c-befoB"> <div backend_node_id="3256" bounding_box_rect="20,274.328125,480,84" class="c-iguoms selected icon_left_container"> <div backend_node_id="3257" bounding_box_rect="37,291.328125,44,50" class="icon_left"> <span backend_node_id="3258" bounding_box_rect="47,304.328125,24,24"> <img backend_node_id="3261" bounding_box_rect="47,304.328125,24,24" alt="pen"/> </span> </div> <div backend_node_id="3262" bounding_box_rect="89,291.328125,394,50" class="content"> <p backend_node_id="3263" bounding_box_rect="89,291.328125,394,21"> <text backend_node_id="3264" bounding_box_rect="89,293.328125,101.40625,16">MySize ASSIST</text> </p> <p backend_node_id="3265" bounding_box_rect="89,320.328125,394,21"> <text backend_node_id="3266" bounding_box_rect="89,322.328125,333.046875,16">Enter your information to find your recommended size</text> </p> </div> </div> <div backend_node_id="3267" bounding_box_rect="20,374.328125,480,134" class="c-iguoms icon_left_container disabled"> <div backend_node_id="3268" bounding_box_rect="37,391.328125,44,100" class="icon_left"> <span backend_node_id="3269" bounding_box_rect="47,429.328125,24,24"> <img backend_node_id="3272" bounding_box_rect="47,429.328125,24,24" alt="camera"/> </span> </div> <div backend_node_id="3273" bounding_box_rect="89,391.328125,394,100" class="content"> <p backend_node_id="3274" bounding_box_rect="89,391.328125,394,21"> <text backend_node_id="3275" bounding_box_rect="89,393.328125,112.796875,16">MySize CAMERA</text> </p> <p backend_node_id="3276" bounding_box_rect="89,420.328125,394,71"> <text backend_node_id="3277" bounding_box_rect="89,422.328125,357.9375,37">Measure your body with a camera scan for more accurate sizing</text> <span backend_node_id="3279" bounding_box_rect="89,470.328125,394,21"> <text backend_node_id="3280" bounding_box_rect="89,472.328125,378.21875,16">Please use the UNIQLO App or website on your smartphone.</text> </span> </p> </div> </div> <h4 backend_node_id="3281" bounding_box_rect="20,532.328125,480,16.09375" class="c-kAknjD"> <text backend_node_id="3282" bounding_box_rect="20,532.328125,80.140625,16">Terms of use</text> </h4> <p backend_node_id="3283" bounding_box_rect="20,560.421875,480,80" class="c-dpqfOr"> <text backend_node_id="3284" bounding_box_rect="20,561.421875,474.015625,46">Information and images collected by MySize ASSIST tool will only be used to recommend the optimal product size. Data will be handled according to our </text> <a backend_node_id="3285" bounding_box_rect="220.796875,593.421875,72.46875,14" is_clickable="true"> <text backend_node_id="3286" bounding_box_rect="220.796875,593.421875,72.46875,14">Privacy policy</text> </a> <text backend_node_id="3287" bounding_box_rect="20,593.421875,464.03125,46">. Photos will be deleted immediately after measurement analysis.If you don't want to proceed, you can close this tool using the X at the top right.</text> </p> </div> </main> <footer backend_node_id="3288" bounding_box_rect="0,995,520,85" class="c-btDsjF"> <div backend_node_id="3289" bounding_box_rect="0,995,520,85" class="c-cULxqI c-cULxqI-fcvKSV-columns-1"> <button backend_node_id="3290" bounding_box_rect="20,1012,480,52" class="c-jcawfJ c-jcawfJ-Jfhiz-size-normal c-jcawfJ-iBIryK-kind-primary c-jcawfJ-fGHEql-fitToContent-false"> <div backend_node_id="3291" bounding_box_rect="169.3125,1028.5,181.359375,19" class="content"> <span backend_node_id="3292" bounding_box_rect="169.3125,1028.5,181.359375,19"> <text backend_node_id="3293" bounding_box_rect="169.3125,1029.5,181.359375,17">AGREE AND CONTINUE</text> </span> </div> </button> </div> </footer> </div> </div>
+- iframe: <div backend_node_id="3522" bounding_box_rect="0,0,520,1080" id="__next"> <div backend_node_id="3523" bounding_box_rect="0,0,520,1080" class="c-jgxPGh uniqlo"> <div backend_node_id="3524" bounding_box_rect="0,0,520,71" class="c-cwwDEd"> <header backend_node_id="3525" bounding_box_rect="0,0,520,71" class="c-echDhx c-echDhx-fKByKj-withPageCounter-false"> <section backend_node_id="3526" bounding_box_rect="20,12,432,46" class="labels"> <h1 backend_node_id="3527" bounding_box_rect="20,21,432,28"> <text backend_node_id="3528" bounding_box_rect="20,24,257.890625,22">Find your recommended size</text> </h1> </section> <section backend_node_id="3529" bounding_box_rect="456,12,44,46" class="close"> <span backend_node_id="3530" bounding_box_rect="465.203125,18,25.578125,34"> <p backend_node_id="3533" bounding_box_rect="465.203125,40,25.578125,12"> <text backend_node_id="3534" bounding_box_rect="465.203125,40,25.578125,11">Close</text> </p> </span> </section> </header> </div> <main backend_node_id="3535" bounding_box_rect="0,71,520,924" class="c-gVwmOo c-gVwmOo-ivYAPe-padded-false"> <div backend_node_id="3536" bounding_box_rect="0,71,520,187.328125" class="c-grdbsg"> <span backend_node_id="3537" bounding_box_rect="158.0625,89,203.859375,164.9375"> <img backend_node_id="3540" bounding_box_rect="158.0625,89,203.859375,164.9375" alt="hero"/> </span> </div> <div backend_node_id="3541" bounding_box_rect="0,258.328125,520,414.09375" class="c-befoB"> <div backend_node_id="3542" bounding_box_rect="20,274.328125,480,84" class="c-iguoms selected icon_left_container"> <div backend_node_id="3543" bounding_box_rect="37,291.328125,44,50" class="icon_left"> <span backend_node_id="3544" bounding_box_rect="47,304.328125,24,24"> <img backend_node_id="3547" bounding_box_rect="47,304.328125,24,24" alt="pen"/> </span> </div> <div backend_node_id="3548" bounding_box_rect="89,291.328125,394,50" class="content"> <p backend_node_id="3549" bounding_box_rect="89,291.328125,394,21"> <text backend_node_id="3550" bounding_box_rect="89,293.328125,101.40625,16">MySize ASSIST</text> </p> <p backend_node_id="3551" bounding_box_rect="89,320.328125,394,21"> <text backend_node_id="3552" bounding_box_rect="89,322.328125,333.046875,16">Enter your information to find your recommended size</text> </p> </div> </div> <div backend_node_id="3553" bounding_box_rect="20,374.328125,480,134" class="c-iguoms icon_left_container disabled"> <div backend_node_id="3554" bounding_box_rect="37,391.328125,44,100" class="icon_left"> <span backend_node_id="3555" bounding_box_rect="47,429.328125,24,24"> <img backend_node_id="3558" bounding_box_rect="47,429.328125,24,24" alt="camera"/> </span> </div> <div backend_node_id="3559" bounding_box_rect="89,391.328125,394,100" class="content"> <p backend_node_id="3560" bounding_box_rect="89,391.328125,394,21"> <text backend_node_id="3561" bounding_box_rect="89,393.328125,112.796875,16">MySize CAMERA</text> </p> <p backend_node_id="3562" bounding_box_rect="89,420.328125,394,71"> <text backend_node_id="3563" bounding_box_rect="89,422.328125,357.9375,37">Measure your body with a camera scan for more accurate sizing</text> <span backend_node_id="3565" bounding_box_rect="89,470.328125,394,21"> <text backend_node_id="3566" bounding_box_rect="89,472.328125,378.21875,16">Please use the UNIQLO App or website on your smartphone.</text> </span> </p> </div> </div> <h4 backend_node_id="3567" bounding_box_rect="20,532.328125,480,16.09375" class="c-kAknjD"> <text backend_node_id="3568" bounding_box_rect="20,532.328125,80.140625,16">Terms of use</text> </h4> <p backend_node_id="3569" bounding_box_rect="20,560.421875,480,80" class="c-dpqfOr"> <text backend_node_id="3570" bounding_box_rect="20,561.421875,474.015625,46">Information and images collected by MySize ASSIST tool will only be used to recommend the optimal product size. Data will be handled according to our </text> <a backend_node_id="3571" bounding_box_rect="220.796875,593.421875,72.46875,14" is_clickable="true"> <text backend_node_id="3572" bounding_box_rect="220.796875,593.421875,72.46875,14">Privacy policy</text> </a> <text backend_node_id="3573" bounding_box_rect="20,593.421875,464.03125,46">. Photos will be deleted immediately after measurement analysis.If you don't want to proceed, you can close this tool using the X at the top right.</text> </p> </div> </main> <footer backend_node_id="3574" bounding_box_rect="0,995,520,85" class="c-btDsjF"> <div backend_node_id="3575" bounding_box_rect="0,995,520,85" class="c-cULxqI c-cULxqI-fcvKSV-columns-1"> <button backend_node_id="3576" bounding_box_rect="20,1012,480,52" class="c-jcawfJ c-jcawfJ-Jfhiz-size-normal c-jcawfJ-iBIryK-kind-primary c-jcawfJ-fGHEql-fitToContent-false"> <div backend_node_id="3577" bounding_box_rect="169.3125,1028.5,181.359375,19" class="content"> <span backend_node_id="3578" bounding_box_rect="169.3125,1028.5,181.359375,19"> <text backend_node_id="3579" bounding_box_rect="169.3125,1029.5,181.359375,17">AGREE AND CONTINUE</text> </span> </div> </button> </div> </footer> </div> </div>
+- iframe: <div backend_node_id="4663" bounding_box_rect="0,0,520,1080" id="__next"> <div backend_node_id="4664" bounding_box_rect="0,0,520,1080" class="c-jgxPGh uniqlo"> <div backend_node_id="4665" bounding_box_rect="0,0,520,71" class="c-cwwDEd"> <header backend_node_id="4666" bounding_box_rect="0,0,520,71" class="c-echDhx c-echDhx-fKByKj-withPageCounter-false"> <section backend_node_id="4667" bounding_box_rect="20,12,432,46" class="labels"> <h1 backend_node_id="4668" bounding_box_rect="20,21,432,28"> <text backend_node_id="4669" bounding_box_rect="20,24,257.890625,22">Find your recommended size</text> </h1> </section> <section backend_node_id="4670" bounding_box_rect="456,12,44,46" class="close"> <span backend_node_id="4671" bounding_box_rect="465.203125,18,25.578125,34"> <p backend_node_id="4674" bounding_box_rect="465.203125,40,25.578125,12"> <text backend_node_id="4675" bounding_box_rect="465.203125,40,25.578125,11">Close</text> </p> </span> </section> </header> </div> <main backend_node_id="4676" bounding_box_rect="0,71,520,924" class="c-gVwmOo c-gVwmOo-ivYAPe-padded-false"> <div backend_node_id="4677" bounding_box_rect="0,71,520,187.328125" class="c-grdbsg"> <span backend_node_id="4678" bounding_box_rect="158.0625,89,203.859375,164.9375"> <img backend_node_id="4681" bounding_box_rect="158.0625,89,203.859375,164.9375" alt="hero"/> </span> </div> <div backend_node_id="4682" bounding_box_rect="0,258.328125,520,414.09375" class="c-befoB"> <div backend_node_id="4683" bounding_box_rect="20,274.328125,480,84" class="c-iguoms selected icon_left_container"> <div backend_node_id="4684" bounding_box_rect="37,291.328125,44,50" class="icon_left"> <span backend_node_id="4685" bounding_box_rect="47,304.328125,24,24"> <img backend_node_id="4688" bounding_box_rect="47,304.328125,24,24" alt="pen"/> </span> </div> <div backend_node_id="4689" bounding_box_rect="89,291.328125,394,50" class="content"> <p backend_node_id="4690" bounding_box_rect="89,291.328125,394,21"> <text backend_node_id="4691" bounding_box_rect="89,293.328125,101.40625,16">MySize ASSIST</text> </p> <p backend_node_id="4692" bounding_box_rect="89,320.328125,394,21"> <text backend_node_id="4693" bounding_box_rect="89,322.328125,333.046875,16">Enter your information to find your recommended size</text> </p> </div> </div> <div backend_node_id="4694" bounding_box_rect="20,374.328125,480,134" class="c-iguoms icon_left_container disabled"> <div backend_node_id="4695" bounding_box_rect="37,391.328125,44,100" class="icon_left"> <span backend_node_id="4696" bounding_box_rect="47,429.328125,24,24"> <img backend_node_id="4699" bounding_box_rect="47,429.328125,24,24" alt="camera"/> </span> </div> <div backend_node_id="4700" bounding_box_rect="89,391.328125,394,100" class="content"> <p backend_node_id="4701" bounding_box_rect="89,391.328125,394,21"> <text backend_node_id="4702" bounding_box_rect="89,393.328125,112.796875,16">MySize CAMERA</text> </p> <p backend_node_id="4703" bounding_box_rect="89,420.328125,394,71"> <text backend_node_id="4704" bounding_box_rect="89,422.328125,357.9375,37">Measure your body with a camera scan for more accurate sizing</text> <span backend_node_id="4706" bounding_box_rect="89,470.328125,394,21"> <text backend_node_id="4707" bounding_box_rect="89,472.328125,378.21875,16">Please use the UNIQLO App or website on your smartphone.</text> </span> </p> </div> </div> <h4 backend_node_id="4708" bounding_box_rect="20,532.328125,480,16.09375" class="c-kAknjD"> <text backend_node_id="4709" bounding_box_rect="20,532.328125,80.140625,16">Terms of use</text> </h4> <p backend_node_id="4710" bounding_box_rect="20,560.421875,480,80" class="c-dpqfOr"> <text backend_node_id="4711" bounding_box_rect="20,561.421875,474.015625,46">Information and images collected by MySize ASSIST tool will only be used to recommend the optimal product size. Data will be handled according to our </text> <a backend_node_id="4712" bounding_box_rect="220.796875,593.421875,72.46875,14" is_clickable="true"> <text backend_node_id="4713" bounding_box_rect="220.796875,593.421875,72.46875,14">Privacy policy</text> </a> <text backend_node_id="4714" bounding_box_rect="20,593.421875,464.03125,46">. Photos will be deleted immediately after measurement analysis.If you don't want to proceed, you can close this tool using the X at the top right.</text> </p> </div> </main> <footer backend_node_id="4715" bounding_box_rect="0,995,520,85" class="c-btDsjF"> <div backend_node_id="4716" bounding_box_rect="0,995,520,85" class="c-cULxqI c-cULxqI-fcvKSV-columns-1"> <button backend_node_id="4717" bounding_box_rect="20,1012,480,52" class="c-jcawfJ c-jcawfJ-Jfhiz-size-normal c-jcawfJ-iBIryK-kind-primary c-jcawfJ-fGHEql-fitToContent-false"> <div backend_node_id="4718" bounding_box_rect="169.3125,1028.5,181.359375,19" class="content"> <span backend_node_id="4719" bounding_box_rect="169.3125,1028.5,181.359375,19"> <text backend_node_id="4720" bounding_box_rect="169.3125,1029.5,181.359375,17">AGREE AND CONTINUE</text> </span> </div> </button> </div> </footer> </div> </div>

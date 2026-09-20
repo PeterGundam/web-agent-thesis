@@ -1,0 +1,17 @@
+{
+  "task": "real-world-manual",
+  "source": "portemonnaie - Google Shopping",
+  "numItems": 8,
+  "questions": [
+    {
+      "id": "cheapest",
+      "question": "Which product is the cheapest (has the lowest price)? Answer with ONLY the product name, nothing else.",
+      "expectedAnswer": "Gusti Leder Geldbörse Portemonnaie Brieftasche lang Geldbeutel viele Fächer Damen Braun Leder - Cara"
+    },
+    {
+      "id": "count",
+      "question": "How many products/items are shown on this page? Answer with ONLY the number, nothing else.",
+      "expectedAnswer": 8
+    }
+  ]
+}
