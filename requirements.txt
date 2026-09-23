@@ -1,0 +1,5 @@
+# Mind2Web dataset loading and streaming
+datasets>=3.0.0
+
+# Image handling dependency used with the Multimodal-Mind2Web dataset
+Pillow>=10.0.0
