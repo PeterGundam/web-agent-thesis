@@ -1,50 +1,14 @@
 [
   {
     "dir": "output_real_sites/Amazon.de _ wireless mouse_subset",
-    "label": "cheapest",
-    "question": "Which product is the cheapest (has the lowest price)? Answer with ONLY the product name, nothing else.",
-    "expectedAnswer": "Logitech M185 wireless mouse, 2.4 GHz connection via nano USB receiver, 1000 DPI optical sensor, 12-month battery life, for left and right-handed users, PC / Mac - gray, English packaging",
-    "html": {
-      "answer": "B0CSD6S7W5",
-      "correct": false,
-      "tokens": 2060
-    },
-    "aria": {
-      "answer": "TECKNET Silent Wireless Mouse, 2.4G Rechargeable Wireless Mouse 4800 DPI, Grey | 2.4 GHz optical, silent click, ergonomic design for right-handed users, plug & play for laptop, computer, PC, Mac",
-      "correct": false,
-      "tokens": 2103
-    }
-  },
-  {
-    "dir": "output_real_sites/Amazon.de _ wireless mouse_subset",
     "label": "count",
     "question": "How many products/items are shown on this page? Answer with ONLY the number, nothing else.",
     "expectedAnswer": 8,
     "html": {
-      "answer": "1",
-      "correct": false,
-      "tokens": 2052
+      "error": "Netzwerkfehler beim Senden (Payload: 216514 Zeichen) (Ursache: ECONNREFUSED): fetch failed"
     },
     "aria": {
-      "answer": "5",
-      "correct": false,
-      "tokens": 2052
-    }
-  },
-  {
-    "dir": "output_real_sites/Autobatterie online kaufen _ eBay_subset",
-    "label": "cheapest",
-    "question": "Which product is the cheapest (has the lowest price)? Answer with ONLY the product name, nothing else.",
-    "expectedAnswer": "Autobatterie 55Ah 12V 520A/EN Starter Auto Batterie ersetzt 50Ah 54Ah 52Ah",
-    "html": {
-      "answer": "EXAKT Autobatterie 12V 85Ah Starter Batterie WARTUNGSFREI statt 74Ah 77Ah 80Ah",
-      "correct": false,
-      "tokens": 2084
-    },
-    "aria": {
-      "answer": "EXAKT Autobatterie 12V 85Ah Starter Batterie WARTUNGSFREI statt 74Ah 77Ah 80Ah",
-      "correct": false,
-      "tokens": 2084
+      "error": "Netzwerkfehler beim Senden (Payload: 27286 Zeichen) (Ursache: ECONNREFUSED): fetch failed"
     }
   },
   {
@@ -53,30 +17,10 @@
     "question": "How many products/items are shown on this page? Answer with ONLY the number, nothing else.",
     "expectedAnswer": 8,
     "html": {
-      "answer": "1",
-      "correct": false,
-      "tokens": 2052
+      "error": "Netzwerkfehler beim Senden (Payload: 67722 Zeichen) (Ursache: ECONNREFUSED): fetch failed"
     },
     "aria": {
-      "answer": "2",
-      "correct": false,
-      "tokens": 2052
-    }
-  },
-  {
-    "dir": "output_real_sites/portemonnaie - Google Shopping_subset",
-    "label": "cheapest",
-    "question": "Which product is the cheapest (has the lowest price)? Answer with ONLY the product name, nothing else.",
-    "expectedAnswer": "Gusti Leder Geldbörse Portemonnaie Brieftasche lang Geldbeutel viele Fächer Damen Braun Leder - Cara",
-    "html": {
-      "answer": "Smart Wallet für Frauen in Beige | AirTag Wallet, Geldbörse mit Fach für AirTag, Kleines Portemonnaie Frauen Airtag, Geldbeutel mit Airtag",
-      "correct": false,
-      "tokens": 2092
-    },
-    "aria": {
-      "answer": "Feuerwear Portemonnaie Frank",
-      "correct": false,
-      "tokens": 1765
+      "error": "Netzwerkfehler beim Senden (Payload: 14959 Zeichen) (Ursache: ECONNREFUSED): fetch failed"
     }
   },
   {
@@ -85,14 +29,10 @@
     "question": "How many products/items are shown on this page? Answer with ONLY the number, nothing else.",
     "expectedAnswer": 8,
     "html": {
-      "answer": "1",
-      "correct": false,
-      "tokens": 2052
+      "error": "Netzwerkfehler beim Senden (Payload: 60038 Zeichen) (Ursache: ECONNREFUSED): fetch failed"
     },
     "aria": {
-      "answer": "6",
-      "correct": false,
-      "tokens": 1756
+      "error": "Netzwerkfehler beim Senden (Payload: 4867 Zeichen) (Ursache: ECONNREFUSED): fetch failed"
     }
   }
 ]

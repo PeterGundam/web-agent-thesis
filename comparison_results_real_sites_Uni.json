@@ -1,29 +1,13 @@
 [
   {
     "dir": "output_real_sites/Amazon.de _ wireless mouse_subset",
-    "label": "cheapest",
-    "question": "Which product is the cheapest (has the lowest price)? Answer with ONLY the product name, nothing else.",
-    "expectedAnswer": "Logitech M185 wireless mouse, 2.4 GHz connection via nano USB receiver, 1000 DPI optical sensor, 12-month battery life, for left and right-handed users, PC / Mac - gray, English packaging",
-    "html": {
-      "answer": "Logitech M185 wireless mouse, 2.4 GHz connection via nano USB receiver, 1000 DPI optical sensor, 12-month battery life, for left and right-handed users, PC / Mac - gray, English packaging",
-      "correct": true,
-      "tokens": 82025
-    },
-    "aria": {
-      "answer": "Logitech M185 wireless mouse, 2.4 GHz connection via nano USB receiver, 1000 DPI optical sensor, 12-month battery life, for left and right-handed users, PC / Mac - gray, English packaging",
-      "correct": true,
-      "tokens": 15276
-    }
-  },
-  {
-    "dir": "output_real_sites/Amazon.de _ wireless mouse_subset",
     "label": "count",
     "question": "How many products/items are shown on this page? Answer with ONLY the number, nothing else.",
     "expectedAnswer": 8,
     "html": {
       "answer": "8",
       "correct": true,
-      "tokens": 81973
+      "tokens": 82005
     },
     "aria": {
       "answer": "8",
@@ -33,50 +17,18 @@
   },
   {
     "dir": "output_real_sites/Autobatterie online kaufen _ eBay_subset",
-    "label": "cheapest",
-    "question": "Which product is the cheapest (has the lowest price)? Answer with ONLY the product name, nothing else.",
-    "expectedAnswer": "Autobatterie 55Ah 12V 520A/EN Starter Auto Batterie ersetzt 50Ah 54Ah 52Ah",
-    "html": {
-      "answer": "Autobatterie 55Ah 12V 520A/EN Starter Auto Batterie ersetzt 50Ah 54Ah 52Ah",
-      "correct": true,
-      "tokens": 28119
-    },
-    "aria": {
-      "answer": "Autobatterie 55Ah 12V 520A/EN Starter Auto Batterie ersetzt 50Ah 54Ah 52Ah",
-      "correct": true,
-      "tokens": 8554
-    }
-  },
-  {
-    "dir": "output_real_sites/Autobatterie online kaufen _ eBay_subset",
     "label": "count",
     "question": "How many products/items are shown on this page? Answer with ONLY the number, nothing else.",
     "expectedAnswer": 8,
     "html": {
       "answer": "8",
       "correct": true,
-      "tokens": 28084
+      "tokens": 27982
     },
     "aria": {
       "answer": "8",
       "correct": true,
-      "tokens": 8519
-    }
-  },
-  {
-    "dir": "output_real_sites/portemonnaie - Google Shopping_subset",
-    "label": "cheapest",
-    "question": "Which product is the cheapest (has the lowest price)? Answer with ONLY the product name, nothing else.",
-    "expectedAnswer": "Gusti Leder Geldbörse Portemonnaie Brieftasche lang Geldbeutel viele Fächer Damen Braun Leder - Cara",
-    "html": {
-      "answer": "Gusti Leder Geldbörse Portemonnaie Brieftasche lang Geldbeutel viele Fächer Damen Braun Leder - Cara",
-      "correct": true,
-      "tokens": 35559
-    },
-    "aria": {
-      "answer": "Gusti Leder Geldbörse Portemonnaie Brieftasche lang Geldbeutel viele Fächer Damen Braun Leder - Cara",
-      "correct": true,
-      "tokens": 1808
+      "tokens": 8442
     }
   },
   {

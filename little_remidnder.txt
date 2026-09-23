@@ -1,0 +1,11 @@
+# 1. Falls noch nicht geschehen: alle Aufgaben exportieren + extrahieren
+source mind2web-env/bin/activate
+python export_mind2web_subset.py
+deactivate
+node extract-mind2web.js
+
+# 2. Vergleichstest (mit Fortschritts-Speicherung, überlebt VPN-Abbrüche)
+node runCompareMind2Web.js
+
+# 3. Die eigentliche Unterkategorien-Analyse
+node analyze-mind2web-results.js

@@ -1,102 +1,4797 @@
 [
   {
     "status": "ok",
-    "outDir": "output_mind2web/01_shopping_underarmour",
-    "folderName": "01_shopping_underarmour"
+    "outDir": "output_mind2web/0001_travel_united",
+    "folderName": "0001_travel_united"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/02_shopping_tesla",
-    "folderName": "02_shopping_tesla"
+    "outDir": "output_mind2web/0002_entertainment_ign",
+    "folderName": "0002_entertainment_ign"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/03_shopping_rei",
-    "folderName": "03_shopping_rei"
+    "outDir": "output_mind2web/0003_entertainment_discogs",
+    "folderName": "0003_entertainment_discogs"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/04_shopping_ikea",
-    "folderName": "04_shopping_ikea"
+    "outDir": "output_mind2web/0004_entertainment_discogs",
+    "folderName": "0004_entertainment_discogs"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/05_shopping_gamestop",
-    "folderName": "05_shopping_gamestop"
+    "outDir": "output_mind2web/0005_entertainment_discogs",
+    "folderName": "0005_entertainment_discogs"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/06_shopping_menards",
-    "folderName": "06_shopping_menards"
+    "outDir": "output_mind2web/0006_travel_budget",
+    "folderName": "0006_travel_budget"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/07_shopping_rei",
-    "folderName": "07_shopping_rei"
+    "outDir": "output_mind2web/0007_travel_budget",
+    "folderName": "0007_travel_budget"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/08_shopping_underarmour",
-    "folderName": "08_shopping_underarmour"
+    "outDir": "output_mind2web/0008_travel_budget",
+    "folderName": "0008_travel_budget"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/09_shopping_cargurus",
-    "folderName": "09_shopping_cargurus"
+    "outDir": "output_mind2web/0009_travel_resy",
+    "folderName": "0009_travel_resy"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/10_shopping_menards",
-    "folderName": "10_shopping_menards"
+    "outDir": "output_mind2web/0010_entertainment_rottentomatoes",
+    "folderName": "0010_entertainment_rottentomatoes"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/11_shopping_ikea",
-    "folderName": "11_shopping_ikea"
+    "outDir": "output_mind2web/0011_entertainment_rottentomatoes",
+    "folderName": "0011_entertainment_rottentomatoes"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/12_shopping_gamestop",
-    "folderName": "12_shopping_gamestop"
+    "outDir": "output_mind2web/0012_shopping_underarmour",
+    "folderName": "0012_shopping_underarmour"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/13_shopping_underarmour",
-    "folderName": "13_shopping_underarmour"
+    "outDir": "output_mind2web/0013_shopping_underarmour",
+    "folderName": "0013_shopping_underarmour"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/14_shopping_cabelas",
-    "folderName": "14_shopping_cabelas"
+    "outDir": "output_mind2web/0014_travel_kayak",
+    "folderName": "0014_travel_kayak"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/15_shopping_bookdepository",
-    "folderName": "15_shopping_bookdepository"
+    "outDir": "output_mind2web/0015_entertainment_rottentomatoes",
+    "folderName": "0015_entertainment_rottentomatoes"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/16_shopping_ikea",
-    "folderName": "16_shopping_ikea"
+    "outDir": "output_mind2web/0016_entertainment_rottentomatoes",
+    "folderName": "0016_entertainment_rottentomatoes"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/17_shopping_cargurus",
-    "folderName": "17_shopping_cargurus"
+    "outDir": "output_mind2web/0017_entertainment_sports-yahoo",
+    "folderName": "0017_entertainment_sports-yahoo"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/18_shopping_uniqlo",
-    "folderName": "18_shopping_uniqlo"
+    "outDir": "output_mind2web/0018_entertainment_sports-yahoo",
+    "folderName": "0018_entertainment_sports-yahoo"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/19_shopping_underarmour",
-    "folderName": "19_shopping_underarmour"
+    "outDir": "output_mind2web/0019_entertainment_sports-yahoo",
+    "folderName": "0019_entertainment_sports-yahoo"
   },
   {
     "status": "ok",
-    "outDir": "output_mind2web/20_shopping_bookdepository",
-    "folderName": "20_shopping_bookdepository"
+    "outDir": "output_mind2web/0020_entertainment_sports-yahoo",
+    "folderName": "0020_entertainment_sports-yahoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0021_travel_spothero",
+    "folderName": "0021_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0022_travel_spothero",
+    "folderName": "0022_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0023_travel_kayak",
+    "folderName": "0023_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0024_travel_kayak",
+    "folderName": "0024_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0025_entertainment_imdb",
+    "folderName": "0025_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0026_entertainment_imdb",
+    "folderName": "0026_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0027_entertainment_imdb",
+    "folderName": "0027_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0028_entertainment_imdb",
+    "folderName": "0028_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0029_entertainment_imdb",
+    "folderName": "0029_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0030_shopping_bookdepository",
+    "folderName": "0030_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0031_shopping_bookdepository",
+    "folderName": "0031_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0032_travel_qatarairways",
+    "folderName": "0032_travel_qatarairways"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0033_shopping_ikea",
+    "folderName": "0033_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0034_travel_kayak",
+    "folderName": "0034_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0035_travel_kayak",
+    "folderName": "0035_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0036_travel_resy",
+    "folderName": "0036_travel_resy"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0037_entertainment_last-fm",
+    "folderName": "0037_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0038_entertainment_last-fm",
+    "folderName": "0038_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0039_travel_budget",
+    "folderName": "0039_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0040_travel_budget",
+    "folderName": "0040_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0041_travel_budget",
+    "folderName": "0041_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0042_travel_sixflags",
+    "folderName": "0042_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0043_travel_sixflags",
+    "folderName": "0043_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0044_travel_sixflags",
+    "folderName": "0044_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0045_travel_resy",
+    "folderName": "0045_travel_resy"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0046_travel_resy",
+    "folderName": "0046_travel_resy"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0047_travel_resy",
+    "folderName": "0047_travel_resy"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0048_shopping_tesla",
+    "folderName": "0048_shopping_tesla"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0049_entertainment_soundcloud",
+    "folderName": "0049_entertainment_soundcloud"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0050_entertainment_soundcloud",
+    "folderName": "0050_entertainment_soundcloud"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0051_shopping_cargurus",
+    "folderName": "0051_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0052_shopping_cargurus",
+    "folderName": "0052_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0053_shopping_uniqlo",
+    "folderName": "0053_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0054_entertainment_foxsports",
+    "folderName": "0054_entertainment_foxsports"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0055_shopping_gamestop",
+    "folderName": "0055_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0056_shopping_gamestop",
+    "folderName": "0056_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0057_travel_yelp",
+    "folderName": "0057_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0058_travel_qatarairways",
+    "folderName": "0058_travel_qatarairways"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0059_entertainment_imdb",
+    "folderName": "0059_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0060_travel_united",
+    "folderName": "0060_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0061_entertainment_eventbrite",
+    "folderName": "0061_entertainment_eventbrite"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0062_entertainment_eventbrite",
+    "folderName": "0062_entertainment_eventbrite"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0063_travel_expedia",
+    "folderName": "0063_travel_expedia"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0064_travel_us-megabus",
+    "folderName": "0064_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0065_shopping_cabelas",
+    "folderName": "0065_shopping_cabelas"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0066_travel_rentalcars",
+    "folderName": "0066_travel_rentalcars"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0067_travel_rentalcars",
+    "folderName": "0067_travel_rentalcars"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0068_travel_resy",
+    "folderName": "0068_travel_resy"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0069_travel_resy",
+    "folderName": "0069_travel_resy"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0070_entertainment_imdb",
+    "folderName": "0070_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0071_entertainment_imdb",
+    "folderName": "0071_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0072_entertainment_imdb",
+    "folderName": "0072_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0073_travel_kayak",
+    "folderName": "0073_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0074_travel_sixflags",
+    "folderName": "0074_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0075_travel_sixflags",
+    "folderName": "0075_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0076_entertainment_last-fm",
+    "folderName": "0076_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0077_shopping_menards",
+    "folderName": "0077_shopping_menards"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0078_shopping_menards",
+    "folderName": "0078_shopping_menards"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0079_entertainment_store-steampowered",
+    "folderName": "0079_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0080_entertainment_store-steampowered",
+    "folderName": "0080_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0081_entertainment_store-steampowered",
+    "folderName": "0081_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0082_entertainment_store-steampowered",
+    "folderName": "0082_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0083_travel_amtrak",
+    "folderName": "0083_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0084_travel_amtrak",
+    "folderName": "0084_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0085_shopping_rei",
+    "folderName": "0085_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0086_shopping_rei",
+    "folderName": "0086_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0087_entertainment_amctheatres",
+    "folderName": "0087_entertainment_amctheatres"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0088_entertainment_amctheatres",
+    "folderName": "0088_entertainment_amctheatres"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0089_entertainment_amctheatres",
+    "folderName": "0089_entertainment_amctheatres"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0090_entertainment_amctheatres",
+    "folderName": "0090_entertainment_amctheatres"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0091_entertainment_amctheatres",
+    "folderName": "0091_entertainment_amctheatres"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0092_entertainment_amctheatres",
+    "folderName": "0092_entertainment_amctheatres"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0093_entertainment_amctheatres",
+    "folderName": "0093_entertainment_amctheatres"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0094_entertainment_amctheatres",
+    "folderName": "0094_entertainment_amctheatres"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0095_travel_sixflags",
+    "folderName": "0095_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0096_shopping_ikea",
+    "folderName": "0096_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0097_shopping_ikea",
+    "folderName": "0097_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0098_entertainment_imdb",
+    "folderName": "0098_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0099_shopping_underarmour",
+    "folderName": "0099_shopping_underarmour"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0100_shopping_underarmour",
+    "folderName": "0100_shopping_underarmour"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0101_travel_kayak",
+    "folderName": "0101_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0102_travel_kayak",
+    "folderName": "0102_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0103_entertainment_ign",
+    "folderName": "0103_entertainment_ign"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0104_travel_kayak",
+    "folderName": "0104_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0105_travel_carnival",
+    "folderName": "0105_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0106_travel_carnival",
+    "folderName": "0106_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0107_travel_carnival",
+    "folderName": "0107_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0108_travel_carnival",
+    "folderName": "0108_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0109_travel_carnival",
+    "folderName": "0109_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0110_travel_carnival",
+    "folderName": "0110_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0111_travel_united",
+    "folderName": "0111_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0112_shopping_apple",
+    "folderName": "0112_shopping_apple"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0113_shopping_target",
+    "folderName": "0113_shopping_target"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0114_travel_marriott",
+    "folderName": "0114_travel_marriott"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0115_travel_marriott",
+    "folderName": "0115_travel_marriott"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0116_shopping_amazon",
+    "folderName": "0116_shopping_amazon"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0117_shopping_ebay",
+    "folderName": "0117_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0118_shopping_cabelas",
+    "folderName": "0118_shopping_cabelas"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0119_shopping_cabelas",
+    "folderName": "0119_shopping_cabelas"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0120_shopping_kbb",
+    "folderName": "0120_shopping_kbb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0121_shopping_kbb",
+    "folderName": "0121_shopping_kbb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0122_shopping_kohls",
+    "folderName": "0122_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0123_shopping_kohls",
+    "folderName": "0123_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0124_travel_flightaware",
+    "folderName": "0124_travel_flightaware"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0125_travel_flightaware",
+    "folderName": "0125_travel_flightaware"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0126_travel_flightaware",
+    "folderName": "0126_travel_flightaware"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0127_entertainment_foxsports",
+    "folderName": "0127_entertainment_foxsports"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0128_travel_yelp",
+    "folderName": "0128_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0129_travel_yelp",
+    "folderName": "0129_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0130_travel_yelp",
+    "folderName": "0130_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0131_entertainment_store-steampowered",
+    "folderName": "0131_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0132_entertainment_store-steampowered",
+    "folderName": "0132_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0133_travel_amtrak",
+    "folderName": "0133_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0134_travel_amtrak",
+    "folderName": "0134_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0135_entertainment_tvguide",
+    "folderName": "0135_entertainment_tvguide"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0136_entertainment_rottentomatoes",
+    "folderName": "0136_entertainment_rottentomatoes"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0137_entertainment_rottentomatoes",
+    "folderName": "0137_entertainment_rottentomatoes"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0138_travel_nps-gov",
+    "folderName": "0138_travel_nps-gov"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0139_shopping_bookdepository",
+    "folderName": "0139_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0140_shopping_bookdepository",
+    "folderName": "0140_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0141_shopping_carmax",
+    "folderName": "0141_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0142_shopping_carmax",
+    "folderName": "0142_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0143_shopping_carmax",
+    "folderName": "0143_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0144_shopping_carmax",
+    "folderName": "0144_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0145_travel_jetblue",
+    "folderName": "0145_travel_jetblue"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0146_travel_spothero",
+    "folderName": "0146_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0147_travel_spothero",
+    "folderName": "0147_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0148_travel_spothero",
+    "folderName": "0148_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0149_travel_spothero",
+    "folderName": "0149_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0150_shopping_underarmour",
+    "folderName": "0150_shopping_underarmour"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0151_travel_united",
+    "folderName": "0151_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0152_entertainment_seatgeek",
+    "folderName": "0152_entertainment_seatgeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0153_travel_mbta",
+    "folderName": "0153_travel_mbta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0154_travel_mbta",
+    "folderName": "0154_travel_mbta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0155_travel_mbta",
+    "folderName": "0155_travel_mbta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0156_travel_mbta",
+    "folderName": "0156_travel_mbta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0157_shopping_newegg",
+    "folderName": "0157_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0158_entertainment_boardgamegeek",
+    "folderName": "0158_entertainment_boardgamegeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0159_entertainment_boardgamegeek",
+    "folderName": "0159_entertainment_boardgamegeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0160_entertainment_boardgamegeek",
+    "folderName": "0160_entertainment_boardgamegeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0161_entertainment_boardgamegeek",
+    "folderName": "0161_entertainment_boardgamegeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0162_travel_yelp",
+    "folderName": "0162_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0163_travel_yelp",
+    "folderName": "0163_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0164_shopping_target",
+    "folderName": "0164_shopping_target"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0165_shopping_target",
+    "folderName": "0165_shopping_target"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0166_shopping_target",
+    "folderName": "0166_shopping_target"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0167_travel_flightaware",
+    "folderName": "0167_travel_flightaware"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0168_travel_flightaware",
+    "folderName": "0168_travel_flightaware"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0169_shopping_uniqlo",
+    "folderName": "0169_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0170_shopping_uniqlo",
+    "folderName": "0170_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0171_travel_rentalcars",
+    "folderName": "0171_travel_rentalcars"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0172_travel_rentalcars",
+    "folderName": "0172_travel_rentalcars"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0173_travel_rentalcars",
+    "folderName": "0173_travel_rentalcars"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0174_travel_rentalcars",
+    "folderName": "0174_travel_rentalcars"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0175_shopping_kbb",
+    "folderName": "0175_shopping_kbb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0176_shopping_kbb",
+    "folderName": "0176_shopping_kbb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0177_shopping_gamestop",
+    "folderName": "0177_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0178_shopping_bookdepository",
+    "folderName": "0178_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0179_shopping_bookdepository",
+    "folderName": "0179_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0180_shopping_uniqlo",
+    "folderName": "0180_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0181_travel_yellowpages",
+    "folderName": "0181_travel_yellowpages"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0182_travel_yellowpages",
+    "folderName": "0182_travel_yellowpages"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0183_travel_yellowpages",
+    "folderName": "0183_travel_yellowpages"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0184_shopping_carmax",
+    "folderName": "0184_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0185_shopping_carmax",
+    "folderName": "0185_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0186_shopping_ebay",
+    "folderName": "0186_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0187_shopping_ebay",
+    "folderName": "0187_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0188_shopping_ebay",
+    "folderName": "0188_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0189_travel_budget",
+    "folderName": "0189_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0190_travel_budget",
+    "folderName": "0190_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0191_shopping_newegg",
+    "folderName": "0191_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0192_travel_nps-gov",
+    "folderName": "0192_travel_nps-gov"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0193_travel_nps-gov",
+    "folderName": "0193_travel_nps-gov"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0194_travel_nps-gov",
+    "folderName": "0194_travel_nps-gov"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0195_travel_nps-gov",
+    "folderName": "0195_travel_nps-gov"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0196_travel_nps-gov",
+    "folderName": "0196_travel_nps-gov"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0197_travel_nps-gov",
+    "folderName": "0197_travel_nps-gov"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0198_travel_nps-gov",
+    "folderName": "0198_travel_nps-gov"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0199_travel_nps-gov",
+    "folderName": "0199_travel_nps-gov"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0200_travel_nps-gov",
+    "folderName": "0200_travel_nps-gov"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0201_travel_booking",
+    "folderName": "0201_travel_booking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0202_travel_booking",
+    "folderName": "0202_travel_booking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0203_travel_booking",
+    "folderName": "0203_travel_booking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0204_shopping_cargurus",
+    "folderName": "0204_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0205_shopping_cargurus",
+    "folderName": "0205_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0206_shopping_cargurus",
+    "folderName": "0206_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0207_entertainment_last-fm",
+    "folderName": "0207_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0208_entertainment_last-fm",
+    "folderName": "0208_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0209_entertainment_last-fm",
+    "folderName": "0209_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0210_entertainment_last-fm",
+    "folderName": "0210_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0211_shopping_rei",
+    "folderName": "0211_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0212_travel_budget",
+    "folderName": "0212_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0213_travel_budget",
+    "folderName": "0213_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0214_travel_budget",
+    "folderName": "0214_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0215_travel_new-mta-info",
+    "folderName": "0215_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0216_travel_new-mta-info",
+    "folderName": "0216_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0217_travel_new-mta-info",
+    "folderName": "0217_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0218_travel_new-mta-info",
+    "folderName": "0218_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0219_travel_new-mta-info",
+    "folderName": "0219_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0220_travel_new-mta-info",
+    "folderName": "0220_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0221_shopping_gamestop",
+    "folderName": "0221_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0222_entertainment_imdb",
+    "folderName": "0222_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0223_entertainment_imdb",
+    "folderName": "0223_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0224_entertainment_imdb",
+    "folderName": "0224_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0225_entertainment_sports-yahoo",
+    "folderName": "0225_entertainment_sports-yahoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0226_entertainment_sports-yahoo",
+    "folderName": "0226_entertainment_sports-yahoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0227_entertainment_sports-yahoo",
+    "folderName": "0227_entertainment_sports-yahoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0228_travel_agoda",
+    "folderName": "0228_travel_agoda"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0229_travel_agoda",
+    "folderName": "0229_travel_agoda"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0230_travel_sixflags",
+    "folderName": "0230_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0231_travel_sixflags",
+    "folderName": "0231_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0232_shopping_carmax",
+    "folderName": "0232_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0233_shopping_carmax",
+    "folderName": "0233_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0234_travel_new-mta-info",
+    "folderName": "0234_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0235_shopping_newegg",
+    "folderName": "0235_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0236_travel_carnival",
+    "folderName": "0236_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0237_travel_carnival",
+    "folderName": "0237_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0238_travel_resy",
+    "folderName": "0238_travel_resy"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0239_travel_resy",
+    "folderName": "0239_travel_resy"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0240_travel_resy",
+    "folderName": "0240_travel_resy"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0241_entertainment_rottentomatoes",
+    "folderName": "0241_entertainment_rottentomatoes"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0242_entertainment_rottentomatoes",
+    "folderName": "0242_entertainment_rottentomatoes"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0243_shopping_newegg",
+    "folderName": "0243_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0244_travel_spothero",
+    "folderName": "0244_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0245_travel_spothero",
+    "folderName": "0245_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0246_travel_spothero",
+    "folderName": "0246_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0247_travel_spothero",
+    "folderName": "0247_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0248_travel_spothero",
+    "folderName": "0248_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0249_travel_spothero",
+    "folderName": "0249_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0250_travel_spothero",
+    "folderName": "0250_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0251_travel_spothero",
+    "folderName": "0251_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0252_travel_amtrak",
+    "folderName": "0252_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0253_entertainment_ticketcenter",
+    "folderName": "0253_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0254_shopping_newegg",
+    "folderName": "0254_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0255_shopping_apple",
+    "folderName": "0255_shopping_apple"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0256_shopping_apple",
+    "folderName": "0256_shopping_apple"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0257_shopping_target",
+    "folderName": "0257_shopping_target"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0258_entertainment_ticketcenter",
+    "folderName": "0258_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0259_entertainment_ticketcenter",
+    "folderName": "0259_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0260_entertainment_ticketcenter",
+    "folderName": "0260_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0261_entertainment_ticketcenter",
+    "folderName": "0261_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0262_entertainment_ticketcenter",
+    "folderName": "0262_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0263_entertainment_ticketcenter",
+    "folderName": "0263_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0264_travel_carnival",
+    "folderName": "0264_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0265_travel_carnival",
+    "folderName": "0265_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0266_shopping_kbb",
+    "folderName": "0266_shopping_kbb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0267_shopping_carmax",
+    "folderName": "0267_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0268_entertainment_seatgeek",
+    "folderName": "0268_entertainment_seatgeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0269_entertainment_seatgeek",
+    "folderName": "0269_entertainment_seatgeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0270_entertainment_seatgeek",
+    "folderName": "0270_entertainment_seatgeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0271_entertainment_seatgeek",
+    "folderName": "0271_entertainment_seatgeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0272_travel_yellowpages",
+    "folderName": "0272_travel_yellowpages"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0273_travel_yellowpages",
+    "folderName": "0273_travel_yellowpages"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0274_travel_yellowpages",
+    "folderName": "0274_travel_yellowpages"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0275_shopping_menards",
+    "folderName": "0275_shopping_menards"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0276_shopping_menards",
+    "folderName": "0276_shopping_menards"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0277_travel_budget",
+    "folderName": "0277_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0278_travel_marriott",
+    "folderName": "0278_travel_marriott"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0279_entertainment_store-steampowered",
+    "folderName": "0279_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0280_entertainment_store-steampowered",
+    "folderName": "0280_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0281_entertainment_store-steampowered",
+    "folderName": "0281_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0282_shopping_cargurus",
+    "folderName": "0282_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0283_shopping_rei",
+    "folderName": "0283_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0284_travel_united",
+    "folderName": "0284_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0285_travel_yelp",
+    "folderName": "0285_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0286_entertainment_nfl",
+    "folderName": "0286_entertainment_nfl"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0287_travel_thetrainline",
+    "folderName": "0287_travel_thetrainline"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0288_travel_thetrainline",
+    "folderName": "0288_travel_thetrainline"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0289_travel_ryanair",
+    "folderName": "0289_travel_ryanair"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0290_travel_ryanair",
+    "folderName": "0290_travel_ryanair"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0291_shopping_kohls",
+    "folderName": "0291_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0292_travel_united",
+    "folderName": "0292_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0293_travel_united",
+    "folderName": "0293_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0294_travel_united",
+    "folderName": "0294_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0295_travel_united",
+    "folderName": "0295_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0296_shopping_newegg",
+    "folderName": "0296_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0297_shopping_ikea",
+    "folderName": "0297_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0298_travel_qatarairways",
+    "folderName": "0298_travel_qatarairways"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0299_travel_qatarairways",
+    "folderName": "0299_travel_qatarairways"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0300_travel_mbta",
+    "folderName": "0300_travel_mbta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0301_travel_yellowpages",
+    "folderName": "0301_travel_yellowpages"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0302_travel_yelp",
+    "folderName": "0302_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0303_travel_booking",
+    "folderName": "0303_travel_booking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0304_travel_carnival",
+    "folderName": "0304_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0305_travel_carnival",
+    "folderName": "0305_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0306_travel_carnival",
+    "folderName": "0306_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0307_entertainment_ultimate-guitar",
+    "folderName": "0307_entertainment_ultimate-guitar"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0308_travel_resy",
+    "folderName": "0308_travel_resy"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0309_travel_resy",
+    "folderName": "0309_travel_resy"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0310_travel_resy",
+    "folderName": "0310_travel_resy"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0311_travel_resy",
+    "folderName": "0311_travel_resy"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0312_travel_enterprise",
+    "folderName": "0312_travel_enterprise"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0313_travel_enterprise",
+    "folderName": "0313_travel_enterprise"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0314_shopping_cvs",
+    "folderName": "0314_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0315_travel_qatarairways",
+    "folderName": "0315_travel_qatarairways"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0316_travel_qatarairways",
+    "folderName": "0316_travel_qatarairways"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0317_shopping_bookdepository",
+    "folderName": "0317_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0318_shopping_bookdepository",
+    "folderName": "0318_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0319_shopping_bookdepository",
+    "folderName": "0319_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0320_shopping_bookdepository",
+    "folderName": "0320_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0321_shopping_kbb",
+    "folderName": "0321_shopping_kbb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0322_shopping_bookdepository",
+    "folderName": "0322_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0323_shopping_bookdepository",
+    "folderName": "0323_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0324_travel_aa",
+    "folderName": "0324_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0325_travel_aa",
+    "folderName": "0325_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0326_travel_aa",
+    "folderName": "0326_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0327_travel_aa",
+    "folderName": "0327_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0328_travel_aa",
+    "folderName": "0328_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0329_entertainment_ign",
+    "folderName": "0329_entertainment_ign"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0330_entertainment_ign",
+    "folderName": "0330_entertainment_ign"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0331_travel_carnival",
+    "folderName": "0331_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0332_travel_carnival",
+    "folderName": "0332_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0333_travel_carnival",
+    "folderName": "0333_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0334_travel_carnival",
+    "folderName": "0334_travel_carnival"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0335_entertainment_rottentomatoes",
+    "folderName": "0335_entertainment_rottentomatoes"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0336_travel_marriott",
+    "folderName": "0336_travel_marriott"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0337_entertainment_soundcloud",
+    "folderName": "0337_entertainment_soundcloud"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0338_entertainment_soundcloud",
+    "folderName": "0338_entertainment_soundcloud"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0339_travel_parking",
+    "folderName": "0339_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0340_travel_parking",
+    "folderName": "0340_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0341_travel_parking",
+    "folderName": "0341_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0342_travel_parking",
+    "folderName": "0342_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0343_travel_parking",
+    "folderName": "0343_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0344_travel_ryanair",
+    "folderName": "0344_travel_ryanair"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0345_travel_ryanair",
+    "folderName": "0345_travel_ryanair"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0346_shopping_instacart",
+    "folderName": "0346_shopping_instacart"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0347_travel_yelp",
+    "folderName": "0347_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0348_entertainment_sports-yahoo",
+    "folderName": "0348_entertainment_sports-yahoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0349_entertainment_sports-yahoo",
+    "folderName": "0349_entertainment_sports-yahoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0350_entertainment_sports-yahoo",
+    "folderName": "0350_entertainment_sports-yahoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0351_entertainment_sports-yahoo",
+    "folderName": "0351_entertainment_sports-yahoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0352_shopping_ikea",
+    "folderName": "0352_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0353_shopping_ikea",
+    "folderName": "0353_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0354_shopping_underarmour",
+    "folderName": "0354_shopping_underarmour"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0355_entertainment_tvguide",
+    "folderName": "0355_entertainment_tvguide"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0356_entertainment_tvguide",
+    "folderName": "0356_entertainment_tvguide"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0357_travel_enterprise",
+    "folderName": "0357_travel_enterprise"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0358_travel_viator",
+    "folderName": "0358_travel_viator"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0359_shopping_ikea",
+    "folderName": "0359_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0360_shopping_ikea",
+    "folderName": "0360_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0361_shopping_ikea",
+    "folderName": "0361_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0362_shopping_ikea",
+    "folderName": "0362_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0363_entertainment_seatgeek",
+    "folderName": "0363_entertainment_seatgeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0364_entertainment_seatgeek",
+    "folderName": "0364_entertainment_seatgeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0365_travel_aa",
+    "folderName": "0365_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0366_travel_aa",
+    "folderName": "0366_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0367_travel_ryanair",
+    "folderName": "0367_travel_ryanair"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0368_travel_amtrak",
+    "folderName": "0368_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0369_travel_amtrak",
+    "folderName": "0369_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0370_travel_nps-gov",
+    "folderName": "0370_travel_nps-gov"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0371_travel_nps-gov",
+    "folderName": "0371_travel_nps-gov"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0372_travel_nps-gov",
+    "folderName": "0372_travel_nps-gov"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0373_entertainment_nyc",
+    "folderName": "0373_entertainment_nyc"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0374_entertainment_nyc",
+    "folderName": "0374_entertainment_nyc"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0375_entertainment_nyc",
+    "folderName": "0375_entertainment_nyc"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0376_travel_kayak",
+    "folderName": "0376_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0377_travel_kayak",
+    "folderName": "0377_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0378_travel_flightaware",
+    "folderName": "0378_travel_flightaware"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0379_entertainment_store-steampowered",
+    "folderName": "0379_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0380_travel_jetblue",
+    "folderName": "0380_travel_jetblue"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0381_travel_qatarairways",
+    "folderName": "0381_travel_qatarairways"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0382_entertainment_discogs",
+    "folderName": "0382_entertainment_discogs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0383_shopping_newegg",
+    "folderName": "0383_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0384_shopping_rei",
+    "folderName": "0384_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0385_shopping_rei",
+    "folderName": "0385_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0386_shopping_rei",
+    "folderName": "0386_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0387_shopping_cvs",
+    "folderName": "0387_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0388_shopping_newegg",
+    "folderName": "0388_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0389_travel_qatarairways",
+    "folderName": "0389_travel_qatarairways"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0390_travel_amtrak",
+    "folderName": "0390_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0391_travel_amtrak",
+    "folderName": "0391_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0392_shopping_amazon",
+    "folderName": "0392_shopping_amazon"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0393_shopping_amazon",
+    "folderName": "0393_shopping_amazon"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0394_entertainment_ign",
+    "folderName": "0394_entertainment_ign"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0395_travel_mbta",
+    "folderName": "0395_travel_mbta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0396_travel_mbta",
+    "folderName": "0396_travel_mbta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0397_travel_mbta",
+    "folderName": "0397_travel_mbta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0398_shopping_menards",
+    "folderName": "0398_shopping_menards"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0399_shopping_gamestop",
+    "folderName": "0399_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0400_shopping_gamestop",
+    "folderName": "0400_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0401_travel_exploretock",
+    "folderName": "0401_travel_exploretock"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0402_travel_exploretock",
+    "folderName": "0402_travel_exploretock"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0403_travel_travelzoo",
+    "folderName": "0403_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0404_travel_travelzoo",
+    "folderName": "0404_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0405_travel_travelzoo",
+    "folderName": "0405_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0406_travel_agoda",
+    "folderName": "0406_travel_agoda"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0407_travel_agoda",
+    "folderName": "0407_travel_agoda"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0408_travel_agoda",
+    "folderName": "0408_travel_agoda"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0409_shopping_amazon",
+    "folderName": "0409_shopping_amazon"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0410_entertainment_store-steampowered",
+    "folderName": "0410_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0411_entertainment_store-steampowered",
+    "folderName": "0411_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0412_shopping_kbb",
+    "folderName": "0412_shopping_kbb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0413_shopping_kbb",
+    "folderName": "0413_shopping_kbb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0414_shopping_kbb",
+    "folderName": "0414_shopping_kbb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0415_shopping_cvs",
+    "folderName": "0415_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0416_shopping_cvs",
+    "folderName": "0416_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0417_shopping_cvs",
+    "folderName": "0417_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0418_shopping_newegg",
+    "folderName": "0418_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0419_shopping_newegg",
+    "folderName": "0419_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0420_entertainment_store-steampowered",
+    "folderName": "0420_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0421_entertainment_store-steampowered",
+    "folderName": "0421_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0422_entertainment_store-steampowered",
+    "folderName": "0422_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0423_entertainment_store-steampowered",
+    "folderName": "0423_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0424_entertainment_store-steampowered",
+    "folderName": "0424_entertainment_store-steampowered"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0425_travel_expedia",
+    "folderName": "0425_travel_expedia"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0426_travel_delta",
+    "folderName": "0426_travel_delta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0427_travel_delta",
+    "folderName": "0427_travel_delta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0428_travel_delta",
+    "folderName": "0428_travel_delta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0429_travel_expedia",
+    "folderName": "0429_travel_expedia"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0430_travel_marriott",
+    "folderName": "0430_travel_marriott"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0431_travel_ryanair",
+    "folderName": "0431_travel_ryanair"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0432_travel_ryanair",
+    "folderName": "0432_travel_ryanair"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0433_shopping_cabelas",
+    "folderName": "0433_shopping_cabelas"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0434_shopping_cabelas",
+    "folderName": "0434_shopping_cabelas"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0435_travel_new-mta-info",
+    "folderName": "0435_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0436_travel_travelzoo",
+    "folderName": "0436_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0437_travel_travelzoo",
+    "folderName": "0437_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0438_travel_amtrak",
+    "folderName": "0438_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0439_travel_amtrak",
+    "folderName": "0439_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0440_travel_amtrak",
+    "folderName": "0440_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0441_travel_mbta",
+    "folderName": "0441_travel_mbta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0442_travel_mbta",
+    "folderName": "0442_travel_mbta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0443_travel_mbta",
+    "folderName": "0443_travel_mbta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0444_travel_mbta",
+    "folderName": "0444_travel_mbta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0445_travel_mbta",
+    "folderName": "0445_travel_mbta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0446_travel_marriott",
+    "folderName": "0446_travel_marriott"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0447_travel_marriott",
+    "folderName": "0447_travel_marriott"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0448_travel_marriott",
+    "folderName": "0448_travel_marriott"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0449_entertainment_eventbrite",
+    "folderName": "0449_entertainment_eventbrite"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0450_entertainment_eventbrite",
+    "folderName": "0450_entertainment_eventbrite"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0451_travel_yelp",
+    "folderName": "0451_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0452_travel_thetrainline",
+    "folderName": "0452_travel_thetrainline"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0453_travel_thetrainline",
+    "folderName": "0453_travel_thetrainline"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0454_travel_thetrainline",
+    "folderName": "0454_travel_thetrainline"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0455_entertainment_tvguide",
+    "folderName": "0455_entertainment_tvguide"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0456_entertainment_tvguide",
+    "folderName": "0456_entertainment_tvguide"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0457_shopping_uniqlo",
+    "folderName": "0457_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0458_travel_united",
+    "folderName": "0458_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0459_shopping_gamestop",
+    "folderName": "0459_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0460_travel_agoda",
+    "folderName": "0460_travel_agoda"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0461_travel_agoda",
+    "folderName": "0461_travel_agoda"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0462_entertainment_sports-yahoo",
+    "folderName": "0462_entertainment_sports-yahoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0463_travel_united",
+    "folderName": "0463_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0464_travel_koa",
+    "folderName": "0464_travel_koa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0465_travel_koa",
+    "folderName": "0465_travel_koa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0466_travel_koa",
+    "folderName": "0466_travel_koa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0467_travel_koa",
+    "folderName": "0467_travel_koa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0468_travel_koa",
+    "folderName": "0468_travel_koa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0469_shopping_kohls",
+    "folderName": "0469_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0470_entertainment_nyc",
+    "folderName": "0470_entertainment_nyc"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0471_entertainment_eventbrite",
+    "folderName": "0471_entertainment_eventbrite"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0472_entertainment_eventbrite",
+    "folderName": "0472_entertainment_eventbrite"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0473_shopping_ikea",
+    "folderName": "0473_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0474_shopping_ikea",
+    "folderName": "0474_shopping_ikea"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0475_shopping_carmax",
+    "folderName": "0475_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0476_shopping_carmax",
+    "folderName": "0476_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0477_entertainment_sports-yahoo",
+    "folderName": "0477_entertainment_sports-yahoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0478_travel_yelp",
+    "folderName": "0478_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0479_travel_yelp",
+    "folderName": "0479_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0480_travel_aa",
+    "folderName": "0480_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0481_travel_aa",
+    "folderName": "0481_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0482_travel_aa",
+    "folderName": "0482_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0483_travel_expedia",
+    "folderName": "0483_travel_expedia"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0484_travel_expedia",
+    "folderName": "0484_travel_expedia"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0485_shopping_target",
+    "folderName": "0485_shopping_target"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0486_travel_united",
+    "folderName": "0486_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0487_shopping_uniqlo",
+    "folderName": "0487_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0488_entertainment_nyc",
+    "folderName": "0488_entertainment_nyc"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0489_entertainment_nyc",
+    "folderName": "0489_entertainment_nyc"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0490_entertainment_nyc",
+    "folderName": "0490_entertainment_nyc"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0491_shopping_rei",
+    "folderName": "0491_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0492_travel_viator",
+    "folderName": "0492_travel_viator"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0493_travel_viator",
+    "folderName": "0493_travel_viator"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0494_shopping_cvs",
+    "folderName": "0494_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0495_travel_enterprise",
+    "folderName": "0495_travel_enterprise"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0496_shopping_target",
+    "folderName": "0496_shopping_target"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0497_shopping_target",
+    "folderName": "0497_shopping_target"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0498_shopping_target",
+    "folderName": "0498_shopping_target"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0499_travel_sixflags",
+    "folderName": "0499_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0500_shopping_newegg",
+    "folderName": "0500_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0501_shopping_newegg",
+    "folderName": "0501_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0502_shopping_ebay",
+    "folderName": "0502_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0503_entertainment_nfl",
+    "folderName": "0503_entertainment_nfl"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0504_entertainment_nfl",
+    "folderName": "0504_entertainment_nfl"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0505_entertainment_nfl",
+    "folderName": "0505_entertainment_nfl"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0506_entertainment_nfl",
+    "folderName": "0506_entertainment_nfl"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0507_shopping_ebay",
+    "folderName": "0507_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0508_shopping_ebay",
+    "folderName": "0508_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0509_shopping_ebay",
+    "folderName": "0509_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0510_shopping_ebay",
+    "folderName": "0510_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0511_shopping_cargurus",
+    "folderName": "0511_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0512_shopping_cargurus",
+    "folderName": "0512_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0513_travel_viator",
+    "folderName": "0513_travel_viator"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0514_travel_viator",
+    "folderName": "0514_travel_viator"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0515_travel_budget",
+    "folderName": "0515_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0516_travel_budget",
+    "folderName": "0516_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0517_travel_budget",
+    "folderName": "0517_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0518_travel_marriott",
+    "folderName": "0518_travel_marriott"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0519_shopping_carmax",
+    "folderName": "0519_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0520_entertainment_soundcloud",
+    "folderName": "0520_entertainment_soundcloud"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0521_entertainment_soundcloud",
+    "folderName": "0521_entertainment_soundcloud"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0522_travel_agoda",
+    "folderName": "0522_travel_agoda"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0523_travel_agoda",
+    "folderName": "0523_travel_agoda"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0524_shopping_cargurus",
+    "folderName": "0524_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0525_shopping_cargurus",
+    "folderName": "0525_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0526_shopping_cargurus",
+    "folderName": "0526_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0527_shopping_cargurus",
+    "folderName": "0527_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0528_travel_ryanair",
+    "folderName": "0528_travel_ryanair"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0529_travel_parking",
+    "folderName": "0529_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0530_travel_parking",
+    "folderName": "0530_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0531_travel_parking",
+    "folderName": "0531_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0532_travel_us-megabus",
+    "folderName": "0532_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0533_travel_us-megabus",
+    "folderName": "0533_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0534_travel_us-megabus",
+    "folderName": "0534_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0535_travel_us-megabus",
+    "folderName": "0535_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0536_travel_us-megabus",
+    "folderName": "0536_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0537_travel_us-megabus",
+    "folderName": "0537_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0538_travel_us-megabus",
+    "folderName": "0538_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0539_entertainment_espn",
+    "folderName": "0539_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0540_entertainment_espn",
+    "folderName": "0540_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0541_shopping_rei",
+    "folderName": "0541_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0542_shopping_ebay",
+    "folderName": "0542_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0543_shopping_ebay",
+    "folderName": "0543_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0544_shopping_ebay",
+    "folderName": "0544_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0545_travel_enterprise",
+    "folderName": "0545_travel_enterprise"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0546_travel_yellowpages",
+    "folderName": "0546_travel_yellowpages"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0547_travel_sixflags",
+    "folderName": "0547_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0548_entertainment_ticketcenter",
+    "folderName": "0548_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0549_shopping_newegg",
+    "folderName": "0549_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0550_travel_marriott",
+    "folderName": "0550_travel_marriott"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0551_travel_marriott",
+    "folderName": "0551_travel_marriott"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0552_travel_yelp",
+    "folderName": "0552_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0553_entertainment_last-fm",
+    "folderName": "0553_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0554_entertainment_last-fm",
+    "folderName": "0554_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0555_entertainment_last-fm",
+    "folderName": "0555_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0556_shopping_ebay",
+    "folderName": "0556_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0557_shopping_ebay",
+    "folderName": "0557_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0558_travel_enterprise",
+    "folderName": "0558_travel_enterprise"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0559_entertainment_espn",
+    "folderName": "0559_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0560_entertainment_espn",
+    "folderName": "0560_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0561_entertainment_espn",
+    "folderName": "0561_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0562_entertainment_espn",
+    "folderName": "0562_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0563_shopping_kohls",
+    "folderName": "0563_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0564_travel_new-mta-info",
+    "folderName": "0564_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0565_travel_new-mta-info",
+    "folderName": "0565_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0566_travel_new-mta-info",
+    "folderName": "0566_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0567_travel_new-mta-info",
+    "folderName": "0567_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0568_travel_new-mta-info",
+    "folderName": "0568_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0569_travel_budget",
+    "folderName": "0569_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0570_travel_budget",
+    "folderName": "0570_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0571_travel_united",
+    "folderName": "0571_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0572_entertainment_amctheatres",
+    "folderName": "0572_entertainment_amctheatres"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0573_entertainment_amctheatres",
+    "folderName": "0573_entertainment_amctheatres"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0574_entertainment_amctheatres",
+    "folderName": "0574_entertainment_amctheatres"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0575_entertainment_sports-yahoo",
+    "folderName": "0575_entertainment_sports-yahoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0576_entertainment_sports-yahoo",
+    "folderName": "0576_entertainment_sports-yahoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0577_entertainment_sports-yahoo",
+    "folderName": "0577_entertainment_sports-yahoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0578_entertainment_sports-yahoo",
+    "folderName": "0578_entertainment_sports-yahoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0579_shopping_kohls",
+    "folderName": "0579_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0580_travel_travelzoo",
+    "folderName": "0580_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0581_travel_travelzoo",
+    "folderName": "0581_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0582_travel_travelzoo",
+    "folderName": "0582_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0583_travel_travelzoo",
+    "folderName": "0583_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0584_entertainment_espn",
+    "folderName": "0584_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0585_entertainment_espn",
+    "folderName": "0585_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0586_travel_yelp",
+    "folderName": "0586_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0587_shopping_rei",
+    "folderName": "0587_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0588_shopping_rei",
+    "folderName": "0588_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0589_shopping_newegg",
+    "folderName": "0589_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0590_entertainment_soundcloud",
+    "folderName": "0590_entertainment_soundcloud"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0591_entertainment_soundcloud",
+    "folderName": "0591_entertainment_soundcloud"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0592_travel_thetrainline",
+    "folderName": "0592_travel_thetrainline"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0593_shopping_gamestop",
+    "folderName": "0593_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0594_shopping_gamestop",
+    "folderName": "0594_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0595_shopping_gamestop",
+    "folderName": "0595_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0596_shopping_gamestop",
+    "folderName": "0596_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0597_shopping_gamestop",
+    "folderName": "0597_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0598_travel_united",
+    "folderName": "0598_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0599_travel_united",
+    "folderName": "0599_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0600_entertainment_espn",
+    "folderName": "0600_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0601_travel_yelp",
+    "folderName": "0601_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0602_travel_yelp",
+    "folderName": "0602_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0603_shopping_amazon",
+    "folderName": "0603_shopping_amazon"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0604_entertainment_foxsports",
+    "folderName": "0604_entertainment_foxsports"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0605_entertainment_foxsports",
+    "folderName": "0605_entertainment_foxsports"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0606_entertainment_foxsports",
+    "folderName": "0606_entertainment_foxsports"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0607_entertainment_ign",
+    "folderName": "0607_entertainment_ign"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0608_shopping_uniqlo",
+    "folderName": "0608_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0609_shopping_uniqlo",
+    "folderName": "0609_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0610_shopping_uniqlo",
+    "folderName": "0610_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0611_entertainment_ign",
+    "folderName": "0611_entertainment_ign"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0612_entertainment_ign",
+    "folderName": "0612_entertainment_ign"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0613_travel_travelzoo",
+    "folderName": "0613_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0614_travel_travelzoo",
+    "folderName": "0614_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0615_travel_flightaware",
+    "folderName": "0615_travel_flightaware"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0616_travel_flightaware",
+    "folderName": "0616_travel_flightaware"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0617_travel_flightaware",
+    "folderName": "0617_travel_flightaware"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0618_travel_flightaware",
+    "folderName": "0618_travel_flightaware"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0619_entertainment_ticketcenter",
+    "folderName": "0619_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0620_entertainment_ticketcenter",
+    "folderName": "0620_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0621_entertainment_boardgamegeek",
+    "folderName": "0621_entertainment_boardgamegeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0622_entertainment_boardgamegeek",
+    "folderName": "0622_entertainment_boardgamegeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0623_entertainment_last-fm",
+    "folderName": "0623_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0624_entertainment_last-fm",
+    "folderName": "0624_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0625_travel_thetrainline",
+    "folderName": "0625_travel_thetrainline"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0626_travel_thetrainline",
+    "folderName": "0626_travel_thetrainline"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0627_entertainment_ultimate-guitar",
+    "folderName": "0627_entertainment_ultimate-guitar"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0628_entertainment_ultimate-guitar",
+    "folderName": "0628_entertainment_ultimate-guitar"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0629_entertainment_ultimate-guitar",
+    "folderName": "0629_entertainment_ultimate-guitar"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0630_entertainment_ultimate-guitar",
+    "folderName": "0630_entertainment_ultimate-guitar"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0631_entertainment_ultimate-guitar",
+    "folderName": "0631_entertainment_ultimate-guitar"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0632_entertainment_ultimate-guitar",
+    "folderName": "0632_entertainment_ultimate-guitar"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0633_entertainment_ultimate-guitar",
+    "folderName": "0633_entertainment_ultimate-guitar"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0634_travel_yellowpages",
+    "folderName": "0634_travel_yellowpages"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0635_travel_koa",
+    "folderName": "0635_travel_koa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0636_travel_koa",
+    "folderName": "0636_travel_koa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0637_travel_koa",
+    "folderName": "0637_travel_koa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0638_travel_koa",
+    "folderName": "0638_travel_koa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0639_travel_koa",
+    "folderName": "0639_travel_koa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0640_travel_koa",
+    "folderName": "0640_travel_koa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0641_travel_koa",
+    "folderName": "0641_travel_koa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0642_entertainment_ticketcenter",
+    "folderName": "0642_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0643_entertainment_ticketcenter",
+    "folderName": "0643_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0644_entertainment_ticketcenter",
+    "folderName": "0644_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0645_travel_aa",
+    "folderName": "0645_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0646_travel_aa",
+    "folderName": "0646_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0647_entertainment_seatgeek",
+    "folderName": "0647_entertainment_seatgeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0648_entertainment_seatgeek",
+    "folderName": "0648_entertainment_seatgeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0649_shopping_kohls",
+    "folderName": "0649_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0650_shopping_kohls",
+    "folderName": "0650_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0651_travel_kayak",
+    "folderName": "0651_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0652_travel_kayak",
+    "folderName": "0652_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0653_entertainment_tvguide",
+    "folderName": "0653_entertainment_tvguide"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0654_entertainment_tvguide",
+    "folderName": "0654_entertainment_tvguide"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0655_travel_delta",
+    "folderName": "0655_travel_delta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0656_travel_us-megabus",
+    "folderName": "0656_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0657_travel_us-megabus",
+    "folderName": "0657_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0658_entertainment_foxsports",
+    "folderName": "0658_entertainment_foxsports"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0659_entertainment_foxsports",
+    "folderName": "0659_entertainment_foxsports"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0660_entertainment_foxsports",
+    "folderName": "0660_entertainment_foxsports"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0661_shopping_carmax",
+    "folderName": "0661_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0662_shopping_carmax",
+    "folderName": "0662_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0663_shopping_carmax",
+    "folderName": "0663_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0664_travel_kayak",
+    "folderName": "0664_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0665_travel_budget",
+    "folderName": "0665_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0666_travel_budget",
+    "folderName": "0666_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0667_shopping_cargurus",
+    "folderName": "0667_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0668_shopping_cargurus",
+    "folderName": "0668_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0669_travel_viator",
+    "folderName": "0669_travel_viator"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0670_travel_viator",
+    "folderName": "0670_travel_viator"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0671_shopping_newegg",
+    "folderName": "0671_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0672_entertainment_nfl",
+    "folderName": "0672_entertainment_nfl"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0673_travel_exploretock",
+    "folderName": "0673_travel_exploretock"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0674_shopping_gamestop",
+    "folderName": "0674_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0675_shopping_gamestop",
+    "folderName": "0675_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0676_travel_united",
+    "folderName": "0676_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0677_shopping_target",
+    "folderName": "0677_shopping_target"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0678_shopping_tesla",
+    "folderName": "0678_shopping_tesla"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0679_shopping_tesla",
+    "folderName": "0679_shopping_tesla"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0680_shopping_tesla",
+    "folderName": "0680_shopping_tesla"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0681_travel_thetrainline",
+    "folderName": "0681_travel_thetrainline"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0682_travel_thetrainline",
+    "folderName": "0682_travel_thetrainline"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0683_entertainment_rottentomatoes",
+    "folderName": "0683_entertainment_rottentomatoes"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0684_entertainment_espn",
+    "folderName": "0684_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0685_entertainment_espn",
+    "folderName": "0685_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0686_entertainment_imdb",
+    "folderName": "0686_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0687_entertainment_last-fm",
+    "folderName": "0687_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0688_entertainment_last-fm",
+    "folderName": "0688_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0689_entertainment_last-fm",
+    "folderName": "0689_entertainment_last-fm"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0690_shopping_newegg",
+    "folderName": "0690_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0691_travel_united",
+    "folderName": "0691_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0692_entertainment_rottentomatoes",
+    "folderName": "0692_entertainment_rottentomatoes"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0693_entertainment_rottentomatoes",
+    "folderName": "0693_entertainment_rottentomatoes"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0694_entertainment_espn",
+    "folderName": "0694_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0695_travel_yelp",
+    "folderName": "0695_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0696_travel_yelp",
+    "folderName": "0696_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0697_entertainment_espn",
+    "folderName": "0697_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0698_entertainment_ultimate-guitar",
+    "folderName": "0698_entertainment_ultimate-guitar"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0699_entertainment_ultimate-guitar",
+    "folderName": "0699_entertainment_ultimate-guitar"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0700_entertainment_soundcloud",
+    "folderName": "0700_entertainment_soundcloud"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0701_shopping_uniqlo",
+    "folderName": "0701_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0702_travel_qatarairways",
+    "folderName": "0702_travel_qatarairways"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0703_travel_enterprise",
+    "folderName": "0703_travel_enterprise"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0704_travel_enterprise",
+    "folderName": "0704_travel_enterprise"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0705_travel_parking",
+    "folderName": "0705_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0706_travel_parking",
+    "folderName": "0706_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0707_travel_parking",
+    "folderName": "0707_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0708_shopping_amazon",
+    "folderName": "0708_shopping_amazon"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0709_shopping_amazon",
+    "folderName": "0709_shopping_amazon"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0710_shopping_cabelas",
+    "folderName": "0710_shopping_cabelas"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0711_shopping_cabelas",
+    "folderName": "0711_shopping_cabelas"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0712_shopping_cabelas",
+    "folderName": "0712_shopping_cabelas"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0713_shopping_cabelas",
+    "folderName": "0713_shopping_cabelas"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0714_travel_yelp",
+    "folderName": "0714_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0715_travel_yelp",
+    "folderName": "0715_travel_yelp"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0716_travel_united",
+    "folderName": "0716_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0717_travel_ryanair",
+    "folderName": "0717_travel_ryanair"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0718_entertainment_eventbrite",
+    "folderName": "0718_entertainment_eventbrite"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0719_entertainment_eventbrite",
+    "folderName": "0719_entertainment_eventbrite"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0720_shopping_uniqlo",
+    "folderName": "0720_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0721_shopping_uniqlo",
+    "folderName": "0721_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0722_shopping_uniqlo",
+    "folderName": "0722_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0723_shopping_uniqlo",
+    "folderName": "0723_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0724_travel_yellowpages",
+    "folderName": "0724_travel_yellowpages"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0725_travel_yellowpages",
+    "folderName": "0725_travel_yellowpages"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0726_travel_yellowpages",
+    "folderName": "0726_travel_yellowpages"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0727_travel_jetblue",
+    "folderName": "0727_travel_jetblue"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0728_travel_jetblue",
+    "folderName": "0728_travel_jetblue"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0729_travel_jetblue",
+    "folderName": "0729_travel_jetblue"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0730_shopping_menards",
+    "folderName": "0730_shopping_menards"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0731_shopping_menards",
+    "folderName": "0731_shopping_menards"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0732_shopping_menards",
+    "folderName": "0732_shopping_menards"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0733_travel_viator",
+    "folderName": "0733_travel_viator"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0734_travel_viator",
+    "folderName": "0734_travel_viator"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0735_shopping_ebay",
+    "folderName": "0735_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0736_shopping_cvs",
+    "folderName": "0736_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0737_shopping_cvs",
+    "folderName": "0737_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0738_shopping_amazon",
+    "folderName": "0738_shopping_amazon"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0739_shopping_amazon",
+    "folderName": "0739_shopping_amazon"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0740_travel_delta",
+    "folderName": "0740_travel_delta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0741_travel_delta",
+    "folderName": "0741_travel_delta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0742_travel_delta",
+    "folderName": "0742_travel_delta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0743_travel_qatarairways",
+    "folderName": "0743_travel_qatarairways"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0744_travel_qatarairways",
+    "folderName": "0744_travel_qatarairways"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0745_shopping_amazon",
+    "folderName": "0745_shopping_amazon"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0746_entertainment_espn",
+    "folderName": "0746_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0747_entertainment_espn",
+    "folderName": "0747_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0748_entertainment_espn",
+    "folderName": "0748_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0749_travel_delta",
+    "folderName": "0749_travel_delta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0750_entertainment_discogs",
+    "folderName": "0750_entertainment_discogs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0751_entertainment_discogs",
+    "folderName": "0751_entertainment_discogs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0752_travel_us-megabus",
+    "folderName": "0752_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0753_travel_us-megabus",
+    "folderName": "0753_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0754_travel_marriott",
+    "folderName": "0754_travel_marriott"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0755_travel_marriott",
+    "folderName": "0755_travel_marriott"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0756_shopping_kbb",
+    "folderName": "0756_shopping_kbb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0757_travel_united",
+    "folderName": "0757_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0758_shopping_kohls",
+    "folderName": "0758_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0759_travel_enterprise",
+    "folderName": "0759_travel_enterprise"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0760_travel_kayak",
+    "folderName": "0760_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0761_shopping_kohls",
+    "folderName": "0761_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0762_travel_viator",
+    "folderName": "0762_travel_viator"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0763_shopping_gamestop",
+    "folderName": "0763_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0764_shopping_apple",
+    "folderName": "0764_shopping_apple"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0765_shopping_apple",
+    "folderName": "0765_shopping_apple"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0766_shopping_apple",
+    "folderName": "0766_shopping_apple"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0767_shopping_apple",
+    "folderName": "0767_shopping_apple"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0768_travel_qatarairways",
+    "folderName": "0768_travel_qatarairways"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0769_shopping_instacart",
+    "folderName": "0769_shopping_instacart"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0770_travel_jetblue",
+    "folderName": "0770_travel_jetblue"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0771_travel_exploretock",
+    "folderName": "0771_travel_exploretock"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0772_travel_enterprise",
+    "folderName": "0772_travel_enterprise"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0773_shopping_kohls",
+    "folderName": "0773_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0774_travel_united",
+    "folderName": "0774_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0775_travel_budget",
+    "folderName": "0775_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0776_shopping_underarmour",
+    "folderName": "0776_shopping_underarmour"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0777_shopping_kohls",
+    "folderName": "0777_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0778_shopping_kohls",
+    "folderName": "0778_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0779_travel_kayak",
+    "folderName": "0779_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0780_travel_kayak",
+    "folderName": "0780_travel_kayak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0781_entertainment_rottentomatoes",
+    "folderName": "0781_entertainment_rottentomatoes"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0782_travel_parking",
+    "folderName": "0782_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0783_travel_parking",
+    "folderName": "0783_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0784_travel_parking",
+    "folderName": "0784_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0785_travel_parking",
+    "folderName": "0785_travel_parking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0786_travel_amtrak",
+    "folderName": "0786_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0787_shopping_amazon",
+    "folderName": "0787_shopping_amazon"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0788_shopping_amazon",
+    "folderName": "0788_shopping_amazon"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0789_shopping_kohls",
+    "folderName": "0789_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0790_shopping_underarmour",
+    "folderName": "0790_shopping_underarmour"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0791_entertainment_rottentomatoes",
+    "folderName": "0791_entertainment_rottentomatoes"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0792_travel_us-megabus",
+    "folderName": "0792_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0793_travel_us-megabus",
+    "folderName": "0793_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0794_travel_us-megabus",
+    "folderName": "0794_travel_us-megabus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0795_shopping_carmax",
+    "folderName": "0795_shopping_carmax"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0796_travel_viator",
+    "folderName": "0796_travel_viator"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0797_shopping_kohls",
+    "folderName": "0797_shopping_kohls"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0798_travel_delta",
+    "folderName": "0798_travel_delta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0799_shopping_underarmour",
+    "folderName": "0799_shopping_underarmour"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0800_entertainment_ultimate-guitar",
+    "folderName": "0800_entertainment_ultimate-guitar"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0801_entertainment_ultimate-guitar",
+    "folderName": "0801_entertainment_ultimate-guitar"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0802_entertainment_ticketcenter",
+    "folderName": "0802_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0803_entertainment_ticketcenter",
+    "folderName": "0803_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0804_travel_sixflags",
+    "folderName": "0804_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0805_travel_sixflags",
+    "folderName": "0805_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0806_travel_viator",
+    "folderName": "0806_travel_viator"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0807_shopping_rei",
+    "folderName": "0807_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0808_shopping_newegg",
+    "folderName": "0808_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0809_entertainment_imdb",
+    "folderName": "0809_entertainment_imdb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0810_shopping_instacart",
+    "folderName": "0810_shopping_instacart"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0811_shopping_instacart",
+    "folderName": "0811_shopping_instacart"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0812_entertainment_redbox",
+    "folderName": "0812_entertainment_redbox"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0813_travel_booking",
+    "folderName": "0813_travel_booking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0814_entertainment_ticketcenter",
+    "folderName": "0814_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0815_entertainment_ticketcenter",
+    "folderName": "0815_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0816_entertainment_ticketcenter",
+    "folderName": "0816_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0817_entertainment_ticketcenter",
+    "folderName": "0817_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0818_entertainment_ticketcenter",
+    "folderName": "0818_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0819_shopping_uniqlo",
+    "folderName": "0819_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0820_shopping_tesla",
+    "folderName": "0820_shopping_tesla"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0821_shopping_tesla",
+    "folderName": "0821_shopping_tesla"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0822_shopping_tesla",
+    "folderName": "0822_shopping_tesla"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0823_shopping_tesla",
+    "folderName": "0823_shopping_tesla"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0824_shopping_tesla",
+    "folderName": "0824_shopping_tesla"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0825_shopping_tesla",
+    "folderName": "0825_shopping_tesla"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0826_shopping_tesla",
+    "folderName": "0826_shopping_tesla"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0827_shopping_tesla",
+    "folderName": "0827_shopping_tesla"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0828_shopping_newegg",
+    "folderName": "0828_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0829_shopping_uniqlo",
+    "folderName": "0829_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0830_shopping_uniqlo",
+    "folderName": "0830_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0831_entertainment_soundcloud",
+    "folderName": "0831_entertainment_soundcloud"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0832_entertainment_soundcloud",
+    "folderName": "0832_entertainment_soundcloud"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0833_shopping_gamestop",
+    "folderName": "0833_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0834_shopping_gamestop",
+    "folderName": "0834_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0835_shopping_gamestop",
+    "folderName": "0835_shopping_gamestop"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0836_entertainment_tvguide",
+    "folderName": "0836_entertainment_tvguide"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0837_travel_airbnb",
+    "folderName": "0837_travel_airbnb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0838_entertainment_rottentomatoes",
+    "folderName": "0838_entertainment_rottentomatoes"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0839_entertainment_seatgeek",
+    "folderName": "0839_entertainment_seatgeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0840_entertainment_seatgeek",
+    "folderName": "0840_entertainment_seatgeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0841_entertainment_seatgeek",
+    "folderName": "0841_entertainment_seatgeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0842_travel_new-mta-info",
+    "folderName": "0842_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0843_travel_new-mta-info",
+    "folderName": "0843_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0844_travel_new-mta-info",
+    "folderName": "0844_travel_new-mta-info"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0845_shopping_rei",
+    "folderName": "0845_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0846_entertainment_redbox",
+    "folderName": "0846_entertainment_redbox"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0847_entertainment_redbox",
+    "folderName": "0847_entertainment_redbox"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0848_entertainment_eventbrite",
+    "folderName": "0848_entertainment_eventbrite"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0849_entertainment_eventbrite",
+    "folderName": "0849_entertainment_eventbrite"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0850_entertainment_nyc",
+    "folderName": "0850_entertainment_nyc"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0851_entertainment_nyc",
+    "folderName": "0851_entertainment_nyc"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0852_entertainment_nyc",
+    "folderName": "0852_entertainment_nyc"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0853_shopping_underarmour",
+    "folderName": "0853_shopping_underarmour"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0854_travel_jetblue",
+    "folderName": "0854_travel_jetblue"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0855_travel_jetblue",
+    "folderName": "0855_travel_jetblue"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0856_travel_jetblue",
+    "folderName": "0856_travel_jetblue"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0857_shopping_newegg",
+    "folderName": "0857_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0858_travel_agoda",
+    "folderName": "0858_travel_agoda"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0859_entertainment_soundcloud",
+    "folderName": "0859_entertainment_soundcloud"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0860_travel_united",
+    "folderName": "0860_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0861_entertainment_espn",
+    "folderName": "0861_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0862_entertainment_espn",
+    "folderName": "0862_entertainment_espn"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0863_travel_mbta",
+    "folderName": "0863_travel_mbta"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0864_travel_travelzoo",
+    "folderName": "0864_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0865_travel_travelzoo",
+    "folderName": "0865_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0866_entertainment_amctheatres",
+    "folderName": "0866_entertainment_amctheatres"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0867_entertainment_tvguide",
+    "folderName": "0867_entertainment_tvguide"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0868_entertainment_tvguide",
+    "folderName": "0868_entertainment_tvguide"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0869_travel_ryanair",
+    "folderName": "0869_travel_ryanair"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0870_travel_ryanair",
+    "folderName": "0870_travel_ryanair"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0871_shopping_underarmour",
+    "folderName": "0871_shopping_underarmour"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0872_travel_spothero",
+    "folderName": "0872_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0873_travel_spothero",
+    "folderName": "0873_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0874_travel_expedia",
+    "folderName": "0874_travel_expedia"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0875_shopping_bookdepository",
+    "folderName": "0875_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0876_shopping_bookdepository",
+    "folderName": "0876_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0877_travel_booking",
+    "folderName": "0877_travel_booking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0878_travel_booking",
+    "folderName": "0878_travel_booking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0879_entertainment_foxsports",
+    "folderName": "0879_entertainment_foxsports"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0880_entertainment_foxsports",
+    "folderName": "0880_entertainment_foxsports"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0881_entertainment_foxsports",
+    "folderName": "0881_entertainment_foxsports"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0882_shopping_cvs",
+    "folderName": "0882_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0883_entertainment_boardgamegeek",
+    "folderName": "0883_entertainment_boardgamegeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0884_entertainment_boardgamegeek",
+    "folderName": "0884_entertainment_boardgamegeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0885_entertainment_boardgamegeek",
+    "folderName": "0885_entertainment_boardgamegeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0886_entertainment_boardgamegeek",
+    "folderName": "0886_entertainment_boardgamegeek"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0887_travel_sixflags",
+    "folderName": "0887_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0888_travel_agoda",
+    "folderName": "0888_travel_agoda"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0889_travel_travelzoo",
+    "folderName": "0889_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0890_travel_travelzoo",
+    "folderName": "0890_travel_travelzoo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0891_shopping_target",
+    "folderName": "0891_shopping_target"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0892_shopping_amazon",
+    "folderName": "0892_shopping_amazon"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0893_shopping_amazon",
+    "folderName": "0893_shopping_amazon"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0894_shopping_underarmour",
+    "folderName": "0894_shopping_underarmour"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0895_travel_aa",
+    "folderName": "0895_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0896_travel_aa",
+    "folderName": "0896_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0897_travel_aa",
+    "folderName": "0897_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0898_travel_aa",
+    "folderName": "0898_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0899_travel_aa",
+    "folderName": "0899_travel_aa"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0900_shopping_cargurus",
+    "folderName": "0900_shopping_cargurus"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0901_travel_budget",
+    "folderName": "0901_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0902_travel_budget",
+    "folderName": "0902_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0903_travel_budget",
+    "folderName": "0903_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0904_travel_budget",
+    "folderName": "0904_travel_budget"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0905_travel_resy",
+    "folderName": "0905_travel_resy"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0906_travel_amtrak",
+    "folderName": "0906_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0907_travel_spothero",
+    "folderName": "0907_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0908_travel_spothero",
+    "folderName": "0908_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0909_shopping_ebay",
+    "folderName": "0909_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0910_shopping_ebay",
+    "folderName": "0910_shopping_ebay"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0911_travel_amtrak",
+    "folderName": "0911_travel_amtrak"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0912_travel_ryanair",
+    "folderName": "0912_travel_ryanair"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0913_travel_ryanair",
+    "folderName": "0913_travel_ryanair"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0914_shopping_bookdepository",
+    "folderName": "0914_shopping_bookdepository"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0915_entertainment_ticketcenter",
+    "folderName": "0915_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0916_entertainment_ticketcenter",
+    "folderName": "0916_entertainment_ticketcenter"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0917_shopping_rei",
+    "folderName": "0917_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0918_travel_airbnb",
+    "folderName": "0918_travel_airbnb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0919_shopping_rei",
+    "folderName": "0919_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0920_travel_rentalcars",
+    "folderName": "0920_travel_rentalcars"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0921_travel_united",
+    "folderName": "0921_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0922_travel_united",
+    "folderName": "0922_travel_united"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0923_shopping_cvs",
+    "folderName": "0923_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0924_shopping_cvs",
+    "folderName": "0924_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0925_shopping_cvs",
+    "folderName": "0925_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0926_shopping_newegg",
+    "folderName": "0926_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0927_entertainment_ign",
+    "folderName": "0927_entertainment_ign"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0928_entertainment_ign",
+    "folderName": "0928_entertainment_ign"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0929_shopping_uniqlo",
+    "folderName": "0929_shopping_uniqlo"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0930_shopping_cvs",
+    "folderName": "0930_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0931_shopping_cvs",
+    "folderName": "0931_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0932_shopping_cvs",
+    "folderName": "0932_shopping_cvs"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0933_travel_booking",
+    "folderName": "0933_travel_booking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0934_travel_booking",
+    "folderName": "0934_travel_booking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0935_shopping_newegg",
+    "folderName": "0935_shopping_newegg"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0936_shopping_tesla",
+    "folderName": "0936_shopping_tesla"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0937_travel_spothero",
+    "folderName": "0937_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0938_travel_spothero",
+    "folderName": "0938_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0939_travel_spothero",
+    "folderName": "0939_travel_spothero"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0940_entertainment_rottentomatoes",
+    "folderName": "0940_entertainment_rottentomatoes"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0941_travel_sixflags",
+    "folderName": "0941_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0942_entertainment_amctheatres",
+    "folderName": "0942_entertainment_amctheatres"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0943_travel_expedia",
+    "folderName": "0943_travel_expedia"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0944_travel_booking",
+    "folderName": "0944_travel_booking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0945_travel_booking",
+    "folderName": "0945_travel_booking"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0946_entertainment_ign",
+    "folderName": "0946_entertainment_ign"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0947_travel_sixflags",
+    "folderName": "0947_travel_sixflags"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0948_shopping_rei",
+    "folderName": "0948_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0949_shopping_rei",
+    "folderName": "0949_shopping_rei"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0950_entertainment_redbox",
+    "folderName": "0950_entertainment_redbox"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0951_entertainment_redbox",
+    "folderName": "0951_entertainment_redbox"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0952_entertainment_eventbrite",
+    "folderName": "0952_entertainment_eventbrite"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0953_entertainment_eventbrite",
+    "folderName": "0953_entertainment_eventbrite"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0954_entertainment_eventbrite",
+    "folderName": "0954_entertainment_eventbrite"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0955_entertainment_eventbrite",
+    "folderName": "0955_entertainment_eventbrite"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0956_shopping_kbb",
+    "folderName": "0956_shopping_kbb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0957_shopping_kbb",
+    "folderName": "0957_shopping_kbb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0958_travel_airbnb",
+    "folderName": "0958_travel_airbnb"
+  },
+  {
+    "status": "ok",
+    "outDir": "output_mind2web/0959_entertainment_last-fm",
+    "folderName": "0959_entertainment_last-fm"
   }
 ]

@@ -6,7 +6,7 @@
     {
       "id": "cheapest",
       "question": "Which product is the cheapest (has the lowest price)? Answer with ONLY the product name, nothing else.",
-      "expectedAnswer": "Gusti Leder Geldbörse Portemonnaie Brieftasche lang Geldbeutel viele Fächer Damen Braun Leder - Cara"
+      "expectedAnswer": "TODO: Trag hier die von dir am Screenshot abgelesene richtige Antwort ein"
     },
     {
       "id": "count",

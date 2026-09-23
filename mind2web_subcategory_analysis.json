@@ -1,0 +1,94 @@
+{
+  "overall": {
+    "n": 1958,
+    "htmlAcc": 0.2568947906026558,
+    "ariaAcc": 0.25025536261491316,
+    "diff": -0.006639427987742594,
+    "htmlAvgTokens": 44471.71092951992,
+    "ariaAvgTokens": 4949.081205311542
+  },
+  "byFragetyp": {
+    "element": {
+      "n": 979,
+      "htmlAcc": 0.17262512768130744,
+      "ariaAcc": 0.1481103166496425,
+      "diff": -0.024514811031664963,
+      "htmlAvgTokens": 44491.695607763024,
+      "ariaAvgTokens": 4950.510725229827
+    },
+    "actiontype": {
+      "n": 979,
+      "htmlAcc": 0.3411644535240041,
+      "ariaAcc": 0.35240040858018384,
+      "diff": 0.011235955056179775,
+      "htmlAvgTokens": 44451.726251276814,
+      "ariaAvgTokens": 4947.651685393258
+    }
+  },
+  "byDomain": {
+    "Travel": {
+      "n": 874,
+      "htmlAcc": 0.2631578947368421,
+      "ariaAcc": 0.2482837528604119,
+      "diff": -0.014874141876430207,
+      "htmlAvgTokens": 34592.92791762014,
+      "ariaAvgTokens": 2458.474828375286
+    },
+    "Entertainment": {
+      "n": 506,
+      "htmlAcc": 0.30039525691699603,
+      "ariaAcc": 0.2628458498023715,
+      "diff": -0.037549407114624504,
+      "htmlAvgTokens": 68727.62252964427,
+      "ariaAvgTokens": 8959.675889328064
+    },
+    "Shopping": {
+      "n": 578,
+      "htmlAcc": 0.2093425605536332,
+      "ariaAcc": 0.2422145328719723,
+      "diff": 0.0328719723183391,
+      "htmlAvgTokens": 38175.1107266436,
+      "ariaAvgTokens": 5204.148788927336
+    }
+  },
+  "bySubdomain": {
+    "undefined": {
+      "n": 1958,
+      "htmlAcc": 0.2568947906026558,
+      "ariaAcc": 0.25025536261491316,
+      "diff": -0.006639427987742594,
+      "htmlAvgTokens": 44471.71092951992,
+      "ariaAvgTokens": 4949.081205311542
+    }
+  },
+  "byWebsite": {
+    "undefined": {
+      "n": 1958,
+      "htmlAcc": 0.2568947906026558,
+      "ariaAcc": 0.25025536261491316,
+      "diff": -0.006639427987742594,
+      "htmlAvgTokens": 44471.71092951992,
+      "ariaAvgTokens": 4949.081205311542
+    }
+  },
+  "byRole": {
+    "undefined": {
+      "n": 1958,
+      "htmlAcc": 0.2568947906026558,
+      "ariaAcc": 0.25025536261491316,
+      "diff": -0.006639427987742594,
+      "htmlAvgTokens": 44471.71092951992,
+      "ariaAvgTokens": 4949.081205311542
+    }
+  },
+  "byOperation": {
+    "undefined": {
+      "n": 1958,
+      "htmlAcc": 0.2568947906026558,
+      "ariaAcc": 0.25025536261491316,
+      "diff": -0.006639427987742594,
+      "htmlAvgTokens": 44471.71092951992,
+      "ariaAvgTokens": 4949.081205311542
+    }
+  }
+}
