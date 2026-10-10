@@ -30,6 +30,7 @@ const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
 const { generateProductList } = require('./generateProductList');
+const { scoreAnswer } = require('./src/evaluation/scorers');
 
 // ---- Konfiguration ----
 const MODEL = 'llama3.1:8b'; // lokal via Ollama — kein VPN nötig, schnell genug für 16 Anfragen
@@ -54,9 +55,10 @@ function cleanHtml(rawHtml) {
 async function askModel(content, question) {
   const prompt = `Here is the content of a webpage:\n\n${content}\n\nQuestion: ${question}\nAnswer with ONLY the value, no explanation, no extra text.`;
 
-  const response = await fetch('http://localhost:11434/api/generate', {
+  const response = await fetch(process.env.OLLAMA_GENERATE_URL || 'http://localhost:11434/api/generate', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
+    signal: AbortSignal.timeout(Number(process.env.MODEL_TIMEOUT_MS || 120000)),
     body: JSON.stringify({
       model: MODEL,
       prompt,
@@ -69,16 +71,9 @@ async function askModel(content, question) {
 
   const data = await response.json();
   const answer = (data.response || '').trim();
-  const totalTokens = (data.prompt_eval_count || 0) + (data.eval_count || 0);
+  const totalTokens = Number.isFinite(data.prompt_eval_count) && Number.isFinite(data.eval_count)
+    ? data.prompt_eval_count + data.eval_count : null;
   return { answer, totalTokens };
-}
-
-function isCorrect(answer, expected) {
-  const norm = (s) => String(s).toLowerCase().replace(/[^a-z0-9]/g, '');
-  const a = norm(answer);
-  const e = norm(expected);
-  if (!a || !e) return false;
-  return a.includes(e.slice(0, 15)) || e.includes(a.slice(0, 15));
 }
 
 // Baut aus EINER generierten Seite (askDirection='find-cheapest', enthält bereits
@@ -129,10 +124,14 @@ async function extractStructureType(browser, structureType) {
   return { cleaned, ariaSnapshot, groundTruth };
 }
 
-async function runOneCondition(content, question, expectedAnswer) {
-  const result = await askModel(content, question);
-  const correct = isCorrect(result.answer, expectedAnswer);
-  return { answer: result.answer, tokens: result.totalTokens, correct };
+async function runOneCondition(content, question, expectedAnswer, scoringType) {
+  try {
+    const result = await askModel(content, question);
+    const correct = scoreAnswer(result.answer, expectedAnswer, scoringType);
+    return { status: 'completed', answer: result.answer, tokens: result.totalTokens, correct };
+  } catch (error) {
+    return { status: 'api_error', answer: null, tokens: null, correct: null, error: error.message };
+  }
 }
 
 (async () => {
@@ -155,8 +154,8 @@ async function runOneCondition(content, question, expectedAnswer) {
       console.log(`\n  ❓ [${q.id}] ${q.question}`);
       console.log(`     Erwartet: ${q.expectedAnswer}`);
 
-      const htmlRes = await runOneCondition(cleaned, q.question, q.expectedAnswer);
-      const ariaRes = await runOneCondition(ariaSnapshot, q.question, q.expectedAnswer);
+      const htmlRes = await runOneCondition(cleaned, q.question, q.expectedAnswer, q.id === 'lookup' ? 'price' : q.id === 'count' ? 'count' : 'label');
+      const ariaRes = await runOneCondition(ariaSnapshot, q.question, q.expectedAnswer, q.id === 'lookup' ? 'price' : q.id === 'count' ? 'count' : 'label');
 
       console.log(`     HTML → "${htmlRes.answer}" (${htmlRes.tokens} Tk) ${htmlRes.correct ? '✅' : '❌'}`);
       console.log(`     ARIA → "${ariaRes.answer}" (${ariaRes.tokens} Tk) ${ariaRes.correct ? '✅' : '❌'}`);
@@ -182,23 +181,25 @@ async function runOneCondition(content, question, expectedAnswer) {
   // ---- Zusammenfassende Kennzahlen ----
   const htmlCorrect = allResults.filter((r) => r.html.correct).length;
   const ariaCorrect = allResults.filter((r) => r.aria.correct).length;
-  const htmlTokensTotal = allResults.reduce((s, r) => s + r.html.tokens, 0);
-  const ariaTokensTotal = allResults.reduce((s, r) => s + r.aria.tokens, 0);
+  const htmlTokensTotal = allResults.reduce((sum, r) => sum + (r.html.tokens ?? 0), 0);
+  const ariaTokensTotal = allResults.reduce((sum, r) => sum + (r.aria.tokens ?? 0), 0);
 
   // Effizienz-Kennzahl: korrekte Antworten pro 1000 verbrauchte Tokens
-  const htmlEfficiency = (htmlCorrect / htmlTokensTotal) * 1000;
-  const ariaEfficiency = (ariaCorrect / ariaTokensTotal) * 1000;
+  const htmlEfficiency = htmlTokensTotal > 0 ? (htmlCorrect / htmlTokensTotal) * 1000 : null;
+  const ariaEfficiency = ariaTokensTotal > 0 ? (ariaCorrect / ariaTokensTotal) * 1000 : null;
 
   console.log(`\nGesamt: HTML ${htmlCorrect}/${allResults.length} richtig (${htmlTokensTotal} Tk gesamt)`);
   console.log(`        ARIA ${ariaCorrect}/${allResults.length} richtig (${ariaTokensTotal} Tk gesamt)`);
   console.log(`\nEffizienz (korrekte Antworten pro 1000 Token):`);
-  console.log(`        HTML: ${htmlEfficiency.toFixed(2)}`);
-  console.log(`        ARIA: ${ariaEfficiency.toFixed(2)}`);
+  console.log(`        HTML: ${htmlEfficiency?.toFixed(2) ?? 'n/a'}`);
+  console.log(`        ARIA: ${ariaEfficiency?.toFixed(2) ?? 'n/a'}`);
 
-  fs.writeFileSync('structure_fairness_results.json', JSON.stringify({
-    config: { model: MODEL, seed: SEED, numItems: NUM_ITEMS, clusterSize: CLUSTER_SIZE },
+  const resultPath = process.env.RESULTS_FILE || 'structure_fairness_results_strict_v2.json';
+  if (fs.existsSync(resultPath)) throw new Error('Result file already exists: ' + resultPath);
+  fs.writeFileSync(resultPath, JSON.stringify({
+    schemaVersion: 2, config: { model: MODEL, scoringVersion: 'strict-v2', seed: SEED, numItems: NUM_ITEMS, clusterSize: CLUSTER_SIZE },
     results: allResults,
     summary: { htmlCorrect, ariaCorrect, htmlTokensTotal, ariaTokensTotal, htmlEfficiency, ariaEfficiency },
   }, null, 2));
-  console.log('\nDetails gespeichert in structure_fairness_results.json\n');
+  console.log('\nDetails gespeichert in ' + resultPath + '\n');
 })();
