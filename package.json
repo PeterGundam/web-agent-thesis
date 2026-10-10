@@ -11,7 +11,8 @@
     "extract:real-sites": "node extract-real-sites-structural.js",
     "compare:real:local": "node runCompareRealSitesLokal.js",
     "compare:real:uni": "node runCompareRealSitesUni.js",
-    "fairness:test": "node structure-fairness-test.js"
+    "fairness:test": "node structure-fairness-test.js",
+    "test": "node --test tests/*.test.js"
   },
   "dependencies": {
     "cheerio": "^1.1.0",
