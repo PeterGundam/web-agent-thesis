@@ -35,6 +35,7 @@ _tmp_fairness_test/
 mind2web_subset.json
 mind2web_index.json
 comparison_results_*.json
+comparison_results_*.json.tmp
 mind2web_subcategory_analysis.json
 structure_fairness_results.json
 
