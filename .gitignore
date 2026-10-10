@@ -1,5 +1,41 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Experiment inputs, intermediate artifacts and outputs
 mind2web_tasks/
 output_mind2web/
 output_real_sites/
 _tmp_mind2web_pages/
+_tmp_fairness_test/
 mind2web_subset.json
+mind2web_index.json
+comparison_results_*.json
+mind2web_subcategory_analysis.json
+structure_fairness_results.json
+
+# Keep source files, requirements.txt, package.json and package-lock.json tracked.
