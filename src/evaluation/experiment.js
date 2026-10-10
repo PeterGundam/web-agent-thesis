@@ -40,25 +40,40 @@ async function runComparison({ root, resultsFile, baseUrl, model, apiKey, delayM
     cases: cases.map(c => [c.dir, c.label, c.question, c.expectedAnswer, c.scoringType, hash(c.html), hash(c.aria)]),
     promptTemplate: buildPrompt('{content}', '{question}'),
   })).slice(0, 16);
-  const output = {
-    schemaVersion: 2, runId, config: { model, baseUrl, timeoutMs, scoringVersion: 'strict-v2', date: new Date().toISOString() },
-    results: [],
-  };
-  // Write to a distinct file to avoid replacing existing historical results.
-  if (fs.existsSync(resultsFile)) throw new Error('Output already exists; choose a fresh RESULTS_FILE: ' + resultsFile);
+  const output = fs.existsSync(resultsFile)
+    ? JSON.parse(fs.readFileSync(resultsFile, 'utf8'))
+    : {
+        schemaVersion: 2, runId,
+        config: { model, baseUrl, timeoutMs, scoringVersion: 'strict-v2', date: new Date().toISOString() },
+        results: [],
+      };
+  if (output.schemaVersion !== 2 || output.runId !== runId || !Array.isArray(output.results)) {
+    throw new Error('Existing output uses different inputs/config/scoring rules; select a new RESULTS_FILE.');
+  }
+  const completed = new Set(output.results
+    .filter(row => row.html?.status === 'completed' && row.aria?.status === 'completed')
+    .map(row => JSON.stringify([row.dir, row.label, row.question])));
+  // API errors may be retried on resume; keep the latest row for each task.
   for (const c of cases) {
+    const key = JSON.stringify([c.dir, c.label, c.question]);
+    if (completed.has(key)) continue;
     const html = await evaluateCondition(c.html, c, config);
     await sleep(delayMs);
     const aria = await evaluateCondition(c.aria, c, config);
     await sleep(delayMs);
-    output.results.push({
+    const row = {
       dir: c.dir, label: c.label, question: c.question, expectedAnswer: c.expectedAnswer,
       scoringType: c.scoringType, inputHashes: { html: hash(c.html), aria: hash(c.aria) },
       domain: c.groundTruth.domain ?? 'unbekannt', subdomain: c.groundTruth.subdomain ?? 'unbekannt',
       website: c.groundTruth.website ?? 'unbekannt', target_role: c.groundTruth.target_role ?? 'unbekannt',
       target_operation: c.groundTruth.target_operation ?? 'unbekannt', html, aria,
-    });
-    fs.writeFileSync(resultsFile, JSON.stringify(output, null, 2));
+    };
+    output.results = output.results.filter(r => JSON.stringify([r.dir, r.label, r.question]) !== key);
+    output.results.push(row);
+    // Atomic replacement avoids corrupting an existing JSON file during interruption.
+    const tempFile = resultsFile + '.tmp';
+    fs.writeFileSync(tempFile, JSON.stringify(output, null, 2));
+    fs.renameSync(tempFile, resultsFile);
     console.log(c.dir, c.label, 'HTML:', html.status, html.correct, 'ARIA:', aria.status, aria.correct);
   }
   console.log('Saved', output.results.length, 'paired cases to', resultsFile, 'runId:', runId);
