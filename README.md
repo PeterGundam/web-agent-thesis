@@ -524,6 +524,28 @@ ollama pull llama3.1:8b
 
 ---
 
+## Reliable evaluation (strict-v2)
+
+The comparison scripts now share the same model client and typed answer scoring.
+Run `npm test` before launching any experiments.
+
+```bash
+npm test
+npm run compare:mind2web
+npm run analyze:mind2web
+npm run compare:real:local
+npm run compare:real:uni
+npm run fairness:test
+```
+
+Experiment results are stored in *new*, `*_strict_v2.json` output files so that historical results are preserved. The runner resumes an interrupted experiment only if its run fingerprint still matches the model, prompt, task ground truths and HTML/ARIA input hashes; otherwise supply a new `RESULTS_FILE` path. Completed pairs are reused, while failed API attempts can be retried.
+
+Environment configuration for comparison scripts: `MODEL_BASE_URL`, `MODEL_NAME`, `MODEL_API_KEY`, `MODEL_TIMEOUT_MS`, `REQUEST_DELAY_MS`, and `RESULTS_FILE`. The analysis script defaults to `comparison_results_mind2web_strict_v2.json` and writes `mind2web_subcategory_analysis_strict_v2.json`; use `ANALYSIS_FILE` to change the analysis output path.
+
+Scoring rules are strict: only exact action words count, product labels must match after case/whitespace normalization, counts must be integers and prices must match cents. This reduces false positives but may introduce false negatives for legitimate synonyms; annotate such cases with stable target IDs or pre-registered aliases. API failures are distinct from incorrect responses. Accuracy for a paired HTML-versus-ARIA comparison is calculated on tasks with *both* valid responses, and token averages exclude missing usage values rather than treating them as zero.
+
+**Scientific warning:** Numbers computed using the old substring scorer must not be mixed with strict-v2 numbers. Re-run experiments or explicitly re-score saved raw answers using a versioned scoring pipeline. API errors, model drift, source-data changes and prompt changes must be reported. The comparison evaluates a known-target action classifier, not fully autonomous browser interaction.
+
 # Reproduzierbarkeit
 
 Dokumentiere für jeden Experimentlauf mindestens:
