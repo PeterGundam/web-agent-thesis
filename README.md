@@ -282,44 +282,18 @@ Pillow>=10.0.0
 
 ---
 
-# `package.json` anlegen
+# JavaScript-Projektkonfiguration
 
-Falls noch keine `package.json` vorhanden ist, lege im Projekt-Root eine Datei mit folgendem Inhalt an:
+Die `package.json` liegt bereits im Repository und enthält alle npm-Skripte sowie die JavaScript-Abhängigkeiten. Eine manuelle Anlage der Datei ist nicht erforderlich.
 
-```json
-{
-  "name": "web-agent-thesis",
-  "version": "0.1.0",
-  "private": true,
-  "description": "Experimental pipeline for comparing cleaned HTML and ARIA webpage representations for LLM-based web-agent tasks.",
-  "type": "commonjs",
-  "scripts": {
-    "extract:mind2web": "node extract-mind2webV2.js",
-    "compare:mind2web": "node runCompareMind2WebV2.js",
-    "analyze:mind2web": "node analyze-mind2web-resultsV2.js",
-    "extract:real-sites": "node extract-real-sites-structural.js",
-    "compare:real:local": "node runCompareRealSitesLokal.js",
-    "compare:real:uni": "node runCompareRealSitesUni.js",
-    "fairness:test": "node structure-fairness-test.js"
-  },
-  "dependencies": {
-    "cheerio": "^1.1.0",
-    "playwright": "^1.56.0"
-  },
-  "engines": {
-    "node": ">=20"
-  }
-}
-```
-
-Danach:
+Nach dem Klonen:
 
 ```bash
 npm install
 npx playwright install chromium
 ```
 
----
+`npm install` erzeugt lokal eine `package-lock.json`, falls sie noch nicht vorhanden ist. Für reproduzierbare Installationen sollte die Lockdatei anschließend versioniert werden. Sobald die Lockdatei im Repository liegt, kann `npm ci` statt `npm install` verwendet werden.
 
 # Workflow: Mind2Web-Experimente
 
@@ -498,53 +472,11 @@ Der Test generiert kontrollierte Tabellen und Listen und stellt Fragen zu:
 
 ---
 
-# `.gitignore`
+# `.gitignore` und lokale Ergebnisdateien
 
-Empfohlener Inhalt:
+Die vorhandene `.gitignore` schließt `node_modules/`, Python-Umgebungen, `.env`-Dateien sowie generierte Datensätze und Versuchsergebnisse aus. Quellcode, `package.json`, `requirements.txt` und die zukünftige `package-lock.json` bleiben versionierbar.
 
-```gitignore
-# Node.js
-node_modules/
-
-# Python
-.venv/
-__pycache__/
-*.pyc
-
-# Lokale Geheimnisse
-.env
-
-# Temporäre Dateien
-_tmp_mind2web_pages/
-_tmp_fairness_test/
-
-# Generierte Daten und Ausgaben
-mind2web_tasks/
-output_mind2web/
-output_real_sites/
-```
-
-Committen solltest du in der Regel:
-
-```text
-README.md
-requirements.txt
-package.json
-package-lock.json
-*.js
-*.py
-.gitignore
-```
-
-Nicht committen solltest du:
-
-```text
-node_modules/
-.venv/
-.env
-```
-
----
+**Hinweis:** Dateien, die Git bereits verfolgt, werden durch einen neuen `.gitignore`-Eintrag nicht automatisch aus dem Index entfernt. Prüfbar mit `git ls-files`. Experimentergebnisse, die als nachvollziehbare Forschungsartefakte veröffentlicht werden sollen, sollten bewusst separat dokumentiert oder versioniert werden.
 
 # Häufige Fehler
 
