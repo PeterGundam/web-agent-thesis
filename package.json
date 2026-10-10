@@ -1,0 +1,23 @@
+{
+  "name": "web-agent-thesis",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Experimental comparison of cleaned HTML and ARIA snapshots for LLM web understanding",
+  "type": "commonjs",
+  "scripts": {
+    "extract:mind2web": "node extract-mind2webV2.js",
+    "compare:mind2web": "node runCompareMind2WebV2.js",
+    "analyze:mind2web": "node analyze-mind2web-resultsV2.js",
+    "extract:real-sites": "node extract-real-sites-structural.js",
+    "compare:real:local": "node runCompareRealSitesLokal.js",
+    "compare:real:uni": "node runCompareRealSitesUni.js",
+    "fairness:test": "node structure-fairness-test.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.0",
+    "playwright": "^1.56.0"
+  },
+  "engines": {
+    "node": ">=20.18.1"
+  }
+}
