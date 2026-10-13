@@ -107,6 +107,9 @@ ${headHtml}
 
     await renderPage.screenshot({ path: path.join(outDir, 'screenshot.png'), fullPage: true });
 
+    // Both representations come from the rendered subset, rather than using
+    // the pre-render source for HTML. Dynamic pages still need stability checks.
+    const renderedHtml = await renderPage.content();
     const ariaSnapshot = await renderPage.locator('body').ariaSnapshot();
     fs.writeFileSync(path.join(outDir, 'aria.yaml'), ariaSnapshot);
 
@@ -114,7 +117,7 @@ ${headHtml}
 
     // "cleaned.html": dieselben Elemente, aber ohne Styles/Skripte — das, was die KI
     // tatsächlich als "HTML-Variante" zu sehen bekommt
-    const cleaned = cleanHtml(rawSubsetHtml);
+    const cleaned = cleanHtml(renderedHtml);
     fs.writeFileSync(path.join(outDir, 'cleaned.html'), cleaned);
 
     const groundTruthTemplate = {

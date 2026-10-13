@@ -26,7 +26,10 @@ async function askModel({ content, question, baseUrl, model, apiKey, retries = 2
       const json = await response.json();
       const answer = json.choices?.[0]?.message?.content;
       if (typeof answer !== 'string') throw new Error('No text response from model');
-      return { answer: answer.trim(), tokens: json.usage?.total_tokens ?? null };
+      const usage = json.usage || {};
+      const validTokens = value => Number.isSafeInteger(value) && value >= 0 ? value : null;
+      return { answer: answer.trim(), tokens: validTokens(usage.total_tokens),
+        promptTokens: validTokens(usage.prompt_tokens), completionTokens: validTokens(usage.completion_tokens) };
     } catch (err) {
       const retryable = err.retryable !== false;
       if (attempt === retries || !retryable) throw err;

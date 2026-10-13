@@ -578,3 +578,20 @@ Die Vergleichsskripte verwenden standardmäßig `temperature: 0`, um Ergebnisse 
 # Lizenz
 
 Aktuell ist keine Lizenz definiert. Falls das Repository öffentlich wiederverwendet werden soll, ergänze eine Lizenzdatei, beispielsweise MIT oder Apache-2.0.
+
+
+## Review vom 13. Oktober 2026: strict-v3
+
+Die lokale Prüfung von PR #1 und Branch `refactor/reliable-evaluation-20261010`
+ist in [REFACTOR_REVIEW.md](REFACTOR_REVIEW.md) dokumentiert. Die Vergleichsskripte
+und die Auswertung verwenden jetzt neue `*_strict_v3.json`-Dateien. Die obige
+strict-v2-Beschreibung dokumentiert die vorherige Version. Alte Ergebnisse bleiben
+unverändert; strict-v2-Läufe können wegen des neuen Fingerprints nicht als v3
+fortgesetzt werden.
+
+Wichtige Unterschiede: Sollaktionen wie `TYPE: gorillaz` werden für die Frage nach
+der Interaktionsart als `TYPE` ausgewertet; Modellantworten müssen weiterhin exakt
+eine Aktion enthalten. Tokenvergleiche verwenden dieselben Aufgaben mit gültigen
+Messwerten auf beiden Seiten. Prompt- und Antworttokens werden, soweit vom
+Chat-Endpunkt geliefert, zusätzlich getrennt gespeichert. Die Reihenfolge der
+HTML-/ARIA-Anfragen wechselt deterministisch pro Frage und wird protokolliert.

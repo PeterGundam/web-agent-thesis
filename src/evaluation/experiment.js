@@ -24,7 +24,8 @@ function buildCases(dir) {
 async function evaluateCondition(content, c, config) {
   try {
     const answer = await askModel({ content, question: c.question, ...config });
-    return { status: 'completed', answer: answer.answer, correct: scoreAnswer(answer.answer, c.expectedAnswer, c.scoringType), tokens: answer.tokens };
+    return { status: 'completed', answer: answer.answer, correct: scoreAnswer(answer.answer, c.expectedAnswer, c.scoringType),
+      tokens: answer.tokens, promptTokens: answer.promptTokens, completionTokens: answer.completionTokens };
   } catch (error) {
     return { status: 'api_error', answer: null, correct: null, tokens: null, error: error.message };
   }
@@ -36,7 +37,7 @@ async function runComparison({ root, resultsFile, baseUrl, model, apiKey, delayM
   const config = { baseUrl, model, apiKey, timeoutMs };
   const cases = dirs.flatMap(buildCases);
   const runId = hash(JSON.stringify({
-    model, baseUrl, timeoutMs, scoringVersion: 'strict-v2',
+    model, baseUrl, timeoutMs, scoringVersion: 'strict-v3', conditionOrder: 'alternating-v1',
     cases: cases.map(c => [c.dir, c.label, c.question, c.expectedAnswer, c.scoringType, hash(c.html), hash(c.aria)]),
     promptTemplate: buildPrompt('{content}', '{question}'),
   })).slice(0, 16);
@@ -44,7 +45,7 @@ async function runComparison({ root, resultsFile, baseUrl, model, apiKey, delayM
     ? JSON.parse(fs.readFileSync(resultsFile, 'utf8'))
     : {
         schemaVersion: 2, runId,
-        config: { model, baseUrl, timeoutMs, scoringVersion: 'strict-v2', date: new Date().toISOString() },
+        config: { model, baseUrl, timeoutMs, scoringVersion: 'strict-v3', conditionOrder: 'alternating-v1', temperature: 0, date: new Date().toISOString() },
         results: [],
       };
   if (output.schemaVersion !== 2 || output.runId !== runId || !Array.isArray(output.results)) {
@@ -54,16 +55,19 @@ async function runComparison({ root, resultsFile, baseUrl, model, apiKey, delayM
     .filter(row => row.html?.status === 'completed' && row.aria?.status === 'completed')
     .map(row => JSON.stringify([row.dir, row.label, row.question])));
   // API errors may be retried on resume; keep the latest row for each task.
-  for (const c of cases) {
+  for (const [index, c] of cases.entries()) {
     const key = JSON.stringify([c.dir, c.label, c.question]);
     if (completed.has(key)) continue;
-    const html = await evaluateCondition(c.html, c, config);
-    await sleep(delayMs);
-    const aria = await evaluateCondition(c.aria, c, config);
-    await sleep(delayMs);
+    const conditionOrder = index % 2 === 0 ? ['html', 'aria'] : ['aria', 'html'];
+    const conditions = {};
+    for (const name of conditionOrder) {
+      conditions[name] = await evaluateCondition(c[name], c, config);
+      await sleep(delayMs);
+    }
+    const { html, aria } = conditions;
     const row = {
       dir: c.dir, label: c.label, question: c.question, expectedAnswer: c.expectedAnswer,
-      scoringType: c.scoringType, inputHashes: { html: hash(c.html), aria: hash(c.aria) },
+      scoringType: c.scoringType, conditionOrder, inputHashes: { html: hash(c.html), aria: hash(c.aria) },
       domain: c.groundTruth.domain ?? 'unbekannt', subdomain: c.groundTruth.subdomain ?? 'unbekannt',
       website: c.groundTruth.website ?? 'unbekannt', target_role: c.groundTruth.target_role ?? 'unbekannt',
       target_operation: c.groundTruth.target_operation ?? 'unbekannt', html, aria,

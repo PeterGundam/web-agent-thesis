@@ -31,3 +31,17 @@ test('question type inference distinguishes action, price and count', () => {
   assert.equal(inferType('count', 12), 'count');
   assert.equal(inferType('element', 'Buy now'), 'label');
 });
+test('action annotations belong to the ground truth, not the answer', () => {
+  assert.equal(scoreAnswer('TYPE', 'TYPE: gorillaz', 'action'), true);
+  assert.equal(scoreAnswer('SELECT', 'SELECT: Berlin', 'action'), true);
+  assert.equal(scoreAnswer('TYPE: gorillaz', 'TYPE: gorillaz', 'action'), false);
+  assert.equal(scoreAnswer('CLICK', 'TYPE: gorillaz', 'action'), false);
+});
+test('numeric scoring rejects currency counts, fractional cents and overflow', () => {
+  assert.equal(scoreAnswer('$15', 15, 'count'), false);
+  assert.equal(scoreAnswer('-1', -1, 'count'), false);
+  assert.equal(scoreAnswer('19.904', 19.90, 'price'), false);
+  assert.equal(scoreAnswer('9'.repeat(400), '8'.repeat(400), 'price'), false);
+  assert.equal(scoreAnswer('0.29', 0.29, 'price'), true);
+  assert.equal(scoreAnswer('$19.90€', 19.90, 'price'), false);
+});

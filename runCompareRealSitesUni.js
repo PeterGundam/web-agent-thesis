@@ -3,7 +3,7 @@
 const { runComparison } = require('./src/evaluation/experiment');
 runComparison({
   root: 'output_real_sites',
-  resultsFile: process.env.RESULTS_FILE || 'comparison_results_real_sites_Uni_strict_v2.json',
+  resultsFile: process.env.RESULTS_FILE || 'comparison_results_real_sites_Uni_strict_v3.json',
   baseUrl: process.env.MODEL_BASE_URL || 'https://llm3-compute.cms.hu-berlin.de/v1',
   model: process.env.MODEL_NAME || 'llm3',
   apiKey: process.env.MODEL_API_KEY || undefined,

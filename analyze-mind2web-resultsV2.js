@@ -1,7 +1,7 @@
 'use strict';
 const fs = require('fs');
-const RESULTS_FILE = process.env.RESULTS_FILE || 'comparison_results_mind2web_strict_v2.json';
-const OUTPUT_FILE = process.env.ANALYSIS_FILE || 'mind2web_subcategory_analysis_strict_v2.json';
+const RESULTS_FILE = process.env.RESULTS_FILE || 'comparison_results_mind2web_strict_v3.json';
+const OUTPUT_FILE = process.env.ANALYSIS_FILE || 'mind2web_subcategory_analysis_strict_v3.json';
 const MIN_GROUP_SIZE = 2;
 
 if (!fs.existsSync(RESULTS_FILE)) {
@@ -24,39 +24,7 @@ function groupBy(items, property) {
   }
   return Object.fromEntries(groups);
 }
-function summarize(group) {
-  const n = group.length;
-  const condition = key => {
-    const valid = group.map(row => row[key]).filter(x =>
-      x && (x.status === 'completed' || (x.status === undefined && typeof x.correct === 'boolean')));
-    const correct = valid.filter(x => x.correct === true).length;
-    const tokens = valid.map(x => x.tokens).filter(x => Number.isFinite(x));
-    return {
-      completed: valid.length,
-      errors: n - valid.length,
-      correct,
-      accuracy: valid.length ? correct / valid.length : null,
-      meanTokens: tokens.length ? tokens.reduce((a, b) => a + b, 0) / tokens.length : null,
-      tokenObservations: tokens.length,
-    };
-  };
-  const html = condition('html'), aria = condition('aria');
-  // A paired comparison uses the very same tasks with *both* responses.
-  const paired = group.filter(row =>
-    row.html?.status === 'completed' && row.aria?.status === 'completed'
-    || (typeof row.html?.correct === 'boolean' && typeof row.aria?.correct === 'boolean'));
-  const pairedHtmlCorrect = paired.filter(row => row.html.correct).length;
-  const pairedAriaCorrect = paired.filter(row => row.aria.correct).length;
-  return {
-    n, html, aria,
-    pairedN: paired.length,
-    pairedHtmlAccuracy: paired.length ? pairedHtmlCorrect / paired.length : null,
-    pairedAriaAccuracy: paired.length ? pairedAriaCorrect / paired.length : null,
-    pairedDifference: paired.length ? (pairedAriaCorrect - pairedHtmlCorrect) / paired.length : null,
-    htmlOnlyCorrect: paired.filter(row => row.html.correct && !row.aria.correct).length,
-    ariaOnlyCorrect: paired.filter(row => row.aria.correct && !row.html.correct).length,
-  };
-}
+const { summarize } = require('./src/evaluation/summary');
 const breakdownKeys = ['label', 'domain', 'subdomain', 'website', 'target_role', 'target_operation'];
 const breakdowns = Object.fromEntries(breakdownKeys.map(key => [
   key,
@@ -70,8 +38,8 @@ console.log('Paired HTML accuracy:', percent(overall.pairedHtmlAccuracy));
 console.log('Paired ARIA accuracy:', percent(overall.pairedAriaAccuracy));
 console.log('Paired ARIA minus HTML:', percent(overall.pairedDifference));
 console.log('API failures: HTML', overall.html.errors, '/ ARIA', overall.aria.errors);
-console.log('Mean tokens for reported measurements: HTML', overall.html.meanTokens ?? 'n/a',
-  '/ ARIA', overall.aria.meanTokens ?? 'n/a');
+console.log('Paired mean tokens: HTML', overall.pairedHtmlMeanTokens ?? 'n/a',
+  '/ ARIA', overall.pairedAriaMeanTokens ?? 'n/a', 'pairs:', overall.pairedTokenN);
 for (const key of breakdownKeys) {
   console.log('\n' + key);
   for (const [name, data] of Object.entries(breakdowns[key]).filter(([, item]) => item.n >= MIN_GROUP_SIZE)) {
