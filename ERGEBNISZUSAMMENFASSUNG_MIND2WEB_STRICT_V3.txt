@@ -1,0 +1,117 @@
+ZUSAMMENFASSUNG DER MIND2WEB-EXPERIMENTE MIT STRICT-V3
+Stand: 14. Oktober 2026
+
+1. Was wurde durchgeführt?
+
+Nach der Prüfung und Korrektur des Evaluation-Refactors wurden die vorhandenen
+Mind2Web-Cases mit zwei Modellen ausgewertet: dem Uni-Modell llm3 und dem lokalen
+Modell llama3.1:8b über Ollama. Historische Experimentergebnisse blieben unverändert.
+
+979 Cases enthalten jeweils eine Elementfrage und eine Aktionsfrage. Das ergibt
+1.958 Fragen, die jeweils mit bereinigtem HTML und einem gespeicherten
+ARIA-Accessibility-Snapshot beantwortet werden sollen. Ein vollständig
+beantworteter Lauf enthält somit 3.916 Modellantworten. Wiederholungen können
+zusätzliche Anfragen verursachen.
+
+Die Elementfrage verlangt das Label des zu verwendenden Elements. Bei der
+Aktionsfrage wird das korrekte Zielelement bereits genannt; das Modell soll
+CLICK, TYPE, SELECT oder HOVER wählen. Diese beiden Genauigkeitsmaße müssen
+getrennt interpretiert werden.
+
+2. Bewertungs- und Vergleichsregeln
+
+Die Version strict-v3 akzeptiert vollständige Labels nach Normalisierung von
+Groß-/Kleinschreibung und Whitespace. Teilstrings reichen nicht aus. Sollaktionen
+wie "TYPE: gorillaz" werden als Aktionsart TYPE bewertet; die Modellantwort
+muss weiterhin genau ein gültiges Aktionswort enthalten.
+
+HTML und ARIA erhalten dieselbe Frage, Promptvorlage und Modellkonfiguration.
+Die Formatreihenfolge wechselt pro Frage. API-Fehler werden separat erfasst.
+Die direkte Genauigkeitsauswertung verwendet nur Fragen mit abgeschlossenen
+Antworten für beide Formate. Der Tokenvergleich verlangt zusätzlich gültige
+Tokenmessungen auf beiden Seiten.
+
+3. Uni-Modell llm3
+
+Von 1.958 HTML-Anfragen wurden 1.802 erfolgreich beantwortet; 156 enthalten
+API-Fehler. Alle 1.958 ARIA-Anfragen wurden erfolgreich beantwortet.
+Die eingesehenen HTML-Fehlermeldungen nennen eine Überschreitung des
+Kontextlimits. Die folgenden Werte verwenden ausschließlich vollständige Paare:
+
+Aufgabentyp                 HTML           ARIA           Fragenpaare
+Elementlabel                34,85 %        27,30 %        901
+Aktionsart                  83,91 %        83,24 %        901
+Beide Fragetypen zusammen    59,38 %        55,27 %        1.802
+Mittlere Gesamttokens        99.219         8.511          1.802
+
+HTML erreicht bei Elementlabels eine um 7,55 Prozentpunkte höhere Genauigkeit.
+Bei Aktionsarten beträgt der Unterschied nur 0,67 Prozentpunkte.
+ARIA benötigt auf diesen Paaren etwa 91,4 % weniger Gesamttokens.
+
+Diese Genauigkeitswerte gelten für Fälle, in denen beide Formate verarbeitet
+werden konnten. Die ausgeschlossenen HTML-Anfragen sind darin nicht enthalten.
+Die erfolgreiche Verarbeitung aller ARIA-Anfragen ist ein zusätzliches Ergebnis,
+das neben der Genauigkeit berichtet werden sollte.
+
+4. Lokales Modell llama3.1:8b
+
+Alle 1.958 Fragen wurden in beiden Formaten erfolgreich beantwortet.
+Es sind keine API-Fehler gespeichert.
+
+Aufgabentyp                 HTML           ARIA           Fragenpaare
+Elementlabel                2,15 %         7,15 %         979
+Aktionsart                  56,69 %        53,01 %        979
+Beide Fragetypen zusammen    29,42 %        30,08 %        1.958
+Mittlere Gesamttokens        2.053          2.204          1.958
+
+ARIA erreicht lokal häufiger das richtige Elementlabel, HTML häufiger die
+richtige Aktionsart. Das Gesamtmittel verdeckt diesen Unterschied.
+
+Die lokalen Tokenzahlen sind noch nicht belastbar als Größenvergleich:
+Alle 1.958 HTML-Antworten melden genau 2.050 Prompttokens. Auch 1.334
+ARIA-Antworten melden diesen Wert. Das deutet möglicherweise auf Kürzung,
+eine Kontextbegrenzung oder eine Besonderheit der Usage-Messung hin.
+Die Ursache wurde noch nicht überprüft. Rein rechnerisch liegen die gemeldeten
+ARIA-Gesamttokens etwa 7,35 % höher; daraus sollte noch keine Aussage über
+den tatsächlichen vollständigen Repräsentationsumfang abgeleitet werden.
+
+5. Was darf daraus geschlossen werden?
+
+Beim Uni-Modell ist HTML auf den erfolgreichen Paaren bei Elementlabels genauer,
+während ARIA erheblich weniger gemeldete Tokens benötigt und keine gespeicherten
+API-Fehler aufweist. Beim lokalen Modell unterscheiden sich die Ergebnisse je
+nach Fragetyp. Die auffälligen Prompttokenzahlen müssen zuerst geklärt werden.
+
+Eine direkte Aussage, dass das Uni-Modell generell besser als das lokale Modell
+ist, wäre derzeit nicht abgesichert: Die Modelle haben unterschiedliche
+Verarbeitungsbedingungen, und die ausgewerteten Aufgabenmengen unterscheiden sich
+wegen der Uni-HTML-Ausfälle. Eine gemeinsame Fallmenge wäre für den direkten
+Modellvergleich erforderlich.
+
+Ein exakt passendes Label beweist keine eindeutige DOM-Elementauswahl. Abweichende
+Labels können außerdem legitime Benennungen enthalten und benötigen eine manuelle
+Prüfung. Die Ergebnisse messen strikte Labelgenauigkeit und die Aktionsklassifikation
+bei bekanntem Ziel, keine erfolgreiche Ausführung vollständiger Webaufgaben.
+
+Gesamttokens umfassen Prompt und Modellantwort. Sie erfassen die Usage der
+gespeicherten Antworten, nicht vollständig den Verbrauch fehlgeschlagener oder
+wiederholter Anfragen. Die Unterschiede sind bisher deskriptiv; statistische
+Unsicherheit und Modellwiederholungen wurden hier nicht untersucht.
+
+6. Nächste Schritte
+
+- Kontextkonfiguration und die 2.050 Prompttokens des lokalen Modells untersuchen.
+- Stichproben richtiger und falscher Elementantworten manuell prüfen.
+- Uni-Ergebnisse mit Ausfallzahlen und getrennten Fragetypen dokumentieren.
+- Modellversionen, Kontextlimits und mögliche Trunkierung nachvollziehbar festhalten.
+- Für stärkere Aussagen gepaarte Unsicherheitsmaße und Wiederholungen ergänzen.
+
+Datengrundlage:
+comparison_results_mind2web_strict_v3.json
+comparison_results_mind2web_lokal_strict_v3.json
+mind2web_analysis_lokal_strict_v3.json
+
+Die Uni-Kennzahlen wurden für diese Zusammenfassung aus der Ergebnisdatei mit
+der gemeinsamen Zusammenfassungsfunktion berechnet. Es wurden keine historischen
+oder aktuellen Experimentergebnisse umgeschrieben und keine neuen Modellanfragen
+für diese Dokumentation ausgeführt.

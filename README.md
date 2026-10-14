@@ -595,3 +595,36 @@ eine Aktion enthalten. Tokenvergleiche verwenden dieselben Aufgaben mit gültige
 Messwerten auf beiden Seiten. Prompt- und Antworttokens werden, soweit vom
 Chat-Endpunkt geliefert, zusätzlich getrennt gespeichert. Die Reihenfolge der
 HTML-/ARIA-Anfragen wechselt deterministisch pro Frage und wird protokolliert.
+
+## Mind2Web-Ergebnisse vom 14. Oktober 2026
+
+Die [Ergebniszusammenfassung als Textdatei](ERGEBNISZUSAMMENFASSUNG_MIND2WEB_STRICT_V3.txt)
+beschreibt die durchgeführten Schritte, die Uni- und lokalen Modellläufe sowie
+die Grenzen ihrer Interpretation. Grundlage sind 979 Cases mit jeweils einer
+Element- und einer Aktionsfrage, bewertet mit `strict-v3`.
+
+| Modell und Kennzahl | HTML | ARIA | Vollständige Fragenpaare |
+| --- | ---: | ---: | ---: |
+| Uni `llm3`: Elementlabelgenauigkeit | 34,85 % | 27,30 % | 901 |
+| Uni `llm3`: Aktionsgenauigkeit | 83,91 % | 83,24 % | 901 |
+| Uni `llm3`: mittlere Gesamttokens | 99.219 | 8.511 | 1.802 |
+| Lokal `llama3.1:8b`: Elementlabelgenauigkeit | 2,15 % | 7,15 % | 979 |
+| Lokal `llama3.1:8b`: Aktionsgenauigkeit | 56,69 % | 53,01 % | 979 |
+| Lokal `llama3.1:8b`: mittlere Gesamttokens | 2.053 | 2.204 | 1.958 |
+
+Beim Uni-Modell erreicht HTML auf vollständigen Paaren eine höhere
+Elementlabelgenauigkeit; ARIA benötigt etwa 91,4 % weniger gemeldete Gesamttokens.
+156 Uni-HTML-Anfragen enthalten API-Fehler, während alle ARIA-Anfragen abgeschlossen
+wurden. Die eingesehenen HTML-Fehler nennen eine Überschreitung des Kontextlimits.
+Die ausgefallenen Anfragen sind aus den gepaarten Werten ausgeschlossen.
+
+Beim lokalen Modell wurden alle Anfragen abgeschlossen. Allerdings melden alle
+1.958 HTML-Antworten exakt 2.050 Prompttokens; derselbe Wert tritt bei 1.334
+ARIA-Antworten auf. Mögliche Kürzung, Kontextbegrenzung oder Besonderheiten der
+Usage-Messung müssen untersucht werden. Die lokalen Tokenmittelwerte erlauben
+deshalb noch keinen belastbaren Vergleich der vollständigen Eingabegrößen.
+
+Elementlabel- und Aktionsgenauigkeit werden getrennt berichtet: Die Aktionsfrage
+nennt das korrekte Ziel bereits. Labelübereinstimmung belegt keine eindeutige
+DOM-Elementidentifikation. Gesamttokens umfassen Prompt und Antwort; ein direkter
+Modellvergleich erfordert eine gemeinsame Fallmenge und überprüfte Kontextbedingungen.
