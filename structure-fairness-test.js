@@ -30,9 +30,11 @@ const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
 const { generateProductList } = require('./generateProductList');
+const { summarize } = require('./src/evaluation/summary');
+const { scoreAnswer } = require('./src/evaluation/scorers');
 
 // ---- Konfiguration ----
-const MODEL = 'llama3.1:8b'; // lokal via Ollama — kein VPN nötig, schnell genug für 16 Anfragen
+const MODEL = process.env.MODEL_NAME || 'llama3.1:8b';
 const SEED = 42;
 const NUM_ITEMS = 15;
 const CLUSTER_SIZE = 8; // Anzahl naher Ablenkerpreise für die Aggregationsaufgabe
@@ -54,9 +56,10 @@ function cleanHtml(rawHtml) {
 async function askModel(content, question) {
   const prompt = `Here is the content of a webpage:\n\n${content}\n\nQuestion: ${question}\nAnswer with ONLY the value, no explanation, no extra text.`;
 
-  const response = await fetch('http://localhost:11434/api/generate', {
+  const response = await fetch(process.env.OLLAMA_GENERATE_URL || 'http://localhost:11434/api/generate', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
+    signal: AbortSignal.timeout(Number(process.env.MODEL_TIMEOUT_MS || 120000)),
     body: JSON.stringify({
       model: MODEL,
       prompt,
@@ -69,16 +72,9 @@ async function askModel(content, question) {
 
   const data = await response.json();
   const answer = (data.response || '').trim();
-  const totalTokens = (data.prompt_eval_count || 0) + (data.eval_count || 0);
+  const totalTokens = Number.isFinite(data.prompt_eval_count) && Number.isFinite(data.eval_count)
+    ? data.prompt_eval_count + data.eval_count : null;
   return { answer, totalTokens };
-}
-
-function isCorrect(answer, expected) {
-  const norm = (s) => String(s).toLowerCase().replace(/[^a-z0-9]/g, '');
-  const a = norm(answer);
-  const e = norm(expected);
-  if (!a || !e) return false;
-  return a.includes(e.slice(0, 15)) || e.includes(a.slice(0, 15));
 }
 
 // Baut aus EINER generierten Seite (askDirection='find-cheapest', enthält bereits
@@ -129,10 +125,14 @@ async function extractStructureType(browser, structureType) {
   return { cleaned, ariaSnapshot, groundTruth };
 }
 
-async function runOneCondition(content, question, expectedAnswer) {
-  const result = await askModel(content, question);
-  const correct = isCorrect(result.answer, expectedAnswer);
-  return { answer: result.answer, tokens: result.totalTokens, correct };
+async function runOneCondition(content, question, expectedAnswer, scoringType) {
+  try {
+    const result = await askModel(content, question);
+    const correct = scoreAnswer(result.answer, expectedAnswer, scoringType);
+    return { status: 'completed', answer: result.answer, tokens: result.totalTokens, correct };
+  } catch (error) {
+    return { status: 'api_error', answer: null, tokens: null, correct: null, error: error.message };
+  }
 }
 
 (async () => {
@@ -155,13 +155,19 @@ async function runOneCondition(content, question, expectedAnswer) {
       console.log(`\n  ❓ [${q.id}] ${q.question}`);
       console.log(`     Erwartet: ${q.expectedAnswer}`);
 
-      const htmlRes = await runOneCondition(cleaned, q.question, q.expectedAnswer);
-      const ariaRes = await runOneCondition(ariaSnapshot, q.question, q.expectedAnswer);
+      const conditionOrder = allResults.length % 2 === 0 ? ['html', 'aria'] : ['aria', 'html'];
+      const responses = {};
+      for (const name of conditionOrder) {
+        responses[name] = await runOneCondition(name === 'html' ? cleaned : ariaSnapshot,
+          q.question, q.expectedAnswer, q.id === 'lookup' ? 'price' : q.id === 'count' ? 'count' : 'label');
+      }
+      const { html: htmlRes, aria: ariaRes } = responses;
 
       console.log(`     HTML → "${htmlRes.answer}" (${htmlRes.tokens} Tk) ${htmlRes.correct ? '✅' : '❌'}`);
       console.log(`     ARIA → "${ariaRes.answer}" (${ariaRes.tokens} Tk) ${ariaRes.correct ? '✅' : '❌'}`);
 
-      allResults.push({ structureType, taskId: q.id, html: htmlRes, aria: ariaRes });
+      allResults.push({ structureType, taskId: q.id, question: q.question, expectedAnswer: q.expectedAnswer,
+        conditionOrder, html: htmlRes, aria: ariaRes });
     }
   }
 
@@ -180,25 +186,29 @@ async function runOneCondition(content, question, expectedAnswer) {
   }
 
   // ---- Zusammenfassende Kennzahlen ----
-  const htmlCorrect = allResults.filter((r) => r.html.correct).length;
-  const ariaCorrect = allResults.filter((r) => r.aria.correct).length;
-  const htmlTokensTotal = allResults.reduce((s, r) => s + r.html.tokens, 0);
-  const ariaTokensTotal = allResults.reduce((s, r) => s + r.aria.tokens, 0);
+  const summary = summarize(allResults);
+  // Efficiency uses the same complete pairs with measured usage on both sides.
+  const measured = allResults.filter(r => r.html.status === 'completed' && r.aria.status === 'completed'
+    && [r.html.tokens, r.aria.tokens].every(t => Number.isFinite(t) && t >= 0));
+  const efficiency = key => {
+    const total = measured.reduce((sum, r) => sum + r[key].tokens, 0);
+    return total > 0 ? measured.filter(r => r[key].correct).length / total * 1000 : null;
+  };
+  summary.htmlEfficiency = efficiency('html');
+  summary.ariaEfficiency = efficiency('aria');
+  console.log('Paired accuracy: HTML', summary.pairedHtmlAccuracy, 'ARIA', summary.pairedAriaAccuracy,
+    'pairs:', summary.pairedN);
+  console.log('Paired mean tokens: HTML', summary.pairedHtmlMeanTokens, 'ARIA', summary.pairedAriaMeanTokens,
+    'pairs:', summary.pairedTokenN);
+  console.log('Efficiency per 1000 tokens: HTML', summary.htmlEfficiency, 'ARIA', summary.ariaEfficiency);
 
-  // Effizienz-Kennzahl: korrekte Antworten pro 1000 verbrauchte Tokens
-  const htmlEfficiency = (htmlCorrect / htmlTokensTotal) * 1000;
-  const ariaEfficiency = (ariaCorrect / ariaTokensTotal) * 1000;
-
-  console.log(`\nGesamt: HTML ${htmlCorrect}/${allResults.length} richtig (${htmlTokensTotal} Tk gesamt)`);
-  console.log(`        ARIA ${ariaCorrect}/${allResults.length} richtig (${ariaTokensTotal} Tk gesamt)`);
-  console.log(`\nEffizienz (korrekte Antworten pro 1000 Token):`);
-  console.log(`        HTML: ${htmlEfficiency.toFixed(2)}`);
-  console.log(`        ARIA: ${ariaEfficiency.toFixed(2)}`);
-
-  fs.writeFileSync('structure_fairness_results.json', JSON.stringify({
-    config: { model: MODEL, seed: SEED, numItems: NUM_ITEMS, clusterSize: CLUSTER_SIZE },
+  const resultPath = process.env.RESULTS_FILE || 'structure_fairness_results_strict_v3.json';
+  if (fs.existsSync(resultPath)) throw new Error('Result file already exists: ' + resultPath);
+  fs.writeFileSync(resultPath, JSON.stringify({
+    schemaVersion: 2, config: { model: MODEL, scoringVersion: 'strict-v3', conditionOrder: 'alternating-v1',
+      temperature: 0, numCtx: 16384, seed: SEED, numItems: NUM_ITEMS, clusterSize: CLUSTER_SIZE },
     results: allResults,
-    summary: { htmlCorrect, ariaCorrect, htmlTokensTotal, ariaTokensTotal, htmlEfficiency, ariaEfficiency },
+    summary,
   }, null, 2));
-  console.log('\nDetails gespeichert in structure_fairness_results.json\n');
+  console.log('\nDetails gespeichert in ' + resultPath + '\n');
 })();

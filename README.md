@@ -524,6 +524,28 @@ ollama pull llama3.1:8b
 
 ---
 
+## Reliable evaluation (strict-v2)
+
+The comparison scripts now share the same model client and typed answer scoring.
+Run `npm test` before launching any experiments.
+
+```bash
+npm test
+npm run compare:mind2web
+npm run analyze:mind2web
+npm run compare:real:local
+npm run compare:real:uni
+npm run fairness:test
+```
+
+Experiment results are stored in *new*, `*_strict_v2.json` output files so that historical results are preserved. The runner resumes an interrupted experiment only if its run fingerprint still matches the model, prompt, task ground truths and HTML/ARIA input hashes; otherwise supply a new `RESULTS_FILE` path. Completed pairs are reused, while failed API attempts can be retried.
+
+Environment configuration for comparison scripts: `MODEL_BASE_URL`, `MODEL_NAME`, `MODEL_API_KEY`, `MODEL_TIMEOUT_MS`, `REQUEST_DELAY_MS`, and `RESULTS_FILE`. The analysis script defaults to `comparison_results_mind2web_strict_v2.json` and writes `mind2web_subcategory_analysis_strict_v2.json`; use `ANALYSIS_FILE` to change the analysis output path.
+
+Scoring rules are strict: only exact action words count, product labels must match after case/whitespace normalization, counts must be integers and prices must match cents. This reduces false positives but may introduce false negatives for legitimate synonyms; annotate such cases with stable target IDs or pre-registered aliases. API failures are distinct from incorrect responses. Accuracy for a paired HTML-versus-ARIA comparison is calculated on tasks with *both* valid responses, and token averages exclude missing usage values rather than treating them as zero.
+
+**Scientific warning:** Numbers computed using the old substring scorer must not be mixed with strict-v2 numbers. Re-run experiments or explicitly re-score saved raw answers using a versioned scoring pipeline. API errors, model drift, source-data changes and prompt changes must be reported. The comparison evaluates a known-target action classifier, not fully autonomous browser interaction.
+
 # Reproduzierbarkeit
 
 Dokumentiere für jeden Experimentlauf mindestens:
@@ -556,3 +578,150 @@ Die Vergleichsskripte verwenden standardmäßig `temperature: 0`, um Ergebnisse 
 # Lizenz
 
 Aktuell ist keine Lizenz definiert. Falls das Repository öffentlich wiederverwendet werden soll, ergänze eine Lizenzdatei, beispielsweise MIT oder Apache-2.0.
+
+
+## Review vom 13. Oktober 2026: strict-v3
+
+Die lokale Prüfung von PR #1 und Branch `refactor/reliable-evaluation-20261010`
+ist in [REFACTOR_REVIEW.md](REFACTOR_REVIEW.md) dokumentiert. Die Vergleichsskripte
+und die Auswertung verwenden jetzt neue `*_strict_v3.json`-Dateien. Die obige
+strict-v2-Beschreibung dokumentiert die vorherige Version. Alte Ergebnisse bleiben
+unverändert; strict-v2-Läufe können wegen des neuen Fingerprints nicht als v3
+fortgesetzt werden.
+
+Wichtige Unterschiede: Sollaktionen wie `TYPE: gorillaz` werden für die Frage nach
+der Interaktionsart als `TYPE` ausgewertet; Modellantworten müssen weiterhin exakt
+eine Aktion enthalten. Tokenvergleiche verwenden dieselben Aufgaben mit gültigen
+Messwerten auf beiden Seiten. Prompt- und Antworttokens werden, soweit vom
+Chat-Endpunkt geliefert, zusätzlich getrennt gespeichert. Die Reihenfolge der
+HTML-/ARIA-Anfragen wechselt deterministisch pro Frage und wird protokolliert.
+
+## Mind2Web-Ergebnisse vom 14. Oktober 2026
+
+Die [Ergebniszusammenfassung als Textdatei](ERGEBNISZUSAMMENFASSUNG_MIND2WEB_STRICT_V3.txt)
+beschreibt die durchgeführten Schritte, die Uni- und lokalen Modellläufe sowie
+die Grenzen ihrer Interpretation. Grundlage sind 979 Cases mit jeweils einer
+Element- und einer Aktionsfrage, bewertet mit `strict-v3`.
+
+| Modell und Kennzahl | HTML | ARIA | Vollständige Fragenpaare |
+| --- | ---: | ---: | ---: |
+| Uni `llm3`: Elementlabelgenauigkeit | 34,85 % | 27,30 % | 901 |
+| Uni `llm3`: Aktionsgenauigkeit | 83,91 % | 83,24 % | 901 |
+| Uni `llm3`: mittlere Gesamttokens | 99.219 | 8.511 | 1.802 |
+| Lokal `llama3.1:8b`: Elementlabelgenauigkeit | 2,15 % | 7,15 % | 979 |
+| Lokal `llama3.1:8b`: Aktionsgenauigkeit | 56,69 % | 53,01 % | 979 |
+| Lokal `llama3.1:8b`: mittlere Gesamttokens | 2.053 | 2.204 | 1.958 |
+
+Beim Uni-Modell erreicht HTML auf vollständigen Paaren eine höhere
+Elementlabelgenauigkeit; ARIA benötigt etwa 91,4 % weniger gemeldete Gesamttokens.
+156 Uni-HTML-Anfragen enthalten API-Fehler, während alle ARIA-Anfragen abgeschlossen
+wurden. Die eingesehenen HTML-Fehler nennen eine Überschreitung des Kontextlimits.
+Die ausgefallenen Anfragen sind aus den gepaarten Werten ausgeschlossen.
+
+Beim lokalen Modell wurden alle Anfragen abgeschlossen. Allerdings melden alle
+1.958 HTML-Antworten exakt 2.050 Prompttokens; derselbe Wert tritt bei 1.334
+ARIA-Antworten auf. Mögliche Kürzung, Kontextbegrenzung oder Besonderheiten der
+Usage-Messung müssen untersucht werden. Die lokalen Tokenmittelwerte erlauben
+deshalb noch keinen belastbaren Vergleich der vollständigen Eingabegrößen.
+
+Elementlabel- und Aktionsgenauigkeit werden getrennt berichtet: Die Aktionsfrage
+nennt das korrekte Ziel bereits. Labelübereinstimmung belegt keine eindeutige
+DOM-Elementidentifikation. Gesamttokens umfassen Prompt und Antwort; ein direkter
+Modellvergleich erfordert eine gemeinsame Fallmenge und überprüfte Kontextbedingungen.
+
+### Was bedeutet Elementlabelgenauigkeit?
+
+Die Elementfrage prüft, ob das Modell das **hinterlegte Label des Zielelements**
+nennt. Das Modell erhält die Webseitenrepräsentation und die Aufgabenbeschreibung.
+Es soll daraus ableiten, welches Element für den nächsten Schritt verwendet
+werden soll, und ausschließlich dessen sichtbaren Text beziehungsweise Label
+zurückgeben. Das korrekte Ziel wird in dieser Frage nicht ausdrücklich vorgegeben.
+
+Beispiel: Die Aufgabe lautet „Suche nach einem Album von Gorillaz“. Das hinterlegte
+Zielelement ist ein Suchfeld mit dem Label `Search artists, albums and more...`.
+
+| Modellantwort | Bewertung mit `strict-v3` | Begründung |
+| --- | --- | --- |
+| `Search artists, albums and more...` | Richtig | Vollständiges Soll-Label |
+| `search artists, albums and more...` | Richtig | Groß-/Kleinschreibung wird normalisiert |
+| `Search` | Falsch | Nur ein Teil des Soll-Labels |
+| `Community` | Falsch | Anderes Label |
+| `Use the search field` | Falsch | Beschreibung statt des verlangten Labels |
+
+Zusätzliche Leerzeichen werden ebenfalls normalisiert. Synonyme, alternative
+Benennungen und abweichende Satzzeichen werden nicht automatisch als gleichwertig
+anerkannt. Eine als falsch gewertete Antwort kann deshalb ein sachlich passendes
+Element beschreiben, ohne dessen exaktes Soll-Label zu nennen. Solche Fälle müssen
+manuell geprüft oder durch vorab festgelegte akzeptierte Labels berücksichtigt werden.
+
+Die Genauigkeit wird für jedes Format berechnet als:
+
+```text
+Elementlabelgenauigkeit = richtige Elementlabelantworten / ausgewertete Elementfragen
+```
+
+Beim Uni-Lauf werden dieselben 901 vollständig beantworteten Elementfragen
+verglichen: HTML erreicht 314/901 = 34,85 %, ARIA 246/901 = 27,30 %.
+Beim lokalen Lauf sind es 979 Fragen: HTML erreicht 21/979 = 2,15 %, ARIA
+70/979 = 7,15 %. API-Fehler zählen im gepaarten Vergleich nicht als falsche
+Antworten; sie werden separat ausgewiesen und die betroffenen Fragen ausgeschlossen.
+
+**Grenze des Maßes:** Ein korrektes Label beweist keine eindeutige Auswahl eines
+DOM-Elements. Wenn mehrere Buttons `Search` heißen, kann die Textantwort nicht
+zeigen, welcher Button gemeint ist. Gemessen wird deshalb Elementlabelgenauigkeit,
+keine verifizierte Elementauswahl oder erfolgreiche Browseraktion.
+
+### Was bedeutet Aktionsgenauigkeit?
+
+Die Aktionsfrage prüft, ob das Modell die **richtige Interaktionsart für ein bereits
+genanntes Zielelement** auswählt. Anders als bei der Elementfrage steht das korrekte
+Ziel-Label hier ausdrücklich im Prompt. Das Modell muss das Element also nicht
+zuerst selbst finden. Es wählt eine der Aktionen `CLICK`, `TYPE`, `SELECT` oder
+`HOVER`.
+
+Beispiel: Die Aufgabe lautet weiterhin „Suche nach einem Album von Gorillaz“.
+Die Frage nennt bereits das Ziel `Search artists, albums and more...` und fragt
+nach der Interaktion. In den Daten kann die Solloperation als `TYPE: gorillaz`
+gespeichert sein. Für die Frage nach der Aktionsart wird nur `TYPE` bewertet.
+
+| Modellantwort | Bewertung mit `strict-v3` | Begründung |
+| --- | --- | --- |
+| `TYPE` | Richtig | Passende Aktionsart |
+| `type` | Richtig | Groß-/Kleinschreibung wird normalisiert |
+| `CLICK` | Falsch | Andere Aktionsart |
+| `TYPE: gorillaz` | Falsch | Die Frage verlangt ausschließlich ein Aktionswort |
+| `I would TYPE` | Falsch | Zusätzlicher Erklärungstext |
+
+Die Genauigkeit wird für jedes Format berechnet als:
+
+```text
+Aktionsgenauigkeit = richtige Aktionsantworten / ausgewertete Aktionsfragen
+```
+
+Beim Uni-Lauf erreicht HTML auf 901 vollständigen Aktionspaaren 756/901 = 83,91 %,
+ARIA 750/901 = 83,24 %. Beim lokalen Lauf erreicht HTML auf 979 Aktionspaaren
+555/979 = 56,69 %, ARIA 519/979 = 53,01 %.
+
+**Grenze des Maßes:** Eine richtige Aktionsantwort zeigt nur, dass das Modell bei
+bekanntem Ziel die hinterlegte Interaktionsart nennt. Sie beweist weder eine
+korrekte Elementidentifikation noch, dass der richtige Text eingegeben oder die
+Aktion tatsächlich im Browser erfolgreich ausgeführt wurde.
+
+### Warum werden beide Genauigkeiten getrennt betrachtet?
+
+Die Fragen prüfen unterschiedliche Fähigkeiten: Die Elementfrage verlangt die
+Benennung des Ziels anhand der Aufgabe und der Darstellung. Die Aktionsfrage
+verlangt die Wahl der Interaktionsart, nachdem das Ziel bereits bekannt ist.
+Beide Fragen werden unabhängig gestellt; die Aktionsfrage verwendet nicht die
+möglicherweise falsche Elementantwort des Modells.
+
+Ein Modell kann daher eine hohe Aktionsgenauigkeit und gleichzeitig eine niedrige
+Elementlabelgenauigkeit erreichen. Es kann wissen, dass in ein genanntes Suchfeld
+getippt werden soll, aber in der vorherigen Frage nicht das richtige Suchfeldlabel
+finden. Das gemeinsame Mittel beider Fragetypen ist keine reine
+Elementidentifikationsgenauigkeit und keine Erfolgsrate einer Folge aus
+Elementauswahl und Aktionsausführung.
+
+Für das Forschungsziel werden deshalb die beiden Genauigkeiten sowie der
+Tokenverbrauch jeweils nach Fragetyp und Repräsentation berichtet. Die Angabe der
+ausgewerteten Paare und der ausgeschlossenen API-Fehler gehört zu diesen Ergebnissen.

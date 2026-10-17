@@ -1,0 +1,138 @@
+TESTPROTOKOLL: PRÜFUNG DES EVALUATION-REFACTORS
+Datum: 13. Oktober 2026
+Repository: PeterGundam/web-agent-thesis
+Branch: refactor/reliable-evaluation-20261010
+Pull Request: #1
+
+1. Ziel unserer Arbeit
+
+Wir haben die neue Architektur für den Vergleich von bereinigtem HTML und
+ARIA-Accessibility-Snapshots untersucht. Das Forschungsziel ist ein
+nachvollziehbarer Vergleich der Elementidentifikationsgenauigkeit und des
+Tokenverbrauchs. Wir haben Fehler korrigiert und anschließend die technische
+Funktion der Änderungen getestet. Es wurde nichts automatisch in main gemergt.
+
+2. Was wir am Code geändert haben
+
+Aktionsbewertung:
+Die Daten enthalten Sollwerte wie "TYPE: gorillaz", obwohl die Frage nur nach
+der Aktionsart fragt. Vorher wurde die richtige Modellantwort "TYPE" als falsch
+bewertet. Jetzt wird nur die Aktionsart des Sollwerts verglichen. Die Antwort
+des Modells muss weiterhin genau ein gültiges Aktionswort enthalten.
+
+Strikte Bewertung:
+Teilantworten wie "Wireless" statt "Wireless Mouse" bleiben falsch.
+Groß-/Kleinschreibung und zusätzliche Leerzeichen werden normalisiert.
+Ungültige Zahlen, Währungssymbole bei Anzahlfragen und Bruchteile eines Cents
+bei Preisfragen werden abgelehnt.
+
+Tokenvergleich:
+HTML und ARIA werden für den direkten Tokenvergleich nur anhand derselben
+Aufgaben mit gültigen Messwerten auf beiden Seiten verglichen. Fehlende
+Tokenmessungen zählen nicht als null verbrauchte Tokens.
+Der Modellclient speichert zusätzlich Prompt- und Antworttokens, sofern der
+Modellserver diese Angaben liefert.
+
+Vergleichsbedingungen:
+Die Anfragereihenfolge wechselt zwischen HTML zuerst und ARIA zuerst.
+Die Reihenfolge wird gespeichert. Bei der Real-Sites-Extraktion wird HTML
+jetzt aus dem gerenderten DOM desselben Subsets wie ARIA gewonnen.
+
+Versionierung:
+Die korrigierte Bewertung heißt strict-v3. Neue Standardausgaben verwenden
+Dateinamen mit strict_v3. Historische Experimentergebnisse wurden nicht
+verändert und dürfen nicht mit den neuen Scores vermischt werden.
+
+3. Welche Tests wir durchgeführt haben
+
+A) Automatische Tests mit "npm test"
+
+Bei der Prüfung durch den Assistenten bestanden alle vier Testdateien.
+Du hast anschließend berichtet, dass auch die beschriebenen Testschritte
+funktioniert haben, mit Ausnahme der Chromium-Installation.
+
+Die automatischen Tests prüfen unter anderem:
+- Richtige Aktionswörter bei annotierten Sollaktionen.
+- Ablehnung unvollständiger Labels und ungültiger Zahlen.
+- Trennung von API-Fehlern und falschen Modellantworten.
+- Vergleich von Tokenmessungen auf denselben Aufgabenpaaren.
+- Speicherung und Wiederaufnahme eines Vergleichslaufs.
+- Ablehnung einer Wiederaufnahme nach Änderung der Eingaben.
+- Gleiche Anfrageparameter für HTML und ARIA.
+- Wechselnde Anfragereihenfolge.
+
+Diese Tests benötigen kein echtes Modell. Im Integrationstest werden
+Modellantworten simuliert. Sie prüfen, ob die Programmlogik wie vorgesehen
+funktioniert, aber messen keine tatsächliche Modellgenauigkeit.
+
+B) Direkte Scoring-Beispiele
+
+Wir haben Beispiele für die Bewertungsregeln ausgeführt:
+- "TYPE" bei Soll "TYPE: gorillaz": richtig.
+- "Wireless" bei Soll "Wireless Mouse": falsch.
+- " wireless   mouse " bei Soll "Wireless Mouse": richtig.
+- "$19.90" bei Sollpreis 19.9: richtig.
+- "19.904" bei Sollpreis 19.9: falsch.
+
+Diese Beispiele machen sichtbar, welche Antworten akzeptiert werden und
+welche nicht. Sie helfen, versehentliche False Positives und systematische
+False Negatives in der Bewertungslogik zu erkennen.
+
+C) Kleiner lokaler Modellvergleich
+
+Die Anleitung verwendete eine neue temporäre Testaufgabe mit einem Button
+namens "Search": einmal als HTML und einmal als ARIA-Text. Beide Eingaben
+wurden mit derselben Frage an das lokale Modell gesendet. Die Antworten,
+Scores und vom Server gemeldeten Tokenzahlen wurden gespeichert.
+
+Nach deiner Rückmeldung hat dieser Schritt funktioniert. Die konkreten
+Ergebnisdateien und Tokenzahlen wurden vom Assistenten anschließend nicht
+eingesehen; deshalb werden hier keine Genauigkeits- oder Verbrauchswerte
+behauptet.
+
+Dieser Test prüft das Zusammenspiel von echten Modellanfragen, Scoring und
+Ergebnisspeicherung. Die HTML-/ARIA-Eingaben wurden manuell erstellt; der
+Test prüft daher keine Browserextraktion.
+
+D) Auswertung der temporären Ergebnisse
+
+Die gespeicherten Antworten wurden mit dem Analyseskript ausgewertet.
+Die Auswertung berechnet Genauigkeit für vollständig beantwortete Paare
+und Tokenmittelwerte für Paare mit Messungen auf beiden Seiten.
+
+Damit wurde geprüft, ob das neue Ergebnisformat vom Analyseskript gelesen
+und zusammengefasst werden kann. Ein einzelnes Aufgabenpaar reicht nicht
+für eine wissenschaftliche Aussage über HTML gegenüber ARIA.
+
+4. Offener Punkt: Chromium für Playwright
+
+Der Befehl "npx playwright install chromium" hat bei dir nicht funktioniert.
+Die Fehlermeldung liegt hier nicht vor; die Ursache ist deshalb ungeklärt.
+
+Der browserbasierte Fairness-Test ist damit noch nicht als erfolgreich
+abgeschlossen dokumentiert. Dieser Test soll Tabellen und Listen erzeugen,
+sie im Browser rendern, HTML und ARIA extrahieren und beide Darstellungen
+mit einem echten Modell vergleichen. Er umfasst 16 Modellanfragen.
+
+Die fehlgeschlagene Browserinstallation entwertet die zuvor erfolgreichen
+Scoring-, Vergleichs- und Auswertungstests nicht. Sie lässt die vollständige
+Browserpipeline als offenen Prüfschritt bestehen.
+
+5. Was die Tests bewirkt haben – und was sie nicht beweisen
+
+Die Tests haben keine historischen Resultate verbessert oder ersetzt.
+Sie haben geprüft, dass die korrigierte Pipeline Antworten konsistent
+bewertet, Fehler getrennt erfasst und vergleichbare Aufgabenpaare auswertet.
+Die neuen Regeln reduzieren offensichtliche Substring-Fehlbewertungen und
+verhindern den gefundenen Aktionsfehler.
+
+Die Tests beweisen noch nicht, dass HTML oder ARIA insgesamt genauer oder
+tokensparender ist. Dafür braucht es eine größere kontrollierte Studie.
+Ein passender Elementname beweist außerdem keine eindeutige Auswahl eines
+DOM-Elements, wenn mehrere Elemente denselben Namen besitzen.
+
+Für die Hauptstudie müssen insbesondere Modellversion, Kontextlimit,
+Trunkierungsverhalten, Datenqualität und Extraktionsbedingungen dokumentiert
+werden. Element- und Aktionsgenauigkeit sollten getrennt berichtet werden.
+
+Weitere Details und Vorher-Nachher-Beispiele stehen in REFACTOR_REVIEW.md.
