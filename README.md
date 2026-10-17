@@ -628,3 +628,100 @@ Elementlabel- und Aktionsgenauigkeit werden getrennt berichtet: Die Aktionsfrage
 nennt das korrekte Ziel bereits. Labelübereinstimmung belegt keine eindeutige
 DOM-Elementidentifikation. Gesamttokens umfassen Prompt und Antwort; ein direkter
 Modellvergleich erfordert eine gemeinsame Fallmenge und überprüfte Kontextbedingungen.
+
+### Was bedeutet Elementlabelgenauigkeit?
+
+Die Elementfrage prüft, ob das Modell das **hinterlegte Label des Zielelements**
+nennt. Das Modell erhält die Webseitenrepräsentation und die Aufgabenbeschreibung.
+Es soll daraus ableiten, welches Element für den nächsten Schritt verwendet
+werden soll, und ausschließlich dessen sichtbaren Text beziehungsweise Label
+zurückgeben. Das korrekte Ziel wird in dieser Frage nicht ausdrücklich vorgegeben.
+
+Beispiel: Die Aufgabe lautet „Suche nach einem Album von Gorillaz“. Das hinterlegte
+Zielelement ist ein Suchfeld mit dem Label `Search artists, albums and more...`.
+
+| Modellantwort | Bewertung mit `strict-v3` | Begründung |
+| --- | --- | --- |
+| `Search artists, albums and more...` | Richtig | Vollständiges Soll-Label |
+| `search artists, albums and more...` | Richtig | Groß-/Kleinschreibung wird normalisiert |
+| `Search` | Falsch | Nur ein Teil des Soll-Labels |
+| `Community` | Falsch | Anderes Label |
+| `Use the search field` | Falsch | Beschreibung statt des verlangten Labels |
+
+Zusätzliche Leerzeichen werden ebenfalls normalisiert. Synonyme, alternative
+Benennungen und abweichende Satzzeichen werden nicht automatisch als gleichwertig
+anerkannt. Eine als falsch gewertete Antwort kann deshalb ein sachlich passendes
+Element beschreiben, ohne dessen exaktes Soll-Label zu nennen. Solche Fälle müssen
+manuell geprüft oder durch vorab festgelegte akzeptierte Labels berücksichtigt werden.
+
+Die Genauigkeit wird für jedes Format berechnet als:
+
+```text
+Elementlabelgenauigkeit = richtige Elementlabelantworten / ausgewertete Elementfragen
+```
+
+Beim Uni-Lauf werden dieselben 901 vollständig beantworteten Elementfragen
+verglichen: HTML erreicht 314/901 = 34,85 %, ARIA 246/901 = 27,30 %.
+Beim lokalen Lauf sind es 979 Fragen: HTML erreicht 21/979 = 2,15 %, ARIA
+70/979 = 7,15 %. API-Fehler zählen im gepaarten Vergleich nicht als falsche
+Antworten; sie werden separat ausgewiesen und die betroffenen Fragen ausgeschlossen.
+
+**Grenze des Maßes:** Ein korrektes Label beweist keine eindeutige Auswahl eines
+DOM-Elements. Wenn mehrere Buttons `Search` heißen, kann die Textantwort nicht
+zeigen, welcher Button gemeint ist. Gemessen wird deshalb Elementlabelgenauigkeit,
+keine verifizierte Elementauswahl oder erfolgreiche Browseraktion.
+
+### Was bedeutet Aktionsgenauigkeit?
+
+Die Aktionsfrage prüft, ob das Modell die **richtige Interaktionsart für ein bereits
+genanntes Zielelement** auswählt. Anders als bei der Elementfrage steht das korrekte
+Ziel-Label hier ausdrücklich im Prompt. Das Modell muss das Element also nicht
+zuerst selbst finden. Es wählt eine der Aktionen `CLICK`, `TYPE`, `SELECT` oder
+`HOVER`.
+
+Beispiel: Die Aufgabe lautet weiterhin „Suche nach einem Album von Gorillaz“.
+Die Frage nennt bereits das Ziel `Search artists, albums and more...` und fragt
+nach der Interaktion. In den Daten kann die Solloperation als `TYPE: gorillaz`
+gespeichert sein. Für die Frage nach der Aktionsart wird nur `TYPE` bewertet.
+
+| Modellantwort | Bewertung mit `strict-v3` | Begründung |
+| --- | --- | --- |
+| `TYPE` | Richtig | Passende Aktionsart |
+| `type` | Richtig | Groß-/Kleinschreibung wird normalisiert |
+| `CLICK` | Falsch | Andere Aktionsart |
+| `TYPE: gorillaz` | Falsch | Die Frage verlangt ausschließlich ein Aktionswort |
+| `I would TYPE` | Falsch | Zusätzlicher Erklärungstext |
+
+Die Genauigkeit wird für jedes Format berechnet als:
+
+```text
+Aktionsgenauigkeit = richtige Aktionsantworten / ausgewertete Aktionsfragen
+```
+
+Beim Uni-Lauf erreicht HTML auf 901 vollständigen Aktionspaaren 756/901 = 83,91 %,
+ARIA 750/901 = 83,24 %. Beim lokalen Lauf erreicht HTML auf 979 Aktionspaaren
+555/979 = 56,69 %, ARIA 519/979 = 53,01 %.
+
+**Grenze des Maßes:** Eine richtige Aktionsantwort zeigt nur, dass das Modell bei
+bekanntem Ziel die hinterlegte Interaktionsart nennt. Sie beweist weder eine
+korrekte Elementidentifikation noch, dass der richtige Text eingegeben oder die
+Aktion tatsächlich im Browser erfolgreich ausgeführt wurde.
+
+### Warum werden beide Genauigkeiten getrennt betrachtet?
+
+Die Fragen prüfen unterschiedliche Fähigkeiten: Die Elementfrage verlangt die
+Benennung des Ziels anhand der Aufgabe und der Darstellung. Die Aktionsfrage
+verlangt die Wahl der Interaktionsart, nachdem das Ziel bereits bekannt ist.
+Beide Fragen werden unabhängig gestellt; die Aktionsfrage verwendet nicht die
+möglicherweise falsche Elementantwort des Modells.
+
+Ein Modell kann daher eine hohe Aktionsgenauigkeit und gleichzeitig eine niedrige
+Elementlabelgenauigkeit erreichen. Es kann wissen, dass in ein genanntes Suchfeld
+getippt werden soll, aber in der vorherigen Frage nicht das richtige Suchfeldlabel
+finden. Das gemeinsame Mittel beider Fragetypen ist keine reine
+Elementidentifikationsgenauigkeit und keine Erfolgsrate einer Folge aus
+Elementauswahl und Aktionsausführung.
+
+Für das Forschungsziel werden deshalb die beiden Genauigkeiten sowie der
+Tokenverbrauch jeweils nach Fragetyp und Repräsentation berichtet. Die Angabe der
+ausgewerteten Paare und der ausgeschlossenen API-Fehler gehört zu diesen Ergebnissen.
